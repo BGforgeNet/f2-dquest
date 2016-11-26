@@ -1,2 +1,1 @@
-# f2-dquest
-Fallout 2: Dangerous quest
+Fallout 2: Dangerous quest (13V) mod translation
