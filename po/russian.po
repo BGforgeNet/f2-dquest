@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-11-27 07:02+0000\n"
+"PO-Revision-Date: 2016-11-27 08:25+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -428,7 +428,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/07npc.msg:5
 msgid "{100}{}{Am so tired.. Hey dirty man! Can you help me?!}"
-msgstr ""
+msgstr "{100}{}{Так устал.. Эй, чумазый! Поможешь?!}"
 
 #: english/data/text/english/dialog/07npc.msg:7
 msgid ""
