@@ -13,6 +13,6 @@
 {400}{}{[HOT STUFF FOR YOU!] }
 {450}{}{Its few photos of half-naked womans with big captions: "Bathhouse" There is also dirty note made in hurry which was put here probably by someone other: "Damn! i lost all my money there, but it was worth! And now i will try something better.. powerfull drugs!" }
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 

@@ -1,8 +1,8 @@
 
-{10}{}{РњРµСЃС‚РЅС‹Р№. }
-{20}{}{Р’СЃРµ СЌС‚Рё РґРёРєР°СЂРё РІС‹РіР»СЏРґСЏС‚ РѕРґРёРЅР°РєРѕРІРѕ...}
+{10}{}{Местный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
-{100}{}{Am so tired.. Hey dirty man! Can you help me?!}
+{100}{}{Так устал.. Эй, чумазый! Поможешь?!}
 
 {200}{}{Uh am not sure.. what you need?}
 {250}{}{Shaman want to deliver him more shit, but my shovel is so heavy. Bring me new, clean one. It shold lay somewhere near tents over there! [She point finger in random direction and sit on ground trying to clean shoes]}
@@ -16,6 +16,6 @@
 {403}{}{Another wonderfull day..}
 {404}{}{Leave me alone, am busy..}
 
-{910}{}{РљРћРќР•Р¦ }
-{920}{}{РќРђР—РђР” }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

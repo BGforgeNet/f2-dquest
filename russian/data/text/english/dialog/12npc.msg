@@ -13,6 +13,6 @@
 {400}{}{Whats going around lately?}
 {450}{}{Witch need brave man who will search some technical stuff. Its called GECK. Vic trader tell about it many weird stories. I think our situation will change into worst when someone find it. Whole sick problems which we got here is only because shaman inventions. Its dont need to fall into panic and make risky decisions.. }
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 

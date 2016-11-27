@@ -13,6 +13,6 @@
 {400}{}{Do you have beer?}
 {450}{}{I have something better.. WATCH! [He shown you his dirty body. You lost concentration, and almost fall on ground.] }
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 

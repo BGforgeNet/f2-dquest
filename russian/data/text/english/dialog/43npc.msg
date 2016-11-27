@@ -16,6 +16,6 @@
 {403}{}{Old times.. lets drink for that!}
 {404}{}{Am not sure they was aliens.. but who known!}
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 

@@ -13,6 +13,6 @@
 {400}{}{3. I eat it and search more! }
 {450}{}{Thanx [he mark something on paper] lets return to test. }
 
-{910}{}{ĞšĞĞĞ•Ğ¦ }
-{920}{}{ĞĞĞ—ĞĞ” }
+{910}{}{ÊÎÍÅÖ }
+{920}{}{ÍÀÇÀÄ }
 

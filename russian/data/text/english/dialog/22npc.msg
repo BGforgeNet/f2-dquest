@@ -16,6 +16,6 @@
 {403}{}{Yeah i have lighter!}
 {404}{}{This trashcan is full ot treasures!}
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 

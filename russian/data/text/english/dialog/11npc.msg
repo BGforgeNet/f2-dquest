@@ -1,6 +1,6 @@
 
-{10}{}{РњРµСЃС‚РЅС‹Р№. }
-{20}{}{Р’СЃРµ СЌС‚Рё РґРёРєР°СЂРё РІС‹РіР»СЏРґСЏС‚ РѕРґРёРЅР°РєРѕРІРѕ...}
+{10}{}{Местный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
 {100}{}{Finally! After many years i finished this.. monument!}
 
@@ -13,6 +13,6 @@
 {400}{}{Why you made it?}
 {450}{}{Why?! Such a stupid question! Because i could be most popular in whole village. Just imagine my big stone face in middle of village! Sadly only our shaman understand my monumental idea.}
 
-{910}{}{РљРћРќР•Р¦ }
-{920}{}{РќРђР—РђР” }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

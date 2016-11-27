@@ -13,6 +13,6 @@
 {400}{}{What is RPG?}
 {450}{}{Its strange game, they play it many days. I wish i could understand what they talking about and what are these.. rules!}
 
-{910}{}{ĞšĞĞĞ•Ğ¦ }
-{920}{}{ĞĞĞ—ĞĞ” }
+{910}{}{ÊÎÍÅÖ }
+{920}{}{ÍÀÇÀÄ }
 

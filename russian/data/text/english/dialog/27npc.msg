@@ -13,6 +13,6 @@
 {400}{}{What is your name?}
 {450}{}{My name is Bond.. James Bond.. remember that.. Yeah! am tell him! Am best.. Am best in the universe.. Man! I could crush you by my one finger! And am so smart.. yeah! Am BEST!  }
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 

@@ -13,6 +13,6 @@
 {400}{}{JOIN TO ARMY TODAY }
 {450}{}{We search new recruits to Brotherhood of Steel army. Visit our bunker in Den and talk with sir Marcus from Blood Raven squad. Earn richness and fame during battles against mutants! }
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 

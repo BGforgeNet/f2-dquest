@@ -13,6 +13,6 @@
 {400}{}{Well.. i dont seen doors!}
 {450}{}{Uh i forgot.. i burned every doors because night was cold.}
 
-{910}{}{–ö–û–ù–ï–¶ }
-{920}{}{–ù–ê–ó–ê–î }
+{910}{}{ ŒÕ≈÷ }
+{920}{}{Õ¿«¿ƒ }
 
