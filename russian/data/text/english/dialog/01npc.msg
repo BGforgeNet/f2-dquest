@@ -1,5 +1,5 @@
 
-{10}{}Охранник. }
+{10}{}Охранник. } --
 {20}{}{Все они дикари на одно лицо..}
 
 {100}{}{Hey! You! Dirty man! What you doing here?! This village is top secret and nobody from outside world cant enter our holy land! }
