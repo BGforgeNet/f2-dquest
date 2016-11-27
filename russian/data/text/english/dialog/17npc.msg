@@ -1,6 +1,6 @@
 
-{10}{}{Villager. }
-{20}{}{They everyone look the same..}
+{10}{}{Местный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
 {100}{}{Only the truly wiser can follow the path of darkness.}
 {101}{}{You are Klamath citizen right? Yes i known everything! }

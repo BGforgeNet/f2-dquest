@@ -1,19 +1,19 @@
 
-{10}{}{Tricky kid! }
-{20}{}{Everyone knowns this kid is VERY quick!}
+{10}{}{Хитрый пацан! }
+{20}{}{Все знают, что этот пацан очень шустрый!}
 
-{100}{}{[He read something in silence]}
+{100}{}{[Он что то тихо читал]}
 
-{200}{}{Helo kid what you read?}
-{201}{}{Do you have beer?}
-{202}{}{Why you are so quick, do you eat something?}
-{203}{}{Where is your parents?}
-{204}{}{Damn! Whats wrong with you!?}
+{200}{}{Привет дитенок, чего читаешь?}
+{201}{}{У тебя есть пиво?}
+{202}{}{От чего ты такой быстрый, ты что-то жуешь?}
+{203}{}{Где твои родители?}
+{204}{}{Черт! Что с тобой не так!?}
 
-{250}{}{[He quickly remove one coin from your inventory and he do it so fast that you seen only blur shape trough one second and say] LOSER!}
+{250}{}{[В мгновение ока он хватает монету из вашего кошелька и делает это так быстро, что в следующую секунду вы видите как сверкают его пятки, и эхом доносится] ЛОПУХ!}
 
-{300}{}{i found}
-{350}{}{[He make big eyes and scream] I EAT MUTATED FRUIT!}
+{300}{}{Я нашел}
+{350}{}{[Он выпячивает глаза и орет] Я ЕСТЬ МУТАФРУКТ!}
 
 {400}{}{r1}
 {401}{}{r2}
@@ -21,6 +21,6 @@
 {403}{}{r4}
 {404}{}{r5}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

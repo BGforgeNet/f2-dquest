@@ -13,6 +13,6 @@
 {400}{}{But.. do you have some beer? }
 {450}{}{WHAT?! Dont tell me anything about alcohol or i kill you! Now do something usefull for our family and fix these walls. Yesterday big rat come to my bed and i dont sleep trough whole night because he dont want to get off from house! I wish you got this rat brain! He is much more smart than you!!}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

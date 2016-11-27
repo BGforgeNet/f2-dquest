@@ -1,21 +1,21 @@
 
-{10}{}{Villager. }
-{20}{}{They everyone look the same..}
+{10}{}{Местный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
-{100}{}{Helo stranger.. do you hear that strange voice from well??}
+{100}{}{Приветствую, странник.. слышишь ли ты эти странные звуки, доносящиеся со дна колодца??}
 
-{200}{}{Yeah.. it sound like dog scream.}
-{250}{}{No i think its something different. It must be ancient ghost of earth..  and he need sacrifice made from earth element. Go on corn filed and bring me some big stone..}
+{200}{}{Да-а.. это звучит как вой собаки.}
+{250}{}{Нет, мне кажется, что это, что-то другое. Может, это старый дух земли...  и он требует принести ему земные дары. Отправляйся на кукурузное поле и принеси мне большой булыжник...}
 
-{300}{}{Look! I found one.}
-{350}{}{Here is sacrifice for goddes of earth! [Villager throw that stone into well and after short scream remain ethernal silence.] Thank you my friend, now ghost of earth is happy and dont scream anymore. Here is your revard, wonderfull flower which grown near well.}
+{300}{}{Смотрите! Я нашел одного.}
+{350}{}{Вот, жертава богине Земли! [Житель бросает камень в колодецand, после небольшого шума, снова воцаряется мертвая тишина.] Спасибо тебе, друг мой, теперь призрак земли счастлив и больше не шумит. Вот твоя награда, удивительный цветок, который вырос возле колодца.}
 
-{400}{}{We are now bless by earth!}
-{401}{}{So many flies around magic well!}
-{402}{}{Blessed silence.}
-{403}{}{Uh.. what is that smell?}
-{404}{}{Thank you my friend!}
+{400}{}{Мы благословлены землей!}
+{401}{}{Сколько же здесь мух, облепивших волшебный колодец!}
+{402}{}{Блаженны тишина.}
+{403}{}{Э-э .. что это за запах?}
+{404}{}{Спасибо тебе, друг мой!}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

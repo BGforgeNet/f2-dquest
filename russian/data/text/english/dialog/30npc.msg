@@ -13,6 +13,6 @@
 {400}{}{Do you have beer?}
 {450}{}{Do you mean this yellow water in flask which i seen in bar? No i dont have it.. and i dont like any mixtures, i got bad experiences in Arroyo. Shaman promises me wonderfull time but i was sick trough whole day! }
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

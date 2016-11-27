@@ -1,6 +1,6 @@
 
-{10}{}{Villager. }
-{20}{}{They everyone look the same..}
+{10}{}{Местный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
 {100}{}{Oh no no.. why i drink that!}
 {101}{}{My head.. its so BIG!}

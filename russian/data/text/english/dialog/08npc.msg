@@ -16,6 +16,6 @@
 {403}{}{What is that?! I cant catch it!!}
 {404}{}{Fire! My house is under fire!!}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

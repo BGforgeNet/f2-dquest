@@ -13,6 +13,6 @@
 {400}{}{Do you remember me?}
 {450}{}{Yes ofcourse.. you are local loser, this town is full of peoples like you, who have holes in memories because experiment too much with drugs and radioactive beers from "Gecko Plant"}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

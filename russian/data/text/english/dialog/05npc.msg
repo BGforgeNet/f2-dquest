@@ -1,18 +1,18 @@
 
-{10}{}{Villager. }
-{20}{}{They everyone look the same..}
+{10}{}{Местный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
-{100}{}{I lost my dog. Uh.. and i fear that someone eat him! Outsider, can you investigate where go my dirty animal? His name was "Klint".}
+{100}{}{Я потерял своего пса. Уф.. я переживаю, что его может кто-то съесть! Эй, ты, неудачник, найди, куда запропастилась моя гразная животина? Кликать его "Клинт".}
 
-{200}{}{I dont like to solve riddles.}
-{250}{}{Uh yes.. you dont look very clever. Nevermind, i will just wait here until he return. Probably he run around village and hunt for rats.}
+{200}{}{Я не люблю разгадывать загадки.}
+{250}{}{Уф, да.. а ты не особо то блещешь умом. Наверно, я лучше подожду его здесь, пока он не вернется. Не бось, шлындает по деревне и охотится на крыс.}
 
-{300}{}{Do you have beer?}
-{350}{}{[He look around searching dog and ignore your question]}
+{300}{}{У тебя есть пиво?}
+{350}{}{[Он осматривает окрестности в поисках собаки и не реагирует на твои расспросы]}
 
-{400}{}{Tell me about this village.}
-{450}{}{We live in peace far from civilization. Elders say that technic bring only pain and devastation so we must believe only in traditional shamans magic. But one day come to us trader Vic with his amazing stuff. Holy ghosts abandon us and many peoples get sick. }
+{400}{}{Расскажи мне о этой деревне.}
+{450}{}{В дали от цивилизации мы живем мирно. Старейшая говорит, что технологии принесут только боль и опустошения, а мы должны верить только в магические обычаи шамана. Но однажды, к нам пришел торговец, Вик и принес много замечательных вещей. Святой дух ушел и многие наши жители заболели. }
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

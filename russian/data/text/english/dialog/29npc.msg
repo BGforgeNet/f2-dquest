@@ -13,6 +13,6 @@
 {400}{}{Damn! Am so thirsty. I need beer!}
 {450}{}{Sadly i dont have any drink. Few days ago i found nuka cola. But i fear to drink and Vic buy it from me for 1 coin. I heard these Nuka-Cola was invented  by mutants! }
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

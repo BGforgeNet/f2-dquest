@@ -13,6 +13,6 @@
 {400}{}{Do you have beer?}
 {450}{}{I have something better.. WATCH! [He shown you his dirty body. You lost concentration, and almost fall on ground.] }
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

@@ -16,6 +16,6 @@
 {403}{}{Am not sure this will work but i must try..}
 {404}{}{Thank you again!}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

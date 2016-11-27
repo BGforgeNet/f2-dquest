@@ -1,18 +1,18 @@
 
-{10}{}{Villager. }
-{20}{}{They everyone look the same..}
+{10}{}{Местный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
-{100}{}{I cant believe! You pass trough temple, nobody made it before! You are now our champion!. Go and talk with elder, she have something very important to tell you.}
+{100}{}{Неверю своим ушам! Вы прошли Храм Испытаний, этого никто до вас не делал! Вы чемпион! Идите и поговорите со Старейшей. Она расскажет вам об очень важном.}
 
-{200}{}{Uh.. you are this guard which i seen near temple entrance? Sorry your everyone tribals look the same to me.}
-{250}{}{Yes am guard and great warrior "Klint" By the way i hate this bastard who call his dog my fame name. Hopefully i fixed that problem yesterday and i feel better now. }
+{200}{}{Ух.. ты тот самый охранник, которого видел перед храмом? Простите, все жители ручья, выглядите на одно лицо.}
+{250}{}{Вы видите "Клинта" стража и великого война. Я ненавижу того подонка,  кто называет свою шавку в честь моего великого имени. Но вчера я наконец исправил эту проблему и теперь чувствую себя много лучше. }
 
-{300}{}{And whats happend with that guy who fear to enter?}
-{350}{}{He escaped trough forest outside village, the same way which you come here. I hope he will never return because i dont like losers!}
+{300}{}{А что случилось с тем парнем, который побоялся войти?}
+{350}{}{Он убежал из деревни через лес, по той же дороге, которой ты сюда забрел. Надеюсь, что мы больше никогда его не увидим, мы не любим неудачников!}
 
-{400}{}{Yes am hero! Now give me beer!}
-{450}{}{Sorry but i dont known what it is.. Talk with Elder, she known many things about holy artefacts. And she deal with trader Vis which bring us many strange stuff from outside world.}
+{400}{}{Да, я герой!А теперь подайте мне пива!}
+{450}{}{К сожалению, я понятия не имею, о чем ты.. Поговори со Старейшей, она много чего знает о святых артефактах. Она заключила сделку с торговцем по имени Вик, он много всякого хлама приносит нам из внешнего мира.}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

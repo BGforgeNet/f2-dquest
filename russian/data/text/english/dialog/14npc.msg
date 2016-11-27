@@ -13,6 +13,6 @@
 {400}{}{Do you have beer flask in your inventory?}
 {450}{}{Yes i have beer flask, i mean empty beer flask. Its great item because it make interesting noices when you throw inside small stones and shake it! Vic teach me how do that, its called "instrument".}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

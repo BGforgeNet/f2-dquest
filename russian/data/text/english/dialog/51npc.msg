@@ -13,6 +13,6 @@
 {400}{}{Do you have beer?}
 {450}{}{[He seem to be too busy for such question]}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

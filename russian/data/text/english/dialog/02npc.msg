@@ -1,18 +1,18 @@
 
-{10}{}{Chosen One. }
-{20}{}{They everyone tribals look the same..}
+{10}{}{Избранный. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
-{100}{}{Damn! I will die there.. i known that! }
+{100}{}{Черт! Я же там погибну.. Я это знаю! }
 
-{200}{}{Hi man! Whats up?}
-{250}{}{Witch chosen me for test in temple. I fear to enter because nobody return.. can you hear this scream from darkness? Everyone died there. She must be really stupid to kill our brothers and sisters in this dumb test!}
+{200}{}{Здоров мужик! Как оно?}
+{250}{}{Эта Ведьма  послала меня выполнять испытания в храме. Я боюсь туда идти, ведь никто не вернулся от туда.. ты слышишь этот рев, доносящийся из темноты? Мы все здесь умрем. Она наверно и в правду пизданутая,  убивать моих братьем и сестер при помощи этого проклятого теста!}
 
-{300}{}{Do you have beer?}
-{350}{}{[He look into temple darkness and ignore your question]}
+{300}{}{У тебя есть пиво?}
+{350}{}{[Он тупо уставился в темноту храма и игнорирует ваш вопрос]}
 
-{400}{}{Am so thirsty! Maybe i will find some beer it this.. tample?}
-{450}{}{Oh yes.. temple contain many treasures from ancient world. Now leave me alone! I must made first little step into darkness.. but i fear to move my leg.}
+{400}{}{Сушняк...тля! Может я найду хоть немного пива в этом... храме?}
+{450}{}{О да.. храмы содержат много реликвий старого мира. А теперь оставьте меня одного! Я должен сделать маленький шажок по направлению во тьму храма... но я боюсь, какая жуть.}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

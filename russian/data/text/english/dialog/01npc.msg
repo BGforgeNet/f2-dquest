@@ -1,18 +1,18 @@
 
-{10}{}Охранник. } --
-{20}{}{Все они дикари на одно лицо..}
+{10}{}{Охранник. }
+{20}{}{Все эти дикари выглядят одинаково...}
 
-{100}{}{Hey! You! Dirty man! What you doing here?! This village is top secret and nobody from outside world cant enter our holy land! }
+{100}{}{Эй! Ты! Бомжара! Что ты здесь делаешь?! Деревня засекречена и ни кто из внешних не должен ступить на эту святую землю! }
 
-{200}{}{Am just traveller from Klamath. }
-{250}{}{Get out of here! Peoples like you come here only to steal everything and make troubles. Thats why we dont like tourists!  }
+{200}{}{Я тут проходил мимо из Кламата. }
+{250}{}{Убирайтесь вон! Люди приходят сюда, чтобы украсть чтонибудь ценное и нагадить от души! Вот по этому мы не любим туристов!  }
 
-{300}{}{Do you have flask of beer? }
-{350}{}{What is beee? I never heard about such thing.. Maybe our crazy shaman will have one, he got many strange mixtures and potions.}
+{300}{}{У тебе есть баклашка пива? }
+{350}{}{Какого биэээ...? Я ничего подобного не слыхал.. Возможно, только наш безумный шаман в курсе, он себе уже наколдавал множество странных зелий.}
 
-{400}{}{I search something to drink.. And what you do?}
-{450}{}{Our witch put another villager to temple of trails and i must watch him. Already nobody returned from there. We need brave champion to made dangerous quest which will save us in these dark times.}
+{400}{}{Я ищу чего-нибудь... выпить... И что ты делаешь?}
+{450}{}{Наша ведьма послала еще одного жителя пройти испытания в храме, а я должен следить за ним. Еще никто не вернулся от туда. А мы так нуждаемся в бесстрашном герое, который сможет пройти опасные испытания и спасти нас, когда наступят темные времена.}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

@@ -16,6 +16,6 @@
 {403}{}{Sorry am BUSY right now!}
 {404}{}{My shop is TEMPORARY closed!}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

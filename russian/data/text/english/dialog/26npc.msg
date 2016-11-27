@@ -13,6 +13,6 @@
 {400}{}{What is RPG?}
 {450}{}{Its strange game, they play it many days. I wish i could understand what they talking about and what are these.. rules!}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

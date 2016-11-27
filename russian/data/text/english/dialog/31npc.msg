@@ -16,6 +16,6 @@
 {403}{}{Darling you are so sweet..}
 {404}{}{This was HOT! action..}
 
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{КОНЕЦ }
+{920}{}{НАЗАД }
 

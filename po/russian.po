@@ -20,14 +20,16 @@ msgid ""
 "{10}{}{Guard. }\n"
 "{20}{}{They everyone tribals look the same..}"
 msgstr ""
-"{10}{}Охранник. } --\n"
-"{20}{}{Все они дикари на одно лицо..}"
+"{10}{}{Охранник. }\n"
+"{20}{}{Все эти дикари выглядят одинаково...}"
 
 #: english/data/text/english/dialog/01npc.msg:5
 msgid ""
 "{100}{}{Hey! You! Dirty man! What you doing here?! This village is top "
 "secret and nobody from outside world cant enter our holy land! }"
 msgstr ""
+"{100}{}{Эй! Ты! Бомжара! Что ты здесь делаешь?! Деревня засекречена и ни кто "
+"из внешних не должен ступить на эту святую землю! }"
 
 #: english/data/text/english/dialog/01npc.msg:7
 msgid ""
@@ -35,6 +37,9 @@ msgid ""
 "{250}{}{Get out of here! Peoples like you come here only to steal everything "
 "and make troubles. Thats why we dont like tourists!  }"
 msgstr ""
+"{200}{}{Я тут проходил мимо из Кламата. }\n"
+"{250}{}{Убирайтесь вон! Люди приходят сюда, чтобы украсть чтонибудь ценное и "
+"нагадить от души! Вот по этому мы не любим туристов!  }"
 
 #: english/data/text/english/dialog/01npc.msg:10
 msgid ""
@@ -42,6 +47,9 @@ msgid ""
 "{350}{}{What is beee? I never heard about such thing.. Maybe our crazy "
 "shaman will have one, he got many strange mixtures and potions.}"
 msgstr ""
+"{300}{}{У тебе есть баклашка пива? }\n"
+"{350}{}{Какого биэээ...? Я ничего подобного не слыхал.. Возможно, только наш "
+"безумный шаман в курсе, он себе уже наколдавал множество странных зелий.}"
 
 #: english/data/text/english/dialog/01npc.msg:13
 msgid ""
@@ -50,6 +58,11 @@ msgid ""
 "him. Already nobody returned from there. We need brave champion to made "
 "dangerous quest which will save us in these dark times.}"
 msgstr ""
+"{400}{}{Я ищу чего-нибудь... выпить... И что ты делаешь?}\n"
+"{450}{}{Наша ведьма послала еще одного жителя пройти испытания в храме, а я "
+"должен следить за ним. Еще никто не вернулся от туда. А мы так нуждаемся в "
+"бесстрашном герое, который сможет пройти опасные испытания и спасти нас, "
+"когда наступят темные времена.}"
 
 #: english/data/text/english/dialog/01npc.msg:16
 #: english/data/text/english/dialog/02npc.msg:16
@@ -98,6 +111,8 @@ msgid ""
 "{910}{}{END }\n"
 "{920}{}{BACK }"
 msgstr ""
+"{910}{}{КОНЕЦ }\n"
+"{920}{}{НАЗАД }"
 
 #. extracted from english/data/text/english/dialog/02npc.msg
 #, fuzzy
@@ -119,10 +134,12 @@ msgid ""
 "{10}{}{Chosen One. }\n"
 "{20}{}{They everyone tribals look the same..}"
 msgstr ""
+"{10}{}{Избранный. }\n"
+"{20}{}{Все эти дикари выглядят одинаково...}"
 
 #: english/data/text/english/dialog/02npc.msg:5
 msgid "{100}{}{Damn! I will die there.. i known that! }"
-msgstr ""
+msgstr "{100}{}{Черт! Я же там погибну.. Я это знаю! }"
 
 #: english/data/text/english/dialog/02npc.msg:7
 msgid ""
@@ -131,12 +148,19 @@ msgid ""
 "return.. can you hear this scream from darkness? Everyone died there. She "
 "must be really stupid to kill our brothers and sisters in this dumb test!}"
 msgstr ""
+"{200}{}{Здоров мужик! Как оно?}\n"
+"{250}{}{Эта Ведьма  послала меня выполнять испытания в храме. Я боюсь туда "
+"идти, ведь никто не вернулся от туда.. ты слышишь этот рев, доносящийся из "
+"темноты? Мы все здесь умрем. Она наверно и в правду пизданутая,  убивать "
+"моих братьем и сестер при помощи этого проклятого теста!}"
 
 #: english/data/text/english/dialog/02npc.msg:10
 msgid ""
 "{300}{}{Do you have beer?}\n"
 "{350}{}{[He look into temple darkness and ignore your question]}"
 msgstr ""
+"{300}{}{У тебя есть пиво?}\n"
+"{350}{}{[Он тупо уставился в темноту храма и игнорирует ваш вопрос]}"
 
 #: english/data/text/english/dialog/02npc.msg:13
 msgid ""
@@ -145,6 +169,10 @@ msgid ""
 "me alone! I must made first little step into darkness.. but i fear to move "
 "my leg.}"
 msgstr ""
+"{400}{}{Сушняк...тля! Может я найду хоть немного пива в этом... храме?}\n"
+"{450}{}{О да.. храмы содержат много реликвий старого мира. А теперь оставьте "
+"меня одного! Я должен сделать маленький шажок по направлению во тьму "
+"храма... но я боюсь, какая жуть.}"
 
 #. extracted from english/data/text/english/dialog/03npc.msg
 #, fuzzy
@@ -166,6 +194,8 @@ msgid ""
 "{10}{}{Some beast. }\n"
 "{20}{}{He dont look agressive..}"
 msgstr ""
+"{10}{}{Какой-то звекрь. }\n"
+"{20}{}{Он не выглядит агрессивным...}"
 
 #: english/data/text/english/dialog/03npc.msg:5
 msgid ""
@@ -175,6 +205,12 @@ msgid ""
 "{103}{}{Oh no another human! Get out of my sight, you tasty bad! }\n"
 "{104}{}{Heeegoodbyeeeep!}"
 msgstr ""
+"{100}{}{HEP! }\n"
+"{101}{}{Уф.. больше ни каких людишек! ..Фырк! }\n"
+"{102}{}{Я хочу съесть, что нибудь.. какой-нибудь фрукт! }\n"
+"{103}{}{Ох, больше ни каких людишек! Убирайся с глаз долой, ты, невкусный! }"
+"\n"
+"{104}{}{РРРРпрощайРРРФЫРК!}"
 
 #. extracted from english/data/text/english/dialog/04npc.msg
 #, fuzzy
@@ -207,10 +243,14 @@ msgid ""
 "{10}{}{Villager. }\n"
 "{20}{}{They everyone look the same..}"
 msgstr ""
+"{10}{}{Местный. }\n"
+"{20}{}{Все эти дикари выглядят одинаково...}"
 
 #: english/data/text/english/dialog/04npc.msg:5
 msgid "{100}{}{Helo stranger.. do you hear that strange voice from well??}"
 msgstr ""
+"{100}{}{Приветствую, странник.. слышишь ли ты эти странные звуки, "
+"доносящиеся со дна колодца??}"
 
 #: english/data/text/english/dialog/04npc.msg:7
 msgid ""
@@ -219,6 +259,10 @@ msgid ""
 "earth..  and he need sacrifice made from earth element. Go on corn filed and "
 "bring me some big stone..}"
 msgstr ""
+"{200}{}{Да-а.. это звучит как вой собаки.}\n"
+"{250}{}{Нет, мне кажется, что это, что-то другое. Может, это старый дух "
+"земли...  и он требует принести ему земные дары. Отправляйся на кукурузное "
+"поле и принеси мне большой булыжник...}"
 
 #: english/data/text/english/dialog/04npc.msg:10
 msgid ""
@@ -228,6 +272,11 @@ msgid ""
 "friend, now ghost of earth is happy and dont scream anymore. Here is your "
 "revard, wonderfull flower which grown near well.}"
 msgstr ""
+"{300}{}{Смотрите! Я нашел одного.}\n"
+"{350}{}{Вот, жертава богине Земли! [Житель бросает камень в колодецand, "
+"после небольшого шума, снова воцаряется мертвая тишина.] Спасибо тебе, друг "
+"мой, теперь призрак земли счастлив и больше не шумит. Вот твоя награда, "
+"удивительный цветок, который вырос возле колодца.}"
 
 #: english/data/text/english/dialog/04npc.msg:13
 msgid ""
@@ -237,6 +286,11 @@ msgid ""
 "{403}{}{Uh.. what is that smell?}\n"
 "{404}{}{Thank you my friend!}"
 msgstr ""
+"{400}{}{Мы благословлены землей!}\n"
+"{401}{}{Сколько же здесь мух, облепивших волшебный колодец!}\n"
+"{402}{}{Блаженны тишина.}\n"
+"{403}{}{Э-э .. что это за запах?}\n"
+"{404}{}{Спасибо тебе, друг мой!}"
 
 #. extracted from english/data/text/english/dialog/05npc.msg
 #, fuzzy
@@ -258,6 +312,9 @@ msgid ""
 "{100}{}{I lost my dog. Uh.. and i fear that someone eat him! Outsider, can "
 "you investigate where go my dirty animal? His name was \"Klint\".}"
 msgstr ""
+"{100}{}{Я потерял своего пса. Уф.. я переживаю, что его может кто-то съесть! "
+"Эй, ты, неудачник, найди, куда запропастилась моя гразная животина? Кликать "
+"его \"Клинт\".}"
 
 #: english/data/text/english/dialog/05npc.msg:7
 msgid ""
@@ -265,12 +322,18 @@ msgid ""
 "{250}{}{Uh yes.. you dont look very clever. Nevermind, i will just wait here "
 "until he return. Probably he run around village and hunt for rats.}"
 msgstr ""
+"{200}{}{Я не люблю разгадывать загадки.}\n"
+"{250}{}{Уф, да.. а ты не особо то блещешь умом. Наверно, я лучше подожду его "
+"здесь, пока он не вернется. Не бось, шлындает по деревне и охотится на крыс.}"
 
 #: english/data/text/english/dialog/05npc.msg:10
 msgid ""
 "{300}{}{Do you have beer?}\n"
 "{350}{}{[He look around searching dog and ignore your question]}"
 msgstr ""
+"{300}{}{У тебя есть пиво?}\n"
+"{350}{}{[Он осматривает окрестности в поисках собаки и не реагирует на твои "
+"расспросы]}"
 
 #: english/data/text/english/dialog/05npc.msg:13
 msgid ""
@@ -280,6 +343,11 @@ msgid ""
 "shamans magic. But one day come to us trader Vic with his amazing stuff. "
 "Holy ghosts abandon us and many peoples get sick. }"
 msgstr ""
+"{400}{}{Расскажи мне о этой деревне.}\n"
+"{450}{}{В дали от цивилизации мы живем мирно. Старейшая говорит, что "
+"технологии принесут только боль и опустошения, а мы должны верить только в "
+"магические обычаи шамана. Но однажды, к нам пришел торговец, Вик и принес "
+"много замечательных вещей. Святой дух ушел и многие наши жители заболели. }"
 
 #. extracted from english/data/text/english/dialog/06npc.msg
 #, fuzzy
@@ -302,6 +370,9 @@ msgid ""
 "are now our champion!. Go and talk with elder, she have something very "
 "important to tell you.}"
 msgstr ""
+"{100}{}{Неверю своим ушам! Вы прошли Храм Испытаний, этого никто до вас не "
+"делал! Вы чемпион! Идите и поговорите со Старейшей. Она расскажет вам об "
+"очень важном.}"
 
 #: english/data/text/english/dialog/06npc.msg:7
 msgid ""
@@ -311,6 +382,11 @@ msgid ""
 "bastard who call his dog my fame name. Hopefully i fixed that problem "
 "yesterday and i feel better now. }"
 msgstr ""
+"{200}{}{Ух.. ты тот самый охранник, которого видел перед храмом? Простите, "
+"все жители ручья, выглядите на одно лицо.}\n"
+"{250}{}{Вы видите \"Клинта\" стража и великого война. Я ненавижу того "
+"подонка,  кто называет свою шавку в честь моего великого имени. Но вчера я "
+"наконец исправил эту проблему и теперь чувствую себя много лучше. }"
 
 #: english/data/text/english/dialog/06npc.msg:10
 msgid ""
@@ -318,6 +394,10 @@ msgid ""
 "{350}{}{He escaped trough forest outside village, the same way which you "
 "come here. I hope he will never return because i dont like losers!}"
 msgstr ""
+"{300}{}{А что случилось с тем парнем, который побоялся войти?}\n"
+"{350}{}{Он убежал из деревни через лес, по той же дороге, которой ты сюда "
+"забрел. Надеюсь, что мы больше никогда его не увидим, мы не любим "
+"неудачников!}"
 
 #: english/data/text/english/dialog/06npc.msg:13
 msgid ""
@@ -326,6 +406,10 @@ msgid ""
 "things about holy artefacts. And she deal with trader Vis which bring us "
 "many strange stuff from outside world.}"
 msgstr ""
+"{400}{}{Да, я герой!А теперь подайте мне пива!}\n"
+"{450}{}{К сожалению, я понятия не имею, о чем ты.. Поговори со Старейшей, "
+"она много чего знает о святых артефактах. Она заключила сделку с торговцем "
+"по имени Вик, он много всякого хлама приносит нам из внешнего мира.}"
 
 #. extracted from english/data/text/english/dialog/07npc.msg
 #, fuzzy
@@ -3650,7 +3734,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/63npc.msg:2
 msgid "{100}{}{Metal door.}"
-msgstr ""
+msgstr "{100}{}{Стальная дверь.}"
 
 #. extracted from english/data/text/english/dialog/64npc.msg
 #, fuzzy
@@ -3672,6 +3756,8 @@ msgid ""
 "{10}{}{Fanatic. }\n"
 "{20}{}{He must eat too much drugs..}"
 msgstr ""
+"{10}{}{Фанатик. }\n"
+"{20}{}{Он жрет слишком много химии...}"
 
 #: english/data/text/english/dialog/64npc.msg:5
 msgid ""
@@ -3681,6 +3767,11 @@ msgid ""
 "{103}{}{WE MUST STOP! }\n"
 "{104}{}{STOP HERE! }"
 msgstr ""
+"{100}{}{СТОП! }\n"
+"{101}{}{Пожалуйста,  остановись! }\n"
+"{102}{}{Я прошу вас прекратить! }\n"
+"{103}{}{МЫ ДОЛЖНЫ ОСТАНОВИТЬ! }\n"
+"{104}{}{ОСТАНОВИСЬ, ХВАТИТ ! }"
 
 #. extracted from english/data/text/english/dialog/65npc.msg
 #, fuzzy
@@ -3702,10 +3793,12 @@ msgid ""
 "{10}{}{Tricky kid! }\n"
 "{20}{}{Everyone knowns this kid is VERY quick!}"
 msgstr ""
+"{10}{}{Хитрый пацан! }\n"
+"{20}{}{Все знают, что этот пацан очень шустрый!}"
 
 #: english/data/text/english/dialog/65npc.msg:5
 msgid "{100}{}{[He read something in silence]}"
-msgstr ""
+msgstr "{100}{}{[Он что то тихо читал]}"
 
 #: english/data/text/english/dialog/65npc.msg:7
 msgid ""
@@ -3715,18 +3808,28 @@ msgid ""
 "{203}{}{Where is your parents?}\n"
 "{204}{}{Damn! Whats wrong with you!?}"
 msgstr ""
+"{200}{}{Привет дитенок, чего читаешь?}\n"
+"{201}{}{У тебя есть пиво?}\n"
+"{202}{}{От чего ты такой быстрый, ты что-то жуешь?}\n"
+"{203}{}{Где твои родители?}\n"
+"{204}{}{Черт! Что с тобой не так!?}"
 
 #: english/data/text/english/dialog/65npc.msg:13
 msgid ""
 "{250}{}{[He quickly remove one coin from your inventory and he do it so fast "
 "that you seen only blur shape trough one second and say] LOSER!}"
 msgstr ""
+"{250}{}{[В мгновение ока он хватает монету из вашего кошелька и делает это "
+"так быстро, что в следующую секунду вы видите как сверкают его пятки, и эхом "
+"доносится] ЛОПУХ!}"
 
 #: english/data/text/english/dialog/65npc.msg:15
 msgid ""
 "{300}{}{i found}\n"
 "{350}{}{[He make big eyes and scream] I EAT MUTATED FRUIT!}"
 msgstr ""
+"{300}{}{Я нашел}\n"
+"{350}{}{[Он выпячивает глаза и орет] Я ЕСТЬ МУТАФРУКТ!}"
 
 #. extracted from english/data/text/english/dialog/float.msg
 #, fuzzy
@@ -3751,6 +3854,11 @@ msgid ""
 "{103}{}{q4 }\n"
 "{104}{}{q5 }"
 msgstr ""
+"{100}{}{в1 }\n"
+"{101}{}{в2 }\n"
+"{102}{}{в3 }\n"
+"{103}{}{в4 }\n"
+"{104}{}{в5 }"
 
 #. extracted from english/data/text/english/dialog/quest.msg
 #, fuzzy
@@ -3769,13 +3877,15 @@ msgstr ""
 
 #: english/data/text/english/dialog/quest.msg:5
 msgid "{100}{}{intro}"
-msgstr ""
+msgstr "{100}{}{Вступление}"
 
 #: english/data/text/english/dialog/quest.msg:7
 msgid ""
 "{200}{}{answer}\n"
 "{250}{}{bring me}"
 msgstr ""
+"{200}{}{ответ}\n"
+"{250}{}{принеси мне}"
 
 #. extracted from english/data/text/english/dialog/talk.msg
 #, fuzzy
@@ -3794,7 +3904,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/talk.msg:5
 msgid "{100}{}{ intro }"
-msgstr ""
+msgstr "{100}{}{ вступление }"
 
 #: english/data/text/english/dialog/talk.msg:7
 msgid ""
