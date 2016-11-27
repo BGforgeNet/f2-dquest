@@ -2,7 +2,7 @@
 {10}{}{Шаман. }
 {20}{}{Выглядит реально ебнутым..}
 
-{100}{}{Hahahah.. look at these shapes and colours!!}
+{100}{}{Ахаха.. гляди на эти формы и краски!!}
 
 {200}{}{Uh.. what you talking about?}
 {250}{}{Hahahah.. sorry i forgot that you dont see what i see! I invented wonderfull mixture. Its made from brahmin shit and broc flower. Unless i dont have too much flowers. Bring me one and i will help you to see hidden side of amazing world!}
