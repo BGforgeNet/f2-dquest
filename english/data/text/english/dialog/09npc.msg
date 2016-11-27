@@ -1,6 +1,4 @@
 
-
-
 {100}{}{You have wonderfull vision but you feel sick. }
 
 {101}{}{Am mister fly! And am quick like wind!  }
@@ -35,20 +33,4 @@
 {128}{}{WoW! My hand is so long!! }
 {129}{}{Why am so green?! Oh no am supermutant!!  }
 {130}{}{Police! Rabbit steal my fingers!! }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Smith. }
 {20}{}{His skin and clothes are really dirty, the same like tools which he hold in hands..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

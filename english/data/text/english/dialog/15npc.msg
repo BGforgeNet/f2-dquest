@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Villager. }
 {20}{}{They everyone look the same..}
 
@@ -9,25 +7,4 @@
 {102}{}{Yesterday funny visions and now the pain!}
 {103}{}{Leave me alone.. am sick!}
 {104}{}{What these flies want from me?!}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

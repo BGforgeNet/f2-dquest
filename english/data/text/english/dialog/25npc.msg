@@ -1,5 +1,4 @@
 
-
 {10}{}{Steven. }
 {20}{}{He seem to be one from your seven childrens..}
 
@@ -58,26 +57,4 @@
 {148}{}{Age mean bonus to experience, richness, fame, and everything.. }
 {149}{}{I have idea lets drawn 100 squares table and throw here stone.. }
 {150}{}{And who cares? Its so funny, lets follow it! }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

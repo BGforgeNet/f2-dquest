@@ -1,5 +1,4 @@
 
-
 {10}{}{Read 100 pages survival guide. }
 {20}{}{See big map of almost whole country.}
 {30}{}{Close book. }
@@ -112,25 +111,4 @@ Remove the poison as soon as possible by using a mechanical suction device or by
 {200}{}{If the water you find is muddy, stagnant, and foul smelling, you can clear the water: By placing it in a container and letting it stand for 12 hours. By pouring it through a filtering system. To make a filtering system, place several centimeters or layers of filtering material such as sand, crushed rock, charcoal, or cloth in bamboo, a hollow log, or an article of clothing.}
 {201}{}{You can, with relatively few exceptions, eat anything that crawls, swims, walks, or flies. The first obstacle is overcoming your natural aversion to a particular food source. Historically, people in starvation situations have resorted to eating everything imaginable for nourishment. A person who ignores an otherwise healthy food source due to a personal bias, or because he feels it is unappetizing, is risking his own survival. Although it may prove difficult at first, a survivor must eat what is available to maintain his health.}
 {202}{}{The most abundant life-form on earth, insects are easily caught. Insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

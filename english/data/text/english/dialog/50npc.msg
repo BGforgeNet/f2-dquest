@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Gecko Engineer. }
 {20}{}{He look mutated.. like everyone who work in Gecko Plant..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{[Let him sleep] }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

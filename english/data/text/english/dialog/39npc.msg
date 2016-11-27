@@ -1,5 +1,4 @@
 
-
 {10}{}{Dalton. }
 {20}{}{One from Dalton brothers, they are very similar..}
 
@@ -16,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

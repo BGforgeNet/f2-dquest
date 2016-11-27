@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Villager. }
 {20}{}{They everyone look the same..}
 
@@ -9,25 +7,4 @@
 {102}{}{My head.. its that big as i feel it?! }
 {103}{}{What these flies want from me?}
 {104}{}{Uh the pain.. I need rest!}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

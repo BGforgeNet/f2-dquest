@@ -1,6 +1,4 @@
 
-
-
 {10}{}{sir Marcus. }
 {20}{}{Leader of Bloor Reaven squad.}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

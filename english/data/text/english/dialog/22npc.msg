@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Frank. }
 {20}{}{He seem to be one from your seven childrens..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

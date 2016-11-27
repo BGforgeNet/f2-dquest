@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Den News. }
 {20}{}{Many dirty pages attached to piece of wood..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

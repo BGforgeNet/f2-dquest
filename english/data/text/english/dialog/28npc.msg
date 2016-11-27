@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Klamath News. }
 {20}{}{News? They all are old stuff..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

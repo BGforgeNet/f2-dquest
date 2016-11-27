@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Guard. }
 {20}{}{They everyone tribals look the same..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

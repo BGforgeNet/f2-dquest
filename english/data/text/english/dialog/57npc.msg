@@ -1,6 +1,4 @@
 
-
-
 {100}{}{You have wonderfull vision but you feel sick. }
 
 {101}{}{Am BATMAN! And i have very cool car!  }
@@ -35,20 +33,4 @@
 {128}{}{Please HELP me i lost my head! }
 {129}{}{Am SNAKE i escaped from New York!  }
 {130}{}{WHY AM SO TIRED!? }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

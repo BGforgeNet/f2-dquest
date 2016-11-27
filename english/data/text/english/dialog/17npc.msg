@@ -1,5 +1,4 @@
 
-
 {10}{}{Villager. }
 {20}{}{They everyone look the same..}
 
@@ -8,25 +7,4 @@
 {102}{}{Someday metal bird will burn our village! }
 {103}{}{Search magic ball, this item will reveal many secrets! }
 {104}{}{I tell you too much outsider, now get out from my tent.. }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

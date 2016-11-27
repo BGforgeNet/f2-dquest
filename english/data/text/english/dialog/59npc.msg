@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Citizen. }
 {20}{}{Just some dirty folk which you seen many around..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

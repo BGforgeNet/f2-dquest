@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Tricky kid! }
 {20}{}{Everyone knowns this kid is VERY quick!}
 
@@ -25,25 +23,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

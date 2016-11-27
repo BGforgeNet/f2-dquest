@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Punk. }
 {20}{}{Pretty woman in black leather and green short hairs..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

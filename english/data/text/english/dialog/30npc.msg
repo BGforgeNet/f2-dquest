@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Chosen One. }
 {20}{}{You seen him before near entrance to Arroyo temple!}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

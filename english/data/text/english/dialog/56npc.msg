@@ -1,5 +1,4 @@
 
-
 {10}{}{Addicted. }
 {20}{}{Some folk in great need without money..}
 
@@ -8,25 +7,4 @@
 {102}{}{Please give me just little! }
 {103}{}{I will be your slave! Give me one shoot! }
 {104}{}{Fuck you all! Fuck! Aaarrgghh!! }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

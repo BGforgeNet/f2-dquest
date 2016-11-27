@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Isabell Sweet. }
 {20}{}{One from pornstars working for Bathhouse.}
 
@@ -9,7 +7,6 @@
 {52}{}{ ccc }
 {53}{}{ ddd }
 {54}{}{ eee }
-
 
 {100}{}{Hello stranger.. do you need some.. sweet time? }
 
@@ -22,7 +19,6 @@
 {400}{}{Do you have beer?}
 {450}{}{Honey.. i dont drink beer.. Ask Sylvia.. [she take red flower which lay on bed and smell it] But if you will find any drugs.. give me some.. please..}
 
-
 {500}{}{When you enter room she was naked in her favourite position and in hurry you begin action, because you got 30 minutes of time to spend with her.}
 
 {501}{}{[T:05] }
@@ -31,8 +27,6 @@
 {504}{}{[T:20] }
 {505}{}{[T:25] }
 {506}{}{[T:30] TIME END! }
-
-
 
 {600}{}{You try to fix spring which jump out from bed.. }
 {601}{}{You try to catch rat which run under bed..}
@@ -61,34 +55,6 @@
 
 {700}{}{ pyt3 }
 
-
-
-
-
-
-
-
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

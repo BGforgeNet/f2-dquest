@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Unusual Villager. }
 {20}{}{This one look different..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

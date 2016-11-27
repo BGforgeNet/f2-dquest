@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Villager. }
 {20}{}{They everyone look the same..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

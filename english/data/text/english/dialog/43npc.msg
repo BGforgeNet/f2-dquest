@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Soldier. }
 {20}{}{He wear extremly dirty armor..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

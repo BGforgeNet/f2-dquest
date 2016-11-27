@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Gertruda. }
 {20}{}{You remember that woman from somewhere..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

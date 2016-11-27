@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Water Merchant. }
 {20}{}{He seem to be very busy on some big machine..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

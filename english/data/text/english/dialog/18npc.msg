@@ -1,5 +1,4 @@
 
-
 {10}{}{Strange Rat. }
 {20}{}{He must be mutated..}
 
@@ -8,25 +7,4 @@
 {102}{}{[He look at you] }
 {103}{}{Grrrrr.. WOOF! }
 {104}{}{Snifff! }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

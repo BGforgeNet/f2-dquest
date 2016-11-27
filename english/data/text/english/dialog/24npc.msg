@@ -1,5 +1,4 @@
 
-
 {10}{}{Vitold. }
 {20}{}{He seem to be one from your seven childrens..}
 
@@ -58,15 +57,4 @@
 {148}{}{Yeah! And player can invent any skill he want DURING game! }
 {149}{}{Situations mean you will get bad effects high as situation LEVEL! }
 {150}{}{Uh am not sure.. it could be for example ten levels. It mean 100% }
-
-
-
-
-
-
-
-
-
-
-
 

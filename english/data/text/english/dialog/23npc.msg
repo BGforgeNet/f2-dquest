@@ -1,5 +1,4 @@
 
-
 {10}{}{Mark. }
 {20}{}{He seem to be one from your seven childrens..}
 
@@ -44,7 +43,4 @@
 {138}{}{Wait! Let me count! Its 3k6! }
 {139}{}{Nobody known that.. because its ancient. }
 {140}{}{No you cant read it all! You skill is on second level!  }
-
-
-
 

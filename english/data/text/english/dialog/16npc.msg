@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Nice Female. }
 {20}{}{She look much better from other females in this village and it seem like she used cosmetic case lately.}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

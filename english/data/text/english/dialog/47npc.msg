@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Owner of "Golden Gecko"}
 {20}{}{He look very sad and nervous..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

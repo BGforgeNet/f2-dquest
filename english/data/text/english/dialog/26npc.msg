@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Sue. }
 {20}{}{She seem to be one from your seven childrens..}
 
@@ -17,25 +15,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Villager. }
 {20}{}{They everyone look the same..}
 
@@ -9,25 +7,4 @@
 {102}{}{I feel bad.. its probably because shaman mixture..}
 {103}{}{Damn! I should dont drink it so much!}
 {104}{}{One hour of wonderfull visions and now the pain!}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,6 +1,4 @@
 
-
-
 {10}{}{Witch. }
 {20}{}{Very old woman, probably leader of this small community..}
 
@@ -20,25 +18,4 @@
 
 {910}{}{END }
 {920}{}{BACK }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
