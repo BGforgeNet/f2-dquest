@@ -1,0 +1,7 @@
+for file in $(find english -name "*.msg"); do
+  rel_path=$(echo ${file#*/})
+  file_name=$(basename $rel_path)
+  dir_name=$(dirname $rel_path)
+  mkdir -p "russian/$dir_name"
+  po2txt -t $file po/russian.po "russian/$dir_name/$file_name"
+done

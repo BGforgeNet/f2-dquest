@@ -1,0 +1,6 @@
+for file in $(find english -name "*.msg"); do
+  dos2unix $file
+  cat -s $file > tmp1
+  cat tmp1 > $file
+done
+rm -f tmp1
