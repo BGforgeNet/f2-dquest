@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-11-27 09:13+0000\n"
-"Last-Translator: test1 <test1@bgfg.be>\n"
+"PO-Revision-Date: 2016-11-29 06:59+0000\n"
+"Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -437,6 +437,10 @@ msgid ""
 "Bring me new, clean one. It shold lay somewhere near tents over there! [She "
 "point finger in random direction and sit on ground trying to clean shoes]}"
 msgstr ""
+"{200}{}{Не уверен.. чего надо?}\n"
+"{250}{}{Шаману нужно больше дерьма, но моя лопата такая тяжелая. Принеси мне "
+"новую, чистую. Где-та тама лежать должна! [Показывает пальцем в случайном "
+"направлении и садится на землю, пытаясь вычистить туфли]}"
 
 #: english/data/text/english/dialog/07npc.msg:10
 msgid ""
@@ -445,6 +449,10 @@ msgid ""
 "this shining items which Vic gived me for one kiss. I heard that many things "
 "can be buy for such thing called.. \"money\".}"
 msgstr ""
+"{300}{}{Вот и чистая лопата!}\n"
+"{350}{}{Спасибочки.. Я закончу работу позже, потому что слишком устала. "
+"Возьми эти блестящие штучки, которые Вик мне дал за один поцелуй. Я слышала "
+"что за эти \"деньги\" можно многое купить.}"
 
 #: english/data/text/english/dialog/07npc.msg:13
 msgid ""
@@ -454,6 +462,11 @@ msgid ""
 "{403}{}{Another wonderfull day..}\n"
 "{404}{}{Leave me alone, am busy..}"
 msgstr ""
+"{400}{}{Так устал..}\n"
+"{401}{}{Я пахну как брамин..}\n"
+"{402}{}{Бля ну и тяжелые ботинки у меня..}\n"
+"{403}{}{Еще один прекрасный день..}\n"
+"{404}{}{Отстань, я занят..}"
 
 #. extracted from english/data/text/english/dialog/08npc.msg
 #, fuzzy
@@ -490,6 +503,11 @@ msgid ""
 "dont have too much flowers. Bring me one and i will help you to see hidden "
 "side of amazing world!}"
 msgstr ""
+"{200}{}{Э... ты о чем?}\n"
+"{250}{}{Хахаха.. прости, забыл что ты не видишь то же что и я! Я избрел "
+"прекрасное зелье. Готовится из браминьего дерьма и цветка брок. Только у "
+"меня не очень много цветов. Принеси один и я помогу тебе увидешь скрытую "
+"сторону удивительного мира!}"
 
 #: english/data/text/english/dialog/08npc.msg:10
 msgid ""
@@ -497,6 +515,9 @@ msgid ""
 "{350}{}{Oh yeah! [He take flower from you and piece of shit from barrel. "
 "After half hour he gived you wonderfull mixture.]}"
 msgstr ""
+"{300}{}{Вот цветок, можешь приготовить зелье для меня?}\n"
+"{350}{}{О да! [Он берет цветок и кусок дерьма из бочки. Через полчаса, он "
+"отдает чудесное зелье.]}"
 
 #: english/data/text/english/dialog/08npc.msg:13
 msgid ""
@@ -506,6 +527,11 @@ msgid ""
 "{403}{}{What is that?! I cant catch it!!}\n"
 "{404}{}{Fire! My house is under fire!!}"
 msgstr ""
+"{400}{}{Помогите! Змеиная птица напала но мой ботинок!}\n"
+"{401}{}{Почему эти камни убегают от меня?!}\n"
+"{402}{}{Ух ты, у меня третья рука!!}\n"
+"{403}{}{Что это?! Не могу поймать!!}\n"
+"{404}{}{Пожар! Мой дом горит!!}"
 
 #. extracted from english/data/text/english/dialog/09npc.msg
 #, fuzzy
@@ -525,7 +551,7 @@ msgstr ""
 #: english/data/text/english/dialog/09npc.msg:2
 #: english/data/text/english/dialog/57npc.msg:2
 msgid "{100}{}{You have wonderfull vision but you feel sick. }"
-msgstr ""
+msgstr "{100}{}{Вы видите прекрасно, но чувствуете себя плохо. }"
 
 #: english/data/text/english/dialog/09npc.msg:4
 msgid ""
@@ -540,6 +566,16 @@ msgid ""
 "{109}{}{Am faster than bullet! Wow i move so fast! }\n"
 "{110}{}{Where is my schlager?! Uh.. i got it in hand.. }"
 msgstr ""
+"{101}{}{Я муха! Я бустр как ветер!  }\n"
+"{102}{}{Где мои ботинки? Полиция! Кто-то украл мои ботинки!!  }\n"
+"{103}{}{Ух ты! Моя голова такая большая! }\n"
+"{104}{}{Я нашел золото! хахаха! ..нет, это камень }\n"
+"{105}{}{Посмотри на эту радугу!! }\n"
+"{106}{}{Я не могу пошевелить ногой! Бля!! Помогите! }\n"
+"{107}{}{Что с моими пальцами? Их слишком много.. }\n"
+"{108}{}{Я невидика! }\n"
+"{109}{}{Я быстрее пули! Ух ты, я двигаюсь так быстро! }\n"
+"{110}{}{Где моя хреновина?! А.. вот в руке.. }"
 
 #: english/data/text/english/dialog/09npc.msg:15
 msgid ""
@@ -554,6 +590,16 @@ msgid ""
 "{119}{}{Why these rocks watch at me?! }\n"
 "{120}{}{I lost my hat!! Uh.. do i have hat before?  }"
 msgstr ""
+"{111}{}{Что это на нее? Это НЛО!?  }\n"
+"{112}{}{Бля! Змеиная крыса съела мои ботинки! }\n"
+"{113}{}{Я такой огромный! Я могу раздавить тебе пальцем! }\n"
+"{114}{}{Почему мои штаны вдруг стали мокрыми?! }\n"
+"{115}{}{Эй! Ты! Птицеголовый! Давай! }\n"
+"{116}{}{Я думаю я могу перепрыгнуть через дом.. }\n"
+"{117}{}{Я кролек.. я хочу забраться на дерево! }\n"
+"{118}{}{Мышь?! У меня мышь в кармане!  }\n"
+"{119}{}{Почему эти камни смотрят на меня?! }\n"
+"{120}{}{Я потерял шляпу! Хмм.. А была ли шляпка?  }"
 
 #: english/data/text/english/dialog/09npc.msg:26
 msgid ""
@@ -592,6 +638,11 @@ msgid ""
 "{103}{}{What these flies want from me?}\n"
 "{104}{}{Uh the pain.. I need rest!}"
 msgstr ""
+"{100}{}{Ох плохо мне! }\n"
+"{101}{}{Я выпил слишком много шаманских зелий.. }\n"
+"{102}{}{Моя голово.. она такая большая как мне кажется?! }\n"
+"{103}{}{Что эти мухи от меня хотят?}\n"
+"{104}{}{Ох как больно.. мне надо отдохнуть!}"
 
 #. extracted from english/data/text/english/dialog/11npc.msg
 #, fuzzy
@@ -610,7 +661,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/11npc.msg:5
 msgid "{100}{}{Finally! After many years i finished this.. monument!}"
-msgstr ""
+msgstr "{100}{}{Наконец-то! После стольких лет я закончил этот.. монумент!}"
 
 #: english/data/text/english/dialog/11npc.msg:7
 msgid ""
@@ -619,6 +670,11 @@ msgid ""
 "i could made it in few days but i used traditional tool: wooden fork. I "
 "spend half of my life to made it, but as you see result was worth it.}"
 msgstr ""
+"{200}{}{Как ты это сделал?}\n"
+"{250}{}{Наши старейшины не позволяют нам использовать технику. С дрелью Вика "
+"я бы мог сделать это за несколько дней, но я использовал традиционный "
+"инструмент: деревянную вилку. Полжизни на это потратил, но как ты видишь, "
+"результат этого достоен.}"
 
 #: english/data/text/english/dialog/11npc.msg:10
 msgid ""
@@ -626,6 +682,9 @@ msgid ""
 "{350}{}{Its me! Dont you see that? Uh maybe you dont see it.. because am old "
 "now, but its me. Its my face when i got 40 years.}"
 msgstr ""
+"{300}{}{Что это за лицо?}\n"
+"{350}{}{Это я! Разве ты не видишь? Ну, может и не видишь.. потому что теперь "
+"я старше, но это я. Это мое лицо в 40 лет.}"
 
 #: english/data/text/english/dialog/11npc.msg:13
 msgid ""
@@ -634,6 +693,10 @@ msgid ""
 "whole village. Just imagine my big stone face in middle of village! Sadly "
 "only our shaman understand my monumental idea.}"
 msgstr ""
+"{400}{}{Зачем ты это сделал?}\n"
+"{450}{}{Зачем?! Какой глупый вопрос! Потому что я стал бы самым популярным в "
+"деревне. Представь мое огромное каменное лицо в середине деревни! К "
+"несчастью, только наш шаман понял мою монументальную идею.}"
 
 #. extracted from english/data/text/english/dialog/12npc.msg
 #, fuzzy
@@ -655,10 +718,12 @@ msgid ""
 "{10}{}{Some old man. }\n"
 "{20}{}{He look very wise..}"
 msgstr ""
+"{10}{}{Какой-то старик. }\n"
+"{20}{}{Он выглядит очень мудрым..}"
 
 #: english/data/text/english/dialog/12npc.msg:5
 msgid "{100}{}{Hello outsider.. are you Vic friend?}"
-msgstr ""
+msgstr "{100}{}{Здравствуй, чужак.. ты друг Вика?}"
 
 #: english/data/text/english/dialog/12npc.msg:7
 msgid ""
