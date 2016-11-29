@@ -4,14 +4,14 @@
 
 {100}{}{Здравствуй, чужак.. ты друг Вика?}
 
-{200}{}{I seen that man few times in Klamath. Once he sell me beer whis tasty like someone piss into bottle.}
-{250}{}{So you dont like him? This village is separated into two groups, these who like traditions and thase who like technic items. Am from these who follow ancestor words which say that technic bring only pain and destruction..}
+{200}{}{Я несколько раз видел этого человека в Клэмате. Однажды он мне продал пиво по вкусу как будто кто-то нассал в бутылку.}
+{250}{}{Так тебе он не не нравится? Эта деревня разделена на две группы, одной нравятся традиции, другой техника. Я из тех, кто следует словам предков, говорящим что техника приносит только боль и разрушение..}
 
-{300}{}{Are you elder?}
-{350}{}{Yes, but we have many elders here: traditionalists and these who deal with outsiders like Vic. Probably you search witch who lately need champion for big quest. She is in tent to the south from here.}
+{300}{}{Ты старейшина?}
+{350}{}{Да, но у нас тут много старейшин: традиционалисты, и те, что имеет дела с чужаками вроде Вика. Наверное, ты ишешь ту, которой недавно нужен был чемпион для большого задания. Она в тенте к югу отсюда.}
 
-{400}{}{Whats going around lately?}
-{450}{}{Witch need brave man who will search some technical stuff. Its called GECK. Vic trader tell about it many weird stories. I think our situation will change into worst when someone find it. Whole sick problems which we got here is only because shaman inventions. Its dont need to fall into panic and make risky decisions.. }
+{400}{}{Какие новости за последнее время?}
+{450}{}{Ведьме нужен смельчак, который найдет какую-то техническую хреновину. Она называется ГЕКК. Торговец Вик рассказывал много странных историй про нее. Я думаю, наша ситуация изменится к худшему, когда кто-то ее найдет. Все эти проблемы с болезнями у нас из-за шаманских смесей. Мы не должны паниковать и принимать рискованные решения.. }
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
