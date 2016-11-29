@@ -1,27 +1,27 @@
 
-{100}{}{You have wonderfull vision but you feel sick. }
+{100}{}{Вы видите прекрасно, но чувствуете себя плохо. }
 
-{101}{}{Am mister fly! And am quick like wind!  }
-{102}{}{Where is my shoes? Police! Someone steal my shoes!!  }
-{103}{}{Wow.. my head is so BIG!  }
-{104}{}{I found gold! hahah! ..no its stone. }
-{105}{}{Look at this rainbow!! }
-{106}{}{I cant move my leg! Argh!! Help me! }
-{107}{}{Whats wrong with my fingers? I have them too much.. }
-{108}{}{Am unvisible! }
-{109}{}{Am faster than bullet! Wow i move so fast! }
-{110}{}{Where is my schlager?! Uh.. i got it in hand.. }
+{101}{}{Я муха! Я бустр как ветер!  }
+{102}{}{Где мои ботинки? Полиция! Кто-то украл мои ботинки!!  }
+{103}{}{Ух ты! Моя голова такая большая! }
+{104}{}{Я нашел золото! хахаха! ..нет, это камень }
+{105}{}{Посмотри на эту радугу!! }
+{106}{}{Я не могу пошевелить ногой! Бля!! Помогите! }
+{107}{}{Что с моими пальцами? Их слишком много.. }
+{108}{}{Я невидика! }
+{109}{}{Я быстрее пули! Ух ты, я двигаюсь так быстро! }
+{110}{}{Где моя хреновина?! А.. вот в руке.. }
 
-{111}{}{What is that on sky? ..its UFO!?  }
-{112}{}{Arrgh! Snake rat eat my shoes!  }
-{113}{}{Am so big! I could crush you by my finger! }
-{114}{}{Why my pants are suddenly so wet?! }
-{115}{}{Hey! You! Birdhead! Come on! }
-{116}{}{I think i could jump over house.. }
-{117}{}{Am rabbit.. I want to climb on tree! }
-{118}{}{Mouse?! I have mouse in pocket!  }
-{119}{}{Why these rocks watch at me?! }
-{120}{}{I lost my hat!! Uh.. do i have hat before?  }
+{111}{}{Что это на нее? Это НЛО!?  }
+{112}{}{Бля! Змеиная крыса съела мои ботинки! }
+{113}{}{Я такой огромный! Я могу раздавить тебе пальцем! }
+{114}{}{Почему мои штаны вдруг стали мокрыми?! }
+{115}{}{Эй! Ты! Птицеголовый! Давай! }
+{116}{}{Я думаю я могу перепрыгнуть через дом.. }
+{117}{}{Я кролек.. я хочу забраться на дерево! }
+{118}{}{Мышь?! У меня мышь в кармане!  }
+{119}{}{Почему эти камни смотрят на меня?! }
+{120}{}{Я потерял шляпу! Хмм.. А была ли шляпка?  }
 
 {121}{}{Where is my hairs?! Uh.. i got them in pocket!  }
 {122}{}{Damn! My Schlager is empty!  }

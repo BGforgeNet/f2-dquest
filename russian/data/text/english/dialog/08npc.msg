@@ -4,17 +4,17 @@
 
 {100}{}{Ахаха.. гляди на эти формы и краски!!}
 
-{200}{}{Uh.. what you talking about?}
-{250}{}{Hahahah.. sorry i forgot that you dont see what i see! I invented wonderfull mixture. Its made from brahmin shit and broc flower. Unless i dont have too much flowers. Bring me one and i will help you to see hidden side of amazing world!}
+{200}{}{Э... ты о чем?}
+{250}{}{Хахаха.. прости, забыл что ты не видишь то же что и я! Я избрел прекрасное зелье. Готовится из браминьего дерьма и цветка брок. Только у меня не очень много цветов. Принеси один и я помогу тебе увидешь скрытую сторону удивительного мира!}
 
-{300}{}{I got flower, can you made this mixture for me?}
-{350}{}{Oh yeah! [He take flower from you and piece of shit from barrel. After half hour he gived you wonderfull mixture.]}
+{300}{}{Вот цветок, можешь приготовить зелье для меня?}
+{350}{}{О да! [Он берет цветок и кусок дерьма из бочки. Через полчаса, он отдает чудесное зелье.]}
 
-{400}{}{Help me! Snake bird attack my shoe!}
-{401}{}{Why these rocks escaping from me?!}
-{402}{}{Wow i have third hand!!}
-{403}{}{What is that?! I cant catch it!!}
-{404}{}{Fire! My house is under fire!!}
+{400}{}{Помогите! Змеиная птица напала но мой ботинок!}
+{401}{}{Почему эти камни убегают от меня?!}
+{402}{}{Ух ты, у меня третья рука!!}
+{403}{}{Что это?! Не могу поймать!!}
+{404}{}{Пожар! Мой дом горит!!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

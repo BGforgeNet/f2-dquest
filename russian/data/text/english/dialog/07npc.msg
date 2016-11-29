@@ -4,17 +4,17 @@
 
 {100}{}{Так устал.. Эй, чумазый! Поможешь?!}
 
-{200}{}{Uh am not sure.. what you need?}
-{250}{}{Shaman want to deliver him more shit, but my shovel is so heavy. Bring me new, clean one. It shold lay somewhere near tents over there! [She point finger in random direction and sit on ground trying to clean shoes]}
+{200}{}{Не уверен.. чего надо?}
+{250}{}{Шаману нужно больше дерьма, но моя лопата такая тяжелая. Принеси мне новую, чистую. Где-та тама лежать должна! [Показывает пальцем в случайном направлении и садится на землю, пытаясь вычистить туфли]}
 
-{300}{}{I found clean shovel!}
-{350}{}{Thanx man.. i will finish my job later, because am too tired. Take this shining items which Vic gived me for one kiss. I heard that many things can be buy for such thing called.. "money".}
+{300}{}{Вот и чистая лопата!}
+{350}{}{Спасибочки.. Я закончу работу позже, потому что слишком устала. Возьми эти блестящие штучки, которые Вик мне дал за один поцелуй. Я слышала что за эти "деньги" можно многое купить.}
 
-{400}{}{Am so tired..}
-{401}{}{I smell like brahmin..}
-{402}{}{Damn i have heavy shoes..}
-{403}{}{Another wonderfull day..}
-{404}{}{Leave me alone, am busy..}
+{400}{}{Так устал..}
+{401}{}{Я пахну как брамин..}
+{402}{}{Бля ну и тяжелые ботинки у меня..}
+{403}{}{Еще один прекрасный день..}
+{404}{}{Отстань, я занят..}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

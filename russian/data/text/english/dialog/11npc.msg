@@ -2,16 +2,16 @@
 {10}{}{Местный. }
 {20}{}{Все эти дикари выглядят одинаково...}
 
-{100}{}{Finally! After many years i finished this.. monument!}
+{100}{}{Наконец-то! После стольких лет я закончил этот.. монумент!}
 
-{200}{}{How you made it?}
-{250}{}{Our elders dont allow us to use any technical stuff. With Vic drill i could made it in few days but i used traditional tool: wooden fork. I spend half of my life to made it, but as you see result was worth it.}
+{200}{}{Как ты это сделал?}
+{250}{}{Наши старейшины не позволяют нам использовать технику. С дрелью Вика я бы мог сделать это за несколько дней, но я использовал традиционный инструмент: деревянную вилку. Полжизни на это потратил, но как ты видишь, результат этого достоен.}
 
-{300}{}{What is that face?}
-{350}{}{Its me! Dont you see that? Uh maybe you dont see it.. because am old now, but its me. Its my face when i got 40 years.}
+{300}{}{Что это за лицо?}
+{350}{}{Это я! Разве ты не видишь? Ну, может и не видишь.. потому что теперь я старше, но это я. Это мое лицо в 40 лет.}
 
-{400}{}{Why you made it?}
-{450}{}{Why?! Such a stupid question! Because i could be most popular in whole village. Just imagine my big stone face in middle of village! Sadly only our shaman understand my monumental idea.}
+{400}{}{Зачем ты это сделал?}
+{450}{}{Зачем?! Какой глупый вопрос! Потому что я стал бы самым популярным в деревне. Представь мое огромное каменное лицо в середине деревни! К несчастью, только наш шаман понял мою монументальную идею.}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

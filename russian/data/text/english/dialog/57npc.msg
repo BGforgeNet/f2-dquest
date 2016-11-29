@@ -1,5 +1,5 @@
 
-{100}{}{You have wonderfull vision but you feel sick. }
+{100}{}{¬ы видите прекрасно, но чувствуете себ€ плохо. }
 
 {101}{}{Am BATMAN! And i have very cool car!  }
 {102}{}{Am Superman strongh like horse!  }

@@ -1,8 +1,8 @@
 
-{10}{}{Some old man. }
-{20}{}{He look very wise..}
+{10}{}{Какой-то старик. }
+{20}{}{Он выглядит очень мудрым..}
 
-{100}{}{Hello outsider.. are you Vic friend?}
+{100}{}{Здравствуй, чужак.. ты друг Вика?}
 
 {200}{}{I seen that man few times in Klamath. Once he sell me beer whis tasty like someone piss into bottle.}
 {250}{}{So you dont like him? This village is separated into two groups, these who like traditions and thase who like technic items. Am from these who follow ancestor words which say that technic bring only pain and destruction..}
