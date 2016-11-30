@@ -1,20 +1,20 @@
 
-{10}{}{Nice Female. }
-{20}{}{She look much better from other females in this village and it seem like she used cosmetic case lately.}
+{10}{}{Приятная женщина. }
+{20}{}{Она выглядит гораздо лучше, чем другие женщины в этой деревне, и, похоже, она недавно пользовалась косметикой.}
 
-{100}{}{Helo outsider, can you help me? [She watch at you in hope and from inside of tent you hear someone voices in pain]}
+{100}{}{Здравствуй чужак, ты можешь мне помочь? [Она смотрит на вас с надеждой, и вы слышите крики боли из тента]}
 
-{200}{}{Sure, why not..}
-{250}{}{Few days ago i buy cosmetic case from Vic to become more attractive, but its not work. So i gived my man mixture from shaman. He got visions that am beaucty and almost asked me about marry. But sadly he is sick now. Bring me xander root i heard that it could neutralise poisons. It should be somewhere on fields..}
+{200}{}{Конечно, почему бы нет..}
+{250}{}{Несколько дней назад я купила косметику у Вика, что стать более привлекательной, но это мне не помогло. Тогда я дала своему мужчине зелье от шамана. Ему стало казаться, что я красива, и он почти попросил моей руки. Но к несчастью, теперь он болен. Принеси мне корень зандер. Я слышала, что он можно нейтрализовать яды. Он должен быть где-то на полях..}
 
-{300}{}{Look i have this root!}
-{350}{}{[She start to make soup from xander] Thank you, take this cosmetics i dont need them any more, because they not work..}
+{300}{}{Смотри, я нашел корень!}
+{350}{}{[Она начинает варить зандер] Спасибо, возьми эту косметику. Она мне больше не нужна, потому что не работает..}
 
-{400}{}{Am trying to make soup! Leave me alone!}
-{401}{}{Why i feel ugly..}
-{402}{}{Do you want tasty soup from xander?}
-{403}{}{Am not sure this will work but i must try..}
-{404}{}{Thank you again!}
+{400}{}{Я пытаюсь варить суп! Оставь меня в покое!}
+{401}{}{Почему я чувствую себя уродливой..}
+{402}{}{Хочешь вкусный суп из зандера?}
+{403}{}{Не уверена, что это сработает, но надо попробовать..}
+{404}{}{Еще раз спасибо!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
