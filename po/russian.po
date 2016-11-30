@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-11-29 20:09+0000\n"
+"PO-Revision-Date: 2016-11-30 06:14+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -879,6 +879,11 @@ msgid ""
 "because it make interesting noices when you throw inside small stones and "
 "shake it! Vic teach me how do that, its called \"instrument\".}"
 msgstr ""
+"{400}{}{У тебя есть фляжка с пивом?}\n"
+"{450}{}{Да, у меня есть фляжка с пивом, то есть из-под пива. Это отличная "
+"вещь, потому что она производит интересные звуки, когда ты пихаешь внутрь "
+"маленькие камни и трясешь ее! Вик научил меня такому, это называется \""
+"инструмент\".}"
 
 #. extracted from english/data/text/english/dialog/15npc.msg
 #, fuzzy
@@ -903,6 +908,11 @@ msgid ""
 "{103}{}{Leave me alone.. am sick!}\n"
 "{104}{}{What these flies want from me?!}"
 msgstr ""
+"{100}{}{О нет, нет.. зачем я это выпил!}\n"
+"{101}{}{My head.. its so BIG!}\n"
+"{102}{}{Вчера веселые видения, а теперь боль!}\n"
+"{103}{}{Отставь меня в покое.. мне плохо!}\n"
+"{104}{}{Что эти мухи от меня хотят?!}"
 
 #. extracted from english/data/text/english/dialog/16npc.msg
 #, fuzzy
@@ -925,12 +935,17 @@ msgid ""
 "{20}{}{She look much better from other females in this village and it seem "
 "like she used cosmetic case lately.}"
 msgstr ""
+"{10}{}{Приятная женщина. }\n"
+"{20}{}{Она выглядит гораздо лучше, чем другие женщины в этой деревне, и, "
+"похоже, она недавно пользовалась косметикой.}"
 
 #: english/data/text/english/dialog/16npc.msg:5
 msgid ""
 "{100}{}{Helo outsider, can you help me? [She watch at you in hope and from "
 "inside of tent you hear someone voices in pain]}"
 msgstr ""
+"{100}{}{Здравствуй чужак, ты можешь мне помочь? [Она смотрит на вас с "
+"надеждой, и вы слышите крики боли из тента]}"
 
 #: english/data/text/english/dialog/16npc.msg:7
 msgid ""
@@ -941,6 +956,12 @@ msgid ""
 "me xander root i heard that it could neutralise poisons. It should be "
 "somewhere on fields..}"
 msgstr ""
+"{200}{}{Конечно, почему бы нет..}\n"
+"{250}{}{Несколько дней назад я купила косметику у Вика, что стать более "
+"привлекательной, но это мне не помогло. Тогда я дала своему мужчине зелье от "
+"шамана. Ему стало казаться, что я красива, и он почти попросил моей руки. Но "
+"к несчастью, теперь он болен. Принеси мне корень зандер. Я слышала, что он "
+"можно нейтрализовать яды. Он должен быть где-то на полях..}"
 
 #: english/data/text/english/dialog/16npc.msg:10
 msgid ""
@@ -948,6 +969,9 @@ msgid ""
 "{350}{}{[She start to make soup from xander] Thank you, take this cosmetics "
 "i dont need them any more, because they not work..}"
 msgstr ""
+"{300}{}{Смотри, я нашел корень!}\n"
+"{350}{}{[Она начинает варить зандер] Спасибо, возьми эту косметику. Она мне "
+"больше не нужна, потому что не работает..}"
 
 #: english/data/text/english/dialog/16npc.msg:13
 msgid ""
@@ -957,6 +981,11 @@ msgid ""
 "{403}{}{Am not sure this will work but i must try..}\n"
 "{404}{}{Thank you again!}"
 msgstr ""
+"{400}{}{Я пытаюсь варить суп! Оставь меня в покое!}\n"
+"{401}{}{Почему я чувствую себя уродливой..}\n"
+"{402}{}{Хочешь вкусный суп из зандера?}\n"
+"{403}{}{Не уверена, что это сработает, но надо попробовать..}\n"
+"{404}{}{Еще раз спасибо!}"
 
 #. extracted from english/data/text/english/dialog/17npc.msg
 #, fuzzy
@@ -981,6 +1010,11 @@ msgid ""
 "{103}{}{Search magic ball, this item will reveal many secrets! }\n"
 "{104}{}{I tell you too much outsider, now get out from my tent.. }"
 msgstr ""
+"{100}{}{Только по-настоящему мудрый может пройти путем тьмы.}\n"
+"{101}{}{Ты ведь из Клэмата? Да, я все знаю! }\n"
+"{102}{}{Однажды металлическая птица сожжет нашу деревню! }\n"
+"{103}{}{Ищи магический шар, он откроет много секретов! }\n"
+"{104}{}{Я рассказал тебе слишком много, чужак. Уходи из моего тента.. }"
 
 #. extracted from english/data/text/english/dialog/18npc.msg
 #, fuzzy
@@ -1002,6 +1036,8 @@ msgid ""
 "{10}{}{Strange Rat. }\n"
 "{20}{}{He must be mutated..}"
 msgstr ""
+"{10}{}{Странная крыса. }\n"
+"{20}{}{Видимо она мутировавшая..}"
 
 #: english/data/text/english/dialog/18npc.msg:5
 msgid ""
@@ -1011,6 +1047,11 @@ msgid ""
 "{103}{}{Grrrrr.. WOOF! }\n"
 "{104}{}{Snifff! }"
 msgstr ""
+"{100}{}{Грр! }\n"
+"{101}{}{Гав! }\n"
+"{102}{}{[Он смотрит на вас] }\n"
+"{103}{}{Грррр.. ГАВ! }\n"
+"{104}{}{Шмыг! }"
 
 #. extracted from english/data/text/english/dialog/19npc.msg
 #, fuzzy
@@ -1032,6 +1073,8 @@ msgid ""
 "{10}{}{Witch. }\n"
 "{20}{}{Very old woman, probably leader of this small community..}"
 msgstr ""
+"{10}{}{Ведьма. }\n"
+"{20}{}{Очень старая женщина, вероятно лидер этого маленького общества..}"
 
 #: english/data/text/english/dialog/19npc.msg:5
 msgid ""
