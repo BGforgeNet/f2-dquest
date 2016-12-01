@@ -1,20 +1,20 @@
 
-{10}{}{Clara. }
-{20}{}{She seem to be one from your seven childrens..}
+{10}{}{Клара. }
+{20}{}{Похоже, это одна из ваших дочерей..}
 
-{100}{}{Dady am 12 years old and i want cosmetic case!}
+{100}{}{Папа, мне 12 и я хочу косметический набор!}
 
-{200}{}{I dont care about that.}
-{250}{}{Please! Please! please! Bring me some cosmetics am old dont you see that?! Please dady! I will tell you where momy hide all money!}
+{200}{}{Мне все равно.}
+{250}{}{Пожалуйста! Пожалуйста! Пожалуйста! Принеси мне косметики... я взрослая, разве ты не видиш? Пожалуйста, папа! Я скажу тебе, где мама прячет все деньги!}
 
-{300}{}{Here is cosmetics.. but first tell me about money.}
-{350}{}{Oh thank you! [She quickly run to other room and after minute returned with some old dirty stockings which contain lot of money.]}
+{300}{}{Вот косметика.. но сначала расскажи мне про деньги.}
+{350}{}{О, спасибо! [Она быстро убегает в другую комнату и через минуту возвращается со старыми колготками, в которые напихано много денег.]}
 
-{400}{}{Am beauty like pornstar!}
-{401}{}{[she look at mirror]}
-{402}{}{Yeah! Am superstar!}
-{403}{}{[she use cosmetics]}
-{404}{}{Hi Hi Hi}
+{400}{}{Я красивая как порнозвезда!}
+{401}{}{[Она смотрится в зеркало]}
+{402}{}{Да! Я суперзвезда!}
+{403}{}{[Она наносит косметику]}
+{404}{}{хихихи}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

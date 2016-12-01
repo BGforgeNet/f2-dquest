@@ -7,11 +7,11 @@
 {200}{}{Мы знакомы?}
 {250}{}{Ты настолько пьян, что забыл собственную жену, детей и дом?! Проклятье, я должна как-нибудь рассказать доктору о твоих проблемах с памятью! Всегда одно и тоже, ты куда-то уходишь и не возвращаешься днями, иногда даже месяцами.. зачем я за тебя вышла, засранец?! }
 
-{300}{}{How many.. we got.. childrens?}
-{350}{}{Do you really forgot everything or its some kind of dark humor?! We got seven childrens: Mark, Frank, Vitold, Steven, Clara, Sue, Monica.. Now go and bring us some food. I dont know.. hunt for something or buy! No just whole days you search something to drink!!}
+{300}{}{Сколько.. у нас .. детей?}
+{350}{}{Ты реально все забыл или это шутки такие?! У нас семь детей: Марк, Фрэнк, Витольд, Стивет, Клара, Сью, Моника.. Теперь иди и принеси нам еды. Я не знаю, поохоться или купи что-нибудь. Не все же тебе искать что выпить целыми днями!!}
 
-{400}{}{But.. do you have some beer? }
-{450}{}{WHAT?! Dont tell me anything about alcohol or i kill you! Now do something usefull for our family and fix these walls. Yesterday big rat come to my bed and i dont sleep trough whole night because he dont want to get off from house! I wish you got this rat brain! He is much more smart than you!!}
+{400}{}{Но.. у тебя есть пиво? }
+{450}{}{ЧТО?! Не упоминай алкоголь, или я тебя прибью! Теперь сделать что-нибудь полезное для нашей семьи и почини эти стены. Вчера здоровая крыса залезла в мою кровать и я не спала целую ночь, потому что она не хотела убираться из дом! Хотела бы я, чтобы у тебя был мозг этой крысы! Она гораздо умнее!! }
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
