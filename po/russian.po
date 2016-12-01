@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-01 12:12+0000\n"
+"PO-Revision-Date: 2016-12-01 19:20+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -1189,6 +1189,11 @@ msgid ""
 "go and bring us some food. I dont know.. hunt for something or buy! No just "
 "whole days you search something to drink!!}"
 msgstr ""
+"{300}{}{Сколько.. у нас .. детей?}\n"
+"{350}{}{Ты реально все забыл или это шутки такие?! У нас семь детей: Марк, "
+"Фрэнк, Витольд, Стивет, Клара, Сью, Моника.. Теперь иди и принеси нам еды. Я "
+"не знаю, поохоться или купи что-нибудь. Не все же тебе искать что выпить "
+"целыми днями!!}"
 
 #: english/data/text/english/dialog/20npc.msg:13
 msgid ""
@@ -1199,6 +1204,12 @@ msgid ""
 "off from house! I wish you got this rat brain! He is much more smart than "
 "you!!}"
 msgstr ""
+"{400}{}{Но.. у тебя есть пиво? }\n"
+"{450}{}{ЧТО?! Не упоминай алкоголь, или я тебя прибью! Теперь сделать что-"
+"нибудь полезное для нашей семьи и почини эти стены. Вчера здоровая крыса "
+"залезла в мою кровать и я не спала целую ночь, потому что она не хотела "
+"убираться из дом! Хотела бы я, чтобы у тебя был мозг этой крысы! Она гораздо "
+"умнее!! }"
 
 #. extracted from english/data/text/english/dialog/21npc.msg
 #, fuzzy
@@ -1220,10 +1231,12 @@ msgid ""
 "{10}{}{Clara. }\n"
 "{20}{}{She seem to be one from your seven childrens..}"
 msgstr ""
+"{10}{}{Клара. }\n"
+"{20}{}{Похоже, это одна из ваших дочерей..}"
 
 #: english/data/text/english/dialog/21npc.msg:5
 msgid "{100}{}{Dady am 12 years old and i want cosmetic case!}"
-msgstr ""
+msgstr "{100}{}{Папа, мне 12 и я хочу косметический набор!}"
 
 #: english/data/text/english/dialog/21npc.msg:7
 msgid ""
@@ -1231,6 +1244,10 @@ msgid ""
 "{250}{}{Please! Please! please! Bring me some cosmetics am old dont you see "
 "that?! Please dady! I will tell you where momy hide all money!}"
 msgstr ""
+"{200}{}{Мне все равно.}\n"
+"{250}{}{Пожалуйста! Пожалуйста! Пожалуйста! Принеси мне косметики... я "
+"взрослая, разве ты не видиш? Пожалуйста, папа! Я скажу тебе, где мама прячет "
+"все деньги!}"
 
 #: english/data/text/english/dialog/21npc.msg:10
 msgid ""
@@ -1238,6 +1255,9 @@ msgid ""
 "{350}{}{Oh thank you! [She quickly run to other room and after minute "
 "returned with some old dirty stockings which contain lot of money.]}"
 msgstr ""
+"{300}{}{Вот косметика.. но сначала расскажи мне про деньги.}\n"
+"{350}{}{О, спасибо! [Она быстро убегает в другую комнату и через минуту "
+"возвращается со старыми колготками, в которые напихано много денег.]}"
 
 #: english/data/text/english/dialog/21npc.msg:13
 msgid ""
@@ -1247,6 +1267,11 @@ msgid ""
 "{403}{}{[she use cosmetics]}\n"
 "{404}{}{Hi Hi Hi}"
 msgstr ""
+"{400}{}{Я красивая как порнозвезда!}\n"
+"{401}{}{[Она смотрится в зеркало]}\n"
+"{402}{}{Да! Я суперзвезда!}\n"
+"{403}{}{[Она наносит косметику]}\n"
+"{404}{}{хихихи}"
 
 #. extracted from english/data/text/english/dialog/22npc.msg
 #, fuzzy
