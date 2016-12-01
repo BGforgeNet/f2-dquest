@@ -1,11 +1,11 @@
 
-{10}{}{Gertruda. }
-{20}{}{You remember that woman from somewhere..}
+{10}{}{√ертруда. }
+{20}{}{¬ы откуда-то помните эту женщину..}
 
-{100}{}{Just look at this picture and look at you! Do something with your face! Anyway where you was trough these whole days? Our childrens are hungry and you must fix home walls someday!!}
+{100}{}{ѕросто посмотри на эту картину, и посмотри на себ€! —делай что-нибудь со своим лицом! √де ты был все эти дни? Ќаши дети голодны, и ты должен починить стены в доме!!}
 
-{200}{}{Are we meet before?}
-{250}{}{Are you drunken so much that you forgot own wife, childrens and house!? Damn i should tell doctor about your memory problems someday! Olways the same, you walk somewhere and not return trough whole days, sometime even months.. why i marry you ashole?! }
+{200}{}{ћы знакомы?}
+{250}{}{“ы настолько пь€н, что забыл собственную жену, детей и дом?! ѕрокл€тье, € должна как-нибудь рассказать доктору о твоих проблемах с пам€тью! ¬сегда одно и тоже, ты куда-то уходишь и не возвращаешьс€ дн€ми, иногда даже мес€цами.. зачем € за теб€ вышла, засранец?! }
 
 {300}{}{How many.. we got.. childrens?}
 {350}{}{Do you really forgot everything or its some kind of dark humor?! We got seven childrens: Mark, Frank, Vitold, Steven, Clara, Sue, Monica.. Now go and bring us some food. I dont know.. hunt for something or buy! No just whole days you search something to drink!!}

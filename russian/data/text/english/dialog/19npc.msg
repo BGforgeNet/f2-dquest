@@ -2,19 +2,19 @@
 {10}{}{Ведьма. }
 {20}{}{Очень старая женщина, вероятно лидер этого маленького общества..}
 
-{100}{}{News run quickly across this small village. I heard that you survived temple of trials, is that true? Let me tell you something.. champion. We have  many problems here and i believe that everyone can be fix just like that in one minute using holy artefact called holy GECK. You must find that item! It is said that such item will bring happiness and life to the wasteland!}
+{100}{}{Новости распространяются быстро в этой деревне. Я слышала, что ты выжил в храме испытаний, это правда? Позволь мне кое-что тебе сказать.. чемпион. У нас много проблем, и я верю что все они могут быть решены в течение минуты с помощью святого артефакта, называющегося ГЕКК. Ты должен найти эту вещь! Говорят, что такой предмет может принести счастье и жизнь в пустошь!}
 
-{200}{}{Uh.. but why me?}
-{250}{}{Because its your destiny! You come here to our village not by mistake.. prophecy say many things about you champion. Anyway, Vic trader told me about GECK and i want it! So go now on wasteland and bring me one or two. Uh.. and talk with Vic first, he known much more about that item. }
+{200}{}{Мм.. а почему я?}
+{250}{}{Потому что это твоя судьба! Ты появился в нашей деревне не случайно.. пророчества говорят многое о тебе, чемпион. В любом случае, торговец Вик рассказал мне о ГЕКК, и я его хочу! Так что отправляйся в пустошь и принеси мне один или два. Мм.. и поговори сначала с Виком, он знает гораздо больше об этом предмете. }
 
-{300}{}{It was really hard but somehow i found it!}
-{350}{}{Incredible you are truly champion! [she open quickly bag and found something.. very strange inside and she give it to you] Do you known how use this GECK? Please find out how its work! Our destiny is in your hands brave one! }
+{300}{}{Это было очень тяжело, но каким-то образом я его нашел!}
+{350}{}{Невероятно, ты настоящий чемпион! [она открывает сумку и достает что-то очень странное, затем отдает вам] Ты знаешь как использовать этот ГЕКК? Прошу, разберись как он работает! Наша судьба в твоих руках, смельчак! }
 
-{400}{}{Do you known how its work?}
-{401}{}{You made big quest.. but many new adventures waiting for you!}
-{402}{}{Finally i have GECK.. am so happy! But how it work?}
-{403}{}{Please find how work this holy artefact!}
-{404}{}{This item will bring life and happines to the wasteland!}
+{400}{}{Ты знаешь, как это работает?}
+{401}{}{Ты закончил большое задание, но тебя ждет много новых приключений!}
+{402}{}{Наконец-то у меня есть ГЕКК.. я так счастлива! Но как он работает?}
+{403}{}{Прошу, узнай как работает этот священный артефакт!}
+{404}{}{Этот предмет принесет жизнь и счастье в пустошь!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
