@@ -1,46 +1,46 @@
 
-{10}{}{Mark. }
-{20}{}{He seem to be one from your seven childrens..}
+{10}{}{Марк. }
+{20}{}{Похоже, это один из ваших семи детей..}
 
-{100}{}{Dragon wake up and look around..}
-{101}{}{You are in dark cave..}
-{102}{}{Suddenly something jump at your head!}
-{103}{}{Deep and dark forest, you hear strange voice..}
-{104}{}{And witch say that she known this secret..}
-{105}{}{Throw one dice 1K6 for sword damage! }
-{106}{}{Listen to ME am game master this time! }
-{107}{}{2K6 for poison domage! Spider is very BIG!}
-{108}{}{You cant move NOW! You are paralyzed!}
-{109}{}{Hey! That corridor is too small to drive here on horse!!}
-{110}{}{Damn! You cheating! Roll dices again!!}
-{111}{}{Imagine whats happend now hehe! }
-{112}{}{And on top of mountain is hidden silver sword of elves.. }
+{100}{}{Дракон просыпается и осматривается..}
+{101}{}{Вы в темной пещере..}
+{102}{}{Неожиданно что-то прыгает вам на голову!}
+{103}{}{Лес темен и тих. Вы слышите странный голос..}
+{104}{}{И ведьма говорит, что она знает этот секрет..}
+{105}{}{Бросай 1d6 на дамаг меча!}
+{106}{}{Слушай меня, сейчас Я гейм мастер!}
+{107}{}{2d6 дамага ядом! Паук очень БОЛЬШОЙ!}
+{108}{}{Ты не можешь ДВИГАТЬСЯ! Ты парализован!}
+{109}{}{Эй! Этот коридор слишком маленький, чтобы ехать по нему на лошади!!}
+{110}{}{Черт! Ты жульничаешь! Бросай кости снова!!}
+{111}{}{Представь что сейчас происходит, хехе! }
+{112}{}{И на верху горы спрятан серебряный меч эльфов.. }
 {113}{}{Elves silver is called Mithril.. or it was dwarven? }
-{114}{}{Ashole! Am not playing with you! Roll dices again! }
-{115}{}{You are human soldier age 19 }
-{116}{}{So WHAT! Keep rules! }
-{117}{}{What?! You cant talk with horse! }
-{118}{}{Skill to create immortal potion? He must be alchemic level30 }
-{119}{}{Haha.. you died! Because there was trap!! }
-{120}{}{Robot? In medieval castle? }
-{121}{}{Ok you have one implant made from silver.. }
-{122}{}{Sorry but poeples without head cant be resurrect!}
-{123}{}{Because you was shot by cannon! 6k6 damage! }
-{124}{}{No! You walk slowly because you are wounded! }
-{125}{}{This was poisonous frog so you died by kiss it! }
-{126}{}{Suddenly thief steal all your money! }
-{127}{}{Your chances of succes are 1k6+2 }
-{128}{}{Yes its magical sword but its rusty and broken! Noramal damage 1k6! }
-{129}{}{You move twice faster because you wear elven shoes. }
-{130}{}{Wait! What you say? Tell me slowly i must count it! }
-{131}{}{And you look at sky and you see red clouds.. }
-{132}{}{You are archer.. but Gnome so you cant use longbows! }
-{133}{}{Crossbow make more damage but is slow.. }
-{134}{}{So make real crossbow and you will see! }
-{135}{}{Its necklace made from metheorite its blue and shining.. }
-{136}{}{Hah! You forgot to take off hat and she kick you balls! }
-{137}{}{No you cant do that again! }
-{138}{}{Wait! Let me count! Its 3k6! }
-{139}{}{Nobody known that.. because its ancient. }
-{140}{}{No you cant read it all! You skill is on second level!  }
+{114}{}{Говнюк! Я с тобой не играю! Бросай кости еще раз! }
+{115}{}{Ты человек солдат, 19 лет}
+{116}{}{Ну и ЧТО! Соблюдай правила! }
+{117}{}{Что?! Ты не можешь говорить с лошадью! }
+{118}{}{Скилл, чтобы создать эликсир бессмертия? Он должен быть алхимиком 30 уровня.}
+{119}{}{Хаха.. ты умер! Потому что там была ловушка!! }
+{120}{}{Робот? В средневековом замке? }
+{121}{}{Хорошо, у тебя есть один серебяный имплант.. }
+{122}{}{Извини, но люди без головы не могут быть воскрешены!}
+{123}{}{Потому что в тебя выстрелил из пушки! 6d6 дамага! }
+{124}{}{Нет! Ты идешь медленно, потому что ранен! }
+{125}{}{Это была ядовитая лягушка, так что ты умер после поцелуя! }
+{126}{}{Неожиданно вор крадет все твои деньги! }
+{127}{}{Твой шанс на успес 1d6+2 }
+{128}{}{Да, это волшебный меч, но он ржавый и сломанный! Обычный дамаг, 1d6! }
+{129}{}{ты двигаешься в 2 раза быстрее, потому что на тебе эльфийские ботинки. }
+{130}{}{Погоди! Что ты сказал? Говори медленнее, я считаю! }
+{131}{}{И ты смотришь на небо и видишь красные облака.. }
+{132}{}{Ты лучник, но гном, поэтому не можешь использовать длинный лук! }
+{133}{}{Арбалет делает больше дамага, но он медленнее.. }
+{134}{}{Так сделай настоящий арбалет и увидишь! }
+{135}{}{Это ожерелье из метеорита, оно синее и блестящее.. }
+{136}{}{Ха! Ты забыл снять шляпу, и она пинает тебя по яйцам! }
+{137}{}{Нет, ты не можешь сделать это снова! }
+{138}{}{Погоди! Дай посчитать! Это 3d6! }
+{139}{}{Никто не знает.. потому что он древний. }
+{140}{}{Нет, ты не можешь прочитать все это! Ты второго уровня! }
 

@@ -1,20 +1,20 @@
 
-{10}{}{Frank. }
-{20}{}{He seem to be one from your seven childrens..}
+{10}{}{Фрэнк. }
+{20}{}{Похоже, это один из ваших семи детей..}
 
-{100}{}{Look what i found inside trashcan! Delicious meat!}
+{100}{}{Смотри, что я нашел в мусорном баке! Вкусненькое мясо!}
 
-{200}{}{Wow, good boy! Now give me piece, am hungry!}
-{250}{}{No i will not! Bring me lighter and i will think about share with you anything. I have some cigaretes and now i want lighter! And dont look at me that way am old man! Am 10 years old!}
+{200}{}{Ух ты, молодец! Дай-ка мне кусочек, я голоден!}
+{250}{}{Еще чего! Принеси мне зажигалку и тогда я подумаю, стоит ли с тобой делиться. У меня есть сигареты, и теперь мне нужна зажигалка! И не смотри на меня так, старикан! Мне 10 лет!}
 
-{300}{}{Here is lighter, now give me meat!}
-{350}{}{Hah! Thanx! (He gived you some dry meat of dead rat.]}
+{300}{}{Вот зажигалка, теперь давай мясо!}
+{350}{}{Ага! Спасибки! [Он дает вам кусок сушеной крысятины]}
 
-{400}{}{Am smoking heheh!}
-{401}{}{What you want?!}
-{402}{}{Leave me alone!}
-{403}{}{Yeah i have lighter!}
-{404}{}{This trashcan is full ot treasures!}
+{400}{}{Я курю, хехехе!}
+{401}{}{Чего тебе?!}
+{402}{}{Оставь меня в покое!}
+{403}{}{Дааа, у меня есть зажигалка!}
+{404}{}{В этом мусорном баке полно сокровищ!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
