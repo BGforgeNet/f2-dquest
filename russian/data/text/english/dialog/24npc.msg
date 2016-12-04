@@ -1,60 +1,60 @@
 
-{10}{}{Vitold. }
-{20}{}{He seem to be one from your seven childrens..}
+{10}{}{Витольд. }
+{20}{}{Похоже, это один из ваших семи детей..}
 
-{100}{}{What damage made my sword? }
-{101}{}{I open chest, what is inside? }
-{102}{}{Run! I escape! }
-{103}{}{Ok i enter house and what now? }
-{104}{}{What is better bow or crossbow? }
-{105}{}{Am unvisible! My cloak is black like night! }
-{106}{}{Ok i throw him money!}
-{107}{}{Thef? Where? Why i dont seen him??}
-{108}{}{Damn! I should lear that skill in Koldsberg!}
-{109}{}{What is name of that village?}
+{100}{}{Какой дамаг нанес мой меч? }
+{101}{}{Я открыл сундук, что внутри? }
+{102}{}{Бежим! Я убегаю! }
+{103}{}{Хорошо, я вхожу в дом и что дальше? }
+{104}{}{Что лучше, лук или арбалет? }
+{105}{}{Я невидимка! Мой плащ чернее ночи! }
+{106}{}{Хорошо, я бросаю ему монетку!}
+{107}{}{Вор? Где? Почему я его не видел??}
+{108}{}{Черт! Я должен выучить этот скилл в Колдсберге!}
+{109}{}{Как называется та деревня?}
 
-{110}{}{Ok am dirty but i got skill to find water so am clean! }
-{111}{}{Yes am wounded but i fall into berserk so i dont feel it! }
-{112}{}{How big is that forest? }
-{113}{}{So you use pathfinding and me watch on trees! }
-{114}{}{I see something on ground because i got perception level3 }
-{115}{}{No! It must be something there! }
-{116}{}{No.. am not cheating.. }
-{117}{}{So what she say? }
-{118}{}{I dont care because i wear metal armor..}
-{119}{}{No my sword will never broke! I got smith skill level5 }
+{110}{}{Ну да я грязный, но я умею находить воду, так что помылся! }
+{111}{}{Да, я ранен, но я становлюсь берсерком, так что не чувствую этого! }
+{112}{}{Насколько большой этот лес? }
+{113}{}{Так что ты ищи путь а я буду смотреть с деревьев! }
+{114}{}{Я вижу что-то на земле, потому что у меня 3 уровень восприятия }
+{115}{}{Нет, здесь что-то должно быть! }
+{116}{}{Нет.. я не жульничаю.. }
+{117}{}{И что она говорит? }
+{118}{}{Мне все равно, потому что я ношу металлическую броню..}
+{119}{}{Нет, мой меч никогда не сломается! Я кузнец 5 уровня! }
 
-{120}{}{Hah! THIS was funny! }
-{121}{}{So what i could do?? I tryed everything!! }
-{122}{}{Uh.. i dont seen it. }
-{123}{}{Where is my blue dice? My favourite! }
-{124}{}{Can i use condom as holy artefact? }
-{125}{}{But players can use items from other games! }
-{126}{}{Its balloon made from alien robot hehe! }
-{127}{}{No am not! }
-{128}{}{Am enter tavern and scream BEER! }
-{129}{}{He was drunken? I think he was dead! }
+{120}{}{Ха! А вот ЭТО было весело! }
+{121}{}{Что я мог сделать?? Я все попробовал!! }
+{122}{}{Э.. я не видел. }
+{123}{}{Где моя голубая кость? Любимая! }
+{124}{}{Я могу использовать презерватив как священный артефакт? }
+{125}{}{Но игроки могут использовать предметы из других игр! }
+{126}{}{Это воздушный шар сделанный из внеземного робота хехе! }
+{127}{}{А вот и нет!}
+{128}{}{Я захожу в таверну и кричу ПИВО! }
+{129}{}{Он пьян? Я думал он мертв! }
 
-{130}{}{Am sit on horse and run trough corridor to exit! }
-{131}{}{No! YOU are sick! }
-{132}{}{So i open chest but i quickly hide my eyes! }
-{133}{}{Blind?! So what now?! }
-{134}{}{And what about skill translater? }
-{135}{}{Animals got also language.. its BODY language! }
-{136}{}{HA HA HA! }
-{137}{}{I do nothing! Am just sit on ground.. }
-{138}{}{No you dont understand! Its NEW skill! }
-{139}{}{Yes i can! Yes i can! Yes i can! }
+{130}{}{Я сижу на лошади и еду вдоль коридора к выходу! }
+{131}{}{Нет! Ты просто ужасен! }
+{132}{}{Я открываю сундук, но быстро зажмуриваюсь! }
+{133}{}{Ослеп?! И что теперь?! }
+{134}{}{А что насчет переноса скиллов? }
+{135}{}{У животных тоже есть язык.. Это язык ТЕЛА! }
+{136}{}{ХА ХА ХА ! }
+{137}{}{Я ничего не делаю! Просто сижу на земле!}
+{138}{}{Нет, ты не понимаешь! Это НОВЫЙ скилл! }
+{139}{}{Да, могу! Да, могу! Да, могу!}
 
-{140}{}{No! No! No!.. Shut up! }
-{141}{}{Hah i WIN! }
-{142}{}{How much i get experience? }
-{143}{}{Ok i spend three skillpoints on bravery. }
-{144}{}{Bravery mean bonus during battle based on level of that skill. }
-{145}{}{Yes its best rule: bonus based on level of that skill add to throws. }
-{146}{}{Normal throws will be 1k6 and everything else bonus! }
-{147}{}{So what we will use only one dice, our favourite! }
-{148}{}{Yeah! And player can invent any skill he want DURING game! }
-{149}{}{Situations mean you will get bad effects high as situation LEVEL! }
-{150}{}{Uh am not sure.. it could be for example ten levels. It mean 100% }
+{140}{}{Нет! Нет! Нет! Заткнись! }
+{141}{}{Хах, я победил! }
+{142}{}{Сколько опыта я получаю? }
+{143}{}{Хорошо, я трачу 3 скиллпойнта на храбрость. }
+{144}{}{Храбрость означает бонус во время битвы, зависящий от уровня этого скилла. }
+{145}{}{Да, и что самое лучшее, бонус зависящий от уровня также добавляется к броскам. }
+{146}{}{Обычные броски - 1d6, и к ним добавляется бонус! }
+{147}{}{Ну и что, будем использовать только одну кость, нашу любимую! }
+{148}{}{Да! И игрок может изобрести любой скилл, какой ему хочется, ВО ВРЕМЯ игры! }
+{149}{}{Ситуации означают, что на тебя наложат плохие эффекты с уровнем ситуации! }
+{150}{}{Не уверен.. например 10 уровень. Это означает 100%. }
 
