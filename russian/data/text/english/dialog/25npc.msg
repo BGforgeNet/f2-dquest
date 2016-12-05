@@ -1,39 +1,39 @@
 
-{10}{}{Steven. }
-{20}{}{He seem to be one from your seven childrens..}
+{10}{}{Стивен. }
+{20}{}{Похоже, это один из ваших семи детей..}
 
-{100}{}{Levels system? but how much them? }
-{101}{}{Yes that is correct! And what about timetravelling? }
-{102}{}{For example time travelling in level 10 will stop time. }
-{103}{}{Yeah its weird but player can invent any skill he want REMEMBER! }
-{104}{}{So i got skill memory in level zero so i forgot everything.}
-{105}{}{Yes sometime skill in his small level is better!}
-{106}{}{To avoid chest trap i could use intuition i konwn whats could happend!}
-{107}{}{Age is ALSO skill hehe! And it coud be test by percents. Age 100=100%}
-{108}{}{So when you got 100% or 0% it mean that you SURELY get some effects!}
-{109}{}{Yeah but alchemic using immortal potion can decrease other skill: AGE!}
+{100}{}{Система уровней? А сколько их?}
+{101}{}{Да, это точно! А что насчет путешествий во времени?}
+{102}{}{Например, 10 уровень путешествий во времени будет останавливать время.}
+{103}{}{Ну да странно, но игрок может изобрести любой скилл какой хочет, ПОМНИШЬ?}
+{104}{}{У меня скилл памяти нулевого уровня, так что я все забыл.}
+{105}{}{Да, иногда скилл маленького уровня лучше!}
+{106}{}{Чтобы избежать ловушку в сундуке, я использую интуицию, я знаю что может случиться!}
+{107}{}{Возраст это тоже скилл! И он считается в процентах. Возраст 100=100%}
+{108}{}{Значит когда там 100% или 0% это значит это эффекты ТОЧНО на тебя сработали!}
+{109}{}{Да, но алхимик, используя зелье бессмертия, может уменьшит другой скилл: ВОЗРАСТ!}
 
-{110}{}{I think its best: one skill will affect many other skills!}
-{111}{}{So SITUATION mean action where few skills affect one to other!}
-{112}{}{Yes thats true!}
-{113}{}{Am walking trough corridor and i have torch.}
-{114}{}{Thief have his skill to steal but i have skill to watch my money!}
-{115}{}{Uh yes.. it could be complicated, but somehow i believe its best way.}
-{116}{}{How many times i could try made some action and on how skill its based?}
-{117}{}{Let me see.. no it dont make any sense..}
-{118}{}{My favourite is RED! }
-{119}{}{I vote on hundread levels, percents! }
+{110}{}{Я думаю, этот самый лучший: один скилл влияющий на много других скиллов!}
+{111}{}{Значит СИТУАЦИЯ это действие когда несколько скиллов влияют друг на друга!}
+{112}{}{Да, это так!}
+{113}{}{Я иду по коридору и держу факел.}
+{114}{}{У вора есть скилл воровать, но у меня есть скилл следить за своим кошельком!}
+{115}{}{Ну да.. бывает сложно, но я думаю так лучше всего.}
+{116}{}{Сколько раз я мог попытаться совершить какое-то действие, и на каком скилле это основано?}
+{117}{}{Дай-ка подумать.. нет, это чушь какая-то..}
+{118}{}{Мой любимый - КРАСНЫЙ! }
+{119}{}{Я голосую за сотню левелов, и процентов! }
 
-{120}{}{When you born, your AGE skill is zero! }
-{121}{}{Ok so i hold my sword hundread days, so my HOLD skill is 100%  }
-{122}{}{HOLD skill is test for chances to drop weapon during battle. }
-{123}{}{Yeah! We should have computer to test whole throws all time!}
-{124}{}{But when we have one dice.. its too small tor hundread levels bonus.. }
-{125}{}{Did you seen ever dice K100? I heard they exist! }
-{126}{}{Its normal forest or swamp? Dont try to surprise me again! }
-{127}{}{He dont eat my skull because i got metal hat its look like normal hat! }
-{128}{}{Because i got smith skill so i made metal hat! And nobody seen that! }
-{129}{}{Because its secret item which even game master dont see! }
+{120}{}{Когда ты рождаешься, твой скилл ВОЗРАСТ равен нулю! }
+{121}{}{Хорошо, я держу свой меч сто дней, так что мой скилл ДЕРЖАТЬ равен 100%  }
+{122}{}{Скилл ДЕРЖАТЬ влияет на шанс уронить оружие в битве. }
+{123}{}{Да! Нам нужно заставить компьютер делать все эти броски!}
+{124}{}{Но у нас только одна кость.. она слишком маленькая для бонусов сотого уровня. }
+{125}{}{Ты когда-нибудь видет кость d100? Я слышал, они существуют!}
+{126}{}{Это обычный лес или болото? Не пытайся меня сново подловить!}
+{127}{}{Он не может съесть мой череп, потому что у меня металлическая шляпа, которая выглядит как обычная шляпа!}
+{128}{}{Потому что у меня есть скилл кузнеца, и я сделал металлическую шляпу! И никто не видел!}
+{129}{}{Потому что это секретный предмет, который не видит даже гейм мастер!}
 
 {130}{}{Quest master and Game master, whats the difference!? }
 {131}{}{Hey guys! Ho many days we play here?! I lost time feeling! }
