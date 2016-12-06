@@ -35,26 +35,26 @@
 {128}{}{Потому что у меня есть скилл кузнеца, и я сделал металлическую шляпу! И никто не видел!}
 {129}{}{Потому что это секретный предмет, который не видит даже гейм мастер!}
 
-{130}{}{Quest master and Game master, whats the difference!? }
-{131}{}{Hey guys! Ho many days we play here?! I lost time feeling! }
-{132}{}{Ok so i thrown dagger.. and what now?}
-{133}{}{Everybody should count own throwns..}
-{134}{}{But cheating its also skill! So i get bonus to EVERYTHING!}
-{135}{}{Luck and cheating are similar, so you gat many bonus.. }
-{136}{}{I use my two handed sword which i made from crystal. }
-{137}{}{Everything should be possible otherwise we will pluke from boring! }
-{138}{}{So you get more experience, its bonus. }
-{139}{}{Every living creatures should have WILD element: wild frog, wild horse. }
+{130}{}{Квест мастер, гейм мастер - какая разница!? }
+{131}{}{Эй пацаны! Сколько дней мы уже играем?! Я потерял чувство времени!}
+{132}{}{Ну я бросил кинжал, и что теперь?}
+{133}{}{Все считают свои броски..}
+{134}{}{Но жульничество это тоже скилл! У меня бонус ко ВСЕМУ!}
+{135}{}{Удача и жульничество похожи, оба дают много бонусов.. }
+{136}{}{Я использую свой двуручный меч, который я сделал из кристалла. }
+{137}{}{Все должно быть возможно, иначе мы сдохнем от скуки! }
+{138}{}{Значит ты получаешь больше опыта, это бонус. }
+{139}{}{Все живые существа должны иметь ДИКУЮ часть: дикая лягушка, дикая лошадь. }
 
-{140}{}{WILD is skill used by animals and villagers, they live far from towns. }
-{141}{}{NOTHING! Do i need to made actions in each second of my life?! }
-{142}{}{Well who cares about that, i could try again hundread times! }
-{143}{}{Ok so BORING skill will determine how many times you can made action.. }
-{144}{}{BORING skill will be based on AGE or experience..}
-{145}{}{Because i shoot flame arrows, they have elemental damage! }
-{146}{}{Ok so am stand near dragon and am trying to be like stone.. unvisible.}
-{147}{}{What skills could have dragons? They are old so have AGE skill 100% }
-{148}{}{Age mean bonus to experience, richness, fame, and everything.. }
-{149}{}{I have idea lets drawn 100 squares table and throw here stone.. }
-{150}{}{And who cares? Its so funny, lets follow it! }
+{140}{}{ДИКИЙ скилл используется животными и деревенскими жителями, они живут далеко от городов. }
+{141}{}{НИЧЕГО! Я обязан что-то делать каждую секунду?! }
+{142}{}{Кому какая разница, я могу пытаться снова сотни раз! }
+{143}{}{Ага, значит скилл СКУКА будет определять, сколько раз ты можешь повторить действие.. }
+{144}{}{Скилл СКУКА будет зависит от ВОЗРАСТА или опыта..}
+{145}{}{Потому что я стреляю огненными стрелами, они делают стихийный дамаг! }
+{146}{}{Значит я стою возле дракона и пытаюсь быть как камень.. невидимым.}
+{147}{}{Какие скиллы у драконов? Они такие старые, ВОЗРАСТ должен быть 100% }
+{148}{}{Возраст означает бонус к опыта, богатству, славе и всему остальному.. }
+{149}{}{У меня есть идея, давайте нарисуем сто квадратов на столе и кинем сюда камень.. }
+{150}{}{Кому какая разница! Это весело, так что давайте!}
 
