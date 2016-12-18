@@ -1,17 +1,17 @@
 
-{10}{}{Some loser. }
-{20}{}{He is total zero..}
+{10}{}{Какой-то неудачник. }
+{20}{}{Да он просто пустое место..}
 
-{100}{}{Urgh.. yeah.. its that or.. nothing..}
+{100}{}{Ээ.. ага.. вот это или.. да нет..}
 
-{200}{}{What you do in my house?}
-{250}{}{You horse? Fuck off! Its MY!}
+{200}{}{Что ты делаешь в моем доме?}
+{250}{}{Твоем доме? Нахуй пошел! Он МОЙ!}
 
-{300}{}{Do you have beer?}
-{350}{}{Beer? Hahahah.. I have POWERFULL! drugs..}
+{300}{}{У тебя есть пиво?}
+{350}{}{Пиво? Хахаха.. У меня есть СИЛЬНЫЕ! вещества..}
 
-{400}{}{What is your name?}
-{450}{}{My name is Bond.. James Bond.. remember that.. Yeah! am tell him! Am best.. Am best in the universe.. Man! I could crush you by my one finger! And am so smart.. yeah! Am BEST!  }
+{400}{}{Как тебя зовут?}
+{450}{}{Меня зовут Бонд. Джеймс Бонд.. запомни это. Ага, и ему скажи! Я лучший! Я лучший в мире! Чувак! Я тебя могу сокрушить одним пальцем! И я такой умный.. да! Я лучший!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

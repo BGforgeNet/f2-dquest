@@ -1,17 +1,17 @@
 
-{10}{}{Sue. }
-{20}{}{She seem to be one from your seven childrens..}
+{10}{}{Сью. }
+{20}{}{Похоже, это одна из ваших дочерей..}
 
-{100}{}{Agh! These bastards dont want play RPG with me because i dont known rules! Where you was trough these whole days anyway?! Did you found some food?}
+{100}{}{Эх! Эти плохиши не хотят играть со мной в РПГ потому что я не знаю правил! А ты где был все это время? Нашел еду?}
 
-{200}{}{I have very important quest to do.}
-{250}{}{Uh.. ok! I fear to go outside town. Monica say she seen very BIG rat and she run again somewhere. I feel so alone and SAD!}
+{200}{}{Я должен выполнить очень важное задание.}
+{250}{}{Эх.. ладно! Я боюсь выйти из города. Моника сказала, что она увидела ОЧЕНЬ большую крысу, и убежала куда-то. Мне так одиноко и ГРУСТНО!}
 
-{300}{}{Sorry kid but i dont remember you..}
-{350}{}{Momy say that you got problems with brain! And she search doctor which will make you sometihing bad! Better escape from here, am warning you!}
+{300}{}{Прости, девочка, но я тебя не помню..}
+{350}{}{Мама сказала, что у тебя проблемы с головой! И она ищет доктора, которые сделает с тобой что-то плохое! Лучше уходи, я тебя предупредила!}
 
-{400}{}{What is RPG?}
-{450}{}{Its strange game, they play it many days. I wish i could understand what they talking about and what are these.. rules!}
+{400}{}{Что такое РПГ?}
+{450}{}{Это странная игра, они играют в нее очень долно. Хотелось бы мне понять, о чем они говорят, и что это за.. правила!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
