@@ -1,6 +1,6 @@
 
-{10}{}{Chosen One. }
-{20}{}{You seen him before near entrance to Arroyo temple!}
+{10}{}{Избранный.}
+{20}{}{Ты видел его перед входом в храм Арройо!}
 
 {100}{}{[He sit in bushes and eat corn]}
 

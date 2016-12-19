@@ -2,16 +2,16 @@
 {10}{}{Новости Клэмата.}
 {20}{}{Новости? Да тут одно старье..}
 
-{100}{}{=== K L A M A T H === N E W S === }
+{100}{}{=== НОВОСТИ === КЛЭМАТА === }
 
-{200}{}{[Some picture]}
-{250}{}{Its someone photo and writings: This man eat my cat!}
+{200}{}{[Какое-то изображение]}
+{250}{}{Это чье-то фото с подписью: Этот человек съел мою кошку!}
 
-{300}{}{[Wanted!] }
-{350}{}{Its some note: "I want Beer! Am so thirsty that i will crazy! Please give me someone just one drink!" uh.. i think i seen it before.. its MY note? }
+{300}{}{[Разыскивается!] }
+{350}{}{Какая-то записка: "Я хочу пива! Так охота пить, с ума можно сойти! Налейте хотя бы глоточек!" Ээ.. кажется я уже ее видел.. это МОЯ записка?}
 
-{400}{}{[HOT STUFF FOR YOU!] }
-{450}{}{Its few photos of half-naked womans with big captions: "Bathhouse" There is also dirty note made in hurry which was put here probably by someone other: "Damn! i lost all my money there, but it was worth! And now i will try something better.. powerfull drugs!" }
+{400}{}{[ГОРЯЧИЕ ШТУЧКИ ДЛЯ ТЕБЯ!] }
+{450}{}{Несколько фотографий полуобнаженных женщин с крупной подписью "Ванные комнаты". И чья-то грязная записка, видимо сделанная кем-то другим: "Блин! Я просадил тут все свои деньги, но это того стоило! А теперь я попробую что-то еще лучше.. сильные наркотики!"}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

@@ -1,6 +1,6 @@
 
-{10}{}{Citizen. }
-{20}{}{They everyone look the same..}
+{10}{}{Горожанин.}
+{20}{}{Они все на одно лицо.}
 
 {100}{}{Month ago my man go search golden geckos in poison cave. Ofcourse he died there because it was too dangerous and nodoby want to help him. Now am alone and.. are you interested to be my new.. entertainment?}
 

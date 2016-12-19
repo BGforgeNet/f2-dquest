@@ -1,6 +1,6 @@
 
-{10}{}{Citizen. }
-{20}{}{They everyone look the same..}
+{10}{}{Горожанин.}
+{20}{}{Они все на одно лицо.}
 
 {100}{}{[He sit near table and writing something in silence]}
 

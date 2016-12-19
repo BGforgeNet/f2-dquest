@@ -1,17 +1,17 @@
 
-{10}{}{Citizen. }
-{20}{}{They everyone look the same..}
+{10}{}{Горожанин.}
+{20}{}{Они все на одно лицо.}
 
-{100}{}{So you return from your.. journey. Its good to see you again. Uh your wife was very angry and she asked me about sleep with her.. But dont fear she is so ugly that.. Uh i mean.. nothing.}
+{100}{}{Виже, ты вернулся из своего... путешествия. Рад тебя видеть. Ээ.. твоя жена очень злилась, и просила меня переспать с ней. Но не переживай, она такая страшная, что... В смысле... ничего.}
 
-{200}{}{I dont remember many things from my life.}
-{250}{}{Dont you remember when we was farmers trough many years and finally we settle in Klamath? Old good days.. they will never return. Dont worry your problems is probably because radiation and dirty water. Everybody around have problems with health.. even me.}
+{200}{}{Я многого не помню в своей жизни.}
+{250}{}{Ты не помнишь как мы были фермерами в течение многих лет, и в конце концов поселились в Клэмате? Старые добрые деньки... их уже не вернуть. Не волнуйся насчет этого, скорее всего это из-за радиации и грязной воды. Тут у всех проблемы со здоровьем, даже у меня.}
 
-{300}{}{Can you borrow me some money?}
-{350}{}{No i cant. I borrow you them so many times and you olways forgott about that. I dont want to make any deals with you. I heard that miners from Redding found new golden veins, maybe try your luck there.}
+{300}{}{Ты можешь занять денег?}
+{350}{}{Нет, не могу. Я столько раз тебе занимал, но ты все время забываешь об этом. Не хочу с тобой иметь дела. Я слышал, что шахтеры в Реддинге нашли новые золотые жилы, можешь там спросить.}
 
-{400}{}{Damn! Am so thirsty. I need beer!}
-{450}{}{Sadly i dont have any drink. Few days ago i found nuka cola. But i fear to drink and Vic buy it from me for 1 coin. I heard these Nuka-Cola was invented  by mutants! }
+{400}{}{Черт! Так охота пить. Мне нужно пиво!}
+{450}{}{К сожалению, у меня нет напитков. Несколько дней назад я нашел Нюка-Колу. Но я испугался ее пить, и Вик купил ее у меня за монетку. Я слышал, Нюка-Колу изобрели мутанты!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
