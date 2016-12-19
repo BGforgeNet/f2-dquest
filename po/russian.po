@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-18 12:49+0000\n"
+"PO-Revision-Date: 2016-12-19 00:17+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -1922,13 +1922,15 @@ msgstr ""
 
 #: english/data/text/english/dialog/28npc.msg:5
 msgid "{100}{}{=== K L A M A T H === N E W S === }"
-msgstr ""
+msgstr "{100}{}{=== НОВОСТИ === КЛЭМАТА === }"
 
 #: english/data/text/english/dialog/28npc.msg:7
 msgid ""
 "{200}{}{[Some picture]}\n"
 "{250}{}{Its someone photo and writings: This man eat my cat!}"
 msgstr ""
+"{200}{}{[Какое-то изображение]}\n"
+"{250}{}{Это чье-то фото с подписью: Этот человек съел мою кошку!}"
 
 #: english/data/text/english/dialog/28npc.msg:10
 msgid ""
@@ -1937,6 +1939,9 @@ msgid ""
 "Please give me someone just one drink!\" uh.. i think i seen it before.. its "
 "MY note? }"
 msgstr ""
+"{300}{}{[Разыскивается!] }\n"
+"{350}{}{Какая-то записка: \"Я хочу пива! Так охота пить, с ума можно сойти! "
+"Налейте хотя бы глоточек!\" Ээ.. кажется я уже ее видел.. это МОЯ записка?}"
 
 #: english/data/text/english/dialog/28npc.msg:13
 msgid ""
@@ -1946,6 +1951,11 @@ msgid ""
 "someone other: \"Damn! i lost all my money there, but it was worth! And now "
 "i will try something better.. powerfull drugs!\" }"
 msgstr ""
+"{400}{}{[ГОРЯЧИЕ ШТУЧКИ ДЛЯ ТЕБЯ!] }\n"
+"{450}{}{Несколько фотографий полуобнаженных женщин с крупной подписью \""
+"Ванные комнаты\". И чья-то грязная записка, видимо сделанная кем-то другим: "
+"\"Блин! Я просадил тут все свои деньги, но это того стоило! А теперь я "
+"попробую что-то еще лучше.. сильные наркотики!\"}"
 
 #. extracted from english/data/text/english/dialog/29npc.msg
 #, fuzzy
@@ -1969,6 +1979,8 @@ msgid ""
 "{10}{}{Citizen. }\n"
 "{20}{}{They everyone look the same..}"
 msgstr ""
+"{10}{}{Горожанин.}\n"
+"{20}{}{Они все на одно лицо.}"
 
 #: english/data/text/english/dialog/29npc.msg:5
 msgid ""
@@ -1976,6 +1988,9 @@ msgid ""
 "your wife was very angry and she asked me about sleep with her.. But dont "
 "fear she is so ugly that.. Uh i mean.. nothing.}"
 msgstr ""
+"{100}{}{Виже, ты вернулся из своего... путешествия. Рад тебя видеть. Ээ.. "
+"твоя жена очень злилась, и просила меня переспать с ней. Но не переживай, "
+"она такая страшная, что... В смысле... ничего.}"
 
 #: english/data/text/english/dialog/29npc.msg:7
 msgid ""
@@ -1985,6 +2000,11 @@ msgid ""
 "your problems is probably because radiation and dirty water. Everybody "
 "around have problems with health.. even me.}"
 msgstr ""
+"{200}{}{Я многого не помню в своей жизни.}\n"
+"{250}{}{Ты не помнишь как мы были фермерами в течение многих лет, и в конце "
+"концов поселились в Клэмате? Старые добрые деньки... их уже не вернуть. Не "
+"волнуйся насчет этого, скорее всего это из-за радиации и грязной воды. Тут у "
+"всех проблемы со здоровьем, даже у меня.}"
 
 #: english/data/text/english/dialog/29npc.msg:10
 msgid ""
@@ -1993,6 +2013,10 @@ msgid ""
 "about that. I dont want to make any deals with you. I heard that miners from "
 "Redding found new golden veins, maybe try your luck there.}"
 msgstr ""
+"{300}{}{Ты можешь занять денег?}\n"
+"{350}{}{Нет, не могу. Я столько раз тебе занимал, но ты все время забываешь "
+"об этом. Не хочу с тобой иметь дела. Я слышал, что шахтеры в Реддинге нашли "
+"новые золотые жилы, можешь там спросить.}"
 
 #: english/data/text/english/dialog/29npc.msg:13
 msgid ""
@@ -2001,6 +2025,10 @@ msgid ""
 "fear to drink and Vic buy it from me for 1 coin. I heard these Nuka-Cola was "
 "invented  by mutants! }"
 msgstr ""
+"{400}{}{Черт! Так охота пить. Мне нужно пиво!}\n"
+"{450}{}{К сожалению, у меня нет напитков. Несколько дней назад я нашел Нюка-"
+"Колу. Но я испугался ее пить, и Вик купил ее у меня за монетку. Я слышал, "
+"Нюка-Колу изобрели мутанты!}"
 
 #. extracted from english/data/text/english/dialog/30npc.msg
 #, fuzzy
@@ -2022,6 +2050,8 @@ msgid ""
 "{10}{}{Chosen One. }\n"
 "{20}{}{You seen him before near entrance to Arroyo temple!}"
 msgstr ""
+"{10}{}{Избранный.}\n"
+"{20}{}{Ты видел его перед входом в храм Арройо!}"
 
 #: english/data/text/english/dialog/30npc.msg:5
 msgid "{100}{}{[He sit in bushes and eat corn]}"
