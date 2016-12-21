@@ -1,8 +1,8 @@
 
-{10}{}{Strange Folk. }
-{20}{}{He look crazy..}
+{10}{}{Странный народ.}
+{20}{}{Он выглядит чокнутым.}
 
-{100}{}{Let me shown you! [You hear voice of man hidden in small street, between corner and boxes. He is almost unvisible so first time you think that dog which stand near say something to you..] }
+{100}{}{Давай я тебе покажу! [Вы слышите голос человека, спрятавшегося в маленьком переулке, между углом и коробками. Он почти незаметен, так что сначала вам показалось, что это сказала собака, стоящая неподалеку.]}
 
 {200}{}{Uk.. ok shown me.}
 {250}{}{Watch! [You see that he dont have any clothes under cloak! But he shown you so quick that you seen almost nothing.]}

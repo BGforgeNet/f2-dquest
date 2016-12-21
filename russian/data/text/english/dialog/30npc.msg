@@ -2,16 +2,16 @@
 {10}{}{Избранный.}
 {20}{}{Ты видел его перед входом в храм Арройо!}
 
-{100}{}{[He sit in bushes and eat corn]}
+{100}{}{[Он сидит в кустах и ест кукурузу]}
 
-{200}{}{What are you doing here?}
-{250}{}{Am waiting for night.. i seen incredible things trough window! Am tell you.. i seen everything! EVERY details! It was really HOT action!}
+{200}{}{Что ты здесь делаешь?}
+{250}{}{Дожидаюсь ночи... Я видел невероятные вещи через окно! Я тебе говорю... я видел все! КАЖДУЮ деталь! ОЧЕНЬ горячее шоу!}
 
-{300}{}{You are from Arroyo.. I seen you before!}
-{350}{}{I like that town, and it was good decision to escape from there. Elders say many frighting stories about outside world, but i feel here so great!}
+{300}{}{Ты из Арройо... Я тебя где-то видел!}
+{350}{}{Мне нравится этот город, так что уйти оттуда было хорошим решением. Старейшины рассказывают много страшных историй про окружающий мир, но я тут чувствую себя отлично!}
 
-{400}{}{Do you have beer?}
-{450}{}{Do you mean this yellow water in flask which i seen in bar? No i dont have it.. and i dont like any mixtures, i got bad experiences in Arroyo. Shaman promises me wonderfull time but i was sick trough whole day! }
+{400}{}{У тебя есть пиво?}
+{450}{}{Ты имеешь ввиду эту желтую воду, которую я видел в баре? Нет, нету... мне не нравятся зелья, у меня был с ними плохой опыт в Арройо. Шаман обещал мне чудесное время, но я болел весь день!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

@@ -2,19 +2,19 @@
 {10}{}{Горожанин.}
 {20}{}{Они все на одно лицо.}
 
-{100}{}{Month ago my man go search golden geckos in poison cave. Ofcourse he died there because it was too dangerous and nodoby want to help him. Now am alone and.. are you interested to be my new.. entertainment?}
+{100}{}{Месяц назад мой мужчина отправился за золотыми гекко в отравленные пещеры. Конечно, он погиб, потому что там слишком опасно и никто не хотел ему помочь. Теперь я одна, и... хочешь быть моим новым... развлечением?}
 
-{200}{}{Uh i dont known.. probably.}
-{250}{}{I will give you ten coins for one night!}
+{200}{}{Ээ, не знаю... наверное.}
+{250}{}{Я дам тебе десять монет за одну ночь!}
 
-{300}{}{Ok am ready..}
-{350}{}{Yeah! [She was very brutal and floor was full of broken glass. Trough one night you take more wounds that trough whole travell from Klamath to Arroyo and back.]}
+{300}{}{Хорошо, я готов.}
+{350}{}{Дааа! [Она очень жестока, и пол усыпан битым стеклом. За одну ночь вы зарабатываете больше ран, чем за все время путешествия из Клэмата в Арройо и обратно.]}
 
-{400}{}{Yeah.. you are WILD!}
-{401}{}{I feel better now!}
-{402}{}{We must try again later, please dont leave town darling..}
-{403}{}{Darling you are so sweet..}
-{404}{}{This was HOT! action..}
+{400}{}{Да... ты ДИКАЯ штучка!}
+{401}{}{Теперь я чувствую себя лучше!}
+{402}{}{Нам нужно это повторить попозже, не уходи из города, дорогой...}
+{403}{}{Дорогой, ты такой милый...}
+{404}{}{Это было ГОРЯЧО!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
