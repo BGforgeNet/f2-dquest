@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-19 00:17+0000\n"
+"PO-Revision-Date: 2016-12-21 07:38+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2055,7 +2055,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/30npc.msg:5
 msgid "{100}{}{[He sit in bushes and eat corn]}"
-msgstr ""
+msgstr "{100}{}{[Он сидит в кустах и ест кукурузу]}"
 
 #: english/data/text/english/dialog/30npc.msg:7
 msgid ""
@@ -2063,6 +2063,9 @@ msgid ""
 "{250}{}{Am waiting for night.. i seen incredible things trough window! Am "
 "tell you.. i seen everything! EVERY details! It was really HOT action!}"
 msgstr ""
+"{200}{}{Что ты здесь делаешь?}\n"
+"{250}{}{Дожидаюсь ночи... Я видел невероятные вещи через окно! Я тебе "
+"говорю... я видел все! КАЖДУЮ деталь! ОЧЕНЬ горячее шоу!}"
 
 #: english/data/text/english/dialog/30npc.msg:10
 msgid ""
@@ -2071,6 +2074,10 @@ msgid ""
 "Elders say many frighting stories about outside world, but i feel here so "
 "great!}"
 msgstr ""
+"{300}{}{Ты из Арройо... Я тебя где-то видел!}\n"
+"{350}{}{Мне нравится этот город, так что уйти оттуда было хорошим решением. "
+"Старейшины рассказывают много страшных историй про окружающий мир, но я тут "
+"чувствую себя отлично!}"
 
 #: english/data/text/english/dialog/30npc.msg:13
 msgid ""
@@ -2079,6 +2086,10 @@ msgid ""
 "dont have it.. and i dont like any mixtures, i got bad experiences in "
 "Arroyo. Shaman promises me wonderfull time but i was sick trough whole day! }"
 msgstr ""
+"{400}{}{У тебя есть пиво?}\n"
+"{450}{}{Ты имеешь ввиду эту желтую воду, которую я видел в баре? Нет, "
+"нету... мне не нравятся зелья, у меня был с ними плохой опыт в Арройо. Шаман "
+"обещал мне чудесное время, но я болел весь день!}"
 
 #. extracted from english/data/text/english/dialog/31npc.msg
 #, fuzzy
@@ -2101,12 +2112,17 @@ msgid ""
 "died there because it was too dangerous and nodoby want to help him. Now am "
 "alone and.. are you interested to be my new.. entertainment?}"
 msgstr ""
+"{100}{}{Месяц назад мой мужчина отправился за золотыми гекко в отравленные "
+"пещеры. Конечно, он погиб, потому что там слишком опасно и никто не хотел "
+"ему помочь. Теперь я одна, и... хочешь быть моим новым... развлечением?}"
 
 #: english/data/text/english/dialog/31npc.msg:7
 msgid ""
 "{200}{}{Uh i dont known.. probably.}\n"
 "{250}{}{I will give you ten coins for one night!}"
 msgstr ""
+"{200}{}{Ээ, не знаю... наверное.}\n"
+"{250}{}{Я дам тебе десять монет за одну ночь!}"
 
 #: english/data/text/english/dialog/31npc.msg:10
 msgid ""
@@ -2115,6 +2131,10 @@ msgid ""
 "Trough one night you take more wounds that trough whole travell from Klamath "
 "to Arroyo and back.]}"
 msgstr ""
+"{300}{}{Хорошо, я готов.}\n"
+"{350}{}{Дааа! [Она очень жестока, и пол усыпан битым стеклом. За одну ночь "
+"вы зарабатываете больше ран, чем за все время путешествия из Клэмата в "
+"Арройо и обратно.]}"
 
 #: english/data/text/english/dialog/31npc.msg:13
 msgid ""
@@ -2124,6 +2144,11 @@ msgid ""
 "{403}{}{Darling you are so sweet..}\n"
 "{404}{}{This was HOT! action..}"
 msgstr ""
+"{400}{}{Да... ты ДИКАЯ штучка!}\n"
+"{401}{}{Теперь я чувствую себя лучше!}\n"
+"{402}{}{Нам нужно это повторить попозже, не уходи из города, дорогой...}\n"
+"{403}{}{Дорогой, ты такой милый...}\n"
+"{404}{}{Это было ГОРЯЧО!}"
 
 #. extracted from english/data/text/english/dialog/32npc.msg
 #, fuzzy
@@ -2145,6 +2170,8 @@ msgid ""
 "{10}{}{Strange Folk. }\n"
 "{20}{}{He look crazy..}"
 msgstr ""
+"{10}{}{Странный народ.}\n"
+"{20}{}{Он выглядит чокнутым.}"
 
 #: english/data/text/english/dialog/32npc.msg:5
 msgid ""
@@ -2152,6 +2179,9 @@ msgid ""
 "between corner and boxes. He is almost unvisible so first time you think "
 "that dog which stand near say something to you..] }"
 msgstr ""
+"{100}{}{Давай я тебе покажу! [Вы слышите голос человека, спрятавшегося в "
+"маленьком переулке, между углом и коробками. Он почти незаметен, так что "
+"сначала вам показалось, что это сказала собака, стоящая неподалеку.]}"
 
 #: english/data/text/english/dialog/32npc.msg:7
 msgid ""
