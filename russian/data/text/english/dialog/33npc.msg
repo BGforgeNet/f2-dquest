@@ -1,20 +1,20 @@
 
-{10}{}{Dog. }
-{20}{}{Just some dirty dog..}
+{10}{}{Собака.}
+{20}{}{Просто какая-то грязная собака.}
 
-{100}{}{Grrrrr... }
+{100}{}{Грррр... }
 
-{200}{}{What is your name.. AZOR?! }
-{250}{}{Woof! }
+{200}{}{Как тебя зовут... ИТВА?!}
+{250}{}{Гав!}
 
-{300}{}{What is your name.. RAZOR?! }
-{350}{}{Grrrr.. Woof! }
+{300}{}Как тебя зовут... БРИТВА?!}
+{350}{}{Гррр... Гав!}
 
-{400}{}{What is your name stupid dog?! }
-{450}{}{[He "smiling" and it seem that its name is "stupid dog". This dog look very hungry.. and you wonder how he could helpfull when you bring him some meat..] }
+{400}{}{Как тебя зовут, глупая собака?!}
+{450}{}{[Он "улыбается", и похоже его действительно зовут "глупая собака]. Он выглядит очень голодным, и вы думаете как бы он мог быть полезен, если принести ему немного мяса.}
 
-{500}{}{Hey you, stupid dog! Take this! [throw him meat] }
-{550}{}{Grrr.. wof! wof! [He take meat and run behind house to hide it under sand.. and you see that its many items inside hole which he dig. Rags, bones, few coins and.. golden watch!] }
+{500}{}{Эй ты, глупая собака! Держи! [Вы кидаете ему мясо]}
+{550}{}{Грр... гав! гав! [Он хватает мясо и бежит за дом, чтобы спрятать его в песке... и вы видите много хлама в яме, которую он выкопал. Тряпки, кости, немного монет и... золотые часы!]}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

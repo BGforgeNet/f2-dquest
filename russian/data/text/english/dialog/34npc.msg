@@ -1,6 +1,6 @@
 
-{10}{}{Isabell Sweet. }
-{20}{}{One from pornstars working for Bathhouse.}
+{10}{}{Милашка Изабель.}
+{20}{}{Одна из порно звезд, работающих в Ванных.}
 
 {50}{}{ aaa }
 {51}{}{ bbb }
