@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-21 07:38+0000\n"
+"PO-Revision-Date: 2016-12-22 10:59+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2189,12 +2189,17 @@ msgid ""
 "{250}{}{Watch! [You see that he dont have any clothes under cloak! But he "
 "shown you so quick that you seen almost nothing.]}"
 msgstr ""
+"{200}{}{Ну... хорошо, показывай}\n"
+"{250}{}{Смотри! [Вы видите, что у него нет никакой одежды под плащом! Но он "
+"показал настолько быстро, что вы почти ничего не успели рассмотреть.]}"
 
 #: english/data/text/english/dialog/32npc.msg:10
 msgid ""
 "{300}{}{What you want from me?!}\n"
 "{350}{}{I will shown you! Just give me one coin!}"
 msgstr ""
+"{300}{}{Что тебе нужно?!}\n"
+"{350}{}{Я тебе показал! Давай монетку!}"
 
 #: english/data/text/english/dialog/32npc.msg:13
 msgid ""
@@ -2202,6 +2207,9 @@ msgid ""
 "{450}{}{I have something better.. WATCH! [He shown you his dirty body. You "
 "lost concentration, and almost fall on ground.] }"
 msgstr ""
+"{400}{}{У тебя есть пиво?}\n"
+"{450}{}{У меня есть кое-что получше... СМОТРИ! [Он показывает вам свое "
+"грязное тело. Вы теряете концентрацию, и почти падаете на землю.]}"
 
 #. extracted from english/data/text/english/dialog/33npc.msg
 #, fuzzy
@@ -2223,22 +2231,28 @@ msgid ""
 "{10}{}{Dog. }\n"
 "{20}{}{Just some dirty dog..}"
 msgstr ""
+"{10}{}{Собака.}\n"
+"{20}{}{Просто какая-то грязная собака.}"
 
 #: english/data/text/english/dialog/33npc.msg:5
 msgid "{100}{}{Grrrrr... }"
-msgstr ""
+msgstr "{100}{}{Грррр... }"
 
 #: english/data/text/english/dialog/33npc.msg:7
 msgid ""
 "{200}{}{What is your name.. AZOR?! }\n"
 "{250}{}{Woof! }"
 msgstr ""
+"{200}{}{Как тебя зовут... ИТВА?!}\n"
+"{250}{}{Гав!}"
 
 #: english/data/text/english/dialog/33npc.msg:10
 msgid ""
 "{300}{}{What is your name.. RAZOR?! }\n"
 "{350}{}{Grrrr.. Woof! }"
 msgstr ""
+"{300}{}Как тебя зовут... БРИТВА?!}\n"
+"{350}{}{Гррр... Гав!}"
 
 #: english/data/text/english/dialog/33npc.msg:13
 msgid ""
@@ -2247,6 +2261,10 @@ msgid ""
 "dog look very hungry.. and you wonder how he could helpfull when you bring "
 "him some meat..] }"
 msgstr ""
+"{400}{}{Как тебя зовут, глупая собака?!}\n"
+"{450}{}{[Он \"улыбается\", и похоже его действительно зовут \"глупая собака]"
+". Он выглядит очень голодным, и вы думаете как бы он мог быть полезен, если "
+"принести ему немного мяса.}"
 
 #: english/data/text/english/dialog/33npc.msg:16
 msgid ""
@@ -2255,6 +2273,10 @@ msgid ""
 "sand.. and you see that its many items inside hole which he dig. Rags, "
 "bones, few coins and.. golden watch!] }"
 msgstr ""
+"{500}{}{Эй ты, глупая собака! Держи! [Вы кидаете ему мясо]}\n"
+"{550}{}{Грр... гав! гав! [Он хватает мясо и бежит за дом, чтобы спрятать его "
+"в песке... и вы видите много хлама в яме, которую он выкопал. Тряпки, кости, "
+"немного монет и... золотые часы!]}"
 
 #. extracted from english/data/text/english/dialog/34npc.msg
 #, fuzzy
@@ -2276,6 +2298,8 @@ msgid ""
 "{10}{}{Isabell Sweet. }\n"
 "{20}{}{One from pornstars working for Bathhouse.}"
 msgstr ""
+"{10}{}{Милашка Изабель.}\n"
+"{20}{}{Одна из порно звезд, работающих в Ванных.}"
 
 #: english/data/text/english/dialog/34npc.msg:5
 #: english/data/text/english/dialog/35npc.msg:5
