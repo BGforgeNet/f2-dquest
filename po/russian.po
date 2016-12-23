@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-22 10:59+0000\n"
+"PO-Revision-Date: 2016-12-23 10:14+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2312,10 +2312,15 @@ msgid ""
 "{53}{}{ ddd }\n"
 "{54}{}{ eee }"
 msgstr ""
+"{50}{}{ ааа }\n"
+"{51}{}{ ббб }\n"
+"{52}{}{ ввв }\n"
+"{53}{}{ ггг }\n"
+"{54}{}{ ддд }"
 
 #: english/data/text/english/dialog/34npc.msg:11
 msgid "{100}{}{Hello stranger.. do you need some.. sweet time? }"
-msgstr ""
+msgstr "{100}{}{Привет, незнакомец. Хочешь... провести время приятно?}"
 
 #: english/data/text/english/dialog/34npc.msg:13
 msgid ""
@@ -2324,6 +2329,11 @@ msgid ""
 "colour.. probably it belong to some citizen, but am not sure. Well.. i dont "
 "believe in whole Vault of Future, nobody know where is this.. secret bunker.}"
 msgstr ""
+"{200}{}{Почему ты одет в комбинезон, ты житель убежища?}\n"
+"{250}{}{Ээ... нет... я купил его давным давно, потому что мне нравится синий "
+"цвет... наверно он принадлежал какому-то жителю, но я не уверен. В любом "
+"случае, я не верю во все это Убежище Будущего, никто не знает где этот... "
+"секретный бункер.}"
 
 #: english/data/text/english/dialog/34npc.msg:16
 msgid ""
@@ -2332,6 +2342,10 @@ msgid ""
 "am ready for.. action.. do you have some cash? [Then she sit on bed and put "
 "one leg on other] Do you like my.. perfumes?}"
 msgstr ""
+"{300}{}{Ты можешь говорить быстрее?}\n"
+"{350}{}{[Она облизывает свои сексуальные губы и говорит очень чувственным "
+"голосом]. Милый, я готова... у тебя есть наличка? [Она садится на кровать и "
+"кладет ногу на ногу]. Тебе нравится мой... парфюм?}"
 
 #: english/data/text/english/dialog/34npc.msg:19
 msgid ""
@@ -2340,6 +2354,10 @@ msgid ""
 "lay on bed and smell it] But if you will find any drugs.. give me some.. "
 "please..}"
 msgstr ""
+"{400}{}{У тебя есть пиво?}\n"
+"{450}{}{Милый, я не пью пиво... Спроси Сильвию... [она берет красный цветок "
+"с кровати и нюхает его]. Но если тебе попадутся наркотики... поделись, "
+"пожалуйста.}"
 
 #: english/data/text/english/dialog/34npc.msg:22
 #: english/data/text/english/dialog/37npc.msg:22
@@ -2349,6 +2367,9 @@ msgid ""
 "hurry you begin action, because you got 30 minutes of time to spend with "
 "her.}"
 msgstr ""
+"{500}{}{Когда вы заходите в комнату, она уже обнажилась и заняла свою "
+"любимую позицию. Вы приступаете в спешке, потому что у вас есть 30 минут с "
+"ней.}"
 
 #: english/data/text/english/dialog/34npc.msg:24
 #: english/data/text/english/dialog/37npc.msg:24
@@ -2361,6 +2382,12 @@ msgid ""
 "{505}{}{[T:25] }\n"
 "{506}{}{[T:30] TIME END! }"
 msgstr ""
+"{501}{}{[В:05] }\n"
+"{502}{}{[В:10] }\n"
+"{503}{}{[В:15] }\n"
+"{504}{}{[В:20] }\n"
+"{505}{}{[В:25] }\n"
+"{506}{}{[В:30] ВРЕМЯ ВЫШЛО!}"
 
 #: english/data/text/english/dialog/34npc.msg:31
 #: english/data/text/english/dialog/37npc.msg:31
