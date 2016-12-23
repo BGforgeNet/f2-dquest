@@ -2,11 +2,11 @@
 {10}{}{Sylvia Moon. }
 {20}{}{She is owner and guard of fame Bathhouse.}
 
-{50}{}{ aaa }
-{51}{}{ bbb }
-{52}{}{ ccc }
-{53}{}{ ddd }
-{54}{}{ eee }
+{50}{}{ ‡‡‡ }
+{51}{}{ ··· }
+{52}{}{ ‚‚‚ }
+{53}{}{ „„„ }
+{54}{}{ ‰‰‰ }
 
 {100}{}{Welcome to Bathhouse. We have three pornstars, each worth 30$ for half hour. Visit them in her rooms then select your favourite and come back to pay me. I will let you to spend with woman of your dream wonderfull time.}
 

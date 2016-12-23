@@ -2,11 +2,11 @@
 {10}{}{Paulina Hot. }
 {20}{}{One from pornstars working for Bathhouse.}
 
-{50}{}{ aaa }
-{51}{}{ bbb }
-{52}{}{ ccc }
-{53}{}{ ddd }
-{54}{}{ eee }
+{50}{}{ ааа }
+{51}{}{ ббб }
+{52}{}{ ввв }
+{53}{}{ ггг }
+{54}{}{ ддд }
 
 {100}{}{Hi. I seen you around, you are Klamath citizen, right? }
 
@@ -19,14 +19,14 @@
 {400}{}{Do you have beer?}
 {450}{}{Here? No! I dont have fridge, you known.. hot beer tasty ugly! If you need some drinks go to Arroyo, i heard that local shaman make very good "Schlager". Just one drink of that mixture and you fly away! Sadly it dont smell good, i wonder from what its made anyway!? }
 
-{500}{}{When you enter room she was naked in her favourite position and in hurry you begin action, because you got 30 minutes of time to spend with her.}
+{500}{}{Когда вы заходите в комнату, она уже обнажилась и заняла свою любимую позицию. Вы приступаете в спешке, потому что у вас есть 30 минут с ней.}
 
-{501}{}{[T:05] }
-{502}{}{[T:10] }
-{503}{}{[T:15] }
-{504}{}{[T:20] }
-{505}{}{[T:25] }
-{506}{}{[T:30] TIME END! }
+{501}{}{[В:05] }
+{502}{}{[В:10] }
+{503}{}{[В:15] }
+{504}{}{[В:20] }
+{505}{}{[В:25] }
+{506}{}{[В:30] ВРЕМЯ ВЫШЛО!}
 
 {600}{}{You try to fix spring which jump out from bed.. }
 {601}{}{You try to catch rat which run under bed..}

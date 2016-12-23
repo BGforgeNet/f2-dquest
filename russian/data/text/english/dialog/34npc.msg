@@ -2,31 +2,31 @@
 {10}{}{Милашка Изабель.}
 {20}{}{Одна из порно звезд, работающих в Ванных.}
 
-{50}{}{ aaa }
-{51}{}{ bbb }
-{52}{}{ ccc }
-{53}{}{ ddd }
-{54}{}{ eee }
+{50}{}{ ааа }
+{51}{}{ ббб }
+{52}{}{ ввв }
+{53}{}{ ггг }
+{54}{}{ ддд }
 
-{100}{}{Hello stranger.. do you need some.. sweet time? }
+{100}{}{Привет, незнакомец. Хочешь... провести время приятно?}
 
-{200}{}{Why you wear jumpsuit, are you vault citizen?}
-{250}{}{Uh.. no, am not.. i buy it long time ago because i like blue colour.. probably it belong to some citizen, but am not sure. Well.. i dont believe in whole Vault of Future, nobody know where is this.. secret bunker.}
+{200}{}{Почему ты одет в комбинезон, ты житель убежища?}
+{250}{}{Ээ... нет... я купил его давным давно, потому что мне нравится синий цвет... наверно он принадлежал какому-то жителю, но я не уверен. В любом случае, я не верю во все это Убежище Будущего, никто не знает где этот... секретный бункер.}
 
-{300}{}{Can you talk faster?}
-{350}{}{[She lick slowly her sexy lips and say very sensitive] Sweetheart, am ready for.. action.. do you have some cash? [Then she sit on bed and put one leg on other] Do you like my.. perfumes?}
+{300}{}{Ты можешь говорить быстрее?}
+{350}{}{[Она облизывает свои сексуальные губы и говорит очень чувственным голосом]. Милый, я готова... у тебя есть наличка? [Она садится на кровать и кладет ногу на ногу]. Тебе нравится мой... парфюм?}
 
-{400}{}{Do you have beer?}
-{450}{}{Honey.. i dont drink beer.. Ask Sylvia.. [she take red flower which lay on bed and smell it] But if you will find any drugs.. give me some.. please..}
+{400}{}{У тебя есть пиво?}
+{450}{}{Милый, я не пью пиво... Спроси Сильвию... [она берет красный цветок с кровати и нюхает его]. Но если тебе попадутся наркотики... поделись, пожалуйста.}
 
-{500}{}{When you enter room she was naked in her favourite position and in hurry you begin action, because you got 30 minutes of time to spend with her.}
+{500}{}{Когда вы заходите в комнату, она уже обнажилась и заняла свою любимую позицию. Вы приступаете в спешке, потому что у вас есть 30 минут с ней.}
 
-{501}{}{[T:05] }
-{502}{}{[T:10] }
-{503}{}{[T:15] }
-{504}{}{[T:20] }
-{505}{}{[T:25] }
-{506}{}{[T:30] TIME END! }
+{501}{}{[В:05] }
+{502}{}{[В:10] }
+{503}{}{[В:15] }
+{504}{}{[В:20] }
+{505}{}{[В:25] }
+{506}{}{[В:30] ВРЕМЯ ВЫШЛО!}
 
 {600}{}{You try to fix spring which jump out from bed.. }
 {601}{}{You try to catch rat which run under bed..}
