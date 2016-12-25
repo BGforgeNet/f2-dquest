@@ -17,7 +17,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/01npc.msg:2
 msgid ""
-"{10}{}{Guard. Test change to source files.}\n"
+"{10}{}{Guard. Test change to source files - 2.}\n"
 "{20}{}{They everyone tribals look the same..}"
 msgstr ""
 "{10}{}{Охранник. }\n"
