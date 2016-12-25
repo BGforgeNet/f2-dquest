@@ -1,6 +1,6 @@
 
-{10}{}{Paulina Hot. }
-{20}{}{One from pornstars working for Bathhouse.}
+{10}{}{Страстная Полина.}
+{20}{}{Одна из порнозвезд, работающих в Ванных комнатах.}
 
 {50}{}{ ааа }
 {51}{}{ ббб }
@@ -28,32 +28,32 @@
 {505}{}{[В:25] }
 {506}{}{[В:30] ВРЕМЯ ВЫШЛО!}
 
-{600}{}{You try to fix spring which jump out from bed.. }
-{601}{}{You try to catch rat which run under bed..}
-{602}{}{You drink water from glass..}
-{603}{}{You open window and take deep breatch..}
-{604}{}{You check corridor to be sure nobody hear you..}
-{605}{}{You check window to be sure nobody see you..}
-{606}{}{You lost concentration and fall on floor..}
-{607}{}{Ants walking on bed and you try to catch them.. }
-{608}{}{Dog scream from outside and deconcentrate you..}
-{609}{}{You fall into confusion and escape from room..}
-{610}{}{You got short heart attack and you feel tired.. }
-{611}{}{You feel tired and you sit on chair to rest..}
-{612}{}{Spider jump on your head and you fall in panic..}
-{613}{}{You try to change her position, but you cant.. }
-{614}{}{You kiss her wet and hot lips, she say "mmmmm".. }
-{615}{}{She move her legs slowly and lick own tits..}
-{616}{}{She say "Ooouuuh darling.. come on fill me!" }
-{617}{}{You try to strip own socks but they stuck..}
-{618}{}{You try to strip own shirt but it stuck..}
-{619}{}{You touch her legs and she say "ouuh yees.."}
+{600}{}{Вы пытаетесь починить пружину, выскочившую из кровати.}
+{601}{}{Вы пытаетесь поймать крысу, пробежавшую по кроватью.}
+{602}{}{Вы пьете воду из стакана.}
+{603}{}{Вы открываете окно и делаете глубокий вдох.}
+{604}{}{Вы проверяете коридор, чтобы убедиться, что вас никто не слышит.}
+{605}{}{Вы проверяете окно, чтобы убедиться, что не вас никто не смотрит}
+{606}{}{Вы теряете концентрацию и падаете на пол.}
+{607}{}{Муравьи бегают по кровати, и вы пытаесь их поймать.}
+{608}{}{Снаружи воет собака и отвлекает вас.}
+{609}{}{Вы смущаетесь и оставляете комнату.}
+{610}{}{У вас небольшой сердечный приступ, и вы устали.}
+{611}{}{Вы устали и присаживаетесь на стул, чтобы отдохнуть.}
+{612}{}{Паук прыгает вам на глову, и в панике, вы падаете.}
+{613}{}{Вы пытаетесь заставить ее сменить позицию, но у вас не получается.}
+{614}{}{Вы целуете ее в горячие и влажные губы, и она говорит "ммммммм".}
+{615}{}{Она медленно двигает ногами и лижет свои сиськи.}
+{616}{}{Она говорит "Ооооо, дорогой... наполни меня!"}
+{617}{}{Вы пытаетесь снять свои носки, но у вас не получается.}
+{618}{}{Вы пытаетесь снять свою рубашку, но застреваете в ней.}
+{619}{}{Вы трогаете ее ноги, и она говоит "ооооо даа"}
 {620}{}{ }
 {621}{}{ }
 {622}{}{ }
 {623}{}{ }
 
-{700}{}{ pyt3 }
+{700}{}{ пит3 }
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

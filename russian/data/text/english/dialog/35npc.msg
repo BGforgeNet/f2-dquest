@@ -1,6 +1,6 @@
 
-{10}{}{Sylvia Moon. }
-{20}{}{She is owner and guard of fame Bathhouse.}
+{10}{}[Сильвия Мун}
+{20}{}{Она владелец и хранитель славы Ванных комнат.}
 
 {50}{}{ ааа }
 {51}{}{ ббб }
@@ -8,27 +8,27 @@
 {53}{}{ ггг }
 {54}{}{ ддд }
 
-{100}{}{Welcome to Bathhouse. We have three pornstars, each worth 30$ for half hour. Visit them in her rooms then select your favourite and come back to pay me. I will let you to spend with woman of your dream wonderfull time.}
+{100}{}{Добро пожаловать в Ванные комнаты. У нас есть три порнозвезды, каждая по 30 долларов за полчаса. Зайдите к ним в комнаты, выберите понравившуюсь и возвращайтесь ко мне, чтобы оплатить. Я обеспечу вам чудесное времяпровождение с женщиной вашей мечты.}
 
-{200}{}{I want sleep with Isabell Sweet. }
-{250}{}{Thank you darling. Isabell Sweet is now ready for you, go to her room.. [She take from you 30 coins and very sensitive point finger on corridor]}
-{260}{}{Sorry but you dont have enough money. Come back later. }
+{200}{}{Я хочу переспасть с Милашкой Изабель.}
+{250}{}{Благодарю, дорогой. Милашка Изабель готова, проходи в ее комнату. [Она берет у вас 30 монет и указывает на коридор нежным пальчиком.]}
+{260}{}{Извини, но у тебя недостаточно денег. Приходи в следующий раз.}
 
-{300}{}{Paulina Hot is woman of my dreams.}
-{350}{}{Thank you darling. Paulina Hot is now ready for you, go to her room.. [She take from you 30 coins and very sensitive point finger on corridor]}
-{360}{}{Sorry but you dont have enough money. Come back later. }
+{300}{}{Я хочу переспасть со Страстной Полиной.}
+{350}{}{Благодарю, дорогой. Страстная Полина готова, проходи в ее комнату. [Она берет у вас 30 монет и указывает на коридор нежным пальчиком.]}
+{360}{}{Извини, но у тебя недостаточно денег. Приходи в следующий раз.}
 
-{400}{}{Give me night with Samantha Wet.}
-{450}{}{Thank you darling. Samantha Wet is now ready for you, go to her room.. [She take from you 30 coins and very sensitive point finger on corridor]}
-{460}{}{Sorry but you dont have enough money. Come back later. }
+{400}{}{Я хочу переспасть со Влажной Самантой.}
+{450}{}{Благодарю, дорогой. Влажная Саманта готова, проходи в ее комнату. [Она берет у вас 30 монет и указывает на коридор нежным пальчиком.]}
+{460}{}{Извини, но у тебя недостаточно денег. Приходи в следующий раз.}
 
-{500}{}{Why you carry this shotgun?}
-{550}{}{Our girls are really good, almost that good as pornstars from New Reno. Someone could try to capture them and sell later to slavery guild. So i keep them as treasure. Anyway they dont want to work when dont feel safety enough.}
+{500}{}{Зачем ты носишь этот дробовик?}
+{550}{}{У нас очень хорошие девочки, почти как порнозвезды из Нью Рино. Кто-то может попытаться захватить их и продать гильдии работорговцев. Так что я охраняю их словно сокровище. И в любом случае, они не хотят работать, когда чувствуют себя небезопасно.}
 
-{600}{}{I want to be movie pornstar!}
-{650}{}{We dont make movies here, you must visit New Reno "Porn Club". Ofcourse they will dont hire you as "actor" if your "experience" is lower than 10. Already your SEX-EXP is: }
+{600}{}{Я хочу быть порнозвездой!}
+{650}{}{Мы здесь не снимаем фильмов, тебе нужно в "Порно Клуб" в Нью Рино. Конечно, они не наймут тебя актером, если твой опыт меньше 10. Сейчас твой СЕКС-ОПЫТ: }
 
-{700}{}{ pyt6 }
+{700}{}{ пит6 }
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
