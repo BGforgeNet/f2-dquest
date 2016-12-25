@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-23 10:14+0000\n"
+"PO-Revision-Date: 2016-12-25 11:11+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2418,12 +2418,36 @@ msgid ""
 "{622}{}{ }\n"
 "{623}{}{ }"
 msgstr ""
+"{600}{}{Вы пытаетесь починить пружину, выскочившую из кровати.}\n"
+"{601}{}{Вы пытаетесь поймать крысу, пробежавшую по кроватью.}\n"
+"{602}{}{Вы пьете воду из стакана.}\n"
+"{603}{}{Вы открываете окно и делаете глубокий вдох.}\n"
+"{604}{}{Вы проверяете коридор, чтобы убедиться, что вас никто не слышит.}\n"
+"{605}{}{Вы проверяете окно, чтобы убедиться, что не вас никто не смотрит}\n"
+"{606}{}{Вы теряете концентрацию и падаете на пол.}\n"
+"{607}{}{Муравьи бегают по кровати, и вы пытаесь их поймать.}\n"
+"{608}{}{Снаружи воет собака и отвлекает вас.}\n"
+"{609}{}{Вы смущаетесь и оставляете комнату.}\n"
+"{610}{}{У вас небольшой сердечный приступ, и вы устали.}\n"
+"{611}{}{Вы устали и присаживаетесь на стул, чтобы отдохнуть.}\n"
+"{612}{}{Паук прыгает вам на глову, и в панике, вы падаете.}\n"
+"{613}{}{Вы пытаетесь заставить ее сменить позицию, но у вас не получается.}\n"
+"{614}{}{Вы целуете ее в горячие и влажные губы, и она говорит \"ммммммм\".}\n"
+"{615}{}{Она медленно двигает ногами и лижет свои сиськи.}\n"
+"{616}{}{Она говорит \"Ооооо, дорогой... наполни меня!\"}\n"
+"{617}{}{Вы пытаетесь снять свои носки, но у вас не получается.}\n"
+"{618}{}{Вы пытаетесь снять свою рубашку, но застреваете в ней.}\n"
+"{619}{}{Вы трогаете ее ноги, и она говоит \"ооооо даа\"}\n"
+"{620}{}{ }\n"
+"{621}{}{ }\n"
+"{622}{}{ }\n"
+"{623}{}{ }"
 
 #: english/data/text/english/dialog/34npc.msg:56
 #: english/data/text/english/dialog/37npc.msg:56
 #: english/data/text/english/dialog/38npc.msg:56
 msgid "{700}{}{ pyt3 }"
-msgstr ""
+msgstr "{700}{}{ пит3 }"
 
 #. extracted from english/data/text/english/dialog/35npc.msg
 #, fuzzy
@@ -2445,6 +2469,8 @@ msgid ""
 "{10}{}{Sylvia Moon. }\n"
 "{20}{}{She is owner and guard of fame Bathhouse.}"
 msgstr ""
+"{10}{}[Сильвия Мун}\n"
+"{20}{}{Она владелец и хранитель славы Ванных комнат.}"
 
 #: english/data/text/english/dialog/35npc.msg:11
 msgid ""
@@ -2452,6 +2478,10 @@ msgid ""
 "half hour. Visit them in her rooms then select your favourite and come back "
 "to pay me. I will let you to spend with woman of your dream wonderfull time.}"
 msgstr ""
+"{100}{}{Добро пожаловать в Ванные комнаты. У нас есть три порнозвезды, "
+"каждая по 30 долларов за полчаса. Зайдите к ним в комнаты, выберите "
+"понравившуюсь и возвращайтесь ко мне, чтобы оплатить. Я обеспечу вам "
+"чудесное времяпровождение с женщиной вашей мечты.}"
 
 #: english/data/text/english/dialog/35npc.msg:13
 msgid ""
@@ -2461,6 +2491,10 @@ msgid ""
 "corridor]}\n"
 "{260}{}{Sorry but you dont have enough money. Come back later. }"
 msgstr ""
+"{200}{}{Я хочу переспасть с Милашкой Изабель.}\n"
+"{250}{}{Благодарю, дорогой. Милашка Изабель готова, проходи в ее комнату. ["
+"Она берет у вас 30 монет и указывает на коридор нежным пальчиком.]}\n"
+"{260}{}{Извини, но у тебя недостаточно денег. Приходи в следующий раз.}"
 
 #: english/data/text/english/dialog/35npc.msg:17
 msgid ""
@@ -2470,6 +2504,10 @@ msgid ""
 "corridor]}\n"
 "{360}{}{Sorry but you dont have enough money. Come back later. }"
 msgstr ""
+"{300}{}{Я хочу переспасть со Страстной Полиной.}\n"
+"{350}{}{Благодарю, дорогой. Страстная Полина готова, проходи в ее комнату. ["
+"Она берет у вас 30 монет и указывает на коридор нежным пальчиком.]}\n"
+"{360}{}{Извини, но у тебя недостаточно денег. Приходи в следующий раз.}"
 
 #: english/data/text/english/dialog/35npc.msg:21
 msgid ""
@@ -2479,6 +2517,10 @@ msgid ""
 "corridor]}\n"
 "{460}{}{Sorry but you dont have enough money. Come back later. }"
 msgstr ""
+"{400}{}{Я хочу переспасть со Влажной Самантой.}\n"
+"{450}{}{Благодарю, дорогой. Влажная Саманта готова, проходи в ее комнату. ["
+"Она берет у вас 30 монет и указывает на коридор нежным пальчиком.]}\n"
+"{460}{}{Извини, но у тебя недостаточно денег. Приходи в следующий раз.}"
 
 #: english/data/text/english/dialog/35npc.msg:25
 msgid ""
@@ -2488,6 +2530,11 @@ msgid ""
 "i keep them as treasure. Anyway they dont want to work when dont feel safety "
 "enough.}"
 msgstr ""
+"{500}{}{Зачем ты носишь этот дробовик?}\n"
+"{550}{}{У нас очень хорошие девочки, почти как порнозвезды из Нью Рино. Кто-"
+"то может попытаться захватить их и продать гильдии работорговцев. Так что я "
+"охраняю их словно сокровище. И в любом случае, они не хотят работать, когда "
+"чувствуют себя небезопасно.}"
 
 #: english/data/text/english/dialog/35npc.msg:28
 msgid ""
@@ -2496,10 +2543,14 @@ msgid ""
 "Ofcourse they will dont hire you as \"actor\" if your \"experience\" is "
 "lower than 10. Already your SEX-EXP is: }"
 msgstr ""
+"{600}{}{Я хочу быть порнозвездой!}\n"
+"{650}{}{Мы здесь не снимаем фильмов, тебе нужно в \"Порно Клуб\" в Нью Рино. "
+"Конечно, они не наймут тебя актером, если твой опыт меньше 10. Сейчас твой "
+"СЕКС-ОПЫТ: }"
 
 #: english/data/text/english/dialog/35npc.msg:31
 msgid "{700}{}{ pyt6 }"
-msgstr ""
+msgstr "{700}{}{ пит6 }"
 
 #. extracted from english/data/text/english/dialog/36npc.msg
 #, fuzzy
@@ -2518,7 +2569,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/36npc.msg:2
 msgid "{100}{}{Wooden door.}"
-msgstr ""
+msgstr "{100}{}{Деревянная дверь.}"
 
 #. extracted from english/data/text/english/dialog/37npc.msg
 #, fuzzy
@@ -2540,6 +2591,8 @@ msgid ""
 "{10}{}{Paulina Hot. }\n"
 "{20}{}{One from pornstars working for Bathhouse.}"
 msgstr ""
+"{10}{}{Страстная Полина.}\n"
+"{20}{}{Одна из порнозвезд, работающих в Ванных комнатах.}"
 
 #: english/data/text/english/dialog/37npc.msg:11
 msgid "{100}{}{Hi. I seen you around, you are Klamath citizen, right? }"
