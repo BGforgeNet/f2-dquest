@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-25 11:11+0000\n"
+"PO-Revision-Date: 2016-12-26 09:13+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2596,7 +2596,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/37npc.msg:11
 msgid "{100}{}{Hi. I seen you around, you are Klamath citizen, right? }"
-msgstr ""
+msgstr "{100}{}{Привет. Я тебя где-то видел, ты житель Клэмата, да?}"
 
 #: english/data/text/english/dialog/37npc.msg:13
 msgid ""
@@ -2607,6 +2607,12 @@ msgid ""
 "get some cash. Am not sure where they disappear and whats happend.. but it "
 "must be some tragic accident. Well, am still alive!  }"
 msgstr ""
+"{200}{}{Мне нравится твой стиль.}\n"
+"{250}{}{[Она кажется очень удачливой и ловкой]. Спасибо. Но к сожалению, мне "
+"не нравится твой, хаха! Многие зовут меня КОШКА. Раньше я была вором, членом "
+"банды якудза. Но я давно потеряла с ними связь, так что нанялась в ванные "
+"комнаты, чтобы позаработать. Не уверена, что с ними случилось... должно "
+"быть, какая-то трагедия. Ну, зато я все еще жива!}"
 
 #: english/data/text/english/dialog/37npc.msg:16
 msgid ""
@@ -2615,6 +2621,10 @@ msgid ""
 "peoples spend lot of money to be in your situation. I mean that wonderfull "
 "time when you forgot everything.. and dont care about whole problems! }"
 msgstr ""
+"{300}{}{Я не помню свою жену и детей, должно быть где-то ударился головой.}\n"
+"{350}{}{Ха! Нет, наверное это из-за радиации. Но не грусти, многие платят "
+"хорошие деньги, чтобы оказаться в твоей ситуации. Я имею ввиду, это же "
+"чудесно, когда ты все забыл, и никакие проблемы тебя больше не беспокоят.}"
 
 #: english/data/text/english/dialog/37npc.msg:19
 msgid ""
@@ -2624,6 +2634,11 @@ msgid ""
 "\"Schlager\". Just one drink of that mixture and you fly away! Sadly it dont "
 "smell good, i wonder from what its made anyway!? }"
 msgstr ""
+"{400}{}{У тебя есть пиво?}\n"
+"{450}{}{Здесь? Нет! У меня холодильника... а теплое пиво ужасно на вкус. "
+"Если хочешь выпить, отправляйся в Арройо, я слышала, что тамошний шаман "
+"делает очень хороший \"Шлагер\". Один глоток этого зелья, и ты улетишь! "
+"Правда, оно не очень хорошо пахнет... интересно, из чего оно сделано?!}"
 
 #. extracted from english/data/text/english/dialog/38npc.msg
 #, fuzzy
@@ -2645,6 +2660,8 @@ msgid ""
 "{10}{}{Samantha Wet. }\n"
 "{20}{}{One from pornstars working for Bathhouse.}"
 msgstr ""
+"{10}{}{Влажная Саманта.}\n"
+"{20}{}{Одна из порнозвезд, работающих в Ванных комнатах.}"
 
 #: english/data/text/english/dialog/38npc.msg:11
 msgid ""
@@ -2652,12 +2669,17 @@ msgid ""
 "things which you never seen.. are you ready? Pay 30$ and come back.. am "
 "waiting for you..}"
 msgstr ""
+"{100}{}{[Она выглядит очень \"опытной\" и... дикой] Я покажу тебе такое, "
+"чего ты никогда не видел... ты готов? Плати 30 долларов и возвращайся... я "
+"тебе жду...}"
 
 #: english/data/text/english/dialog/38npc.msg:13
 msgid ""
 "{200}{}{I have hole in my memories.}\n"
 "{250}{}{Do you want to hear about my.. wet holes?}"
 msgstr ""
+"{200}{}{У меня дыра в воспоминаниях.}\n"
+"{250}{}{Хочешь услышать про мои... влажные дыры?}"
 
 #: english/data/text/english/dialog/38npc.msg:16
 msgid ""
@@ -2668,12 +2690,21 @@ msgid ""
 "Here i fell safety.. and they pay me not bad at all. I played in few movies, "
 "such like \"Fill me twice\" or \"Mega tits vol3\".. maybe you seen them? }"
 msgstr ""
+"{300}{}{Ты снималась в порнофильмах?}\n"
+"{350}{}{Да... я настоящая порнозвезда из Нью Рино. Я прячусь здесь, потому "
+"что прочитала записную книжку одного мафиози... и он знает об этом! Там было "
+"все - платежи, секретные агенты, производство наркотиков... Черт! Я такая "
+"дура что украла его! Тут я чувствую себя в безопасноти... и мне неплохо "
+"платят. Я снималась в нескольких фильмах, вроде \"Наполни меня дважды\" и \""
+"Мега сиськи том 3\"... может быть, ты их видел?}"
 
 #: english/data/text/english/dialog/38npc.msg:19
 msgid ""
 "{400}{}{Uh.. i forgot what i wanted to ask you..}\n"
 "{450}{}{Then come bak later.. i must get shower..}"
 msgstr ""
+"{400}{}{Э... Я забыл, что хотел спросить.}\n"
+"{450}{}{Тогда возвращайся позже... мне надо помыться.}"
 
 #. extracted from english/data/text/english/dialog/39npc.msg
 #, fuzzy
@@ -2696,6 +2727,8 @@ msgid ""
 "{10}{}{Dalton. }\n"
 "{20}{}{One from Dalton brothers, they are very similar..}"
 msgstr ""
+"{10}{}{Далтон.}\n"
+"{20}{}{Один из братьев Далтонов, они очень похожи.}"
 
 #: english/data/text/english/dialog/39npc.msg:5
 msgid "{100}{}{[He scream on his brother, then say] What you want?}"
