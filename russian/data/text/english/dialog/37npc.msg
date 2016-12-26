@@ -8,16 +8,16 @@
 {53}{}{ ггг }
 {54}{}{ ддд }
 
-{100}{}{Hi. I seen you around, you are Klamath citizen, right? }
+{100}{}{Привет. Я тебя где-то видел, ты житель Клэмата, да?}
 
-{200}{}{I like your style.}
-{250}{}{[She seem to be very lucky and agile] Thanx. But sadly.. i dont like yours haha! Many peoples call me CAT. I was thief once, member of Yakuza team. But i lost with them contact long time ago, so i hired in bathhouse to get some cash. Am not sure where they disappear and whats happend.. but it must be some tragic accident. Well, am still alive!  }
+{200}{}{Мне нравится твой стиль.}
+{250}{}{[Она кажется очень удачливой и ловкой]. Спасибо. Но к сожалению, мне не нравится твой, хаха! Многие зовут меня КОШКА. Раньше я была вором, членом банды якудза. Но я давно потеряла с ними связь, так что нанялась в ванные комнаты, чтобы позаработать. Не уверена, что с ними случилось... должно быть, какая-то трагедия. Ну, зато я все еще жива!}
 
-{300}{}{I dont remember my wife and kids, i must hit brain somewhere..}
-{350}{}{Hah! No its probably because radiation. But dont be so sad, many peoples spend lot of money to be in your situation. I mean that wonderfull time when you forgot everything.. and dont care about whole problems! }
+{300}{}{Я не помню свою жену и детей, должно быть где-то ударился головой.}
+{350}{}{Ха! Нет, наверное это из-за радиации. Но не грусти, многие платят хорошие деньги, чтобы оказаться в твоей ситуации. Я имею ввиду, это же чудесно, когда ты все забыл, и никакие проблемы тебя больше не беспокоят.}
 
-{400}{}{Do you have beer?}
-{450}{}{Here? No! I dont have fridge, you known.. hot beer tasty ugly! If you need some drinks go to Arroyo, i heard that local shaman make very good "Schlager". Just one drink of that mixture and you fly away! Sadly it dont smell good, i wonder from what its made anyway!? }
+{400}{}{У тебя есть пиво?}
+{450}{}{Здесь? Нет! У меня холодильника... а теплое пиво ужасно на вкус. Если хочешь выпить, отправляйся в Арройо, я слышала, что тамошний шаман делает очень хороший "Шлагер". Один глоток этого зелья, и ты улетишь! Правда, оно не очень хорошо пахнет... интересно, из чего оно сделано?!}
 
 {500}{}{Когда вы заходите в комнату, она уже обнажилась и заняла свою любимую позицию. Вы приступаете в спешке, потому что у вас есть 30 минут с ней.}
 

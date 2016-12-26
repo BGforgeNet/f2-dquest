@@ -1,6 +1,6 @@
 
-{10}{}{Samantha Wet. }
-{20}{}{One from pornstars working for Bathhouse.}
+{10}{}{Влажная Саманта.}
+{20}{}{Одна из порнозвезд, работающих в Ванных комнатах.}
 
 {50}{}{ ааа }
 {51}{}{ ббб }
@@ -8,16 +8,16 @@
 {53}{}{ ггг }
 {54}{}{ ддд }
 
-{100}{}{[She seem to be very "experienced" and.. crazy] I will show you things which you never seen.. are you ready? Pay 30$ and come back.. am waiting for you..}
+{100}{}{[Она выглядит очень "опытной" и... дикой] Я покажу тебе такое, чего ты никогда не видел... ты готов? Плати 30 долларов и возвращайся... я тебе жду...}
 
-{200}{}{I have hole in my memories.}
-{250}{}{Do you want to hear about my.. wet holes?}
+{200}{}{У меня дыра в воспоминаниях.}
+{250}{}{Хочешь услышать про мои... влажные дыры?}
 
-{300}{}{Do you play in porn movies?}
-{350}{}{Yes.. am real pornstar.. from New Reno. I hide here because i read notebook from one mafioso.. and he known about that! There was every payments, secret agents, drugs facility.. Damn! i was so stupid to steal it! Here i fell safety.. and they pay me not bad at all. I played in few movies, such like "Fill me twice" or "Mega tits vol3".. maybe you seen them? }
+{300}{}{Ты снималась в порнофильмах?}
+{350}{}{Да... я настоящая порнозвезда из Нью Рино. Я прячусь здесь, потому что прочитала записную книжку одного мафиози... и он знает об этом! Там было все - платежи, секретные агенты, производство наркотиков... Черт! Я такая дура что украла его! Тут я чувствую себя в безопасноти... и мне неплохо платят. Я снималась в нескольких фильмах, вроде "Наполни меня дважды" и "Мега сиськи том 3"... может быть, ты их видел?}
 
-{400}{}{Uh.. i forgot what i wanted to ask you..}
-{450}{}{Then come bak later.. i must get shower..}
+{400}{}{Э... Я забыл, что хотел спросить.}
+{450}{}{Тогда возвращайся позже... мне надо помыться.}
 
 {500}{}{Когда вы заходите в комнату, она уже обнажилась и заняла свою любимую позицию. Вы приступаете в спешке, потому что у вас есть 30 минут с ней.}
 

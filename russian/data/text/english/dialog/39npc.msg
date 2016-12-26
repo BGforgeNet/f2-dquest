@@ -1,6 +1,6 @@
 
-{10}{}{Dalton. }
-{20}{}{One from Dalton brothers, they are very similar..}
+{10}{}{Далтон.}
+{20}{}{Один из братьев Далтонов, они очень похожи.}
 
 {100}{}{[He scream on his brother, then say] What you want?}
 
