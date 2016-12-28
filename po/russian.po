@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-26 09:13+0000\n"
+"PO-Revision-Date: 2016-12-28 03:30+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2733,6 +2733,8 @@ msgstr ""
 #: english/data/text/english/dialog/39npc.msg:5
 msgid "{100}{}{[He scream on his brother, then say] What you want?}"
 msgstr ""
+"{100}{}{[Он орет на своего брата, затем поворачивается и спрашивает] Чего "
+"тебе?}"
 
 #: english/data/text/english/dialog/39npc.msg:7
 msgid ""
@@ -2741,12 +2743,18 @@ msgid ""
 "he got these keys last time! I remember that clearly.. we go to bar and "
 "drink whole night.. i seen him when he thrown keys on barman!}"
 msgstr ""
+"{200}{}{Мм... что случилось}\n"
+"{250}{}{Мой брат СНОВА потерял ключи от дома, и валит все на меня! Но ключи "
+"были у него! Я точно помню... мы пошли в бар и пили там целую ночь... я "
+"видел, как он бросил ключи в бармена!}"
 
 #: english/data/text/english/dialog/39npc.msg:10
 msgid ""
 "{300}{}{Do you have beer?}\n"
 "{350}{}{No i dont have and i DONT care about your problems!}"
 msgstr ""
+"{300}{}{У тебя есть пиво?}\n"
+"{350}{}{Нету, и мне насрать на твои проблемы!}"
 
 #: english/data/text/english/dialog/39npc.msg:13
 msgid ""
@@ -2755,6 +2763,10 @@ msgid ""
 "like you, who have holes in memories because experiment too much with drugs "
 "and radioactive beers from \"Gecko Plant\"}"
 msgstr ""
+"{400}{}{Ты меня помнишь?}\n"
+"{450}{}{Конечно... ты местный неудачник, в этом городе полно таких как ты с "
+"провалами в воспоминаниях из-за злоупотребления наркотиками и радиоактивным "
+"пивом с \"Станции Гекко\"}"
 
 #. extracted from english/data/text/english/dialog/40npc.msg
 #, fuzzy
@@ -2779,6 +2791,11 @@ msgid ""
 "{103}{}{YOU should known mister.. brain!}\n"
 "{104}{}{So what we will do now?!}"
 msgstr ""
+"{100}{}{Ты говнюк!}\n"
+"{101}{}{Да не было их у меня!}\n"
+"{102}{}{Не было? Ты всегда кладешь ключи туда!}\n"
+"{103}{}{ТЫ должен знать, мистер... мозг!}\n"
+"{104}{}{Так что будем делать?!}"
 
 #. extracted from english/data/text/english/dialog/41npc.msg
 #, fuzzy
@@ -2797,7 +2814,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/41npc.msg:2
 msgid "{10}{}{Daltons house. }"
-msgstr ""
+msgstr "{10}{}{Дом Далтонов.}"
 
 #: english/data/text/english/dialog/41npc.msg:4
 msgid ""
@@ -2805,22 +2822,25 @@ msgid ""
 "{30}{}{What treasures could contain Daltons house? }\n"
 "{40}{}{What treasures could contain Daltons house? }"
 msgstr ""
+"{20}{}{Какие сокровища могут быть спрятаны в доме Далтонов?}\n"
+"{30}{}{Какие сокровища могут быть спрятаны в доме Далтонов?}\n"
+"{40}{}{Какие сокровища могут быть спрятаны в доме Далтонов?}"
 
 #: english/data/text/english/dialog/41npc.msg:8
 msgid "{50}{}{No chances to open them.. }"
-msgstr ""
+msgstr "{50}{}{Открыть не получится, без шансов.}"
 
 #: english/data/text/english/dialog/41npc.msg:10
 msgid "{60}{}{Uh.. locked! }"
-msgstr ""
+msgstr "{60}{}{Эх, закрыто!}"
 
 #: english/data/text/english/dialog/41npc.msg:12
 msgid "{70}{}{You unlock doors! }"
-msgstr ""
+msgstr "{70}{}{Вы открыли двери!}"
 
 #: english/data/text/english/dialog/41npc.msg:14
 msgid "{80}{}{You lock doors. }"
-msgstr ""
+msgstr "{80}{}{Вы закрыли двери.}"
 
 #. extracted from english/data/text/english/dialog/42npc.msg
 #, fuzzy
