@@ -1,15 +1,15 @@
 
-{10}{}{Daltons house. }
+{10}{}{Дом Далтонов.}
 
-{20}{}{What treasures could contain Daltons house? }
-{30}{}{What treasures could contain Daltons house? }
-{40}{}{What treasures could contain Daltons house? }
+{20}{}{Какие сокровища могут быть спрятаны в доме Далтонов?}
+{30}{}{Какие сокровища могут быть спрятаны в доме Далтонов?}
+{40}{}{Какие сокровища могут быть спрятаны в доме Далтонов?}
 
-{50}{}{No chances to open them.. }
+{50}{}{Открыть не получится, без шансов.}
 
-{60}{}{Uh.. locked! }
+{60}{}{Эх, закрыто!}
 
-{70}{}{You unlock doors! }
+{70}{}{Вы открыли двери!}
 
-{80}{}{You lock doors. }
+{80}{}{Вы закрыли двери.}
 

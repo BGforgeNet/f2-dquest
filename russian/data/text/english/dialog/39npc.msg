@@ -2,16 +2,16 @@
 {10}{}{Далтон.}
 {20}{}{Один из братьев Далтонов, они очень похожи.}
 
-{100}{}{[He scream on his brother, then say] What you want?}
+{100}{}{[Он орет на своего брата, затем поворачивается и спрашивает] Чего тебе?}
 
-{200}{}{Uh.. whats going on?}
-{250}{}{My brother lost keys to house AGAIN and he say that it was me! But he got these keys last time! I remember that clearly.. we go to bar and drink whole night.. i seen him when he thrown keys on barman!}
+{200}{}{Мм... что случилось}
+{250}{}{Мой брат СНОВА потерял ключи от дома, и валит все на меня! Но ключи были у него! Я точно помню... мы пошли в бар и пили там целую ночь... я видел, как он бросил ключи в бармена!}
 
-{300}{}{Do you have beer?}
-{350}{}{No i dont have and i DONT care about your problems!}
+{300}{}{У тебя есть пиво?}
+{350}{}{Нету, и мне насрать на твои проблемы!}
 
-{400}{}{Do you remember me?}
-{450}{}{Yes ofcourse.. you are local loser, this town is full of peoples like you, who have holes in memories because experiment too much with drugs and radioactive beers from "Gecko Plant"}
+{400}{}{Ты меня помнишь?}
+{450}{}{Конечно... ты местный неудачник, в этом городе полно таких как ты с провалами в воспоминаниях из-за злоупотребления наркотиками и радиоактивным пивом с "Станции Гекко"}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
