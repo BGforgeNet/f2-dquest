@@ -1,14 +1,14 @@
 
-{10}{}{Soldier. }
-{20}{}{He wear extremly dirty armor..}
+{10}{}{Солдат.}
+{20}{}{На нем очень грязная броня.}
 
-{100}{}{[He look at you trough shade glasses and say something with cigarette in mouth] Hey folk, come here.. i have business for you.}
+{100}{}{[Он смотрим на тебя через солнечные очки и говорит, держа сигарету во рту] Эй чувак, иди сюда... у меня к тебе дело.}
 
-{200}{}{Me? What you want?}
-{250}{}{I lost somewhere my dog tags, am not sure where because i was drunken. They could be in bathhouse because i dont remember any other place where i could lost them, check this place.. i will give you something for you trouble..}
+{200}{}{Я? Что тебе нужно?}
+{250}{}{Я где-то потерял свой номерок, и не уверен где, потому что был пьян. Может, в Ванных комната, потому что я не не помню других мест, где я мог бы его потерять. Посмотри там, я тебе чем-нибудь отплачу.}
 
-{300}{}{Yes they was in Bathhouse.}
-{350}{}{Thanx! Take this lighter i found them many on battlefield..}
+{300}{}{Да, он был в Ванных комнатах.}
+{350}{}{Спасибо! Возьми эту зажигалку, мне много таких попадалось на поле битвы.}
 
 {400}{}{Sierra Army, now that was massacre!}
 {401}{}{And do you remember Hangar18 in Navarro?}

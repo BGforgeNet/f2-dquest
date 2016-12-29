@@ -1,28 +1,28 @@
 
-{10}{}{New bartender. }
-{20}{}{Crazy folk..}
+{10}{}{Новый бармен.}
+{20}{}{Чокнутые...}
 
-{100}{}{Yes! hahah! I have record! YEAH!}
+{100}{}{Да! Хаха! У меня рекорд! ДА!}
 
-{200}{}{What you do?}
-{250}{}{Am playing Giana Sister.. JUMP YOU BITCH! ..damn! ..YEAH! [he point on some pixels on monitor and say] Look i olways get problems to get these diamonds, i think it must be unvisible platform to jump for this bonus..}
+{200}{}{Что ты делаешь?}
+{250}{}Играю в Сестру Джиану... ПРЯМО НА ТЕБЯ!.. Черт!.. ДА! [он показывает на пиксели на мониторе и говорит] Слушай, я никогда не могу добрать до этих бриллиантов, я думаю там должна быть невидимая платформа, чтобы допрыгнуть до этого бонуса.}
 
-{300}{}{What is that.. machine?}
-{350}{}{C64, old comp but so many cool games! Yes i should use it to count stock and payments but i found its entertainment possibilities and now i cant stop!}
+{300}{}{Что это за... машина?}
+{350}{}{К64, старый компьютер, но так много классных игр! Да, я могу использовать его чтобы вести учет, но я обнаружил его развлекательные способности, и теперь не могу остановиться!}
 
-{400}{}{Are you bartender? I want beer!}
-{450}{}{Yeah! Wonderfull job! Sory we will talk later! [you see only flashing pixels on monitor monitor, but he seem to be very busy on them] NOW! ..hahah BONUS! ..run ..RUN ..RUN!! ..YEAH NEXT LEVEL!!}
+{400}{}{Ты бармен! Я хочу пива!}
+{450}{}{Да! Отлично! Извини, поговорим позже! [вы видите только мелькающие пиксели на мониторе, но похоже они его очень увлекают]. Сейчас!... Хаха БОНУС!... бежим... БЕЖИМ... БЕЖИМ... ДА СЛЕДУЮЩИЙ УРОВЕНЬ!!}
 
-{500}{}{BOM! }
-{501}{}{SWING! }
-{502}{}{ZIP! }
-{503}{}{WIZ! }
-{504}{}{JAB! }
-{505}{}{PING! }
-{506}{}{UUU! }
-{507}{}{ZAP! }
-{508}{}{HOP! }
-{509}{}{BAAM! }
+{500}{}{БОМ!}
+{501}{}{ВЖУХ!}
+{502}{}{ЗИП!}
+{503}{}{ВИЗ!}
+{504}{}{ДЖАБ!}
+{505}{}{ПИНГ!}
+{506}{}{УУУ!}
+{507}{}{ЗАП!}
+{508}{}{ХОП!}
+{509}{}{БААМ!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
