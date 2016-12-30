@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-29 12:35+0000\n"
+"PO-Revision-Date: 2016-12-30 12:27+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2991,6 +2991,11 @@ msgid ""
 "{403}{}{Old times.. lets drink for that!}\n"
 "{404}{}{Am not sure they was aliens.. but who known!}"
 msgstr ""
+"{400}{}{База Сьерра, вот это было мясо!}\n"
+"{401}{}{А помнишь 18 ангар в Наварро?}\n"
+"{402}{}{Да, отличное сражение!}\n"
+"{403}{}{Эх, были же деньки... давай выпьем за них!}\n"
+"{404}{}{Я не уверен, что это пришельцы, да кто теперь знает!}"
 
 #. extracted from english/data/text/english/dialog/44npc.msg
 #, fuzzy
@@ -3012,6 +3017,8 @@ msgid ""
 "{10}{}{Soldier. }\n"
 "{20}{}{She wear extremly dirty armor..}"
 msgstr ""
+"{10}{}{Солдат}\n"
+"{20}{}{На ней очень грязная броня.}"
 
 #: english/data/text/english/dialog/44npc.msg:5
 msgid ""
@@ -3021,6 +3028,11 @@ msgid ""
 "{103}{}{LOT! loot of thress ..therss.. treassuRES!}\n"
 "{104}{}{Aaaaamm... RICH!}"
 msgstr ""
+"{100}{}{Неее... я думаю лучше все было в радои... рад... пещерах!}\n"
+"{101}{}{Угу даввай ещще за это!}\n"
+"{102}{}{Ииик!}\n"
+"{103}{}{Много! Много скор... сорк... соккровищщ!}\n"
+"{104}{}{Я ваще богата!}"
 
 #. extracted from english/data/text/english/dialog/45npc.msg
 #, fuzzy
@@ -3039,13 +3051,15 @@ msgstr ""
 
 #: english/data/text/english/dialog/45npc.msg:5
 msgid "{100}{}{[He sit near table and writing something in silence]}"
-msgstr ""
+msgstr "{100}{}{[Он сидит у стола и что-то пишет в тишине]}"
 
 #: english/data/text/english/dialog/45npc.msg:7
 msgid ""
 "{200}{}{Do you have beer?}\n"
 "{250}{}{No.. [He seem to be very busy on book]}"
 msgstr ""
+"{200}{}{У тебя есть пиво?}\n"
+"{250}{}{Нет. [Он кажется очень занятым книгой]}"
 
 #: english/data/text/english/dialog/45npc.msg:10
 msgid ""
@@ -3057,6 +3071,12 @@ msgid ""
 "Such a great day! Tomorrow i will search again.. my collection is best in "
 "the world!}"
 msgstr ""
+"{300}{}{Что делаешь?}\n"
+"{350}{}{Я пишу дневник [вы смотрите на страницу и читаете несколько "
+"фрагменто] \"... сегодня я нашел отличные вещи, не такой мусор как вчера... "
+"белую кость, почти новую! И веревку, длиной почти метр. Еще нашел 3 гвоздя, "
+"они немного ржавые и странной формы... Это все! Замечательный день! Завтра я "
+"снова буду искать! Моя коллекция - лучшая в мире!}"
 
 #: english/data/text/english/dialog/45npc.msg:13
 msgid ""
@@ -3067,6 +3087,13 @@ msgid ""
 "open shop called \"1001 items\" this will be great day am tell you! And i "
 "will sell THIS book about my bartering career. }"
 msgstr ""
+"{400}{}{Ты видел ГЕКК?}\n"
+"{450}{}{Да, конечно! [он показывает вам какой-то мусор. Все, что у него "
+"есть, это мусор] Смотри сам, у меня есть все, я лучший торговец во "
+"вселенной! Вик продает мне много вещей, но я и сам нахожу много сокровищ за "
+"городом. Однажды я открою магазин под названием \"1001 вещь\", это будет "
+"великий день, вот увидишь! И я буду продавать ЭТУ книгу о моей карьере в "
+"продажах.}"
 
 #. extracted from english/data/text/english/dialog/46npc.msg
 #, fuzzy
@@ -3088,6 +3115,8 @@ msgid ""
 "{10}{}{Drunken Farmer. }\n"
 "{20}{}{He walk around bushes and kick them from time to time..}"
 msgstr ""
+"{10}{}{Пьяный фермер.}\n"
+"{20}{}{Он ходит вокруг кустов и пинает их время от времени.}"
 
 #: english/data/text/english/dialog/46npc.msg:5
 msgid ""
@@ -3097,6 +3126,11 @@ msgid ""
 "{103}{}{FASTER! }\n"
 "{104}{}{::kick bushes:: }"
 msgstr ""
+"{100}{}{Быстрее расти!}\n"
+"{101}{}{Чего сказал?!}\n"
+"{102}{}{Я те дам мотивацию!}\n"
+"{103}{}{БЫСТРЕЕ!}\n"
+"{104}{}{::пинает кусты::}"
 
 #. extracted from english/data/text/english/dialog/47npc.msg
 #, fuzzy
@@ -3118,6 +3152,8 @@ msgid ""
 "{10}{}{Owner of \"Golden Gecko\"}\n"
 "{20}{}{He look very sad and nervous..}"
 msgstr ""
+"{10}{}{Владелец \"Золотого Гекко\"}\n"
+"{20}{}{Он выглядит очень грустным и нервным.}"
 
 #: english/data/text/english/dialog/47npc.msg:5
 msgid "{100}{}{Dont you seen caption on doors \"out of business\"!?}"
