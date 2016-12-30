@@ -1,10 +1,10 @@
 
-{10}{}{Soldier. }
-{20}{}{She wear extremly dirty armor..}
+{10}{}{Солдат}
+{20}{}{На ней очень грязная броня.}
 
-{100}{}{Nope.. i thinksh besht actioon wass on Rad-Cavee!}
-{101}{}{Yesh letys drinke for tshat.. again!}
-{102}{}{Heeep!}
-{103}{}{LOT! loot of thress ..therss.. treassuRES!}
-{104}{}{Aaaaamm... RICH!}
+{100}{}{Неее... я думаю лучше все было в радои... рад... пещерах!}
+{101}{}{Угу даввай ещще за это!}
+{102}{}{Ииик!}
+{103}{}{Много! Много скор... сорк... соккровищщ!}
+{104}{}{Я ваще богата!}
 

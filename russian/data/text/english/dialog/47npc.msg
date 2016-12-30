@@ -1,6 +1,6 @@
 
-{10}{}{Owner of "Golden Gecko"}
-{20}{}{He look very sad and nervous..}
+{10}{}{Владелец "Золотого Гекко"}
+{20}{}{Он выглядит очень грустным и нервным.}
 
 {100}{}{Dont you seen caption on doors "out of business"!?}
 

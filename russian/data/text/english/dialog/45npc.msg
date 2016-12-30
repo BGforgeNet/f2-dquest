@@ -2,16 +2,16 @@
 {10}{}{Горожанин.}
 {20}{}{Они все на одно лицо.}
 
-{100}{}{[He sit near table and writing something in silence]}
+{100}{}{[Он сидит у стола и что-то пишет в тишине]}
 
-{200}{}{Do you have beer?}
-{250}{}{No.. [He seem to be very busy on book]}
+{200}{}{У тебя есть пиво?}
+{250}{}{Нет. [Он кажется очень занятым книгой]}
 
-{300}{}{What you do?}
-{350}{}{Am writing diary.. [you look at page and read few fragments] "..today i found amazing items, not like trash yesterday.. i found very white bone, almost new!.. i found rope, almost one meter long!.. i found three nails, well they was little rusty and have weird shape.. thats all i found! Such a great day! Tomorrow i will search again.. my collection is best in the world!}
+{300}{}{Что делаешь?}
+{350}{}{Я пишу дневник [вы смотрите на страницу и читаете несколько фрагменто] "... сегодня я нашел отличные вещи, не такой мусор как вчера... белую кость, почти новую! И веревку, длиной почти метр. Еще нашел 3 гвоздя, они немного ржавые и странной формы... Это все! Замечательный день! Завтра я снова буду искать! Моя коллекция - лучшая в мире!}
 
-{400}{}{Do you seen GECK?}
-{450}{}{Yes ofcourse! [he shown you some junk, everything he have is junk] As you see i have everything, am best trader in the universe! Vic sell me many items, but also i found lot of treasures outside town. Some day i will open shop called "1001 items" this will be great day am tell you! And i will sell THIS book about my bartering career. }
+{400}{}{Ты видел ГЕКК?}
+{450}{}{Да, конечно! [он показывает вам какой-то мусор. Все, что у него есть, это мусор] Смотри сам, у меня есть все, я лучший торговец во вселенной! Вик продает мне много вещей, но я и сам нахожу много сокровищ за городом. Однажды я открою магазин под названием "1001 вещь", это будет великий день, вот увидишь! И я буду продавать ЭТУ книгу о моей карьере в продажах.}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
