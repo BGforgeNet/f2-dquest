@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2016-12-30 12:27+0000\n"
+"PO-Revision-Date: 2016-12-31 16:23+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3157,7 +3157,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/47npc.msg:5
 msgid "{100}{}{Dont you seen caption on doors \"out of business\"!?}"
-msgstr ""
+msgstr "{100}{}{Ты что, не видишь на двери табличку \"закрыто\"!?}"
 
 #: english/data/text/english/dialog/47npc.msg:7
 msgid ""
@@ -3166,18 +3166,26 @@ msgid ""
 "Reno, but in last round luck abandoned me. I must think what to do.. Damn! i "
 "dont known that nights can be so cold and uncomfortable!}"
 msgstr ""
+"{200}{}{Почему тут так пусто? И почему ты полуголый?}\n"
+"{250}{}{Я все проиграл в покер. Почти сорвал банк в Нью Рино, но в последней "
+"раздаче удача мне изменила. Теперь мне нужно думать что делать. Черт! Я не "
+"знал, что ночью может быть так холодно и неудобно!}"
 
 #: english/data/text/english/dialog/47npc.msg:10
 msgid ""
 "{300}{}{Do you have beer? }\n"
 "{350}{}{Its joke? Leave me alone!}"
 msgstr ""
+"{300}{}{У тебя есть пиво?}\n"
+"{350}{}{Это шутка такая? Отвали!}"
 
 #: english/data/text/english/dialog/47npc.msg:13
 msgid ""
 "{400}{}{Well.. i dont seen doors!}\n"
 "{450}{}{Uh i forgot.. i burned every doors because night was cold.}"
 msgstr ""
+"{400}{}{Ну... я не видел дверей.}\n"
+"{450}{}{А ну да я забыл... я сжег все двери, потому что ночами было холодно.}"
 
 #. extracted from english/data/text/english/dialog/48npc.msg
 #, fuzzy
@@ -3199,6 +3207,8 @@ msgid ""
 "{10}{}{VIC. }\n"
 "{20}{}{He smiling in irony..}"
 msgstr ""
+"{10}{}{ВИК.}\n"
+"{20}{}{У него на лице ироническая улыбка.}"
 
 #: english/data/text/english/dialog/48npc.msg:5
 msgid ""
@@ -3206,6 +3216,9 @@ msgid ""
 "Just share with me your DREAMS and i will give you EVERYTHING you need! Look "
 "into my boxes and select your FAVOURITE item!}"
 msgstr ""
+"{100}{}{ПРИВЕТСТВУЮ! Брат, у меня МНОГО невероятных вещей, ждущих ТЕБЯ! "
+"Просто поделись со мной своими мечтами, и я дам тебе ВСЕ что нужно! Посмотри "
+"в мои ящики и выбери свой ЛЮБИМЫЙ предмет!}"
 
 #: english/data/text/english/dialog/48npc.msg:7
 msgid ""
@@ -3214,6 +3227,10 @@ msgid ""
 "IT. Just bring me something made from GOLD. I have MANY connections and "
 "EVERYTHING you need am ABLE to find!}"
 msgstr ""
+"{200}{}{[Вы смотрите в грязные ящики с мусором] Я не вижу ГЕКК.}\n"
+"{250}{}{ГЕКК? А, ЛЕГЕНДАРНЫЙ ГЕКК! Ну, СЕЙЧАС у меня его нет, но я могу его "
+"достать. Просто принеси мне что-нибудь ЗОЛОТОЕ. У меня МНОГО связей, я МОГУ "
+"найти ВСЕ, что тебе нужно!}"
 
 #: english/data/text/english/dialog/48npc.msg:10
 msgid ""
@@ -3223,6 +3240,11 @@ msgid ""
 "is! UNLESS you NEED instruction to use it properly, i dont have it YET! Come "
 "back Next month, maybe i will find it. Now good BYE!}"
 msgstr ""
+"{300}{}{У меня есть золотые часы.}\n"
+"{350}{}{УХ ТЫ! Твой ГЕКК будет готов через минуту! [Он убегает в другую "
+"комнате и возвращается с чем-то... похожим на ГЕКК!] ВОТ он! Но ЕСЛИ тебе "
+"НУЖНА инструкция по использованию, у меня ее пока НЕТ. Приходи в следующем "
+"месяце, может быть я ее найду. А теперь ДО СВИДАНИЯ!}"
 
 #: english/data/text/english/dialog/48npc.msg:13
 msgid ""
@@ -3232,6 +3254,11 @@ msgid ""
 "{403}{}{Sorry am BUSY right now!}\n"
 "{404}{}{My shop is TEMPORARY closed!}"
 msgstr ""
+"{400}{}{У меня ЕЩЕ НЕТ инструкци..}\n"
+"{401}{}{Нет, он РАБОТАЕТ! Просто ты не знаешь КАК его использовать!}\n"
+"{402}{}{Приходи позже, может в следующем месяце.}\n"
+"{403}{}{Извини, сейчас я ЗАНЯТ!}\n"
+"{404}{}{Мой магазин ВРЕМЕННО закрыт!}"
 
 #. extracted from english/data/text/english/dialog/49npc.msg
 #, fuzzy
@@ -3253,6 +3280,8 @@ msgid ""
 "{10}{}{Water Merchant. }\n"
 "{20}{}{He seem to be very busy on some big machine..}"
 msgstr ""
+"{10}{}{Торговец водой.}\n"
+"{20}{}{Похоже, он очень занят какой-то большой машиной.}"
 
 #: english/data/text/english/dialog/49npc.msg:5
 msgid "{100}{}{[He kick machine and say] NO! Not again! Damn junk!}"
