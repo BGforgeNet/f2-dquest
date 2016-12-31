@@ -1,20 +1,20 @@
 
-{10}{}{VIC. }
-{20}{}{He smiling in irony..}
+{10}{}{ВИК.}
+{20}{}{У него на лице ироническая улыбка.}
 
-{100}{}{WELCOME! brother i have MANY amazing items, which waiting for YOU! Just share with me your DREAMS and i will give you EVERYTHING you need! Look into my boxes and select your FAVOURITE item!}
+{100}{}{ПРИВЕТСТВУЮ! Брат, у меня МНОГО невероятных вещей, ждущих ТЕБЯ! Просто поделись со мной своими мечтами, и я дам тебе ВСЕ что нужно! Посмотри в мои ящики и выбери свой ЛЮБИМЫЙ предмет!}
 
-{200}{}{[you look into dirty boxes filled with junk] I dont see GECK..}
-{250}{}{GECK? Yes.. LEGENDARY geck! Well i dont have it YET but i COULD have IT. Just bring me something made from GOLD. I have MANY connections and EVERYTHING you need am ABLE to find!}
+{200}{}{[Вы смотрите в грязные ящики с мусором] Я не вижу ГЕКК.}
+{250}{}{ГЕКК? А, ЛЕГЕНДАРНЫЙ ГЕКК! Ну, СЕЙЧАС у меня его нет, но я могу его достать. Просто принеси мне что-нибудь ЗОЛОТОЕ. У меня МНОГО связей, я МОГУ найти ВСЕ, что тебе нужно!}
 
-{300}{}{I have golden watch.}
-{350}{}{WOW! Your GECK will be ready for one minute! [He run into next room and after minute returned with.. something which look like GECK!] HERE it is! UNLESS you NEED instruction to use it properly, i dont have it YET! Come back Next month, maybe i will find it. Now good BYE!}
+{300}{}{У меня есть золотые часы.}
+{350}{}{УХ ТЫ! Твой ГЕКК будет готов через минуту! [Он убегает в другую комнате и возвращается с чем-то... похожим на ГЕКК!] ВОТ он! Но ЕСЛИ тебе НУЖНА инструкция по использованию, у меня ее пока НЕТ. Приходи в следующем месяце, может быть я ее найду. А теперь ДО СВИДАНИЯ!}
 
-{400}{}{I DONT have this instruction YET}
-{401}{}{No.. its WORK! You just dont known HOW use it!}
-{402}{}{Come back LATER.. maybe next month.}
-{403}{}{Sorry am BUSY right now!}
-{404}{}{My shop is TEMPORARY closed!}
+{400}{}{У меня ЕЩЕ НЕТ инструкци..}
+{401}{}{Нет, он РАБОТАЕТ! Просто ты не знаешь КАК его использовать!}
+{402}{}{Приходи позже, может в следующем месяце.}
+{403}{}{Извини, сейчас я ЗАНЯТ!}
+{404}{}{Мой магазин ВРЕМЕННО закрыт!}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

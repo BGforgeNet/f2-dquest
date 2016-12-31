@@ -1,6 +1,6 @@
 
-{10}{}{Water Merchant. }
-{20}{}{He seem to be very busy on some big machine..}
+{10}{}{Торговец водой.}
+{20}{}{Похоже, он очень занят какой-то большой машиной.}
 
 {100}{}{[He kick machine and say] NO! Not again! Damn junk!}
 

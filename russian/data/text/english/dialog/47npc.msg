@@ -2,16 +2,16 @@
 {10}{}{Владелец "Золотого Гекко"}
 {20}{}{Он выглядит очень грустным и нервным.}
 
-{100}{}{Dont you seen caption on doors "out of business"!?}
+{100}{}{Ты что, не видишь на двери табличку "закрыто"!?}
 
-{200}{}{Why here is so empty.. and you are half naked? }
-{250}{}{I lost everything in poker.. i was very close to win house in New Reno, but in last round luck abandoned me. I must think what to do.. Damn! i dont known that nights can be so cold and uncomfortable!}
+{200}{}{Почему тут так пусто? И почему ты полуголый?}
+{250}{}{Я все проиграл в покер. Почти сорвал банк в Нью Рино, но в последней раздаче удача мне изменила. Теперь мне нужно думать что делать. Черт! Я не знал, что ночью может быть так холодно и неудобно!}
 
-{300}{}{Do you have beer? }
-{350}{}{Its joke? Leave me alone!}
+{300}{}{У тебя есть пиво?}
+{350}{}{Это шутка такая? Отвали!}
 
-{400}{}{Well.. i dont seen doors!}
-{450}{}{Uh i forgot.. i burned every doors because night was cold.}
+{400}{}{Ну... я не видел дверей.}
+{450}{}{А ну да я забыл... я сжег все двери, потому что ночами было холодно.}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }
