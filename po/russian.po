@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-27 11:52+0700\n"
-"PO-Revision-Date: 2017-01-01 10:06+0000\n"
+"PO-Revision-Date: 2017-01-01 13:53+0000\n"
 "Last-Translator: The Magus <weblate@bgfg.be>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3314,6 +3314,11 @@ msgid ""
 "It seem to work now ok! Uh i forgot.. take this flask of fresh mineral "
 "water!}"
 msgstr ""
+"{300}{}{Водный чип? Похоже, у меня есть такой...}\n"
+"{350}{}{[Он вставляет чип в машину и она снова запускается. Вода течет в "
+"металлический контейнер под названием ванна (вы слышали, что она нужна для "
+"мытья людей, но никогда не пользовались самостоятельно)] Спасибо! Похоже, "
+"работает нормально! Да, я забыл... возьми эту флягу свежей минеральной воды!}"
 
 #: english/data/text/english/dialog/49npc.msg:13
 msgid ""
@@ -3323,6 +3328,11 @@ msgid ""
 "{403}{}{Wonderfull tasty!}\n"
 "{404}{}{I must find some clean flasks.. }"
 msgstr ""
+"{400}{}{Да! Вкусная вода!}\n"
+"{401}{}{Я снова буду богатым! ДА!}\n"
+"{402}{}{::ПЬЕТ::}\n"
+"{403}{}{Чудесный вкус!}\n"
+"{404}{}{Нужно найти чистых фляг...}"
 
 #. extracted from english/data/text/english/dialog/50npc.msg
 #, fuzzy
@@ -3344,10 +3354,12 @@ msgid ""
 "{10}{}{Gecko Engineer. }\n"
 "{20}{}{He look mutated.. like everyone who work in Gecko Plant..}"
 msgstr ""
+"{10}{}{Инженер Гекко.}\n"
+"{20}{}{Он выглядит покалеченным... как и все, кто работает на Станции Гекко.}"
 
 #: english/data/text/english/dialog/50npc.msg:5
 msgid "{100}{}{[He sleep on chair] Zzzzzzz...}"
-msgstr ""
+msgstr "{100}{}{[Он спит сидя] Хрррррр...}"
 
 #: english/data/text/english/dialog/50npc.msg:7
 msgid ""
@@ -3356,6 +3368,10 @@ msgid ""
 "{250}{}{[He wake up and look scarry at you] Look.. am sorry.. take these "
 "keys which i found on floor.. and please dont be agressive..}"
 msgstr ""
+"{200}{}{Черт! Я помню это лицо! Ты продал мне радиоактивное пиво, из-за "
+"которого у меня дыра в мозгу! Я потерял свои воспоминания, ты говнюк!}\n"
+"{250}{}{[Он просыпается и испуганно смотрит на вас] Слушай... извини... "
+"возьми вот эти ключи, которые я нашел на полу, и прошу, не нервничай так...}"
 
 #: english/data/text/english/dialog/50npc.msg:10
 msgid ""
@@ -3363,6 +3379,9 @@ msgid ""
 "{350}{}{Am on one month vacation, now let me continue my dreams.. [and he "
 "fall into long deep sleep, this job in Gecko must be really hard]}"
 msgstr ""
+"{300}{}{Ээ... ладно. В любом случае, что ты делаешь в Клэмате?}\n"
+"{350}{}{У меня отпуск на месяц, дай мне поспать. [он проавливается в "
+"глубокий сон, должно быть работа в Гекко очень тяжелая]}"
 
 #: english/data/text/english/dialog/50npc.msg:13
 msgid ""
@@ -3372,12 +3391,19 @@ msgid ""
 "{403}{}{..Such a dumb ashole! I tell you to close pipe!..}\n"
 "{404}{}{..I think we got radioactive lake again!..}"
 msgstr ""
+"{400}{}{Хррр...}\n"
+"{401}{}{::ШМЫГ::}\n"
+"{402}{}{...Фрэнк! Брось мне гайку номер 7!}\n"
+"{403}{}{...Вот тупой говнюк! Я тебе сказал закрыть трубу!}\n"
+"{404}{}{...Похоже, у нас опять радиоактивное озеро!}"
 
 #: english/data/text/english/dialog/50npc.msg:19
 msgid ""
 "{910}{}{[Let him sleep] }\n"
 "{920}{}{BACK }"
 msgstr ""
+"{910}{}{[Позволить ему спать]}\n"
+"{920}{}{НАЗАД}"
 
 #. extracted from english/data/text/english/dialog/51npc.msg
 #, fuzzy
