@@ -1,17 +1,17 @@
 
-{10}{}{Smith. }
-{20}{}{His skin and clothes are really dirty, the same like tools which he hold in hands..}
+{10}{}{Кузнец.}
+{20}{}{Его кожа и одежда очень грязные, прямо как инструменты в его руках.}
 
-{100}{}{[He look very busy on some dirty metalic stuff, probably part of engine] Uh.. hello. Do you need to repair something?}
+{100}{}{[Похоже, он очень занят работой над какой-то грязной металлической штуковиной, вероятно, частью двигателя] Мм... привет. Тебе нужно что-нибудь починить?}
 
-{200}{}{Am wonder about these strange obiects in junkyard.}
-{250}{}{I found them many crashed on desert near Navarro. One from my friends say they are alien ships. But am not sure about that theory, because there is no space for pilot inside. Seem like they are spying robots. Am not sure why they crashed, maybe bacause wrong program in main computer. As you see am trying to repair one, but it seem to be really dificulty [When you look at this machine it seem to be really hard to understand how it work and require skills science and repair near 300%] }
+{200}{}{А что это за странные штуки там во дворе?}
+{250}{}{Я много таких разбитых нашел в пустыне возле Наварро. Один мой друг говорит, что это корабли чужих. Но я не уверен, потому что там внутри нет места для пилота. Больше похоже на роботов-шпионов. Непонятно, почему они разбились, может проблема было в управляющем центре. Как видишь, я пытаюсь починить одного, но уж очень это сложно. [Вы смотрите на машину - похоже, будет действительно сложно понять, как она работает, тут нужны умения науки и ремонта около 300%]}
 
-{300}{}{Can you borrow me your car? }
-{350}{}{Forget about that i spend half year to repair it. Find some brahmin and drive it like others do. And DONT touch my car or i will change your face shape! [He point you big hammer on table] }
+{300}{}{Можешь одолжить мне свою машину?}
+{350}{}{Забудь об этом. Я полгода ее чинил. Найди какой-нибудь караван браминов и иди с ними, как все делают. И НЕ ТРОГАЙ мою машину, а то я тебе лицо-то подправлю! [Указывает на большой молоток на столе]}
 
-{400}{}{Do you have beer?}
-{450}{}{[He seem to be too busy for such question]}
+{400}{}{У тебя есть пиво?}
+{450}{}{[Похоже, он слишком занят, чтобы отвечать]}
 
 {910}{}{КОНЕЦ }
 {920}{}{НАЗАД }

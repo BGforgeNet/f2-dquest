@@ -1,10 +1,10 @@
 
-{10}{}{Read 100 pages survival guide. }
-{20}{}{See big map of almost whole country.}
-{30}{}{Close book. }
-{40}{}{[This book contain knowledge about survival and big map] }
-{50}{}{Read next page... }
-{60}{}{There is nothing more interesting to read, instead of last page where you see boring autobiography of some traper. Seem like he get this whole knowledge trough years of living in australian bushes. }
+{10}{}{Прочитать 100-страничную инструкцию по выживанию.}
+{20}{}{Смотреть большую карту почти всей страны.}
+{30}{}{Закрыть книгу.}
+{40}{}{[Эта книга содержит информацию по выживанию и большую карту]}
+{50}{}{Читать следующую страницу...}
+{60}{}{Ничего интересного почитать не осталось. На последней странице вы видите скучную автобиографию какого-то охотника. Похоже, он приобрел эти знания, годами проживая в австралийском буше.}
 
 {100}{}{The most abundant life-form on earth, insects are easily caught. Insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source.}
 {101}{}{Survivors have related feelings of apathy and helplessness because they could not treat themselves in this environment. The ability to treat themselves increased their morale and cohesion and aided in their survival and eventual return to friendly forces.}
