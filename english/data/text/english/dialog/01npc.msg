@@ -1,5 +1,5 @@
 
-{10}{}{Guard123.}
+{10}{}{Guard.}
 {20}{}{They everyone tribals look the same..}
 
 {100}{}{Hey! You! Dirty man! What you doing here?! This village is top secret and nobody from outside world cant enter our holy land! }
