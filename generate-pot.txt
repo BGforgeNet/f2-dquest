@@ -1,0 +1,7 @@
+for file in $(ls english/data/text/english/dialog); do
+  echo $file
+  tmp='po/tmp.pot'
+  txt2po -i english/data/text/english/dialog/$file -o $tmp
+  msgcat --no-wrap $tmp po/english.pot -o po/english.pot
+  rm -f $tmp
+done
