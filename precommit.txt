@@ -3,5 +3,8 @@ for file in $(find english -name "*.msg"); do
   file_name=$(basename $rel_path)
   dir_name=$(dirname $rel_path)
   mkdir -p "russian/$dir_name"
-  po2txt -t $file po/russian.po "russian/$dir_name/$file_name"
+  po2txt -t $file po/russian.po | iconv -f utf-8 -t cp1251 > "russian/$dir_name/$file_name"
+  unix2dos "russian/$dir_name/$file_name"
 done
+git add russian
+git commit -m "BGforge weblate commit $(date +'%F %H:%M')"
