@@ -1,70 +1,70 @@
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
-#. #-#-#-#-#  tmp.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
+#. #-#-#-#-#  tmp1.pot (PACKAGE VERSION)  #-#-#-#-#
 #. extracted from english/data/text/english/dialog/01npc.msg
 #. #-#-#-#-#  tmp2.pot (PACKAGE VERSION)  #-#-#-#-#
 #. extracted from english/data/text/english/dialog/02npc.msg
@@ -205,7 +205,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-2-12 21:54+0000\n"
+"POT-Creation-Date: 2017-2-13 22:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,7 +216,7 @@ msgstr ""
 "X-Generator: msg2po v.1.0.0\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
-msgid "HUYGuard. "
+msgid "Guard."
 msgstr ""
 
 #: english/data/text/english/dialog/01npc.msg:20
