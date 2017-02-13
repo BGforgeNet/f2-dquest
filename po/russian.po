@@ -200,24 +200,25 @@
 #. extracted from english/data/text/english/dialog/quest.msg
 #. #-#-#-#-#  tmp2.pot (PACKAGE VERSION)  #-#-#-#-#
 #. extracted from english/data/text/english/dialog/talk.msg
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-13 22:31+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-02-13 22:39+0000\n"
+"Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: russian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: msg2po v.1.0.0\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.9\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
 msgid "Guard."
-msgstr ""
+msgstr "Охранник."
 
 #: english/data/text/english/dialog/01npc.msg:20
 #: english/data/text/english/dialog/02npc.msg:20
@@ -430,7 +431,7 @@ msgstr "РРРРпрощайРРРФЫРК!"
 #: english/data/text/english/dialog/quest.msg:10
 #: english/data/text/english/dialog/talk.msg:10
 msgid "Villager. "
-msgstr ""
+msgstr "Житель деревни."
 
 #: english/data/text/english/dialog/04npc.msg:20
 #: english/data/text/english/dialog/05npc.msg:20
@@ -448,7 +449,7 @@ msgstr ""
 #: english/data/text/english/dialog/quest.msg:20
 #: english/data/text/english/dialog/talk.msg:20
 msgid "They everyone look the same.."
-msgstr ""
+msgstr "Все они на одно лицо."
 
 #: english/data/text/english/dialog/04npc.msg:100
 msgid "Helo stranger.. do you hear that strange voice from well??"
@@ -901,7 +902,7 @@ msgstr "О нет, нет.. зачем я это выпил!"
 
 #: english/data/text/english/dialog/15npc.msg:101
 msgid "My head.. its so BIG!"
-msgstr "My head.. its so BIG!"
+msgstr "Моя голова... она такая БОЛЬШАЯ!"
 
 #: english/data/text/english/dialog/15npc.msg:102
 msgid "Yesterday funny visions and now the pain!"
@@ -1254,7 +1255,7 @@ msgstr "И на верху горы спрятан серебряный меч �
 
 #: english/data/text/english/dialog/23npc.msg:113
 msgid "Elves silver is called Mithril.. or it was dwarven? "
-msgstr "Elves silver is called Mithril.. or it was dwarven? "
+msgstr "Эльфийское серебро называется Митрил... или это дварфийское?"
 
 #: english/data/text/english/dialog/23npc.msg:114
 msgid "Ashole! Am not playing with you! Roll dices again! "
@@ -3900,20 +3901,20 @@ msgstr " вступление "
 
 #: english/data/text/english/dialog/talk.msg:200
 msgid " pyt1 "
-msgstr " pyt1 "
+msgstr "пит1"
 
 #: english/data/text/english/dialog/talk.msg:250
 msgid " odp1 "
-msgstr " odp1 "
+msgstr "одп1"
 
 #: english/data/text/english/dialog/talk.msg:300
 msgid " pyt2 "
-msgstr " pyt2 "
+msgstr "пит2"
 
 #: english/data/text/english/dialog/talk.msg:350
 msgid " odp2 "
-msgstr " odp2 "
+msgstr "одп2"
 
 #: english/data/text/english/dialog/talk.msg:450
 msgid " odp3 "
-msgstr " odp3 "
+msgstr "одп3"
