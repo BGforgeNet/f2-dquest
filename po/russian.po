@@ -205,8 +205,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-12 21:54+0000\n"
-"PO-Revision-Date: 2017-02-13 20:27+0000\n"
-"Last-Translator: The Magus <weblate@bgfg.be>\n"
+"PO-Revision-Date: 2017-02-13 21:13+0000\n"
+"Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -3901,20 +3901,20 @@ msgstr " вступление "
 
 #: english/data/text/english/dialog/talk.msg:200
 msgid " pyt1 "
-msgstr " pyt1 "
+msgstr " пит1 "
 
 #: english/data/text/english/dialog/talk.msg:250
 msgid " odp1 "
-msgstr " odp1 "
+msgstr " одп1 "
 
 #: english/data/text/english/dialog/talk.msg:300
 msgid " pyt2 "
-msgstr " pyt2 "
+msgstr " пит2 "
 
 #: english/data/text/english/dialog/talk.msg:350
 msgid " odp2 "
-msgstr " odp2 "
+msgstr " одп2 "
 
 #: english/data/text/english/dialog/talk.msg:450
 msgid " odp3 "
-msgstr " odp3 "
+msgstr " одп3 "
