@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-14 06:45+0000\n"
+"PO-Revision-Date: 2017-02-14 10:08+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -2988,22 +2988,44 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:104
 msgid "Foremost among the many problems that can compromise a survivor's ability to return to safety are medical problems resulting from parachute descent and landing, extreme climates, ground combat, evasion, and illnesses contracted in captivity."
 msgstr ""
+"На первом месте среди многих проблем, которые могут ухудшить способность "
+"выживальщика вернуться к безопасности, стоят медицинские проблемы, связанные "
+"с парашютированием и посадкой, экстремальными климатическими условиями, "
+"наземными боевыми действиями, нахождением в бегах, а также болезнями, "
+"подхваченными в неволе."
 
 #: english/data/text/english/dialog/52npc.msg:105
 msgid "Your body loses water through normal body processes (sweating, urinating, and defecating). During average daily exertion when the atmospheric temperature is 20 degrees Celsius (C) (68 degrees Fahrenheit), the average adult loses and therefore requires 2 to 3 liters of water daily."
 msgstr ""
+"Ваше тело теряет воду через естественные процессы (потение, мочеиспускание, "
+"дефекация). За средний день при температуре воздуха 20 градусов Цельсия (68 "
+"градусов Фаренгейта), нормальный взрослый человек теряет, и, соответсвенно, "
+"нуждается в 2-3 литрах воды."
 
 #: english/data/text/english/dialog/52npc.msg:106
 msgid "Of all the physical problems encountered in a survival situation, the loss of water is the most preventable. The following are basic guidelines for the prevention of dehydration: Always drink water when eating. Acclimatize. Conserve sweat not water. Limit sweat-producing activities but drink water. Ration water."
 msgstr ""
+"Из всех физических проблем, с которыми сталкивается выживальщик, потерю воду "
+"предотвратить легче всего. Базовые правила для избежания обезвоживания: "
+"Всегда пейте воду при приеме пищи. Акклиматизируйтесь. Сохраняйте пот а не "
+"воду. Ограничьте потоотделяющую активность, но пейте воду. Расходуйте воду "
+"экономно."
 
 #: english/data/text/english/dialog/52npc.msg:107
 msgid "With the loss of water there is also a loss of electrolytes (body salts). The average diet can usually keep up with these losses but in an extreme situation or illness, additional sources need to be provided. A mixture of 0.25 teaspoon of salt to 1 liter of water will provide a concentration that the body tissues can readily absorb."
 msgstr ""
+"С потерей воды также теряются электролиты (соли тела). Обычно питание "
+"восполняет эти потери, но в экстремальных ситуациях или при болезни, нужно "
+"обеспечить дополнительные источники. Раствор четверти чайной ложки соли в "
+"одном литре воды обеспечит концентрацию, которая легко может быть поглощена "
+"тканями тела."
 
 #: english/data/text/english/dialog/52npc.msg:108
 msgid "In any situation where food intake is low, drink 6 to 8 liters of water per day. In an extreme climate, especially an arid one, the average person can lose 2.5 to 3.5 liters of water per hour. In this type of climate, you should drink 14 to 30 liters of water per day."
 msgstr ""
+"При недостатке еды, пейте от 6 до 8 литров воды в день. В экстремальном "
+"климате, особенно сухом, обычный человек может терять от 2,5 до 3,5 литров "
+"воды за час. В таком климате вы должны пить от 14 до 30 литров воды в день."
 
 #: english/data/text/english/dialog/52npc.msg:109
 msgid "You replace the water as you lose it. Trying to make up a deficit is difficult in a survival situation, and thirst is not a sign of how much water you need. Most people cannot comfortably drink more than 1 liter of water at a time. So, even when not thirsty, drink small amounts of water at regular intervals each hour to prevent dehydration."
