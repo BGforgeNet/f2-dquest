@@ -204,7 +204,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-2-13 22:55+0000\n"
+"POT-Creation-Date: 2017-2-14 5:5+0000\n"
 "PO-Revision-Date: 2017-02-13 22:39+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,7 +216,7 @@ msgstr ""
 "X-Generator: Weblate 2.9\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
-msgid "Guard try number 10."
+msgid "Guard_hopefully_last_try."
 msgstr ""
 
 #: english/data/text/english/dialog/01npc.msg:20
