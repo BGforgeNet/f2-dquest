@@ -205,14 +205,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-14 05:05+0000\n"
+"PO-Revision-Date: 2017-02-14 06:45+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.9\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
@@ -229,10 +230,8 @@ msgid "Hey! You! Dirty man! What you doing here?! This village is top secret and
 msgstr "Эй! Ты! Бомжара! Что ты здесь делаешь?! Деревня засекречена и ни кто из внешних не должен ступить на эту святую землю! "
 
 #: english/data/text/english/dialog/01npc.msg:200
-#, fuzzy
-#| msgid "Am just traveller from Klamath. "
 msgid "Am just traveller from Klamath."
-msgstr "Я тут проходил мимо из Кламата. "
+msgstr "Я тут просто проходил мимо из Кламата."
 
 #: english/data/text/english/dialog/01npc.msg:250
 msgid "Get out of here! Peoples like you come here only to steal everything and make troubles. Thats why we dont like tourists!  "
@@ -924,6 +923,8 @@ msgstr "Приятная женщина. "
 #: english/data/text/english/dialog/16npc.msg:20
 msgid "She look much better from other females in this village and it seem like she used cosmetic case lately."
 msgstr ""
+"Она выглядит гораздо лучше других женщин в этой деревне... похоже, она "
+"недавно пользовалась косметикой."
 
 #: english/data/text/english/dialog/16npc.msg:100
 msgid "Helo outsider, can you help me? [She watch at you in hope and from inside of tent you hear someone voices in pain]"
@@ -1100,7 +1101,7 @@ msgstr "ЧТО?! Не упоминай алкоголь, или я тебя пр
 
 #: english/data/text/english/dialog/21npc.msg:10
 msgid "Clara. "
-msgstr ""
+msgstr "Клара."
 
 #: english/data/text/english/dialog/21npc.msg:20
 #: english/data/text/english/dialog/26npc.msg:20
@@ -1200,7 +1201,7 @@ msgstr "В этом мусорном баке полно сокровищ!"
 
 #: english/data/text/english/dialog/23npc.msg:10
 msgid "Mark. "
-msgstr ""
+msgstr "Марк."
 
 #: english/data/text/english/dialog/23npc.msg:100
 msgid "Dragon wake up and look around.."
@@ -1368,7 +1369,7 @@ msgstr "Нет, ты не можешь прочитать все это! Ты в
 
 #: english/data/text/english/dialog/24npc.msg:10
 msgid "Vitold. "
-msgstr ""
+msgstr "Витольд."
 
 #: english/data/text/english/dialog/24npc.msg:100
 msgid "What damage made my sword? "
@@ -1848,7 +1849,7 @@ msgstr "Меня зовут Бонд. Джеймс Бонд.. запомни э�
 
 #: english/data/text/english/dialog/28npc.msg:10
 msgid "Klamath News. "
-msgstr ""
+msgstr "Новости Клэмата."
 
 #: english/data/text/english/dialog/28npc.msg:20
 msgid "News? They all are old stuff.."
@@ -1889,7 +1890,7 @@ msgstr "Несколько фотографий полуобнаженных ж�
 #: english/data/text/english/dialog/55npc.msg:10
 #: english/data/text/english/dialog/59npc.msg:10
 msgid "Citizen. "
-msgstr ""
+msgstr "Горожанин."
 
 #: english/data/text/english/dialog/29npc.msg:100
 msgid "So you return from your.. journey. Its good to see you again. Uh your wife was very angry and she asked me about sleep with her.. But dont fear she is so ugly that.. Uh i mean.. nothing."
@@ -2074,7 +2075,7 @@ msgstr "Одна из порнозвезд, работающих в Ванных
 #: english/data/text/english/dialog/37npc.msg:50
 #: english/data/text/english/dialog/38npc.msg:50
 msgid " aaa "
-msgstr ""
+msgstr "ааа"
 
 #: english/data/text/english/dialog/34npc.msg:51
 #: english/data/text/english/dialog/35npc.msg:51
@@ -2310,11 +2311,11 @@ msgstr " "
 #: english/data/text/english/dialog/38npc.msg:700
 #: english/data/text/english/dialog/talk.msg:400
 msgid " pyt3 "
-msgstr ""
+msgstr "пит3"
 
 #: english/data/text/english/dialog/35npc.msg:10
 msgid "Sylvia Moon. "
-msgstr ""
+msgstr " Сильвия Мун."
 
 #: english/data/text/english/dialog/35npc.msg:20
 msgid "She is owner and guard of fame Bathhouse."
@@ -2538,6 +2539,10 @@ msgstr "Что делаешь?"
 #: english/data/text/english/dialog/42npc.msg:250
 msgid "Am playing Giana Sister.. JUMP YOU BITCH! ..damn! ..YEAH! [he point on some pixels on monitor and say] Look i olways get problems to get these diamonds, i think it must be unvisible platform to jump for this bonus.."
 msgstr ""
+"Я играю в Сестру Джиану. ПРЯМО НА ТЕБЯ! Черт! АГА! [он указывает на пиксели "
+"на мониторе и говорит] Гляди, у меня всегда проблемы с этими бриллиантами, я "
+"думаю там где-то должна быть невидимая площадка, чтобы допрыгнуть до этого "
+"бонуса."
 
 #: english/data/text/english/dialog/42npc.msg:300
 msgid "What is that.. machine?"
@@ -2722,7 +2727,7 @@ msgstr "Владелец \"Золотого Гекко\""
 
 #: english/data/text/english/dialog/47npc.msg:20
 msgid "He look very sad and nervous.."
-msgstr ""
+msgstr "Он выглядит очень грустно и нервно."
 
 #: english/data/text/english/dialog/47npc.msg:100
 msgid "Dont you seen caption on doors \"out of business\"!?"
@@ -2738,7 +2743,7 @@ msgstr "Я все проиграл в покер. Почти сорвал бан
 
 #: english/data/text/english/dialog/47npc.msg:300
 msgid "Do you have beer? "
-msgstr ""
+msgstr "У тебя есть пиво?"
 
 #: english/data/text/english/dialog/47npc.msg:350
 msgid "Its joke? Leave me alone!"
@@ -2930,11 +2935,11 @@ msgstr "[Похоже, он слишком занят, чтобы отвечат
 
 #: english/data/text/english/dialog/52npc.msg:10
 msgid "Read 100 pages survival guide. "
-msgstr ""
+msgstr "Читать 100 страниц руководства по выживанию."
 
 #: english/data/text/english/dialog/52npc.msg:20
 msgid "See big map of almost whole country."
-msgstr ""
+msgstr "Смотреть большую карту почти всей страны."
 
 #: english/data/text/english/dialog/52npc.msg:30
 msgid "Close book. "
@@ -2955,18 +2960,30 @@ msgstr "Ничего интересного почитать не осталос
 #: english/data/text/english/dialog/52npc.msg:100
 msgid "The most abundant life-form on earth, insects are easily caught. Insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source."
 msgstr ""
+"Самая распространная форма жизни на Земле, насекомые, ловятся очень легко. "
+"Насекомые на 65-80% состоят из протеина, тогда как говядина лишь на 20. Этот "
+"факт делает насекомых важным, хотя и не слишком вкусным истоником пищи."
 
 #: english/data/text/english/dialog/52npc.msg:101
 msgid "Survivors have related feelings of apathy and helplessness because they could not treat themselves in this environment. The ability to treat themselves increased their morale and cohesion and aided in their survival and eventual return to friendly forces."
 msgstr ""
+"Выжившие чувствуют апатию и беспомощность, потому что они не могут вылечить "
+"себя в этой среде. Возможность лечиться поднимает их дух и сплачивает, и "
+"таким образом помогает выживанию и возвращению в дружественное окружение."
 
 #: english/data/text/english/dialog/52npc.msg:102
 msgid "One man with a fair amount of basic medical knowledge can make a difference to the lives of many. Without qualified medical personnel available, it is you who must know what to do to stay alive."
 msgstr ""
+"Один человек с достаточным багажом медицинских знаний может изменить жизни "
+"многих. Без квалифированной медицинской помощи, вам самому нужно знать что "
+"делать, чтобы остаться в живых."
 
 #: english/data/text/english/dialog/52npc.msg:103
 msgid "Many evaders and survivors have reported difficulty in treating injuries and illness due to the lack of training and medical supplies. For some, this led to capture or surrender."
 msgstr ""
+"Многие беглецы и выживальщики сообщали о трудностях в лечении ран и болезней "
+"из-за отсутствия опыта и лекарств. В некоторых случаях это приводило к их "
+"поимке или сдаче."
 
 #: english/data/text/english/dialog/52npc.msg:104
 msgid "Foremost among the many problems that can compromise a survivor's ability to return to safety are medical problems resulting from parachute descent and landing, extreme climates, ground combat, evasion, and illnesses contracted in captivity."
