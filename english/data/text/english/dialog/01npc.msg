@@ -4,7 +4,7 @@
 
 {100}{}{Hey! You! Dirty man! What you doing here?! This village is top secret and nobody from outside world cant enter our holy land! }
 
-{200}{}{Am just traveller from Klamath. }
+{200}{}{Am just traveller from Klamath. Really really last try here.}
 {250}{}{Get out of here! Peoples like you come here only to steal everything and make troubles. Thats why we dont like tourists!  }
 
 {300}{}{Do you have flask of beer? }
