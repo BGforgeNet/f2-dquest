@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-14 10:08+0000\n"
+"PO-Revision-Date: 2017-02-14 18:42+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3030,14 +3030,27 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:109
 msgid "You replace the water as you lose it. Trying to make up a deficit is difficult in a survival situation, and thirst is not a sign of how much water you need. Most people cannot comfortably drink more than 1 liter of water at a time. So, even when not thirsty, drink small amounts of water at regular intervals each hour to prevent dehydration."
 msgstr ""
+"Восполняйте воду при потере. Это трудно сделать, и жажда не показывает когда "
+"вам нужна вода. Большинство людей не могут выпить более 1 литра воды за раз. "
+"Даже когда пить не хочется, потребляйте небольшие порции воды ежечасно для "
+"предотвращения обезвоживания."
 
 #: english/data/text/english/dialog/52npc.msg:110
 msgid "Although you can live several weeks without food, you need an adequate amount to stay healthy. Without food your mental and physical capabilities will deteriorate rapidly, and you will become weak. Food replenishes the substances that your body burns and provides energy. It provides vitamins, minerals, salts, and other elements essential to good health. Possibly more important, it helps morale."
 msgstr ""
+"Хотя вы можете прожить несколько недель без еды, вам требуется ее адекватное "
+"количество, чтобы оставаться здоровым. Без еды ваши физические способности "
+"быстро деградируют, и вы ослабеете. Еда восполняет вещества, которые сжигает "
+"ваше тело для получения энергии. Она обеспечиват витамины, минералы, соли и "
+"другие элементы, необходимые для здоровья. И (что может быть более важно) "
+"поднимает дух."
 
 #: english/data/text/english/dialog/52npc.msg:111
 msgid "The two basic sources of food are plants and animals (including fish). In varying degrees both provide the calories, carbohydrates, fats, and proteins needed for normal daily body functions."
 msgstr ""
+"Два основных источника еды это растения и животные (включая рыбу). В разных "
+"пропорциях, и те и другие обеспечивают калории, карбогидраты, жиры и "
+"протеины, необходимы для нормального функционирования тела."
 
 #: english/data/text/english/dialog/52npc.msg:112
 msgid "Calories are a measure of heat and potential energy. The average person needs 2,000 calories per day to function at a minimum level. An adequate amount of carbohydrates, fats, and proteins without an adequate caloric intake will lead to starvation and cannibalism of the body's own tissue for energy."
