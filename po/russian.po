@@ -204,7 +204,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-2-14 5:10+0000\n"
+"POT-Creation-Date: 2017-2-14 5:26+0000\n"
 "PO-Revision-Date: 2017-02-14 05:05+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -231,7 +231,7 @@ msgstr "Эй! Ты! Бомжара! Что ты здесь делаешь?! Де
 #: english/data/text/english/dialog/01npc.msg:200
 #, fuzzy
 #| msgid "Am just traveller from Klamath. "
-msgid "Am just traveller from Klamath. Really really last try here."
+msgid "Am just traveller from Klamath."
 msgstr "Я тут проходил мимо из Кламата. "
 
 #: english/data/text/english/dialog/01npc.msg:250
