@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-14 18:42+0000\n"
+"PO-Revision-Date: 2017-02-15 01:12+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3055,26 +3055,54 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:112
 msgid "Calories are a measure of heat and potential energy. The average person needs 2,000 calories per day to function at a minimum level. An adequate amount of carbohydrates, fats, and proteins without an adequate caloric intake will lead to starvation and cannibalism of the body's own tissue for energy."
 msgstr ""
+"Калории это мера тепла и потенциальной энергии. Средний человек нуждается в "
+"2000 калорий в день, чтобы функционировать на минимальном уровне. "
+"Достаточное количество карбогидратов, жиров и протеинов при недостатке "
+"калорий может привести к голоданию и сжиганию мышечной массы тела для "
+"получения энергии."
 
 #: english/data/text/english/dialog/52npc.msg:113
 msgid "The food value of plants becomes more and more important if you are eluding the enemy or if you are in an area where wildlife is scarce. For instance: You can dry plants by wind, air, sun, or fire. This retards spoilage so that you can store or carry the plant food with you to use when needed. You can obtain plants more easily and more quietly than meat. This is extremely important when the enemy is near."
 msgstr ""
+"Пищевое значение растений увеличивается, если вы избегаете врага или "
+"находитесь в местности, где мало живности. Например: вы можете высушить "
+"растения с помощью ветра, воздуха, солнца или огня. Это предотвращает "
+"гниение, так что вы можете сохранить или унести с собой еду, чтобы съесть ее "
+"когда потребуется. Вы может раздобыть растения гораздо легче, чем животных. "
+"Это очень важно, когда рядом враг."
 
 #: english/data/text/english/dialog/52npc.msg:114
 msgid "Meat is more nourishing than plant food. In fact, it may even be more readily available in some places. However, to get meat, you need to know the habits of, and how to capture, the various wildlife."
 msgstr ""
+"Мясо гораздо питательнее растительной пищи. На самом деле, в некоторых "
+"местах его может быть даже легче добыть. Однако, чтобы раздобыть мясо, вам "
+"нужно знать повадки и способы поимки различных животных."
 
 #: english/data/text/english/dialog/52npc.msg:115
 msgid "To satisfy your immediate food needs, first seek the more abundant and more easily obtained wildlife, such as insects, crustaceans, mollusks, fish, and reptiles. These can satisfy your immediate hunger while you are preparing traps and snares for larger game."
 msgstr ""
+"Для удовлетворения немедленной потребности в пище, найдите более "
+"распространенную живность, такую как насекомые, креветки, моллюски, рыбы и "
+"рептилии. Они помогут вам удовлетворить голод, пока вы расставляете ловушки "
+"на более крупную дичь."
 
 #: english/data/text/english/dialog/52npc.msg:116
 msgid "In any situation, cleanliness is an important factor in preventing infection and disease. It becomes even more important in a survival situation. Poor hygiene can reduce your chances of survival. Pay special attention to the feet, armpits, crotch, hands, and hair as these are prime areas for infestation and infection."
 msgstr ""
+"В любой ситуации, поддержание чисто сильно влияет на возможность заболевания "
+"или инфекции. При выживании, это тем более так. Плохая гигиена может "
+"ухудшить ваши шансы выжить. Обращайте особое внимание на ступни, подмышки, "
+"пах, руки и волосы - это основные области, подверженные загрязнению и "
+"заражению."
 
 #: english/data/text/english/dialog/52npc.msg:117
 msgid "Germs on your hands can infect food and wounds. Wash your hands after handling any material that is likely to carry germs, after visiting the latrine, after caring for the sick, and before handling any food, food utensils, or drinking water. Keep your fingernails closely trimmed and clean, and keep your fingers out of your mouth."
 msgstr ""
+"Бактерии на руках могут заразить пищу и раны. Мойте руки после работы с "
+"материалами, на которых могут быть бактерии, после посещения туалета, после "
+"ухаживаниями за больными, а также перед употреблением пищи, воды или "
+"использованием кухонных принадлежностей. Держите свои ногти чистыми и "
+"коротко постриженными, и не кладите пальцы в рот."
 
 #: english/data/text/english/dialog/52npc.msg:118
 msgid "Keep your clothing and bedding as clean as possible to reduce the chance of skin infection as well as to decrease the danger of parasitic infestation. Clean your outer clothing whenever it becomes soiled. Wear clean underclothing and socks each day. If water is scarce, \"air\" clean your clothing by shaking, airing, and sunning it for 2 hours."
