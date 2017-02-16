@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-15 01:12+0000\n"
+"PO-Revision-Date: 2017-02-16 12:49+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3107,30 +3107,58 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:118
 msgid "Keep your clothing and bedding as clean as possible to reduce the chance of skin infection as well as to decrease the danger of parasitic infestation. Clean your outer clothing whenever it becomes soiled. Wear clean underclothing and socks each day. If water is scarce, \"air\" clean your clothing by shaking, airing, and sunning it for 2 hours."
 msgstr ""
+"Содержите свою одежду и постельные принадлежности по возможности чистыми, "
+"чтобы избежать кожных инфекций и паразитов. Стирайте верхнюю одежду, когда "
+"загрязняется. Каждый день меняйте трусы и носки. Если воды не хватает, "
+"очищайте одежду встряхиванием и просушкой на солнце в течение двух часов."
 
 #: english/data/text/english/dialog/52npc.msg:119
 msgid "Thoroughly clean your mouth and teeth with a toothbrush at least once each day. If you don't have a toothbrush, make a chewing stick. Find a twig about 20 centimeters long and 1 centimeter wide. Chew one end of the stick to separate the fibers. Now brush your teeth thoroughly."
 msgstr ""
+"Тщательно чистите зубы и полость рта зубной щеткой по крайней мере один раз "
+"в день. Если у вас нет щетки, сделайте жевательную палочку. Найдите ветку "
+"длиной примерно 20 сантиметров и шириной 1 сантиметр. Разжуйте один конец, "
+"разделяя волокна. Теперь хорошенько почистите зубы. "
 
 #: english/data/text/english/dialog/52npc.msg:120
 msgid "To prevent serious foot problems, break in your shoes before wearing them on any mission. Wash and massage your feet daily. Trim your toenails straight across. Wear an insole and the proper size of dry socks. Powder and check your feet daily for blisters."
 msgstr ""
+"Чтобы избежать проблем со ступнями, разносите свою обувь перед "
+"использованием в какой-либо задаче. Мойте и массажируйте ступни ежедневно. "
+"Стригите ногти прямо. Используйте стельки и сухие носки подходящего размера. "
+"Каждый день посыпайте ступни тальком и проверяйте на появление мозолей."
 
 #: english/data/text/english/dialog/52npc.msg:121
 msgid "You need a certain amount of rest to keep going. Plan for regular rest periods of at least 10 minutes per hour during your daily activities. Learn to make yourself comfortable under less than ideal conditions. A change from mental to physical activity or vice versa can be refreshing when time or situation does not permit total relaxation."
 msgstr ""
+"Вам необходимо достаточно отдыха для выживания. Планируйте хотя бы 10 минут "
+"отдыха в час в течение дневных работ. Научитесь расслабляться в не очень "
+"подходящих условиях. Когда ситуация не позволяет терять время, для освежения "
+"можно сменить умственную активность на физическую и наоборот."
 
 #: english/data/text/english/dialog/52npc.msg:122
 msgid "A shelter can protect you from the sun, insects, wind, rain, snow, hot or cold temperatures, and enemy observation. It can give you a feeling of well-being. It can help you maintain your will to survive."
 msgstr ""
+"Укрытие может защитить вас от солнца, насекомых, ветра, дождя, жары или "
+"холода, а также скрыть от врага. Оно может обепечить чувство безопасности, и "
+"поддержать волю к жизни."
 
 #: english/data/text/english/dialog/52npc.msg:123
 msgid "To survive and evade in arid or desert areas, you must understand and prepare for the environment you will face. You must determine your equipment needs, the tactics you will use, and how the environment will affect you and your tactics. Your survival will depend upon your knowledge of the terrain, basic climatic elements, your ability to cope with these elements, and your will to survive."
 msgstr ""
+"Чтобы выжить и избежать в пустынных или засушливых районах, необходимо "
+"понимать и подготовиться к окружающей среде, которую вы будете сталкиваться. "
+"Вы дожны определить, какое снаряжение вам потребуется, какую тактику "
+"использовать, и как среда будет на это влиять. Ваше выживание зависит от "
+"знания местности, основных климатических условий, вашей способности с ними "
+"справиться, и воли к жизни."
 
 #: english/data/text/english/dialog/52npc.msg:124
 msgid "Most arid areas have several types of terrain. The five basic desert terrain types are: Mountainous (High Altitude). Rocky plateau. Sand dunes. Salt marshes. Broken, dissected terrain (\"gebel\" or \"wadi\")."
 msgstr ""
+"Самые засушливые районы имеют несколько типов местности. Пять основных "
+"пустынных типов: высокогорный, каменное плато, песчаные дюны, соляные топи и "
+"ломаный, перекрестный тип (\"гебал\", или \"вади\")."
 
 #: english/data/text/english/dialog/52npc.msg:125
 msgid "Desert terrain makes movement difficult and demanding. Land navigation will be extremely difficult as there may be very few landmarks. Cover and concealment may be very limited; therefore, the threat of exposure to the enemy remains constant."
