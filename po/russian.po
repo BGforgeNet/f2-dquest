@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-16 14:24+0000\n"
+"PO-Revision-Date: 2017-02-17 12:34+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3170,18 +3170,37 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:126
 msgid "Surviving and evading the enemy in an arid area depends on what you know and how prepared you are for the environmental conditions you will face. Determine what equipment you will need, the tactics you will use, and the environment's impact on them and you."
 msgstr ""
+"Успешность выживания и избегание врага в пустынной местности зависит от "
+"ваших знаний и готовности к окружающим условиям, с которыми вы будете "
+"сталкиваться. Определите какое снаряжение вам потребуется, какую тактику "
+"использовать, и влияние среды на то и на другое."
 
 #: english/data/text/english/dialog/52npc.msg:127
 msgid "In a desert area there are seven environmental factors that you must consider: Low rainfall. Intense sunlight and heat. Wide temperature range. Sparse vegetation. High mineral content near ground surface. Sandstorms. Mirages."
 msgstr ""
+"В пустынной местности вы должны принять во внимание семь факторов: отсуствие "
+"дождей, сильный солнечный свет и жара, широкий диапазон температур, редкость "
+"растительной жизни, высокое содержание минералов у поверхности земли, "
+"песчаные штормы, миражи."
 
 #: english/data/text/english/dialog/52npc.msg:128
 msgid "Low rainfall is the most obvious environmental factor in an arid area. Some desert areas receive less than 10 centimeters of rain annually, and this rain comes in brief torrents that quickly run off the ground surface. You cannot survive long without water in high desert temperatures. In a desert survival situation, you must first consider \"How much water do I have?\" and \"Where are other water sources?\""
 msgstr ""
+"Малое количество осадков это самый очевидный фактор внешней среды в "
+"пустынной местности. В некоторых пустынях выпадает меньше 10 сантиметров "
+"дождя за год, и даже это количество выпадает редкими ливнями, которые быстро "
+"уходят в землю. Вы не можете долго выживать без воды в пустынных высоких "
+"температурах. В подобной ситуации, первым делом задайте себе вопросы \""
+"Сколько у меня есть воды?\" и \"Где другие источники воды?\"."
 
 #: english/data/text/english/dialog/52npc.msg:129
 msgid "Intense sunlight and heat are present in all arid areas. Air temperature can rise as high as 60 degrees C (140 degrees F) during the day. Heat gain results from direct sunlight, hot blowing winds, reflective heat (the sun's rays bouncing off the sand), and conductive heat from direct contact with the desert sand and rock."
 msgstr ""
+"Интенсивный солнечный свет и жара присутствуют во всех пустынных областых. "
+"Температура воздуха может подниматься до 60 градусов по Цельсию (140 по "
+"Фаренгейту) в течение дня. Тепло передается от прямого солнечного света, "
+"горячего ветра, отраженного света (от песка), и от прямого контакта с песком "
+"и камнями."
 
 #: english/data/text/english/dialog/52npc.msg:130
 msgid "Temperatures in arid areas may get as high as 55 degrees C during the day and as low as 10 degrees C during the night. The drop in temperature at night occurs rapidly and will chill a person who lacks warm clothing and is unable to move about. The cool evenings and nights are the best times to work or travel. If your plan is to rest at night, you will find a wool sweater, long underwear, and a wool stocking cap extremely helpful."
