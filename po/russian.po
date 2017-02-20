@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-17 12:34+0000\n"
+"PO-Revision-Date: 2017-02-20 16:09+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3205,14 +3205,28 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:130
 msgid "Temperatures in arid areas may get as high as 55 degrees C during the day and as low as 10 degrees C during the night. The drop in temperature at night occurs rapidly and will chill a person who lacks warm clothing and is unable to move about. The cool evenings and nights are the best times to work or travel. If your plan is to rest at night, you will find a wool sweater, long underwear, and a wool stocking cap extremely helpful."
 msgstr ""
+"Температуры в засушливых районах могут достигать 55 градусов по Цельсию в "
+"течение дня и падать до 10 градусов по Цельсию в течение ночи. Ночью "
+"температура падает резко и застанет врасплох человека без теплой одежды, "
+"который не может двигаться. Прохладные вечера и ночи - лучшее время для "
+"работы или передвижения. Если вы собираетесь отдыхать ночью, вам пригодится "
+"теплый свитер, нижнее белье и шерстяная шапка."
 
 #: english/data/text/english/dialog/52npc.msg:131
 msgid "Vegetation is sparse in arid areas. You will therefore have trouble finding shelter and camouflaging your movements. During daylight hours large areas of terrain are visible and easily controlled by a small opposing force."
 msgstr ""
+"Растительность редка в засушливых областях. Поэтому вам будет сложно найти "
+"убежище и передвигаться скрытно. В течение дня небольшие отряды противника "
+"могут наблюдать и контролировать большие участки местности."
 
 #: english/data/text/english/dialog/52npc.msg:132
 msgid "If traveling in hostile territory, follow the principles of desert camouflage: Hide or seek shelter in dry washes (wadis) with thicker growths of vegetation and cover from oblique observation. Use the shadows cast from brush, rocks, or outcropping. The temperature in shaded areas will be 11 to 17 degrees C cooler than the air temperature. Cover objects that will reflect the light from the sun."
 msgstr ""
+"При передвижении по территории врага следуйте принципам пустынного камуфляжа:"
+" прячьтесь в сухих вымоинах (вадис) с густой растительностью и укрывайтесь "
+"от непрямого наблюдаения. Используйте тени, отбрасываемые кустами, камнями, "
+"или другими объектами. Температура в тени на 11-177 градусов Цельсия ниже "
+"температуры воздуха. Прикрывайте блестящие предметы."
 
 #: english/data/text/english/dialog/52npc.msg:133
 msgid "The greatest danger is getting lost in a swirling wall of sand. Wear goggles and cover your mouth and nose with cloth. If natural shelter is unavailable, mark your direction of travel, lie down, and sit out the storm. Dust and wind-blown sand interfere with radio transmissions. Therefore, be ready to use other means for signaling, such as pyrotechnics, signal mirrors, or marker panels, if available."
