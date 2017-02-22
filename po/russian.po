@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-20 16:09+0000\n"
+"PO-Revision-Date: 2017-02-22 18:24+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3231,34 +3231,77 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:133
 msgid "The greatest danger is getting lost in a swirling wall of sand. Wear goggles and cover your mouth and nose with cloth. If natural shelter is unavailable, mark your direction of travel, lie down, and sit out the storm. Dust and wind-blown sand interfere with radio transmissions. Therefore, be ready to use other means for signaling, such as pyrotechnics, signal mirrors, or marker panels, if available."
 msgstr ""
+"Наибольшая опасность - потеряться в крутящейся стене песка. Наденьте очки и "
+"закройте рот и нос тканью. Если естественное убежище надоступно, отметьте "
+"свое направление движения, лягте, и переждите шторм. Пыль и поднятый в "
+"воздух песок нарушают радио передачи. Поэтому будьте готовы использовать и "
+"другие способы коммуникации, такие как пиротехника, сигналы зеркалами, или "
+"панельные метки, если такие имеются."
 
 #: english/data/text/english/dialog/52npc.msg:134
 msgid "Mirages are optical phenomena caused by the refraction of light through heated air rising from a sandy or stony surface. They occur in the interior of the desert about 10 kilometers from the coast. They make objects that are 1.5 kilometers or more away appear to move."
 msgstr ""
+"Миражи это оптические явления, вызванные преломлением света в горячем "
+"воздухе, поднимающемся от песка или каменной поерхности. Они начинают "
+"появляются внутри пустыни, примерно в 10 километрах от края. Из-за них "
+"объекты, находящиеся более чем в 1.5 километрах, кажутся движущимися."
 
 #: english/data/text/english/dialog/52npc.msg:135
 msgid "The mirage effect makes it hard for a person to identify targets, estimate range, and see objects clearly. However, if you can get to high ground (3 meters or more above the desert floor), you can get above the superheated air close to the ground and overcome the mirage effect. Mirages make land navigation difficult because they obscure natural features. You can survey the area at dawn, dusk, or by moonlight when there is little likelihood of mirage."
 msgstr ""
+"Эффект миража усложняет определение целей, прикидку расстояний, и наблюдение "
+"за объектами. Однако, если вы можете забраться повыше (3 метра или больше от "
+"уровня пустыни), вы будете находиться над перегретым воздухом и мираж не "
+"будет действовать на вас. Миражи усложняют ориентацию на местности, потому "
+"что они искажают картину. Вы можете обозреть местность на рассвете, закате, "
+"или при лунном свете, когда вероятность появления миража меньше."
 
 #: english/data/text/english/dialog/52npc.msg:136
 msgid "Light levels in desert areas are more intense than in other geographic areas. Moonlit nights are usually crystal clear, winds die down, haze and glare disappear, and visibility is excellent. You can see lights, red flash-lights, and blackout lights at great distances. Sound carries very far."
 msgstr ""
+"Уровень освещенности в пустынных районах выше, чем в других областях. Лунные "
+"ночи обычно обеспечивают идеальную видимость, дымка и блики исчезают. Вы "
+"можете заметить свет, красные фонари, и затемненные фары на большом "
+"расстоянии. Звуки разносятся очень далеко."
 
 #: english/data/text/english/dialog/52npc.msg:137
 msgid "During nights with little moonlight, visibility is extremely poor. Traveling is extremely hazardous. You must avoid getting lost, falling into ravines, or stumbling into enemy positions. Movement during such a night is practical only if you have a compass and have spent the day in a shelter, resting, observing and memorizing the terrain, and selecting your route."
 msgstr ""
+"В ночи со слабым лунным светом, видимость очень плохая. Перемещаться опасно. "
+"Вы должны избегать потерю направления, падения в овраги, и выхода на позицию "
+"противние. Передвижение такой ночью имеет смысл только если у вас есть "
+"компас, и вы провели день в убежище, отдыхая, наблюдая и запоминая "
+"местность, и выбирая маршрут."
 
 #: english/data/text/english/dialog/52npc.msg:138
 msgid "The subject of man and water in the desert has generated considerable interest and confusion since the early days of World War II when the U. S. Army was preparing to fight in North Africa. At one time the U. S. Army thought it could condition men to do with less water by progressively reducing their water supplies during training. They called it water discipline. It caused hundreds of heat casualties."
 msgstr ""
+"Вопрос человека и воды в пустыне был интересен и породил немало путаницы со "
+"времен начала второй мировой войны, когда армия США готовил в войне в "
+"северной Африке. В одно время армия думала, что людей можно приучить к "
+"уменьшенному потреблению воды путем уменьшения водного рациона в течение "
+"подготовки. Они называли это водной дисциплиной. Это привело к сотнями "
+"смертей от перегрева."
 
 #: english/data/text/english/dialog/52npc.msg:139
 msgid "A key factor in desert survival is understanding the relationship between physical activity, air temperature, and water consumption. The body requires a certain amount of water for a certain level of activity at a certain temperature. For example, a person performing hard work in the sun at 43 degrees C requires 19 liters of water daily. Lack of the required amount of water causes a rapid decline in an individual's ability to make decisions and to perform tasks efficiently."
 msgstr ""
+"Ключевой фактор выживания в пустыне это понимание отношения между физической "
+"активностью, температурой воздуха, или потреблением воды. Тело требует "
+"достаточного количества воды для определенной активности при определенной "
+"температуре. Например, человек, работающий на солнце при 43 градусах "
+"Цельсия, нуждается в 19 литрах воды ежедневно. Недостаток воды приводит к "
+"стремительному ухудшению способность принимать решения и выполнять задачи "
+"эффективно."
 
 #: english/data/text/english/dialog/52npc.msg:140
 msgid "Thirst is not a reliable guide for your need for water. A person who uses thirst as a guide will drink only two-thirds of his daily water requirement. To prevent this \"voluntary\" dehydration, use the following guide: At temperatures below 38 degrees C, drink 0.5 liter of water every hour. At temperatures above 38 degrees C, drink 1 liter of water every hour."
 msgstr ""
+"Жажда - неподходящий индикатор, что вам нужна вода. Человек, который пьет "
+"только при жажде, потребит лишь 2/3 необходимого количества воды. Чтоб "
+"избежать этого \"добровольного\" обезвоживания, следуйте такому правилу: при "
+"температуре ниже 38 градусов Цельсия, выпивайте поллитра воды каждый час. "
+"При температуре выше, выпивайте целый литр."
 
 #: english/data/text/english/dialog/52npc.msg:141
 msgid "Drinking water at regular intervals helps your body remain cool and decreases sweating. Even when your water supply is low, sipping water constantly will keep your body cooler and reduce water loss through sweating. Conserve your fluids by reducing activity during the heat of day. Do not ration your water! If you try to ration water, you stand a good chance of becoming a heat casualty."
