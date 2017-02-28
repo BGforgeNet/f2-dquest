@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-24 18:28+0000\n"
+"PO-Revision-Date: 2017-02-28 18:40+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -214,7 +214,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.9\n"
+"X-Generator: Weblate 2.11\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
 msgid "Guard."
@@ -3391,6 +3391,10 @@ msgstr ""
 #: english/data/text/english/dialog/52npc.msg:150
 msgid "When hiding or traveling, stay in the deepest part of the shadows. The outer edges of the shadows are lighter and the deeper parts are darker. Remember, if you are in an area where there is plenty of vegetation, keep as much vegetation between you and a potential enemy as possible."
 msgstr ""
+"Когда вы прячетесь или передвигаетесь, оставайтесь в самых темных тенях. "
+"Наружные кромки теней светлее, а внутренние части темнее. Помните - если вы "
+"в местности с большим количеством растительности, располагайтесь так, чтобы "
+"между вами и потенциальным врагом ее было как можно больше."
 
 #: english/data/text/english/dialog/52npc.msg:151
 msgid "In many survival situations, the ability to start a fire can make the difference between living and dying. Fire can fulfill many needs. It can provide warmth and comfort. It not only cooks and preserves food, it also provides warmth in the form of heated food that saves calories our body normally uses to produce body heat. You can use fire to purify water, sterilize bandages, signal for rescue, and provide protection from animals. It can be a psychological boost by providing peace of mind and companionship. You can also use fire to produce tools and weapons."
