@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-03-01 02:32+0000\n"
+"PO-Revision-Date: 2017-03-01 03:01+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3160,7 +3160,7 @@ msgstr "Во многих экстремальных ситуациях спос
 
 #: english/data/text/english/dialog/52npc.msg:152
 msgid "In many survival situations, the ability to start a fire can make the difference between living and dying. Fire can cause problems, as well. The enemy can detect the smoke and light it produces. It can cause forest fires or destroy essential equipment. Fire can also cause burns carbon monoxide poisoning when used in shelters."
-msgstr ""
+msgstr "Во многих экстремальных ситуациях способность разжечь огонь может означает разницу между жизнью и смертью. Огонь может быть и источником проблем. Враг может заметить дым и свет. Огонь может начать лесной пожар или уничтожить необходимое снаряжение. Также, огонь может причинить ожоги, или отравление углекислым газом при использовании в убежище."
 
 #: english/data/text/english/dialog/52npc.msg:153
 msgid "To build a fire, it helps to understand the basic principles of a fire. Fuel (in a non gaseous state) does not burn directly. When you apply heat to a fuel, it produces a gas. This gas, combined with oxygen in the air, burns. Understanding the concept of the fire triangle is very important in correctly constructing and maintaining a fire. The three sides of the triangle represent air, heat, and fuel. If you remove any of these, the fire will go out. "
