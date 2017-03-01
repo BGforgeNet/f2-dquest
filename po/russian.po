@@ -205,15 +205,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-02-28 18:40+0000\n"
+"PO-Revision-Date: 2017-03-01 02:32+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.11\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
@@ -922,9 +921,7 @@ msgstr "Приятная женщина. "
 
 #: english/data/text/english/dialog/16npc.msg:20
 msgid "She look much better from other females in this village and it seem like she used cosmetic case lately."
-msgstr ""
-"Она выглядит гораздо лучше других женщин в этой деревне... похоже, она "
-"недавно пользовалась косметикой."
+msgstr "Она выглядит гораздо лучше других женщин в этой деревне... похоже, она недавно пользовалась косметикой."
 
 #: english/data/text/english/dialog/16npc.msg:100
 msgid "Helo outsider, can you help me? [She watch at you in hope and from inside of tent you hear someone voices in pain]"
@@ -2538,11 +2535,7 @@ msgstr "Что делаешь?"
 
 #: english/data/text/english/dialog/42npc.msg:250
 msgid "Am playing Giana Sister.. JUMP YOU BITCH! ..damn! ..YEAH! [he point on some pixels on monitor and say] Look i olways get problems to get these diamonds, i think it must be unvisible platform to jump for this bonus.."
-msgstr ""
-"Я играю в Сестру Джиану. ПРЯМО НА ТЕБЯ! Черт! АГА! [он указывает на пиксели "
-"на мониторе и говорит] Гляди, у меня всегда проблемы с этими бриллиантами, я "
-"думаю там где-то должна быть невидимая площадка, чтобы допрыгнуть до этого "
-"бонуса."
+msgstr "Я играю в Сестру Джиану. ПРЯМО НА ТЕБЯ! Черт! АГА! [он указывает на пиксели на мониторе и говорит] Гляди, у меня всегда проблемы с этими бриллиантами, я думаю там где-то должна быть невидимая площадка, чтобы допрыгнуть до этого бонуса."
 
 #: english/data/text/english/dialog/42npc.msg:300
 msgid "What is that.. machine?"
@@ -2959,446 +2952,211 @@ msgstr "Ничего интересного почитать не осталос
 
 #: english/data/text/english/dialog/52npc.msg:100
 msgid "The most abundant life-form on earth, insects are easily caught. Insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source."
-msgstr ""
-"Самая распространная форма жизни на Земле, насекомые, ловятся очень легко. "
-"Насекомые на 65-80% состоят из протеина, тогда как говядина лишь на 20. Этот "
-"факт делает насекомых важным, хотя и не слишком вкусным истоником пищи."
+msgstr "Самая распространная форма жизни на Земле, насекомые, ловятся очень легко. Насекомые на 65-80% состоят из протеина, тогда как говядина лишь на 20. Этот факт делает насекомых важным, хотя и не слишком вкусным истоником пищи."
 
 #: english/data/text/english/dialog/52npc.msg:101
 msgid "Survivors have related feelings of apathy and helplessness because they could not treat themselves in this environment. The ability to treat themselves increased their morale and cohesion and aided in their survival and eventual return to friendly forces."
-msgstr ""
-"Выжившие чувствуют апатию и беспомощность, потому что они не могут вылечить "
-"себя в этой среде. Возможность лечиться поднимает их дух и сплачивает, и "
-"таким образом помогает выживанию и возвращению в дружественное окружение."
+msgstr "Выжившие чувствуют апатию и беспомощность, потому что они не могут вылечить себя в этой среде. Возможность лечиться поднимает их дух и сплачивает, и таким образом помогает выживанию и возвращению в дружественное окружение."
 
 #: english/data/text/english/dialog/52npc.msg:102
 msgid "One man with a fair amount of basic medical knowledge can make a difference to the lives of many. Without qualified medical personnel available, it is you who must know what to do to stay alive."
-msgstr ""
-"Один человек с достаточным багажом медицинских знаний может изменить жизни "
-"многих. Без квалифированной медицинской помощи, вам самому нужно знать что "
-"делать, чтобы остаться в живых."
+msgstr "Один человек с достаточным багажом медицинских знаний может изменить жизни многих. Без квалифированной медицинской помощи, вам самому нужно знать что делать, чтобы остаться в живых."
 
 #: english/data/text/english/dialog/52npc.msg:103
 msgid "Many evaders and survivors have reported difficulty in treating injuries and illness due to the lack of training and medical supplies. For some, this led to capture or surrender."
-msgstr ""
-"Многие беглецы и выживальщики сообщали о трудностях в лечении ран и болезней "
-"из-за отсутствия опыта и лекарств. В некоторых случаях это приводило к их "
-"поимке или сдаче."
+msgstr "Многие беглецы и выживальщики сообщали о трудностях в лечении ран и болезней из-за отсутствия опыта и лекарств. В некоторых случаях это приводило к их поимке или сдаче."
 
 #: english/data/text/english/dialog/52npc.msg:104
 msgid "Foremost among the many problems that can compromise a survivor's ability to return to safety are medical problems resulting from parachute descent and landing, extreme climates, ground combat, evasion, and illnesses contracted in captivity."
-msgstr ""
-"На первом месте среди многих проблем, которые могут ухудшить способность "
-"выживальщика вернуться к безопасности, стоят медицинские проблемы, связанные "
-"с парашютированием и посадкой, экстремальными климатическими условиями, "
-"наземными боевыми действиями, нахождением в бегах, а также болезнями, "
-"подхваченными в неволе."
+msgstr "На первом месте среди многих проблем, которые могут ухудшить способность выживальщика вернуться к безопасности, стоят медицинские проблемы, связанные с парашютированием и посадкой, экстремальными климатическими условиями, наземными боевыми действиями, нахождением в бегах, а также болезнями, подхваченными в неволе."
 
 #: english/data/text/english/dialog/52npc.msg:105
 msgid "Your body loses water through normal body processes (sweating, urinating, and defecating). During average daily exertion when the atmospheric temperature is 20 degrees Celsius (C) (68 degrees Fahrenheit), the average adult loses and therefore requires 2 to 3 liters of water daily."
-msgstr ""
-"Ваше тело теряет воду через естественные процессы (потение, мочеиспускание, "
-"дефекация). За средний день при температуре воздуха 20 градусов Цельсия (68 "
-"градусов Фаренгейта), нормальный взрослый человек теряет, и, соответсвенно, "
-"нуждается в 2-3 литрах воды."
+msgstr "Ваше тело теряет воду через естественные процессы (потение, мочеиспускание, дефекация). За средний день при температуре воздуха 20 градусов Цельсия (68 градусов Фаренгейта), нормальный взрослый человек теряет, и, соответсвенно, нуждается в 2-3 литрах воды."
 
 #: english/data/text/english/dialog/52npc.msg:106
 msgid "Of all the physical problems encountered in a survival situation, the loss of water is the most preventable. The following are basic guidelines for the prevention of dehydration: Always drink water when eating. Acclimatize. Conserve sweat not water. Limit sweat-producing activities but drink water. Ration water."
-msgstr ""
-"Из всех физических проблем, с которыми сталкивается выживальщик, потерю воду "
-"предотвратить легче всего. Базовые правила для избежания обезвоживания: "
-"Всегда пейте воду при приеме пищи. Акклиматизируйтесь. Сохраняйте пот а не "
-"воду. Ограничьте потоотделяющую активность, но пейте воду. Расходуйте воду "
-"экономно."
+msgstr "Из всех физических проблем, с которыми сталкивается выживальщик, потерю воду предотвратить легче всего. Базовые правила для избежания обезвоживания: Всегда пейте воду при приеме пищи. Акклиматизируйтесь. Сохраняйте пот а не воду. Ограничьте потоотделяющую активность, но пейте воду. Расходуйте воду экономно."
 
 #: english/data/text/english/dialog/52npc.msg:107
 msgid "With the loss of water there is also a loss of electrolytes (body salts). The average diet can usually keep up with these losses but in an extreme situation or illness, additional sources need to be provided. A mixture of 0.25 teaspoon of salt to 1 liter of water will provide a concentration that the body tissues can readily absorb."
-msgstr ""
-"С потерей воды также теряются электролиты (соли тела). Обычно питание "
-"восполняет эти потери, но в экстремальных ситуациях или при болезни, нужно "
-"обеспечить дополнительные источники. Раствор четверти чайной ложки соли в "
-"одном литре воды обеспечит концентрацию, которая легко может быть поглощена "
-"тканями тела."
+msgstr "С потерей воды также теряются электролиты (соли тела). Обычно питание восполняет эти потери, но в экстремальных ситуациях или при болезни, нужно обеспечить дополнительные источники. Раствор четверти чайной ложки соли в одном литре воды обеспечит концентрацию, которая легко может быть поглощена тканями тела."
 
 #: english/data/text/english/dialog/52npc.msg:108
 msgid "In any situation where food intake is low, drink 6 to 8 liters of water per day. In an extreme climate, especially an arid one, the average person can lose 2.5 to 3.5 liters of water per hour. In this type of climate, you should drink 14 to 30 liters of water per day."
-msgstr ""
-"При недостатке еды, пейте от 6 до 8 литров воды в день. В экстремальном "
-"климате, особенно сухом, обычный человек может терять от 2,5 до 3,5 литров "
-"воды за час. В таком климате вы должны пить от 14 до 30 литров воды в день."
+msgstr "При недостатке еды, пейте от 6 до 8 литров воды в день. В экстремальном климате, особенно сухом, обычный человек может терять от 2,5 до 3,5 литров воды за час. В таком климате вы должны пить от 14 до 30 литров воды в день."
 
 #: english/data/text/english/dialog/52npc.msg:109
 msgid "You replace the water as you lose it. Trying to make up a deficit is difficult in a survival situation, and thirst is not a sign of how much water you need. Most people cannot comfortably drink more than 1 liter of water at a time. So, even when not thirsty, drink small amounts of water at regular intervals each hour to prevent dehydration."
-msgstr ""
-"Восполняйте воду при потере. Это трудно сделать, и жажда не показывает когда "
-"вам нужна вода. Большинство людей не могут выпить более 1 литра воды за раз. "
-"Даже когда пить не хочется, потребляйте небольшие порции воды ежечасно для "
-"предотвращения обезвоживания."
+msgstr "Восполняйте воду при потере. Это трудно сделать, и жажда не показывает когда вам нужна вода. Большинство людей не могут выпить более 1 литра воды за раз. Даже когда пить не хочется, потребляйте небольшие порции воды ежечасно для предотвращения обезвоживания."
 
 #: english/data/text/english/dialog/52npc.msg:110
 msgid "Although you can live several weeks without food, you need an adequate amount to stay healthy. Without food your mental and physical capabilities will deteriorate rapidly, and you will become weak. Food replenishes the substances that your body burns and provides energy. It provides vitamins, minerals, salts, and other elements essential to good health. Possibly more important, it helps morale."
-msgstr ""
-"Хотя вы можете прожить несколько недель без еды, вам требуется ее адекватное "
-"количество, чтобы оставаться здоровым. Без еды ваши физические способности "
-"быстро деградируют, и вы ослабеете. Еда восполняет вещества, которые сжигает "
-"ваше тело для получения энергии. Она обеспечиват витамины, минералы, соли и "
-"другие элементы, необходимые для здоровья. И (что может быть более важно) "
-"поднимает дух."
+msgstr "Хотя вы можете прожить несколько недель без еды, вам требуется ее адекватное количество, чтобы оставаться здоровым. Без еды ваши физические способности быстро деградируют, и вы ослабеете. Еда восполняет вещества, которые сжигает ваше тело для получения энергии. Она обеспечиват витамины, минералы, соли и другие элементы, необходимые для здоровья. И (что может быть более важно) поднимает дух."
 
 #: english/data/text/english/dialog/52npc.msg:111
 msgid "The two basic sources of food are plants and animals (including fish). In varying degrees both provide the calories, carbohydrates, fats, and proteins needed for normal daily body functions."
-msgstr ""
-"Два основных источника еды это растения и животные (включая рыбу). В разных "
-"пропорциях, и те и другие обеспечивают калории, карбогидраты, жиры и "
-"протеины, необходимы для нормального функционирования тела."
+msgstr "Два основных источника еды это растения и животные (включая рыбу). В разных пропорциях, и те и другие обеспечивают калории, карбогидраты, жиры и протеины, необходимы для нормального функционирования тела."
 
 #: english/data/text/english/dialog/52npc.msg:112
 msgid "Calories are a measure of heat and potential energy. The average person needs 2,000 calories per day to function at a minimum level. An adequate amount of carbohydrates, fats, and proteins without an adequate caloric intake will lead to starvation and cannibalism of the body's own tissue for energy."
-msgstr ""
-"Калории это мера тепла и потенциальной энергии. Средний человек нуждается в "
-"2000 калорий в день, чтобы функционировать на минимальном уровне. "
-"Достаточное количество карбогидратов, жиров и протеинов при недостатке "
-"калорий может привести к голоданию и сжиганию мышечной массы тела для "
-"получения энергии."
+msgstr "Калории это мера тепла и потенциальной энергии. Средний человек нуждается в 2000 калорий в день, чтобы функционировать на минимальном уровне. Достаточное количество карбогидратов, жиров и протеинов при недостатке калорий может привести к голоданию и сжиганию мышечной массы тела для получения энергии."
 
 #: english/data/text/english/dialog/52npc.msg:113
 msgid "The food value of plants becomes more and more important if you are eluding the enemy or if you are in an area where wildlife is scarce. For instance: You can dry plants by wind, air, sun, or fire. This retards spoilage so that you can store or carry the plant food with you to use when needed. You can obtain plants more easily and more quietly than meat. This is extremely important when the enemy is near."
-msgstr ""
-"Пищевое значение растений увеличивается, если вы избегаете врага или "
-"находитесь в местности, где мало живности. Например: вы можете высушить "
-"растения с помощью ветра, воздуха, солнца или огня. Это предотвращает "
-"гниение, так что вы можете сохранить или унести с собой еду, чтобы съесть ее "
-"когда потребуется. Вы может раздобыть растения гораздо легче, чем животных. "
-"Это очень важно, когда рядом враг."
+msgstr "Пищевое значение растений увеличивается, если вы избегаете врага или находитесь в местности, где мало живности. Например: вы можете высушить растения с помощью ветра, воздуха, солнца или огня. Это предотвращает гниение, так что вы можете сохранить или унести с собой еду, чтобы съесть ее когда потребуется. Вы может раздобыть растения гораздо легче, чем животных. Это очень важно, когда рядом враг."
 
 #: english/data/text/english/dialog/52npc.msg:114
 msgid "Meat is more nourishing than plant food. In fact, it may even be more readily available in some places. However, to get meat, you need to know the habits of, and how to capture, the various wildlife."
-msgstr ""
-"Мясо гораздо питательнее растительной пищи. На самом деле, в некоторых "
-"местах его может быть даже легче добыть. Однако, чтобы раздобыть мясо, вам "
-"нужно знать повадки и способы поимки различных животных."
+msgstr "Мясо гораздо питательнее растительной пищи. На самом деле, в некоторых местах его может быть даже легче добыть. Однако, чтобы раздобыть мясо, вам нужно знать повадки и способы поимки различных животных."
 
 #: english/data/text/english/dialog/52npc.msg:115
 msgid "To satisfy your immediate food needs, first seek the more abundant and more easily obtained wildlife, such as insects, crustaceans, mollusks, fish, and reptiles. These can satisfy your immediate hunger while you are preparing traps and snares for larger game."
-msgstr ""
-"Для удовлетворения немедленной потребности в пище, найдите более "
-"распространенную живность, такую как насекомые, креветки, моллюски, рыбы и "
-"рептилии. Они помогут вам удовлетворить голод, пока вы расставляете ловушки "
-"на более крупную дичь."
+msgstr "Для удовлетворения немедленной потребности в пище, найдите более распространенную живность, такую как насекомые, креветки, моллюски, рыбы и рептилии. Они помогут вам удовлетворить голод, пока вы расставляете ловушки на более крупную дичь."
 
 #: english/data/text/english/dialog/52npc.msg:116
 msgid "In any situation, cleanliness is an important factor in preventing infection and disease. It becomes even more important in a survival situation. Poor hygiene can reduce your chances of survival. Pay special attention to the feet, armpits, crotch, hands, and hair as these are prime areas for infestation and infection."
-msgstr ""
-"В любой ситуации, поддержание чисто сильно влияет на возможность заболевания "
-"или инфекции. При выживании, это тем более так. Плохая гигиена может "
-"ухудшить ваши шансы выжить. Обращайте особое внимание на ступни, подмышки, "
-"пах, руки и волосы - это основные области, подверженные загрязнению и "
-"заражению."
+msgstr "В любой ситуации, поддержание чисто сильно влияет на возможность заболевания или инфекции. При выживании, это тем более так. Плохая гигиена может ухудшить ваши шансы выжить. Обращайте особое внимание на ступни, подмышки, пах, руки и волосы - это основные области, подверженные загрязнению и заражению."
 
 #: english/data/text/english/dialog/52npc.msg:117
 msgid "Germs on your hands can infect food and wounds. Wash your hands after handling any material that is likely to carry germs, after visiting the latrine, after caring for the sick, and before handling any food, food utensils, or drinking water. Keep your fingernails closely trimmed and clean, and keep your fingers out of your mouth."
-msgstr ""
-"Бактерии на руках могут заразить пищу и раны. Мойте руки после работы с "
-"материалами, на которых могут быть бактерии, после посещения туалета, после "
-"ухаживаниями за больными, а также перед употреблением пищи, воды или "
-"использованием кухонных принадлежностей. Держите свои ногти чистыми и "
-"коротко постриженными, и не кладите пальцы в рот."
+msgstr "Бактерии на руках могут заразить пищу и раны. Мойте руки после работы с материалами, на которых могут быть бактерии, после посещения туалета, после ухаживаниями за больными, а также перед употреблением пищи, воды или использованием кухонных принадлежностей. Держите свои ногти чистыми и коротко постриженными, и не кладите пальцы в рот."
 
 #: english/data/text/english/dialog/52npc.msg:118
 msgid "Keep your clothing and bedding as clean as possible to reduce the chance of skin infection as well as to decrease the danger of parasitic infestation. Clean your outer clothing whenever it becomes soiled. Wear clean underclothing and socks each day. If water is scarce, \"air\" clean your clothing by shaking, airing, and sunning it for 2 hours."
-msgstr ""
-"Содержите свою одежду и постельные принадлежности по возможности чистыми, "
-"чтобы избежать кожных инфекций и паразитов. Стирайте верхнюю одежду, когда "
-"загрязняется. Каждый день меняйте трусы и носки. Если воды не хватает, "
-"очищайте одежду встряхиванием и просушкой на солнце в течение двух часов."
+msgstr "Содержите свою одежду и постельные принадлежности по возможности чистыми, чтобы избежать кожных инфекций и паразитов. Стирайте верхнюю одежду, когда загрязняется. Каждый день меняйте трусы и носки. Если воды не хватает, очищайте одежду встряхиванием и просушкой на солнце в течение двух часов."
 
 #: english/data/text/english/dialog/52npc.msg:119
 msgid "Thoroughly clean your mouth and teeth with a toothbrush at least once each day. If you don't have a toothbrush, make a chewing stick. Find a twig about 20 centimeters long and 1 centimeter wide. Chew one end of the stick to separate the fibers. Now brush your teeth thoroughly."
-msgstr ""
-"Тщательно чистите зубы и полость рта зубной щеткой по крайней мере один раз "
-"в день. Если у вас нет щетки, сделайте жевательную палочку. Найдите ветку "
-"длиной примерно 20 сантиметров и шириной 1 сантиметр. Разжуйте один конец, "
-"разделяя волокна. Теперь хорошенько почистите зубы. "
+msgstr "Тщательно чистите зубы и полость рта зубной щеткой по крайней мере один раз в день. Если у вас нет щетки, сделайте жевательную палочку. Найдите ветку длиной примерно 20 сантиметров и шириной 1 сантиметр. Разжуйте один конец, разделяя волокна. Теперь хорошенько почистите зубы. "
 
 #: english/data/text/english/dialog/52npc.msg:120
 msgid "To prevent serious foot problems, break in your shoes before wearing them on any mission. Wash and massage your feet daily. Trim your toenails straight across. Wear an insole and the proper size of dry socks. Powder and check your feet daily for blisters."
-msgstr ""
-"Чтобы избежать проблем со ступнями, разносите свою обувь перед "
-"использованием в какой-либо задаче. Мойте и массажируйте ступни ежедневно. "
-"Стригите ногти прямо. Используйте стельки и сухие носки подходящего размера. "
-"Каждый день посыпайте ступни тальком и проверяйте на появление мозолей."
+msgstr "Чтобы избежать проблем со ступнями, разносите свою обувь перед использованием в какой-либо задаче. Мойте и массажируйте ступни ежедневно. Стригите ногти прямо. Используйте стельки и сухие носки подходящего размера. Каждый день посыпайте ступни тальком и проверяйте на появление мозолей."
 
 #: english/data/text/english/dialog/52npc.msg:121
 msgid "You need a certain amount of rest to keep going. Plan for regular rest periods of at least 10 minutes per hour during your daily activities. Learn to make yourself comfortable under less than ideal conditions. A change from mental to physical activity or vice versa can be refreshing when time or situation does not permit total relaxation."
-msgstr ""
-"Вам необходимо достаточно отдыха для выживания. Планируйте хотя бы 10 минут "
-"отдыха в час в течение дневных работ. Научитесь расслабляться в не очень "
-"подходящих условиях. Когда ситуация не позволяет терять время, для освежения "
-"можно сменить умственную активность на физическую и наоборот."
+msgstr "Вам необходимо достаточно отдыха для выживания. Планируйте хотя бы 10 минут отдыха в час в течение дневных работ. Научитесь расслабляться в не очень подходящих условиях. Когда ситуация не позволяет терять время, для освежения можно сменить умственную активность на физическую и наоборот."
 
 #: english/data/text/english/dialog/52npc.msg:122
 msgid "A shelter can protect you from the sun, insects, wind, rain, snow, hot or cold temperatures, and enemy observation. It can give you a feeling of well-being. It can help you maintain your will to survive."
-msgstr ""
-"Укрытие может защитить вас от солнца, насекомых, ветра, дождя, жары или "
-"холода, а также скрыть от врага. Оно может обепечить чувство безопасности, и "
-"поддержать волю к жизни."
+msgstr "Укрытие может защитить вас от солнца, насекомых, ветра, дождя, жары или холода, а также скрыть от врага. Оно может обепечить чувство безопасности, и поддержать волю к жизни."
 
 #: english/data/text/english/dialog/52npc.msg:123
 msgid "To survive and evade in arid or desert areas, you must understand and prepare for the environment you will face. You must determine your equipment needs, the tactics you will use, and how the environment will affect you and your tactics. Your survival will depend upon your knowledge of the terrain, basic climatic elements, your ability to cope with these elements, and your will to survive."
-msgstr ""
-"Чтобы выжить и избежать в пустынных или засушливых районах, необходимо "
-"понимать и подготовиться к окружающей среде, которую вы будете сталкиваться. "
-"Вы дожны определить, какое снаряжение вам потребуется, какую тактику "
-"использовать, и как среда будет на это влиять. Ваше выживание зависит от "
-"знания местности, основных климатических условий, вашей способности с ними "
-"справиться, и воли к жизни."
+msgstr "Чтобы выжить и избежать в пустынных или засушливых районах, необходимо понимать и подготовиться к окружающей среде, которую вы будете сталкиваться. Вы дожны определить, какое снаряжение вам потребуется, какую тактику использовать, и как среда будет на это влиять. Ваше выживание зависит от знания местности, основных климатических условий, вашей способности с ними справиться, и воли к жизни."
 
 #: english/data/text/english/dialog/52npc.msg:124
 msgid "Most arid areas have several types of terrain. The five basic desert terrain types are: Mountainous (High Altitude). Rocky plateau. Sand dunes. Salt marshes. Broken, dissected terrain (\"gebel\" or \"wadi\")."
-msgstr ""
-"Самые засушливые районы имеют несколько типов местности. Пять основных "
-"пустынных типов: высокогорный, каменное плато, песчаные дюны, соляные топи и "
-"ломаный, перекрестный тип (\"гебал\", или \"вади\")."
+msgstr "Самые засушливые районы имеют несколько типов местности. Пять основных пустынных типов: высокогорный, каменное плато, песчаные дюны, соляные топи и ломаный, перекрестный тип (\"гебал\", или \"вади\")."
 
 #: english/data/text/english/dialog/52npc.msg:125
 msgid "Desert terrain makes movement difficult and demanding. Land navigation will be extremely difficult as there may be very few landmarks. Cover and concealment may be very limited; therefore, the threat of exposure to the enemy remains constant."
-msgstr ""
-"Пустынная местность делает передвижение трудоемким. Ориентироваться на "
-"местности сложно из-за недостатка... ориентиров. Мест для укрытия тоже "
-"немного, поэтому угроза быть замеченным врагом постоянна."
+msgstr "Пустынная местность делает передвижение трудоемким. Ориентироваться на местности сложно из-за недостатка... ориентиров. Мест для укрытия тоже немного, поэтому угроза быть замеченным врагом постоянна."
 
 #: english/data/text/english/dialog/52npc.msg:126
 msgid "Surviving and evading the enemy in an arid area depends on what you know and how prepared you are for the environmental conditions you will face. Determine what equipment you will need, the tactics you will use, and the environment's impact on them and you."
-msgstr ""
-"Успешность выживания и избегание врага в пустынной местности зависит от "
-"ваших знаний и готовности к окружающим условиям, с которыми вы будете "
-"сталкиваться. Определите какое снаряжение вам потребуется, какую тактику "
-"использовать, и влияние среды на то и на другое."
+msgstr "Успешность выживания и избегание врага в пустынной местности зависит от ваших знаний и готовности к окружающим условиям, с которыми вы будете сталкиваться. Определите какое снаряжение вам потребуется, какую тактику использовать, и влияние среды на то и на другое."
 
 #: english/data/text/english/dialog/52npc.msg:127
 msgid "In a desert area there are seven environmental factors that you must consider: Low rainfall. Intense sunlight and heat. Wide temperature range. Sparse vegetation. High mineral content near ground surface. Sandstorms. Mirages."
-msgstr ""
-"В пустынной местности вы должны принять во внимание семь факторов: отсуствие "
-"дождей, сильный солнечный свет и жара, широкий диапазон температур, редкость "
-"растительной жизни, высокое содержание минералов у поверхности земли, "
-"песчаные штормы, миражи."
+msgstr "В пустынной местности вы должны принять во внимание семь факторов: отсуствие дождей, сильный солнечный свет и жара, широкий диапазон температур, редкость растительной жизни, высокое содержание минералов у поверхности земли, песчаные штормы, миражи."
 
 #: english/data/text/english/dialog/52npc.msg:128
 msgid "Low rainfall is the most obvious environmental factor in an arid area. Some desert areas receive less than 10 centimeters of rain annually, and this rain comes in brief torrents that quickly run off the ground surface. You cannot survive long without water in high desert temperatures. In a desert survival situation, you must first consider \"How much water do I have?\" and \"Where are other water sources?\""
-msgstr ""
-"Малое количество осадков это самый очевидный фактор внешней среды в "
-"пустынной местности. В некоторых пустынях выпадает меньше 10 сантиметров "
-"дождя за год, и даже это количество выпадает редкими ливнями, которые быстро "
-"уходят в землю. Вы не можете долго выживать без воды в пустынных высоких "
-"температурах. В подобной ситуации, первым делом задайте себе вопросы \""
-"Сколько у меня есть воды?\" и \"Где другие источники воды?\"."
+msgstr "Малое количество осадков это самый очевидный фактор внешней среды в пустынной местности. В некоторых пустынях выпадает меньше 10 сантиметров дождя за год, и даже это количество выпадает редкими ливнями, которые быстро уходят в землю. Вы не можете долго выживать без воды в пустынных высоких температурах. В подобной ситуации, первым делом задайте себе вопросы \"Сколько у меня есть воды?\" и \"Где другие источники воды?\"."
 
 #: english/data/text/english/dialog/52npc.msg:129
 msgid "Intense sunlight and heat are present in all arid areas. Air temperature can rise as high as 60 degrees C (140 degrees F) during the day. Heat gain results from direct sunlight, hot blowing winds, reflective heat (the sun's rays bouncing off the sand), and conductive heat from direct contact with the desert sand and rock."
-msgstr ""
-"Интенсивный солнечный свет и жара присутствуют во всех пустынных областых. "
-"Температура воздуха может подниматься до 60 градусов по Цельсию (140 по "
-"Фаренгейту) в течение дня. Тепло передается от прямого солнечного света, "
-"горячего ветра, отраженного света (от песка), и от прямого контакта с песком "
-"и камнями."
+msgstr "Интенсивный солнечный свет и жара присутствуют во всех пустынных областых. Температура воздуха может подниматься до 60 градусов по Цельсию (140 по Фаренгейту) в течение дня. Тепло передается от прямого солнечного света, горячего ветра, отраженного света (от песка), и от прямого контакта с песком и камнями."
 
 #: english/data/text/english/dialog/52npc.msg:130
 msgid "Temperatures in arid areas may get as high as 55 degrees C during the day and as low as 10 degrees C during the night. The drop in temperature at night occurs rapidly and will chill a person who lacks warm clothing and is unable to move about. The cool evenings and nights are the best times to work or travel. If your plan is to rest at night, you will find a wool sweater, long underwear, and a wool stocking cap extremely helpful."
-msgstr ""
-"Температуры в засушливых районах могут достигать 55 градусов по Цельсию в "
-"течение дня и падать до 10 градусов по Цельсию в течение ночи. Ночью "
-"температура падает резко и застанет врасплох человека без теплой одежды, "
-"который не может двигаться. Прохладные вечера и ночи - лучшее время для "
-"работы или передвижения. Если вы собираетесь отдыхать ночью, вам пригодится "
-"теплый свитер, нижнее белье и шерстяная шапка."
+msgstr "Температуры в засушливых районах могут достигать 55 градусов по Цельсию в течение дня и падать до 10 градусов по Цельсию в течение ночи. Ночью температура падает резко и застанет врасплох человека без теплой одежды, который не может двигаться. Прохладные вечера и ночи - лучшее время для работы или передвижения. Если вы собираетесь отдыхать ночью, вам пригодится теплый свитер, нижнее белье и шерстяная шапка."
 
 #: english/data/text/english/dialog/52npc.msg:131
 msgid "Vegetation is sparse in arid areas. You will therefore have trouble finding shelter and camouflaging your movements. During daylight hours large areas of terrain are visible and easily controlled by a small opposing force."
-msgstr ""
-"Растительность редка в засушливых областях. Поэтому вам будет сложно найти "
-"убежище и передвигаться скрытно. В течение дня небольшие отряды противника "
-"могут наблюдать и контролировать большие участки местности."
+msgstr "Растительность редка в засушливых областях. Поэтому вам будет сложно найти убежище и передвигаться скрытно. В течение дня небольшие отряды противника могут наблюдать и контролировать большие участки местности."
 
 #: english/data/text/english/dialog/52npc.msg:132
 msgid "If traveling in hostile territory, follow the principles of desert camouflage: Hide or seek shelter in dry washes (wadis) with thicker growths of vegetation and cover from oblique observation. Use the shadows cast from brush, rocks, or outcropping. The temperature in shaded areas will be 11 to 17 degrees C cooler than the air temperature. Cover objects that will reflect the light from the sun."
-msgstr ""
-"При передвижении по территории врага следуйте принципам пустынного камуфляжа:"
-" прячьтесь в сухих вымоинах (вадис) с густой растительностью и укрывайтесь "
-"от непрямого наблюдаения. Используйте тени, отбрасываемые кустами, камнями, "
-"или другими объектами. Температура в тени на 11-177 градусов Цельсия ниже "
-"температуры воздуха. Прикрывайте блестящие предметы."
+msgstr "При передвижении по территории врага следуйте принципам пустынного камуфляжа: прячьтесь в сухих вымоинах (вадис) с густой растительностью и укрывайтесь от непрямого наблюдаения. Используйте тени, отбрасываемые кустами, камнями, или другими объектами. Температура в тени на 11-177 градусов Цельсия ниже температуры воздуха. Прикрывайте блестящие предметы."
 
 #: english/data/text/english/dialog/52npc.msg:133
 msgid "The greatest danger is getting lost in a swirling wall of sand. Wear goggles and cover your mouth and nose with cloth. If natural shelter is unavailable, mark your direction of travel, lie down, and sit out the storm. Dust and wind-blown sand interfere with radio transmissions. Therefore, be ready to use other means for signaling, such as pyrotechnics, signal mirrors, or marker panels, if available."
-msgstr ""
-"Наибольшая опасность - потеряться в крутящейся стене песка. Наденьте очки и "
-"закройте рот и нос тканью. Если естественное убежище надоступно, отметьте "
-"свое направление движения, лягте, и переждите шторм. Пыль и поднятый в "
-"воздух песок нарушают радио передачи. Поэтому будьте готовы использовать и "
-"другие способы коммуникации, такие как пиротехника, сигналы зеркалами, или "
-"панельные метки, если такие имеются."
+msgstr "Наибольшая опасность - потеряться в крутящейся стене песка. Наденьте очки и закройте рот и нос тканью. Если естественное убежище надоступно, отметьте свое направление движения, лягте, и переждите шторм. Пыль и поднятый в воздух песок нарушают радио передачи. Поэтому будьте готовы использовать и другие способы коммуникации, такие как пиротехника, сигналы зеркалами, или панельные метки, если такие имеются."
 
 #: english/data/text/english/dialog/52npc.msg:134
 msgid "Mirages are optical phenomena caused by the refraction of light through heated air rising from a sandy or stony surface. They occur in the interior of the desert about 10 kilometers from the coast. They make objects that are 1.5 kilometers or more away appear to move."
-msgstr ""
-"Миражи это оптические явления, вызванные преломлением света в горячем "
-"воздухе, поднимающемся от песка или каменной поерхности. Они начинают "
-"появляются внутри пустыни, примерно в 10 километрах от края. Из-за них "
-"объекты, находящиеся более чем в 1.5 километрах, кажутся движущимися."
+msgstr "Миражи это оптические явления, вызванные преломлением света в горячем воздухе, поднимающемся от песка или каменной поерхности. Они начинают появляются внутри пустыни, примерно в 10 километрах от края. Из-за них объекты, находящиеся более чем в 1.5 километрах, кажутся движущимися."
 
 #: english/data/text/english/dialog/52npc.msg:135
 msgid "The mirage effect makes it hard for a person to identify targets, estimate range, and see objects clearly. However, if you can get to high ground (3 meters or more above the desert floor), you can get above the superheated air close to the ground and overcome the mirage effect. Mirages make land navigation difficult because they obscure natural features. You can survey the area at dawn, dusk, or by moonlight when there is little likelihood of mirage."
-msgstr ""
-"Эффект миража усложняет определение целей, прикидку расстояний, и наблюдение "
-"за объектами. Однако, если вы можете забраться повыше (3 метра или больше от "
-"уровня пустыни), вы будете находиться над перегретым воздухом и мираж не "
-"будет действовать на вас. Миражи усложняют ориентацию на местности, потому "
-"что они искажают картину. Вы можете обозреть местность на рассвете, закате, "
-"или при лунном свете, когда вероятность появления миража меньше."
+msgstr "Эффект миража усложняет определение целей, прикидку расстояний, и наблюдение за объектами. Однако, если вы можете забраться повыше (3 метра или больше от уровня пустыни), вы будете находиться над перегретым воздухом и мираж не будет действовать на вас. Миражи усложняют ориентацию на местности, потому что они искажают картину. Вы можете обозреть местность на рассвете, закате, или при лунном свете, когда вероятность появления миража меньше."
 
 #: english/data/text/english/dialog/52npc.msg:136
 msgid "Light levels in desert areas are more intense than in other geographic areas. Moonlit nights are usually crystal clear, winds die down, haze and glare disappear, and visibility is excellent. You can see lights, red flash-lights, and blackout lights at great distances. Sound carries very far."
-msgstr ""
-"Уровень освещенности в пустынных районах выше, чем в других областях. Лунные "
-"ночи обычно обеспечивают идеальную видимость, дымка и блики исчезают. Вы "
-"можете заметить свет, красные фонари, и затемненные фары на большом "
-"расстоянии. Звуки разносятся очень далеко."
+msgstr "Уровень освещенности в пустынных районах выше, чем в других областях. Лунные ночи обычно обеспечивают идеальную видимость, дымка и блики исчезают. Вы можете заметить свет, красные фонари, и затемненные фары на большом расстоянии. Звуки разносятся очень далеко."
 
 #: english/data/text/english/dialog/52npc.msg:137
 msgid "During nights with little moonlight, visibility is extremely poor. Traveling is extremely hazardous. You must avoid getting lost, falling into ravines, or stumbling into enemy positions. Movement during such a night is practical only if you have a compass and have spent the day in a shelter, resting, observing and memorizing the terrain, and selecting your route."
-msgstr ""
-"В ночи со слабым лунным светом, видимость очень плохая. Перемещаться опасно. "
-"Вы должны избегать потерю направления, падения в овраги, и выхода на позицию "
-"противние. Передвижение такой ночью имеет смысл только если у вас есть "
-"компас, и вы провели день в убежище, отдыхая, наблюдая и запоминая "
-"местность, и выбирая маршрут."
+msgstr "В ночи со слабым лунным светом, видимость очень плохая. Перемещаться опасно. Вы должны избегать потерю направления, падения в овраги, и выхода на позицию противние. Передвижение такой ночью имеет смысл только если у вас есть компас, и вы провели день в убежище, отдыхая, наблюдая и запоминая местность, и выбирая маршрут."
 
 #: english/data/text/english/dialog/52npc.msg:138
 msgid "The subject of man and water in the desert has generated considerable interest and confusion since the early days of World War II when the U. S. Army was preparing to fight in North Africa. At one time the U. S. Army thought it could condition men to do with less water by progressively reducing their water supplies during training. They called it water discipline. It caused hundreds of heat casualties."
-msgstr ""
-"Вопрос человека и воды в пустыне был интересен и породил немало путаницы со "
-"времен начала второй мировой войны, когда армия США готовил в войне в "
-"северной Африке. В одно время армия думала, что людей можно приучить к "
-"уменьшенному потреблению воды путем уменьшения водного рациона в течение "
-"подготовки. Они называли это водной дисциплиной. Это привело к сотнями "
-"смертей от перегрева."
+msgstr "Вопрос человека и воды в пустыне был интересен и породил немало путаницы со времен начала второй мировой войны, когда армия США готовил в войне в северной Африке. В одно время армия думала, что людей можно приучить к уменьшенному потреблению воды путем уменьшения водного рациона в течение подготовки. Они называли это водной дисциплиной. Это привело к сотнями смертей от перегрева."
 
 #: english/data/text/english/dialog/52npc.msg:139
 msgid "A key factor in desert survival is understanding the relationship between physical activity, air temperature, and water consumption. The body requires a certain amount of water for a certain level of activity at a certain temperature. For example, a person performing hard work in the sun at 43 degrees C requires 19 liters of water daily. Lack of the required amount of water causes a rapid decline in an individual's ability to make decisions and to perform tasks efficiently."
-msgstr ""
-"Ключевой фактор выживания в пустыне это понимание отношения между физической "
-"активностью, температурой воздуха, или потреблением воды. Тело требует "
-"достаточного количества воды для определенной активности при определенной "
-"температуре. Например, человек, работающий на солнце при 43 градусах "
-"Цельсия, нуждается в 19 литрах воды ежедневно. Недостаток воды приводит к "
-"стремительному ухудшению способность принимать решения и выполнять задачи "
-"эффективно."
+msgstr "Ключевой фактор выживания в пустыне это понимание отношения между физической активностью, температурой воздуха, или потреблением воды. Тело требует достаточного количества воды для определенной активности при определенной температуре. Например, человек, работающий на солнце при 43 градусах Цельсия, нуждается в 19 литрах воды ежедневно. Недостаток воды приводит к стремительному ухудшению способность принимать решения и выполнять задачи эффективно."
 
 #: english/data/text/english/dialog/52npc.msg:140
 msgid "Thirst is not a reliable guide for your need for water. A person who uses thirst as a guide will drink only two-thirds of his daily water requirement. To prevent this \"voluntary\" dehydration, use the following guide: At temperatures below 38 degrees C, drink 0.5 liter of water every hour. At temperatures above 38 degrees C, drink 1 liter of water every hour."
-msgstr ""
-"Жажда - неподходящий индикатор, что вам нужна вода. Человек, который пьет "
-"только при жажде, потребит лишь 2/3 необходимого количества воды. Чтоб "
-"избежать этого \"добровольного\" обезвоживания, следуйте такому правилу: при "
-"температуре ниже 38 градусов Цельсия, выпивайте поллитра воды каждый час. "
-"При температуре выше, выпивайте целый литр."
+msgstr "Жажда - неподходящий индикатор, что вам нужна вода. Человек, который пьет только при жажде, потребит лишь 2/3 необходимого количества воды. Чтоб избежать этого \"добровольного\" обезвоживания, следуйте такому правилу: при температуре ниже 38 градусов Цельсия, выпивайте поллитра воды каждый час. При температуре выше, выпивайте целый литр."
 
 #: english/data/text/english/dialog/52npc.msg:141
 msgid "Drinking water at regular intervals helps your body remain cool and decreases sweating. Even when your water supply is low, sipping water constantly will keep your body cooler and reduce water loss through sweating. Conserve your fluids by reducing activity during the heat of day. Do not ration your water! If you try to ration water, you stand a good chance of becoming a heat casualty."
-msgstr ""
-"Регулярное потребление воды помогает вашему телу оставаться холодным и "
-"уменьшает потение. Даже когда запас воды недостаточен, постоянная подпитка "
-"остужает тело и уменьшает потерю воды через пот. Сохраняйте жидкость, "
-"уменьшая дневную активность. Не нормируйте воду! Если вы будете ее "
-"нормировать, то вполне можете стать жертвой теплового удара."
+msgstr "Регулярное потребление воды помогает вашему телу оставаться холодным и уменьшает потение. Даже когда запас воды недостаточен, постоянная подпитка остужает тело и уменьшает потерю воды через пот. Сохраняйте жидкость, уменьшая дневную активность. Не нормируйте воду! Если вы будете ее нормировать, то вполне можете стать жертвой теплового удара."
 
 #: english/data/text/english/dialog/52npc.msg:142
 msgid "Insects of almost every type abound in the desert. Man, as a source of water and food, attracts lice, mites, wasps, and flies. They are extremely unpleasant and may carry diseases. Old buildings, ruins, and caves are favorite habitats of spiders, scorpions, centipedes, lice, and mites. These areas provide protection from the elements and also attract other wild-life. Therefore, take extra care when staying in these areas."
-msgstr ""
-"В пустыне живут насекомые почти всех типов. Человек, как источник воды и "
-"еды, привлекает вшей, клещей, ос и мух. Они весьмы неприятны и могут "
-"переносить болезни. Старые здания, руины и пещеры - любимые места пауков, "
-"скорпионов, многоножек, вшей и клещей. Эти местности обеспечивают укрытие от "
-"стихий и привлекают других обитателей. Поэтому будьте особенно осторожны, "
-"отдыхая в них."
+msgstr "В пустыне живут насекомые почти всех типов. Человек, как источник воды и еды, привлекает вшей, клещей, ос и мух. Они весьмы неприятны и могут переносить болезни. Старые здания, руины и пещеры - любимые места пауков, скорпионов, многоножек, вшей и клещей. Эти местности обеспечивают укрытие от стихий и привлекают других обитателей. Поэтому будьте особенно осторожны, отдыхая в них."
 
 #: english/data/text/english/dialog/52npc.msg:143
 msgid "Wear gloves at all times in the desert. Do not place your hands anywhere without first looking to see what is there. Visually inspect an area before sitting or lying down. When you get up, shake out and inspect your boots and clothing. All desert areas have snakes. They inhabit ruins, native villages, garbage dumps, caves, and natural rock outcropping that offer shade. Never go barefoot or walk through these areas without carefully inspecting them for snakes."
-msgstr ""
-"Всегда носите перчатки в пустыне. Никуда не кладите руки не глядя. "
-"Осматривайте место перед тем как сесть или лечь. Когда встаете, обтряхивайте "
-"и осматривайте обувь и одежду. Во всех пустынных областях водятся змеи. Они "
-"населяют руины, деревни, мусорные свалки, пещеры и каменные пласты, которые "
-"обеспечивают тень. Никогда не снимайте обувь или не ходите по таким "
-"областям, предварительно не осмотрев их на предмет присутствия змей."
+msgstr "Всегда носите перчатки в пустыне. Никуда не кладите руки не глядя. Осматривайте место перед тем как сесть или лечь. Когда встаете, обтряхивайте и осматривайте обувь и одежду. Во всех пустынных областях водятся змеи. Они населяют руины, деревни, мусорные свалки, пещеры и каменные пласты, которые обеспечивают тень. Никогда не снимайте обувь или не ходите по таким областям, предварительно не осмотрев их на предмет присутствия змей."
 
 #: english/data/text/english/dialog/52npc.msg:144
 msgid "Make sure you tell someone where you are going and when you will return. Watch for signs of heat injury. If someone complains of tiredness or wanders away from the group, he may be a heat casualty. Drink water at least once an hour. Get in the shade when resting; do not lie directly on the ground. Do not take off your shirt and work during the day. Check the color of your urine. A light color means you are drinking enough water, a dark color means you need to drink more."
-msgstr ""
-"Обязательно сообщите кому-нибудь куда вы идете и когда вернетесь. Следите за "
-"следами солнечного удара. Если кто-то жалуется на усталость или отстает от "
-"группы, возможно, он получил тепловой удар. Пейте воду не реже раза в час. "
-"Отдыхайте в тени, не лежите прямо на земле. Не работайте без рубайшки в "
-"течение дня. Следите за цветом своей мочи. Светлый цвет означает, что вы "
-"пьете достаточно, темный - что вам нужно пить больше."
+msgstr "Обязательно сообщите кому-нибудь куда вы идете и когда вернетесь. Следите за следами солнечного удара. Если кто-то жалуется на усталость или отстает от группы, возможно, он получил тепловой удар. Пейте воду не реже раза в час. Отдыхайте в тени, не лежите прямо на земле. Не работайте без рубайшки в течение дня. Следите за цветом своей мочи. Светлый цвет означает, что вы пьете достаточно, темный - что вам нужно пить больше."
 
 #: english/data/text/english/dialog/52npc.msg:145
 msgid "A large loss of body water and salt causes heat exhaustion. Symptoms are headache, mental confusion, irritability, excessive sweating, weakness, dizziness, cramps, and pale, moist, cold (clammy) skin. Immediately get the patient under shade. Make him lie on a stretcher or similar item about 45 centimeters off the ground. Loosen his clothing. Sprinkle him with water and fan him. Have him drink small amounts of water every 3 minutes. Ensure he stays quiet and rests."
-msgstr ""
-"Большая потеря воды и соли приводит к тепловому истощению. Симптомы: "
-"головная боль, путающиеся мысли, раздражительность, сильное потение, "
-"головокружение, колики, и бледная, влажная, холодная (липкая) кожа. "
-"Немедленно поместите пациента в тень. Положите его на носилки или что-то "
-"подобное, на высоте 45 см от земли. Расстегните одежду. Обрызгивайте его "
-"водой и обмахивайте. Давайте ему небольшие порции выоди каждые 3 минуты. "
-"Следите, чтобы он лежал и отдыхал."
+msgstr "Большая потеря воды и соли приводит к тепловому истощению. Симптомы: головная боль, путающиеся мысли, раздражительность, сильное потение, головокружение, колики, и бледная, влажная, холодная (липкая) кожа. Немедленно поместите пациента в тень. Положите его на носилки или что-то подобное, на высоте 45 см от земли. Расстегните одежду. Обрызгивайте его водой и обмахивайте. Давайте ему небольшие порции выоди каждые 3 минуты. Следите, чтобы он лежал и отдыхал."
 
 #: english/data/text/english/dialog/52npc.msg:146
 msgid "In a survival situation, especially in a hostile environment, you may find it necessary to camouflage yourself, your equipment, and your movement. It may mean the difference between survival and capture by the enemy. Camouflage and movement techniques, such as stalking, will also help you get animals or game for food using primitive weapons and skills."
-msgstr ""
-"В ситуации выживания, особенно во враждебной среде, вам, возможно, "
-"понадобится камуфлировать себя, свое снаряжение, и передвижения. Это может "
-"означать разницу между выживанием и поимкой врагом. Камуфляж и умение "
-"красться также помогут вам добыть животную пищу с использованием "
-"примитивного оружия и приемов."
+msgstr "В ситуации выживания, особенно во враждебной среде, вам, возможно, понадобится камуфлировать себя, свое снаряжение, и передвижения. Это может означать разницу между выживанием и поимкой врагом. Камуфляж и умение красться также помогут вам добыть животную пищу с использованием примитивного оружия и приемов."
 
 #: english/data/text/english/dialog/52npc.msg:147
 msgid "To hide and camouflage movement in any specific area of the world, you must take on the color and texture of the immediate surroundings. Use natural or man-made materials to camouflage yourself. Camouflage paint, charcoal from burned paper or wood, mud, grass, leaves, strips of cloth or burlap, pine boughs."
-msgstr ""
-"Чтобы скрыть передвижение в любой области мира, вы должны использовать цвет "
-"и текстуру непосредственного окружения. Используйте естественные или "
-"рукотворные материалы для маскировки. Камуфляжная краска, пепел от сгоревшей "
-"бумаги или дерева, грязь, трава, листья, полосы ткани или брезента, ветки "
-"сосны."
+msgstr "Чтобы скрыть передвижение в любой области мира, вы должны использовать цвет и текстуру непосредственного окружения. Используйте естественные или рукотворные материалы для маскировки. Камуфляжная краска, пепел от сгоревшей бумаги или дерева, грязь, трава, листья, полосы ткани или брезента, ветки сосны."
 
 #: english/data/text/english/dialog/52npc.msg:148
 msgid "As skin gets oily, it becomes shiny. Equipment with worn off paint is also shiny. Even painted objects, if smooth, may shine. Glass objects such as mirrors, glasses, binoculars, and telescopes shine. You must cover these glass objects when not in use. Anything that shines automatically attracts attention and will give away your location."
-msgstr ""
-"Жирная кожа начинает блестеть. Снаряжение со стершейся краской тоже. Даже "
-"окрашенные вещи тоже могу блестеть, если они гладкие. Стеклянные объекты - "
-"зеркала, стаканы, бинокли, телескопы - блестят. Вы должны накрывать их, "
-"когда не используете. Все, что блестит, привлекает внимание, и выдает ваше "
-"местоположение."
+msgstr "Жирная кожа начинает блестеть. Снаряжение со стершейся краской тоже. Даже окрашенные вещи тоже могу блестеть, если они гладкие. Стеклянные объекты - зеркала, стаканы, бинокли, телескопы - блестят. Вы должны накрывать их, когда не используете. Все, что блестит, привлекает внимание, и выдает ваше местоположение."
 
 #: english/data/text/english/dialog/52npc.msg:149
 msgid "When traveling, especially in built-up areas at night, be aware of where you cast your shadow. It may extend out around the comer of a building and give away your position. Also, if you are in a dark shadow and there is a light source to one side, an enemy on the other side can see your silhouette against the light."
-msgstr ""
-"В путешествии, особенно в застроенных областях, ночью, следите за своей "
-"тенью. Она может падать за угол здания и выдавать вашу позицию. Также, если "
-"вы в густой тени и с одной стороны есть источник света, враг с другой "
-"стороны может видеть ваш силуэт."
+msgstr "В путешествии, особенно в застроенных областях, ночью, следите за своей тенью. Она может падать за угол здания и выдавать вашу позицию. Также, если вы в густой тени и с одной стороны есть источник света, враг с другой стороны может видеть ваш силуэт."
 
 #: english/data/text/english/dialog/52npc.msg:150
 msgid "When hiding or traveling, stay in the deepest part of the shadows. The outer edges of the shadows are lighter and the deeper parts are darker. Remember, if you are in an area where there is plenty of vegetation, keep as much vegetation between you and a potential enemy as possible."
-msgstr ""
-"Когда вы прячетесь или передвигаетесь, оставайтесь в самых темных тенях. "
-"Наружные кромки теней светлее, а внутренние части темнее. Помните - если вы "
-"в местности с большим количеством растительности, располагайтесь так, чтобы "
-"между вами и потенциальным врагом ее было как можно больше."
+msgstr "Когда вы прячетесь или передвигаетесь, оставайтесь в самых темных тенях. Наружные кромки теней светлее, а внутренние части темнее. Помните - если вы в местности с большим количеством растительности, располагайтесь так, чтобы между вами и потенциальным врагом ее было как можно больше."
 
 #: english/data/text/english/dialog/52npc.msg:151
 msgid "In many survival situations, the ability to start a fire can make the difference between living and dying. Fire can fulfill many needs. It can provide warmth and comfort. It not only cooks and preserves food, it also provides warmth in the form of heated food that saves calories our body normally uses to produce body heat. You can use fire to purify water, sterilize bandages, signal for rescue, and provide protection from animals. It can be a psychological boost by providing peace of mind and companionship. You can also use fire to produce tools and weapons."
-msgstr ""
+msgstr "Во многих экстремальных ситуациях способность разжечь огонь может означает разницу между жизнью и смертью. Огонь может удовлетворить разные потребности. Он обеспечивает тепло и комфорт. Он не только готовит и сохраняет пищу, но и обеспечивает тепло в виде горячей еды, которая сохраняет калории, используемые телом для поддержания температуры. Огонь можно использовать для очистки воды, стерилизации повязок, сигнала бедствия, и защиты от животных. Он может помочь психологически, обеспечивая спокойствие духа и общение. Вы также можете использовать огонь для изготовления инструментов и оружия."
 
 #: english/data/text/english/dialog/52npc.msg:152
 msgid "In many survival situations, the ability to start a fire can make the difference between living and dying. Fire can cause problems, as well. The enemy can detect the smoke and light it produces. It can cause forest fires or destroy essential equipment. Fire can also cause burns carbon monoxide poisoning when used in shelters."
