@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-03-01 03:01+0000\n"
+"PO-Revision-Date: 2017-03-04 21:42+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3164,7 +3164,7 @@ msgstr "Во многих экстремальных ситуациях спос
 
 #: english/data/text/english/dialog/52npc.msg:153
 msgid "To build a fire, it helps to understand the basic principles of a fire. Fuel (in a non gaseous state) does not burn directly. When you apply heat to a fuel, it produces a gas. This gas, combined with oxygen in the air, burns. Understanding the concept of the fire triangle is very important in correctly constructing and maintaining a fire. The three sides of the triangle represent air, heat, and fuel. If you remove any of these, the fire will go out. "
-msgstr ""
+msgstr "Чтобы разжечь огонь, нужно понимать его базовые приципы. Топливо (в негазообразной форме) не горит непосредственно. Когда вы разогреваете топливо, оно превращается в газ. Этот газ, вместе с кислородом воздуха, образует огонь. Понимание концепции треугольника огня очень важно в его разжигании и поддержке. Три стороны треугольника представляют собой воздух, тепло, и топливо. Если вы уберете любой из них, огонь потухнет."
 
 #: english/data/text/english/dialog/52npc.msg:154
 msgid "You will have to decide what site and arrangement to use. Before building a fire consider: The area (terrain and climate) in which you are operating. The materials and tools available. Time: how much time you have? Need: why you need a fire? Security: how close is the enemy? Look for a dry spot that: Is protected from the wind. Is suitably placed in relation to your shelter (if any). Will concentrate the heat in the direction you desire. Has a supply of wood or other fuel available."
