@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-03-04 21:42+0000\n"
+"PO-Revision-Date: 2017-03-21 08:38+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3168,11 +3168,11 @@ msgstr "Чтобы разжечь огонь, нужно понимать его
 
 #: english/data/text/english/dialog/52npc.msg:154
 msgid "You will have to decide what site and arrangement to use. Before building a fire consider: The area (terrain and climate) in which you are operating. The materials and tools available. Time: how much time you have? Need: why you need a fire? Security: how close is the enemy? Look for a dry spot that: Is protected from the wind. Is suitably placed in relation to your shelter (if any). Will concentrate the heat in the direction you desire. Has a supply of wood or other fuel available."
-msgstr ""
+msgstr "Вам нужно будет решить, где и как разводить огонь. При этом примите во внимание область (ландшафт и климат), где вы находитесь. Доступные материалы и инструменты. Время - сколько у вас есть. Нужда - зачем вам огонь? Безопасность: как близко враги? Ищите сухое место, которое: защищено от ветра, расположено удачно по отношению к вашему укрытию, и будет направлять тепло в нужном вам направлении, а также имеет достаточно дерева или другого топлива."
 
 #: english/data/text/english/dialog/52npc.msg:155
 msgid "In some situations, you may find that an underground fireplace will best meet your needs. It conceals the fire and serves well for cooking food. To make an underground fireplace or Dakota fire hole: Dig a hole in the ground. On the upwind side of this hole, poke or dig a large connecting hole for ventilation. Build your fire in the hole."
-msgstr ""
+msgstr "В некоторых ситуациях может оказаться, что вам лучше всего подходит подземный костер. Он скрывает огонь и на нем удобно готовить еду. Чтобы соорудить подземный костер, или \"Огненную яму Дакоты\": выкопайте яму в земле. С надветренной стороны, продырявьте или прокопайте дыру для вентиляции. Разожгите костер в яме."
 
 #: english/data/text/english/dialog/52npc.msg:156
 msgid "Always light your fire from the upwind side. Make sure to lay your tinder, kindling, and fuel so that your fire will burn as long as you need it. Igniter's provide the initial heat required to start the tinder burning. They fall into two categories: modern methods and primitive methods. Modem igniter's use modem devices: items we normally think of to start a fire. Matches, Convex Lens, Metal Match, Battery, Gunpowder. Primitive igniter's are those attributed to our early ancestors: Flint and Steel, Fire-Plow, Bow and Drill."
