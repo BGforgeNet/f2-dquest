@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-03-21 08:38+0000\n"
+"PO-Revision-Date: 2017-03-21 09:15+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3176,7 +3176,7 @@ msgstr "В некоторых ситуациях может оказаться, 
 
 #: english/data/text/english/dialog/52npc.msg:156
 msgid "Always light your fire from the upwind side. Make sure to lay your tinder, kindling, and fuel so that your fire will burn as long as you need it. Igniter's provide the initial heat required to start the tinder burning. They fall into two categories: modern methods and primitive methods. Modem igniter's use modem devices: items we normally think of to start a fire. Matches, Convex Lens, Metal Match, Battery, Gunpowder. Primitive igniter's are those attributed to our early ancestors: Flint and Steel, Fire-Plow, Bow and Drill."
-msgstr ""
+msgstr "Всегда разжигайте огонь с надветренной стороны. Обязательно укладывайте розжиг и топливо так, чтобы огонь горел столько, сколько вам нужно. Зажигательные приспособления обеспечивают начальное тепло, необходимое для того, чтобы розжиг загорелся. Они могут быть современными или примитивными. Современные это спички, линзы, металлические спички, батарейки, порох. Примитивные это те, которыми пользовались наши предки: кремень и огниво, деревянные палочки."
 
 #: english/data/text/english/dialog/52npc.msg:157
 msgid "The fire-plow is a friction method of ignition. You rub a hardwood shaft against a softer wood base. To use this method, cut a straight groove in the base and plow the blunt tip of the shaft up and down the groove. The plowing action of the shaft pushes out small particles of wood fibers. Then, as you apply more pressure on each stroke, the friction ignites the wood particles."
