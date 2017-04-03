@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-01 14:33+0000\n"
+"PO-Revision-Date: 2017-04-03 09:10+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3180,7 +3180,7 @@ msgstr "Всегда разжигайте огонь с надветренной
 
 #: english/data/text/english/dialog/52npc.msg:157
 msgid "The fire-plow is a friction method of ignition. You rub a hardwood shaft against a softer wood base. To use this method, cut a straight groove in the base and plow the blunt tip of the shaft up and down the groove. The plowing action of the shaft pushes out small particles of wood fibers. Then, as you apply more pressure on each stroke, the friction ignites the wood particles."
-msgstr ""
+msgstr "Огненный плуг это метод разжигания огня трением. Вы трете палку из твердого дерева о более мягкую основу. Чтобы использовать этот метод, срежьте прямую ветвь у основания и трите трут вверх и вниз по ветке. Буравящее действие трута отслаивает маленькие частички волокон дерева. Затем, из-за давления при движении туда-сюда, трение поджигает частички дерева."
 
 #: english/data/text/english/dialog/52npc.msg:158
 msgid "The direct spark method is the easiest of the primitive methods to use for make fire. The flint and steel method is the most reliable of the direct spark methods. Strike a flint or other hard, sharp-edged rock edge with a piece of carbon steel (stainless steel will not produce a good spark). This method requires a loose-jointed wrist and practice. When a spark has caught in the tinder, blow on it. The spark will spread and burst into flames."
@@ -3784,15 +3784,15 @@ msgstr ""
 #: english/data/text/english/dialog/62npc.msg:350
 #: english/data/text/english/dialog/62npc.msg:450
 msgid "Thanx [he mark something on paper] lets return to test. "
-msgstr ""
+msgstr "Спасибо [он что-то отмечает на бумаге], давай вернемся к тесту."
 
 #: english/data/text/english/dialog/62npc.msg:300
 msgid "2. Four beers!"
-msgstr ""
+msgstr "2. Четыре пива!"
 
 #: english/data/text/english/dialog/62npc.msg:400
 msgid "3. I eat it and search more! "
-msgstr ""
+msgstr "3. Я ем это и ищу еще!"
 
 #: english/data/text/english/dialog/63npc.msg:100
 msgid "Metal door."
