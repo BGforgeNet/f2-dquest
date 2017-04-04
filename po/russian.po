@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-03 23:06+0000\n"
+"PO-Revision-Date: 2017-04-04 13:25+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3184,7 +3184,7 @@ msgstr "Огненный плуг это метод разжигания огн�
 
 #: english/data/text/english/dialog/52npc.msg:158
 msgid "The direct spark method is the easiest of the primitive methods to use for make fire. The flint and steel method is the most reliable of the direct spark methods. Strike a flint or other hard, sharp-edged rock edge with a piece of carbon steel (stainless steel will not produce a good spark). This method requires a loose-jointed wrist and practice. When a spark has caught in the tinder, blow on it. The spark will spread and burst into flames."
-msgstr ""
+msgstr "Прямая искра это самый простой из примитивных методов разжигания огня. Кремень и сталь это самый надежный метод добыть прямую искру. Ударьте кремень или другой острый камень куском углеродистой стали (нержавеющая сталь не произведет хорошую искру). Этот метод требует свободно двигающееся запястье и практику. Когда искра попадет на трут, дуньте на нее. Искра раздуется и разожжет огонь."
 
 #: english/data/text/english/dialog/52npc.msg:159
 msgid "It takes much more than the knowledge and skills to build shelters, get food, make fires, and travel without the aid of standard navigational devices to live successfully through a survival situation. Some people with little or no survival training have managed to survive life-threatening circumstances. Some people with survival training have not used their skills and died. A key ingredient in any survival situation is the mental attitude of the individual(s) involved. Having survival skills is important; having the will to survive is essential."
