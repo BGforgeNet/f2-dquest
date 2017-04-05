@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-04 13:25+0000\n"
+"PO-Revision-Date: 2017-04-05 05:43+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -213,7 +213,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.11\n"
+"X-Generator: Weblate 2.12\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
 msgid "Guard."
@@ -3188,25 +3188,25 @@ msgstr "Прямая искра это самый простой из прими
 
 #: english/data/text/english/dialog/52npc.msg:159
 msgid "It takes much more than the knowledge and skills to build shelters, get food, make fires, and travel without the aid of standard navigational devices to live successfully through a survival situation. Some people with little or no survival training have managed to survive life-threatening circumstances. Some people with survival training have not used their skills and died. A key ingredient in any survival situation is the mental attitude of the individual(s) involved. Having survival skills is important; having the will to survive is essential."
-msgstr ""
+msgstr "Успешное выживание требует гораздо больше, чем знания и навыки строительства укрытия, добычи еды, разведения костров, и путешествий без помощи стандартных навигационных устройств. Некоторым людям с небольшими навыками выживания или вообще без них удалось выжить в угрожающих жизни обстоятельствах. Некоторые люди с навыками выживания не использовали их и погибли. Ключевой элемент в любой ситуации выживания - это психическое состояния выживальщика(ов). Иметь навыки выживания важно, иметь волю к жизни необходимо."
 
 #: english/data/text/english/dialog/52npc.msg:160
 msgid "There is a psychology to survival. The soldier in a survival environment faces many stresses that ultimately impact on his mind. These stresses can produce thoughts and emotions that, if poorly understood, can transform a confident, well-trained soldier into an indecisive, ineffective individual with questionable ability to survive. Thus, every soldier must be aware of and be able to recognize those stresses commonly associated with survival."
-msgstr ""
+msgstr "В выживании участвует психология. Солдат в среде выживания сталкивается с множеством стрессов, что в конечном счете влияет на его разум. Эти стрессы могут приводить к мыслям и эмоциям, которые, если плохо поняли, может превратить уверенного в себе, хорошо обученного солдата в нерешительную, неэффективную личность с сомнительной способностью выживать. Поэтому, каждый военнослужащий должен знать и уметь распознавать стрессы, которые обычно связаны с выживанием."
 
 #: english/data/text/english/dialog/52npc.msg:161
 msgid "Before you can understand psychological reactions in a survival setting, it is helpful to first know a little bit about stress. Stress is not a disease that you cure and eliminate. Instead, it is a condition we all experience. Stress can be described as our reaction to pressure. It is the name given to the experience we have as we physically, mentally, emotionally, and spiritually respond to life's tensions."
-msgstr ""
+msgstr "Прежде чем вы сможете понять психологические реакции в условиях выживания, полезно сначала узнать немного о стрессе. Стресс - это не заболевание, которое можно вылечить и устранить. Это состояние, которое мы все испытываем. Стресс может быть описан как наша реакция на давление. Это название, данное нашему состоянию, когда мы физически, умственно, эмоционально и духовно реагируем на напряженность жизни."
 
 #: english/data/text/english/dialog/52npc.msg:162
 msgid "We need stress because it has many positive benefits. Stress provides us with challenges; it gives us chances to learn about our values and strengths. Stress can show our ability to handle pressure without breaking; it tests our adaptability and flexibility; it can stimulate us to do our best. Because we usually do not consider unimportant events stressful, stress can also be an excellent indicator of the significance we attach to an event: in other words, it highlights what is important to us."
-msgstr ""
+msgstr "Нам нужен стресс, потому что он имеет много положительных сторон. Стресс создает для нас вызовы; он дает нам шанс узнать о наши ценностях и сильных сторонах. Стресс может показать нашу способность справляться с давлением без повреждений; он проверяет нашу приспособляемость и гибкость, он может стимулировать нас к лучшему. Так как мы обычно не испытываем стресс при маловажных событиях, стресс также может стать отличным индикатором значимости, которую мы придаем событию: другими словами, он подчеркивает, что важно для нас."
 
 #: english/data/text/english/dialog/52npc.msg:163
 msgid ""
 "Listed below are a few of the common signs of distress you may find in your fellow soldiers or yourself when faced with too much stress: Difficulty making decisions. Angry outbursts. Forgetfulness. Low energy level. Constant worrying. Propensity for mistakes. Thoughts about death or suicide. Trouble getting along with others. Withdrawing from others. \n"
 "Hiding from responsibilities. Carelessness."
-msgstr ""
+msgstr "Ниже перечислены некоторые общие признаки расстройства, которые вы может заметить в ваших товарищах или в себе при столкновении со слишком большим уровнем стресса: сложность принятия решений. Вспышки гнева. Забывчивость. Низкий уровень энергии. Постоянные переживания. Склонность к ошибкам. Мысли о смерти или самоубийстве. Трудности в общении с другими. Вывод от других. Уклонение от ответственности. Разгильдяйство."
 
 #: english/data/text/english/dialog/52npc.msg:164
 msgid "Stress can be constructive or destructive. It can encourage or discourage, move us along or stop us dead in our tracks, and make life meaningful or seemingly meaningless. Stress can inspire you to operate successfully and perform at your maximum efficiency in a survival situation. It can also cause you to panic and forget all your training. Key to your survival is your ability to manage the inevitable stresses you will encounter. The survivor is the soldier who works with his stresses instead of letting his stresses work on him."
