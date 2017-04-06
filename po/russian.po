@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-05 05:43+0000\n"
+"PO-Revision-Date: 2017-04-06 15:32+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3210,23 +3210,23 @@ msgstr "Ниже перечислены некоторые общие призн
 
 #: english/data/text/english/dialog/52npc.msg:164
 msgid "Stress can be constructive or destructive. It can encourage or discourage, move us along or stop us dead in our tracks, and make life meaningful or seemingly meaningless. Stress can inspire you to operate successfully and perform at your maximum efficiency in a survival situation. It can also cause you to panic and forget all your training. Key to your survival is your ability to manage the inevitable stresses you will encounter. The survivor is the soldier who works with his stresses instead of letting his stresses work on him."
-msgstr ""
+msgstr "Стресс может быть конструктивным или деструктивным. Он может поощрять или препятствовать, двигать нами или остановить нас в нашем пути, и сделать жизнь осмысленной или бессмысленной на вид. Стресс может вдохновить вас на успешное функционирование и максимальную эффективность в ситуации выживания. Он также может заставить вас паниковать и забыть все, чему вы учились. Ключ к выживанию - это ваша способность управлять неизбежными стрессами, которые вы встретите. Выживший солдат - это солдат, который работает над своими стрессами, вместо того, чтобы позволять стрессам работать над ним."
 
 #: english/data/text/english/dialog/52npc.msg:165
 msgid "Injury, illness, and death are real possibilities a survivor has to face. Perhaps nothing is more stressful than being alone in an unfamiliar environment where you could die from hostile action, an accident, or from eating something lethal. Illness and injury can also add to stress by limiting your ability to maneuver, get food and drink, find shelter, and defend yourself. Even if illness and injury don't lead to death, they add to stress through the pain and discomfort they generate."
-msgstr ""
+msgstr "Травмы, болезни, и смерть - это реальные возможности, с которыми приходится сталкиваться выживальщикам. Возможно, нет ничего более напрягающего, чем оказаться в одиночестве в незнакомой обстановке, где вы можете умереть от враждебных действий, несчастного случая, или при поедании чего-то смертельно опасного. Болезни и травмы также могут усилить стресс, ограничивая вашу возможность передвигаться, добывать еду и питье, находить укрытие и защищать себя. Даже если болезни и травмы не приводят к смерти, они усиляют стресс, принося боль и дискомфорт."
 
 #: english/data/text/english/dialog/52npc.msg:166
 msgid "Some people have trouble operating in settings where everything is not clear-cut. The only guarantee in a survival situation is that nothing is guaranteed. It can be extremely stressful operating on limited information in a setting where you have limited control of your surroundings. This uncertainty and lack of control also add to the stress of being ill, injured, or killed."
-msgstr ""
+msgstr "Некоторые люди с трудом действуют в нечеткой обстановке. Единственное, что можно знать в ситуации выживания - что ничего нельзя знат наверняка. Можеть быть очень сложно действовать при ограниченной информации в обстановке, когда ваш контроль за окружением сильно ограничен. Эта неопределенность и отсутствие контроля также усугубляют стресс от болезней или ран."
 
 #: english/data/text/english/dialog/52npc.msg:167
 msgid "Without food and water a person will weaken and eventually die. Thus, getting and preserving food and water takes on increasing importance as the length of time in a survival setting increases. For a soldier used to having his provisions issued, foraging can be a big source of stress."
-msgstr ""
+msgstr "Без пищи и воды человек будет слабеть и в конце концов умрет. Таким образом, получение и сохранение пищи и воды приобретает все большее значение при увеличении продолжительности пребывания в условиях выживания. Для солдата, привыкшего, что рацион ему выдается, фуражировка может быть большим источником стресса."
 
 #: english/data/text/english/dialog/52npc.msg:168
 msgid "Man has been able to survive many shifts in his environment throughout the centuries. His ability to adapt physically and mentally to a changing world kept him alive while other species around him gradually died off. The same survival mechanisms that kept our forefathers alive can help keep us alive as well! However, these survival mechanisms that can help us can also work against us if we don't understand and anticipate their presence."
-msgstr ""
+msgstr "Человек смог пережить много изменений в окружающей среде на протяжении веков. Его способность адаптироваться физически и морально к меняющемуся миру сохранил его живым, в то время как другие виды вокруг него постепенно вымерали. Те же механизмы выживания, которые сохранили наших предков живыми, смогут помочь и нам! Однако, эти же механизмы могут работать и против нас, если мы не понимаем их и не знаем о том, что они существуют."
 
 #: english/data/text/english/dialog/52npc.msg:169
 msgid "Fear is our emotional response to dangerous circumstances that we believe have the potential to cause death, injury, or illness. This harm is not just limited to physical damage; the threat to one's emotional and mental well-being can generate fear as well. For the soldier trying to survive, fear can have a positive function if it encourages him to be cautious in situations where recklessness could result in injury. Unfortunately, fear can also immobilize a person."
