@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-06 15:32+0000\n"
+"PO-Revision-Date: 2017-04-08 02:59+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3230,7 +3230,7 @@ msgstr "Человек смог пережить много изменений �
 
 #: english/data/text/english/dialog/52npc.msg:169
 msgid "Fear is our emotional response to dangerous circumstances that we believe have the potential to cause death, injury, or illness. This harm is not just limited to physical damage; the threat to one's emotional and mental well-being can generate fear as well. For the soldier trying to survive, fear can have a positive function if it encourages him to be cautious in situations where recklessness could result in injury. Unfortunately, fear can also immobilize a person."
-msgstr ""
+msgstr "Страх - это наша эмоциональная реакция на опасные обстоятельства, которые, по нашему мнению, могут привести к смерти, травме или болезни. Этот вред не ограничивается только физическим ущербом; угроза эмоциональному и психическому благополучию также могут породить страх. Для солдата, пытающегося выжить, страх может иметь позитивное влияние, если он помогает ему быть осторожным в ситуациях, где неосторожность может привести к травмам. К сожалению, страх также может и обездвижить человека."
 
 #: english/data/text/english/dialog/52npc.msg:170
 msgid "The soldier in a survival setting reduces his anxiety by performing those tasks that will ensure his coming through the ordeal alive. As he reduces his anxiety, the soldier is also bringing under control the source of that anxiety: his fears. In this form, anxiety is good; however, anxiety can also have a devastating impact. Anxiety can overwhelm a soldier to the point where he becomes easily confused and has difficulty thinking."
