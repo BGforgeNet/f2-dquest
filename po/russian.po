@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-08 02:59+0000\n"
+"PO-Revision-Date: 2017-04-08 17:42+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3234,7 +3234,7 @@ msgstr "Страх - это наша эмоциональная реакция �
 
 #: english/data/text/english/dialog/52npc.msg:170
 msgid "The soldier in a survival setting reduces his anxiety by performing those tasks that will ensure his coming through the ordeal alive. As he reduces his anxiety, the soldier is also bringing under control the source of that anxiety: his fears. In this form, anxiety is good; however, anxiety can also have a devastating impact. Anxiety can overwhelm a soldier to the point where he becomes easily confused and has difficulty thinking."
-msgstr ""
+msgstr "Солдат в условиях выживания снимает свою тревогу, выполняя задачи, которые будут обеспечивать его выживание. В процессе уменьшения тревожности, солдат начинает контролировать и источник беспокойства: его страхи. В такой форме, тревога - это хорошо, однако, она может также иметь и разрушительные последствия. Тревога может довести солдата до точки, когда он будет легко запутываться."
 
 #: english/data/text/english/dialog/52npc.msg:171
 msgid "Sooner or later, soldiers will have to cope with frustration when a few of their plans run into trouble. One outgrowth of this frustration is anger. There are many events in a survival situation that can frustrate or anger a soldier. Getting lost, damaged or forgotten equipment, the weather, inhospitable terrain, enemy patrols, and physical limitations are just a few sources of frustration and anger."
