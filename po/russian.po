@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-08 17:42+0000\n"
+"PO-Revision-Date: 2017-04-09 02:49+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3238,19 +3238,19 @@ msgstr "Солдат в условиях выживания снимает св�
 
 #: english/data/text/english/dialog/52npc.msg:171
 msgid "Sooner or later, soldiers will have to cope with frustration when a few of their plans run into trouble. One outgrowth of this frustration is anger. There are many events in a survival situation that can frustrate or anger a soldier. Getting lost, damaged or forgotten equipment, the weather, inhospitable terrain, enemy patrols, and physical limitations are just a few sources of frustration and anger."
-msgstr ""
+msgstr "Рано или поздно, солдатам придется справляться с разочарованием, когда некоторые их планы сорвутся. Одним из результатов этого разочарования является гнев. Есть много событий в ситуации выживания, которые могут расстроить или разозлить солдата. Потеря пути, поврежденное или забыток оборудование, погода, негостеприимная местность, вражеские патрули, и физические ограничения - это лишь некоторые из источников разочарования и гнева."
 
 #: english/data/text/english/dialog/52npc.msg:172
 msgid "Depression is closely linked with frustration and anger. The frustrated person becomes more and more angry as he fails to reach his goals. If the anger does not help the person to succeed, then the frustration level goes even higher. A destructive cycle between anger and frustration continues until the person becomes worn down-physically, emotionally, and mentally."
-msgstr ""
+msgstr "Депрессия тесно связана с разочарованием и гневом. Разочарованный человек становится все более и более сердитым при недостижении целей. Если гнев не помогает человеку добиться успеха, то уровень разочарования вырастает еще. Разрушительный круг между гневом и разочарованием продолжается до тех пор, пока человек не устает - физически, эмоционально и умственно."
 
 #: english/data/text/english/dialog/52npc.msg:173
 msgid "Don't be afraid to make an honest appraisal of situations. See circumstances as they are, not as you want them to be. Keep your hopes and expectations within the estimate of the situation. When you go into a survival setting with unrealistic expectations, you may be laying the groundwork for bitter disappointment. Follow the adage, \"Hope for the best, prepare for the worst.\" It is much easier to adjust to pleasant surprises about one's unexpected good fortunes than to be upset by one's unexpected harsh circumstances."
-msgstr ""
+msgstr "Не бойтесь оценить ситуацию честно. Увидеть обстоятельства, как они есть, а не как вы хотите их видеть. Держите ваши надежды и ожидания в реалистичных рамках. Когда вы попадаете в ситуацию выживания с нереалистичными ожиданиями, это предвестник горького разочарования. Следуйте поговорке \"надейся на лучшее, готовься к худшему.\" Гораздо легче подстроиться к приятным сюрпризам, чем быть расстроеным неожиданно тяжелыми обстоятельствами."
 
 #: english/data/text/english/dialog/52npc.msg:174
 msgid "Remember, failure to prepare yourself psychologically to cope with survival leads to reactions such as depression, carelessness, inattention, loss of confidence, poor decision-making, and giving up before the body gives in. At stake is your life and the lives of others who are depending on you to do your share."
-msgstr ""
+msgstr "Помните, что неспособность подготовить себя психологически, чтобы справиться с выживанием приводит к таким последствиям как депрессия, невнимательность, невнимательность, потеря уверенности, принятие ошибочных решений, и готовность сдаться, даже если физически к этому нет предпосылок. На кону стоит ваша жизнь и жизни других людей, которые зависят от того, как вы выполните свою часть работы."
 
 #: english/data/text/english/dialog/52npc.msg:175
 msgid "People under stress have a potential to panic if they are not well trained and not prepared psychologically to face whatever the circumstances may be. While we often cannot control the survival circumstances in which we find ourselves, it is within our ability to control our response to those circumstances. Learning stress management techniques can enhance significantly your capability to remain calm and focused as you work to keep yourself and others alive."
