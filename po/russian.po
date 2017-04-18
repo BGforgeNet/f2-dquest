@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-09 02:49+0000\n"
+"PO-Revision-Date: 2017-04-18 17:34+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3254,23 +3254,23 @@ msgstr "Помните, что неспособность подготовить
 
 #: english/data/text/english/dialog/52npc.msg:175
 msgid "People under stress have a potential to panic if they are not well trained and not prepared psychologically to face whatever the circumstances may be. While we often cannot control the survival circumstances in which we find ourselves, it is within our ability to control our response to those circumstances. Learning stress management techniques can enhance significantly your capability to remain calm and focused as you work to keep yourself and others alive."
-msgstr ""
+msgstr "Люди в состоянии стресса могут запаникова, если они не обучены и не подготовлены психологически к любым обстоятельствам. Хотя мы часто не можем контролировать обстоятельства, в которых мы оказались, мы можем контролировать наши реакции на них. Изучение техники управления стрессом может значительно улучшить вашу способность оставаться спокойным и сосредоточенным, пока вы стараетесь сохранить себя и других в живых."
 
 #: english/data/text/english/dialog/52npc.msg:176
 msgid "Survival planning is nothing more than realizing something could happen that would put you in a survival situation and, with that in mind, taking steps to increase your chances of survival. Thus, survival planning means preparation. Preparation means having survival items and knowing how to use them."
-msgstr ""
+msgstr "Планирование выживания это ничто иное, как осознание, что что-то может поставить вас в ситуацию выживания, и предпринятие шагов, увеличивающих ваши шансы. Таким образом, планирование выживания означает подготовку. Подготовка значит наличие требуемых вещей и знание, как их использовать."
 
 #: english/data/text/english/dialog/52npc.msg:177
 msgid "One important aspect of prior planning is preventive medicine. Ensuring that you have no dental problems and that your immunizations are current will help you avoid potential dental or health problems. A dental problem in a survival situation will reduce your ability to cope with other problems that you face. Failure to keep your shots current may mean your body is not immune to diseases that are prevalent in the area."
-msgstr ""
+msgstr "Одним из важных аспектов предварительного планирования это профилактическая медицина. Уверенность, что у вас нет стоматологических проблем, и что прививки еще имеют свою силу, поможет вам избежать возможных проблем с зубами и со здоровьем. Проблемы с зубами в ситуации выживания будут снижать вашу способность справляться с другими задачами. Пропущенные прививки могут означать, что ваш организм не имеет иммунитета к болезням, которые распространены в этом районе."
 
 #: english/data/text/english/dialog/52npc.msg:178
 msgid "The environment is the key to the types of items you will need in your survival kit. How much equipment you put in your kit depends on how you will carry the kit. A kit carried on your body will have to be smaller than one carried in a vehicle. Always layer your survival kit, keeping the most important items on your body. For example, your map and compass should always be on your body. Carry less important items on your load bearing equipment. Place bulky items in the rucksack."
-msgstr ""
+msgstr "Главно, что определяет ваш комплект для выживания - окружающая среда. Сколько снаряжения вы положите в ваш комплект, зависит от того, как вы будете его носить. Комплект, переносимый на теле, будет меньше, чем перевозимый в транспортном средстве. Всегда разделяйте ваш комплект для выживания, храня самые важные элементы на себе. Например, ваша карта и компас всегда должны быть с собой. Менее важные элементы - пристегивайте к одежде. Громоздкие вещи сложите в рюкзак."
 
 #: english/data/text/english/dialog/52npc.msg:179
 msgid "Your survival kit need not be elaborate. You need only functional items that will meet your needs and a case to hold the items. For the case, you might want to use a Band Aid box, a first aid case, an ammunition pouch, or another suitable case. This case should be: Water repellent or waterproof. Easy to carry or attach to your body. Suitable to accept various sized components. Durable."
-msgstr ""
+msgstr "Ваш комплект для выживания не должен быть сложным. Вам нужно взять только те предметы, которых будет достаточно, и чехол для их хранения. Например, вы можете использовать коробку от аптечки первой помощи, сумку для патронов, или что-то другое. Чехол должен быть водоотталкивающий или водонепроницаемый, легко переносимый, вмещающий вещи разного размера, прочный."
 
 #: english/data/text/english/dialog/52npc.msg:180
 msgid "In your survival kit, you should have: First aid items. Water purification tablets or drops. Fire starting equipment. Signaling items. Food procurement items. Shelter items. Some examples of these items are: Lighter, metal match, waterproof matches. Snare wire. Signaling mirror. Wrist compass. Fish and snare line. Fishhooks. Candle. Small hand lens. Oxytetracycline tablets (diarrhea or infection). Water purification tablets. Solar blanket. Surgical blades. Butterfly sutures. Condoms for water storage. Chap Stick. Needle and thread. Knife."
