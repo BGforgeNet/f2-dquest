@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-18 17:34+0000\n"
+"PO-Revision-Date: 2017-04-20 17:35+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3274,7 +3274,7 @@ msgstr "Ваш комплект для выживания не должен бы
 
 #: english/data/text/english/dialog/52npc.msg:180
 msgid "In your survival kit, you should have: First aid items. Water purification tablets or drops. Fire starting equipment. Signaling items. Food procurement items. Shelter items. Some examples of these items are: Lighter, metal match, waterproof matches. Snare wire. Signaling mirror. Wrist compass. Fish and snare line. Fishhooks. Candle. Small hand lens. Oxytetracycline tablets (diarrhea or infection). Water purification tablets. Solar blanket. Surgical blades. Butterfly sutures. Condoms for water storage. Chap Stick. Needle and thread. Knife."
-msgstr ""
+msgstr "В вашем комплекте для выживания должны быть: средства для оказания первой помощи. Таблетки или капли для очистки воды. Снаряжение для размигания огня. Сигнальные вещи. Вещи для добычи еды. Вещи для укрытия. Некоторые примеры таких вещей: зажигалка, металлические спички, водонепроницаемые спички. Силки из проволоки. Зеркало для сигнализации. Наручный компас. Веревка для рыбалки и ловушек. Крючки. Свечи. Небольшая ручная линза. Таблетки окситетрациклина (от поноса или инфекции). Таблетки для очистки воды. Солнечное одеяло. Хирургические лезвия. Нить для наложения швов. Презервативы для хранения воды. Косметическая помада. Игла и нить. Нож."
 
 #: english/data/text/english/dialog/52npc.msg:181
 msgid "Our modern wonder drugs, laboratories, and equipment have obscured more primitive types of medicine involving determination, common sense, and a few simple treatments. In many areas of the world, however, the people still depend on local \"witch doctors\" or healers to cure their ailments. Many of the herbs (plants) and treatments they use are as effective as the most modern medications available. In fact, many modern medications come from refined herbs."
