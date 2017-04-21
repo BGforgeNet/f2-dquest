@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-20 17:35+0000\n"
+"PO-Revision-Date: 2017-04-21 04:09+0000\n"
 "Last-Translator: The Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3278,23 +3278,23 @@ msgstr "В вашем комплекте для выживания должны 
 
 #: english/data/text/english/dialog/52npc.msg:181
 msgid "Our modern wonder drugs, laboratories, and equipment have obscured more primitive types of medicine involving determination, common sense, and a few simple treatments. In many areas of the world, however, the people still depend on local \"witch doctors\" or healers to cure their ailments. Many of the herbs (plants) and treatments they use are as effective as the most modern medications available. In fact, many modern medications come from refined herbs."
-msgstr ""
+msgstr "Наши современные чудо-препараты, лаборатории и оборудование затмили более примитивные виды медицины, использующие решительность, здравый смысл и некоторые простые виды терапии. Однако, во многих районах мира, люди по-прежнему зависят от местных \"колдунов\" и знахарей в лечении своих недугов. Многие из трав (растений) и веществ, которые они используют, не хуже самых современных лекарств. На самом деле, многие современные лекарства получают из очищенных трав."
 
 #: english/data/text/english/dialog/52npc.msg:182
 msgid "The breakdown of the body's heat regulatory system (body temperature more than 40.5 degrees C, 105 degrees F) causes a heatstroke. Other heat injuries, such as cramps or dehydration, do not always precede a heatstroke. Signs and symptoms of heatstroke are: Swollen, beet-red face. Reddened whites of eyes. Victim not sweating. Unconsciousness or delirium, which can cause pallor, a bluish color to lips and nail beds (cyanosis), and cool skin."
-msgstr ""
+msgstr "Срыв регуляторных систем температуры тела (температура более 40,5 градусов Цельсия, 105 градусов Фаренгейта) вызывает тепловой удар. Другие термические травмы, такие как судороги или обезвоживание, не всегда предшествуют тепловому удару. Признаки и симптомы теплового удара: опухшее, свекольно-красное лицо. Покрасневшие белки глаз. Жертва не потеет. Бессознательность или бред, которые могут вызвать бледность, синюшный оттенок губ и ногтевого ложа (цианоз), и холодную кожу."
 
 #: english/data/text/english/dialog/52npc.msg:183
 msgid "Defined as the body's failure to maintain a temperature of 36 degrees C (97 degrees F). Exposure to cool or cold temperature over a short or long time can cause hypothermia. Dehydration and lack of food and rest predispose the survivor to hypothermia. Unlike heatstroke, you must gradually warm the hypothermia victim. Get the victim into dry clothing. Replace lost fluids, and warm him."
-msgstr ""
+msgstr "Определяется как неспособность организма поддерживать температуру 36 градусов Цельсия (97 градусов по Фаренгейту). Воздействие холода или низкой температуры в течение короткого или длительного времени может привести к гипотермии. Обезвоживание и недостаток пищи и отдыха предрасполагают выживальщика к переохлаждению. В отличие от теплового удара, необходимо постепенно согреть пострадавшего от переохлаждения. Переодеть его в сухое. Восполнить потерянную жидкость, и согреть его."
 
 #: english/data/text/english/dialog/52npc.msg:184
 msgid "You can usually avoid worm infestations and other intestinal parasites if you take preventive measures. For example, never go barefoot. The most effective way to prevent intestinal parasites is to avoid uncooked meat and raw vegetables contaminated by raw sewage or human waste used as a fertilizer. However, should you become infested and lack proper medicine, you can use home remedies. Keep in mind that these home remedies work on the principle of changing the environment of the gastrointestinal tract."
-msgstr ""
+msgstr "Обычно вы можете избежать заражения гельминтами и другими кишечными паразитами, если примете превентивные меры. Например, никогда не ходите босиком. Наиболее эффективный способ профилактики кишечных паразитов - это избегать сырого мяса и сырых овощей, загрязненных сточными водами или человеческими экскрементами в качестве удобрения. Тем не менее, если вы заразились и не имеете доступа к обычным лекарствам, вы можете использовать домашние средства. Имейте в виду, что эти средства работают по принципу изменения среды желудочно-кишечного тракта."
 
 #: english/data/text/english/dialog/52npc.msg:185
 msgid "Open wounds are serious in a survival situation, not only because of tissue damage and blood loss, but also because they may become infected. Bacteria on the object that made the wound, on the individual's skin and clothing, or on other foreign material or dirt that touches the wound may cause infection."
-msgstr ""
+msgstr "Открытые раны опасны в ситуации выживания, не только из-за повреждения тканей и потери крови, но и потому, что они могут заразиться. Бактерии на объекте, которым нанесли рану, на коже и одежде, или других посторонних материалах, а также в грязи, попавшей в рану, могут вызвать инфекцию."
 
 #: english/data/text/english/dialog/52npc.msg:186
 msgid "By taking proper care of the wound you can reduce further contamination and promote healing. Clean the wound as soon as possible after it occurs by: Removing or cutting clothing away from the wound. Always looking for an exit wound if a sharp object, gun shot, or projectile caused a wound. Thoroughly cleaning the skin around the wound. Rinsing (not scrubbing) the wound with large amounts of water under pressure. You can use fresh urine if water is not available."
