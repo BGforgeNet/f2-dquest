@@ -205,8 +205,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-22 20:42+0000\n"
-"Last-Translator: The Magus <weblate@bgforge.net>\n"
+"PO-Revision-Date: 2017-04-25 10:15+0000\n"
+"Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -3330,29 +3330,31 @@ msgstr "Насекомые и паразиты опасны в ситуации 
 
 #: english/data/text/english/dialog/52npc.msg:194
 msgid "If you get bitten or stung, do not scratch the bite or sting, it might become infected. Inspect your body at least once a day to ensure there are no insects attached to you. If you find ticks attached to your body, cover them with a substance, such as Vaseline, heavy oil, or tree sap, that will cut off their air supply. Without air, the tick releases its hold, and you can remove it."
-msgstr ""
+msgstr "Если вас укусили или ужалили, не чешите рану, вы можете занести в нее заразу. Осматривайте все тело хотя бы раз в сутки, чтобы убедиться, что на вас нет насекомых. Если вы обнаружите клеща, прицепившегося к вашему телу, намажьте его вазелином, мазутом или древесной смолой, чтобы перекрыть ему воздух. Без воздуха, клещ ослабляет хватку, и вы можете его удалить."
 
 #: english/data/text/english/dialog/52npc.msg:195
 msgid "If stung by a bee, immediately remove the stinger and venom sac, if attached, by scraping with a fingernail or a knife blade. Do not squeeze or grasp the stinger or venom sac, as squeezing will force more venom into the wound. Wash the sting site thoroughly with soap and water to lessen the chance of a secondary infection. If you know or suspect that you are allergic to insect stings, always carry an insect sting kit with you."
-msgstr ""
+msgstr "Если вас ужалила пчела, немедленно удалите жало и мешочек с ядом (если он все еще прицеплен) с помощью ногтя или лезвия ножа. Не сжимайте и не обхватывайте жало или мешочек с ядом, так как это выдавит еще больше яда в рану. Тщательно промойте место укуса водой с мылом, чтобы снизить вероятность вторичного заражения. Если вы знаете или подозреваете, что у вас аллергия на укусы насекомых, всегда имейте с собой набор для обработки укусов."
 
 #: english/data/text/english/dialog/52npc.msg:196
 msgid "Relieve the itching and discomfort caused by insect bites by applying: Cold compresses. A cooling paste of mud and ashes. Sap from dandelions. Coconut meat. Crushed cloves of garlic. Onion."
-msgstr ""
+msgstr "Чтобы облегчить зуд и дискомфорт, вызванный укусами насекомых, вы можете наложить: холодный компрес. Охлаждающую пасту из грязи и пепла. Сок одуванчиков. Кокосовую мякоть. Измельченные зубчики чеснока. Лук."
 
 #: english/data/text/english/dialog/52npc.msg:197
 msgid "Snake venoms not only contain poisons that attack the victim's central nervous system (neurotoxins) and blood circulation (hemotoxins), but also digestive enzymes (cytotoxins) to aid in digesting their prey. These poisons can cause a very large area of tissue death, leaving a large open wound. This condition could lead to the need for eventual amputation if not treated."
-msgstr ""
+msgstr "Змеиные укусы содержат не только яды, которые атакуют центральную нервную систему жертвы (нейротоксины) и кровообращение (гемотоксины), но и пищеварительные ферменты (цитотоксины), для облегчения переваривания своей добычи. Эти яды могут повредить ткань на очень большой площади, оставляя после себя большие открытые раны. Без лечения, в конечном итоге это может привести к ампутации."
 
 #: english/data/text/english/dialog/52npc.msg:198
 msgid "Before you start treating a snakebite, determine whether the snake was poisonous or nonpoisonous. Bites from a nonpoisonous snake will show rows of teeth. Bites from a poisonous snake may have rows of teeth showing, but will have one or more distinctive puncture marks caused by fang penetration. Symptoms of a poisonous bite may be spontaneous bleeding from the nose and anus, blood in the urine, pain at the site of the bite, and swelling at the site of the bite within a few minutes or up to 2 hours later."
-msgstr ""
+msgstr "Прежде чем вы начнете лечить укус змеи, определите, является ли змея ядовитой или неядовитой. Укусы неядовитых змей будут выглядить как ряды зубов. Укусы ядовитых змей тоже могут иметь ряды, но вместе с ними и более характерные отметины, вызванные проникновением клыков. Признаками ядовитого укуса могут быть спонтанные кровотечения из носа и ануса, кровь в моче, боль в месте укуса, и отек в месте укуса, развивающийся от нескольких минут до двух часов после него."
 
 #: english/data/text/english/dialog/52npc.msg:199
 msgid ""
 "If you determine that a poisonous snake bit an individual, take the following steps: Reassure the victim and keep him still. Set up for shock and force fluids or give an intravenous (IV). Remove watches, rings, bracelets, or other constricting items. Clean the bite area. Maintain an airway (especially if bitten near the face or neck) and be prepared to administer mouth to mouth resuscitation or CPR. Use a constricting band between the wound and the heart. Immobilize the site. \n"
 "Remove the poison as soon as possible by using a mechanical suction device or by squeezing."
 msgstr ""
+"Если вы определили, что ядовитая змея укусила человека, примите следующие меры: успокойте пострадавшего и не давайте ему двигаться. Будьте готовы, что у него будет шок или придется ставить капельницу. Снимите часы, кольца, браслеты и другие стягивающие предметы. Очистите место укуса. Поддерживайте проходимость дыхательных путей (особенно в случае укуса лица или шеи), и будьте готовы сделать дыхание \"рот в рот\" и массаж сердца. Наложите стягивающий жгут между раной и сердцем. Обездвижьте место укуса.\n"
+"Удалите яд как можно скорее с помощью механического устройства всасывания или выдавливания."
 
 #: english/data/text/english/dialog/52npc.msg:200
 msgid "If the water you find is muddy, stagnant, and foul smelling, you can clear the water: By placing it in a container and letting it stand for 12 hours. By pouring it through a filtering system. To make a filtering system, place several centimeters or layers of filtering material such as sand, crushed rock, charcoal, or cloth in bamboo, a hollow log, or an article of clothing."
