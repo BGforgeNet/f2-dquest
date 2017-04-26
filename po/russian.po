@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-25 10:15+0000\n"
+"PO-Revision-Date: 2017-04-26 12:51+0000\n"
 "Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3358,144 +3358,144 @@ msgstr ""
 
 #: english/data/text/english/dialog/52npc.msg:200
 msgid "If the water you find is muddy, stagnant, and foul smelling, you can clear the water: By placing it in a container and letting it stand for 12 hours. By pouring it through a filtering system. To make a filtering system, place several centimeters or layers of filtering material such as sand, crushed rock, charcoal, or cloth in bamboo, a hollow log, or an article of clothing."
-msgstr ""
+msgstr "Если вода, которую вам удалось найти, мутная, застоявшаяся и вонючая, вы можете очистить ее, поместив ее в контейнер и оставив на 12 часов. Либо пропустив ее через систему фильтрации. Чтобы сделать систему фильтрации, уложите несколько сантиметров или слоев фильтрующих материалов, таких как песок, щебень, уголь, полые деревяшки, или куски ткани."
 
 #: english/data/text/english/dialog/52npc.msg:201
 msgid "You can, with relatively few exceptions, eat anything that crawls, swims, walks, or flies. The first obstacle is overcoming your natural aversion to a particular food source. Historically, people in starvation situations have resorted to eating everything imaginable for nourishment. A person who ignores an otherwise healthy food source due to a personal bias, or because he feels it is unappetizing, is risking his own survival. Although it may prove difficult at first, a survivor must eat what is available to maintain his health."
-msgstr ""
+msgstr "Вы можете, с некоторыми исключениями, есть все, что ползает, плавает, ходит или летает. Первое препятствие - преодолеть естественное отвращение к определенному источнику питания. Исторически, голодающие люди начинают употреблять в еду все что только можно. Человек, который игнорирует здоровый источник пищи из-за личной предвзятости, или потому, что он думает, будто это невкусно, рискует своим собственным выживанием. Хотя поначалу это может оказаться тяжело, выживальщик должен есть то, что ему доступно, чтобы сохранить свое здоровье."
 
 #: english/data/text/english/dialog/52npc.msg:202
 msgid "The most abundant life-form on earth, insects are easily caught. Insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source"
-msgstr ""
+msgstr "Самуб распространенную форму жизни на земле, насекомых, легко поймать. Насекомые обеспечивают от 65% до 80% белка, тогда как говядина - только 20%. Этот факт делает насекомых важным, хотя и не слишком аппетитным, источником пищи."
 
 #: english/data/text/english/dialog/53npc.msg:20
 #: english/data/text/english/dialog/55npc.msg:20
 #: english/data/text/english/dialog/59npc.msg:20
 msgid "Just some dirty folk which you seen many around.."
-msgstr ""
+msgstr "Просто какие-то грязные людишки, каких вы уже много видали."
 
 #: english/data/text/english/dialog/53npc.msg:100
 msgid "Ouh.. yes yes.. "
-msgstr ""
+msgstr "Ау... да да."
 
 #: english/data/text/english/dialog/53npc.msg:101
 msgid "You have nice dress.. "
-msgstr ""
+msgstr "У тебя красивое платье."
 
 #: english/data/text/english/dialog/53npc.msg:102
 msgid "Look what i made with hairs.. "
-msgstr ""
+msgstr "Смотри чего я сделала с волосами."
 
 #: english/data/text/english/dialog/53npc.msg:103
 msgid "I need it!"
-msgstr ""
+msgstr "Мне это нужно!"
 
 #: english/data/text/english/dialog/53npc.msg:104
 msgid "We must made big orgy again.."
-msgstr ""
+msgstr "Нужно снова устроить большую оргию."
 
 #: english/data/text/english/dialog/54npc.msg:10
 msgid "Dirty kid. "
-msgstr ""
+msgstr "Грязный ребенок. "
 
 #: english/data/text/english/dialog/54npc.msg:20
 msgid "He wear rags and have dirty face.."
-msgstr ""
+msgstr "Он носит лохмотья и у него грязное лицо."
 
 #: english/data/text/english/dialog/54npc.msg:100
 #: english/data/text/english/dialog/54npc.msg:102
 #: english/data/text/english/dialog/54npc.msg:103
 #: english/data/text/english/dialog/54npc.msg:104
 msgid "I hope kids have 50% discount.. "
-msgstr ""
+msgstr "Надеюсь, детям скидка 50%."
 
 #: english/data/text/english/dialog/54npc.msg:101
 msgid "I hope kids have 50% discount.."
-msgstr ""
+msgstr "Надеюсь, детям скидка 50%."
 
 #: english/data/text/english/dialog/55npc.msg:100
 msgid "Come on! "
-msgstr ""
+msgstr "Давай!"
 
 #: english/data/text/english/dialog/55npc.msg:101
 msgid "Faster!"
-msgstr ""
+msgstr "Быстрее!"
 
 #: english/data/text/english/dialog/55npc.msg:102
 msgid "I need it NOW! "
-msgstr ""
+msgstr "Мне надо СЕЙЧАС!"
 
 #: english/data/text/english/dialog/55npc.msg:103
 msgid "Hurry! "
-msgstr ""
+msgstr "Скорей!"
 
 #: english/data/text/english/dialog/55npc.msg:104
 msgid "Damn! "
-msgstr ""
+msgstr "Черт!"
 
 #: english/data/text/english/dialog/56npc.msg:10
 msgid "Addicted. "
-msgstr ""
+msgstr "Наркоман."
 
 #: english/data/text/english/dialog/56npc.msg:20
 msgid "Some folk in great need without money.."
-msgstr ""
+msgstr "Какой-то человек, сильно нуждающийся в деньгах."
 
 #: english/data/text/english/dialog/56npc.msg:100
 msgid "No its not rocks, its money! "
-msgstr ""
+msgstr "Нет, это не камни, это деньги!"
 
 #: english/data/text/english/dialog/56npc.msg:101
 msgid "Dont do it to me! Am your best customer!"
-msgstr ""
+msgstr "Не поступай так со мной! Я твой лучший клиент!"
 
 #: english/data/text/english/dialog/56npc.msg:102
 msgid "Please give me just little! "
-msgstr ""
+msgstr "Ну хоть немножко дай!"
 
 #: english/data/text/english/dialog/56npc.msg:103
 msgid "I will be your slave! Give me one shoot! "
-msgstr ""
+msgstr "Я буду твоим рабом! Дай одну дозу! "
 
 #: english/data/text/english/dialog/56npc.msg:104
 msgid "Fuck you all! Fuck! Aaarrgghh!! "
-msgstr ""
+msgstr "Пошли вы все! Блядь! Аааааааа!"
 
 #: english/data/text/english/dialog/57npc.msg:101
 msgid "Am BATMAN! And i have very cool car!  "
-msgstr ""
+msgstr "Я БЭТМЕН! И у меня крутая тачка!"
 
 #: english/data/text/english/dialog/57npc.msg:102
 msgid "Am Superman strongh like horse!  "
-msgstr ""
+msgstr "Я Супермен! Я силен как лошадь!"
 
 #: english/data/text/english/dialog/57npc.msg:103
 msgid "Argggh! Am SUPER mutant! "
-msgstr ""
+msgstr "Ааааа! Я СУПЕР мутант!"
 
 #: english/data/text/english/dialog/57npc.msg:104
 msgid "Am Bond.. JAMES Bond! "
-msgstr ""
+msgstr "Я Бонд! ДЖЕЙМС Бонд!"
 
 #: english/data/text/english/dialog/57npc.msg:105
 msgid "Hahahah! Am Spiderman! "
-msgstr ""
+msgstr "Хахаха! Я Спайдермен!"
 
 #: english/data/text/english/dialog/57npc.msg:106
 msgid "Am Turtle Ninja! Master of karate! "
-msgstr ""
+msgstr "Я черепашка-ниндзя! Мастер карате!"
 
 #: english/data/text/english/dialog/57npc.msg:107
 msgid "Am Chuck Norris! I will kick your face! "
-msgstr ""
+msgstr "Я Чак Норрис! Я ударю тебя ногой в лицо!"
 
 #: english/data/text/english/dialog/57npc.msg:108
 msgid "Arrgghh Am HULK! "
-msgstr ""
+msgstr "Аааааа я ХАЛК!"
 
 #: english/data/text/english/dialog/57npc.msg:109
 msgid "Am Richard Wintage from TV! "
-msgstr ""
+msgstr "Я Ричард Винтаж из телевизора!"
 
 #: english/data/text/english/dialog/57npc.msg:110
 msgid "Am Harrison! Master of modifications! "
