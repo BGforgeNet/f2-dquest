@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-26 12:51+0000\n"
+"PO-Revision-Date: 2017-04-27 02:52+0000\n"
 "Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3499,43 +3499,43 @@ msgstr "Я Ричард Винтаж из телевизора!"
 
 #: english/data/text/english/dialog/57npc.msg:110
 msgid "Am Harrison! Master of modifications! "
-msgstr ""
+msgstr "Я Гаррисон! Мастер модификаций! "
 
 #: english/data/text/english/dialog/57npc.msg:111
 msgid "Am magapornstar yeah!  "
-msgstr ""
+msgstr "Я мегапорнозвезда, даа!"
 
 #: english/data/text/english/dialog/57npc.msg:112
 msgid "Who are me!? Am Unvisible!  "
-msgstr ""
+msgstr "Кто я!? Я Невидимка! "
 
 #: english/data/text/english/dialog/57npc.msg:113
 msgid "Am Pipboy3000 and i have HEROIC charisma! "
-msgstr ""
+msgstr "Я Пипбой3000 и у меня ГЕРОИЧЕСКАЯ харизма!"
 
 #: english/data/text/english/dialog/57npc.msg:114
 msgid "Am MISTER FLY! Hahahah! "
-msgstr ""
+msgstr "Я МИСТЕР МУХА! Хахаха!"
 
 #: english/data/text/english/dialog/57npc.msg:115
 msgid "Am forum administrator! "
-msgstr ""
+msgstr "Я администратор форума! "
 
 #: english/data/text/english/dialog/57npc.msg:116
 msgid "Am Gorgeous Nurse yeesss.."
-msgstr ""
+msgstr "Я Великолепная Медсестра, даааа..."
 
 #: english/data/text/english/dialog/57npc.msg:117
 msgid "Am Hobbit! And i have RING! "
-msgstr ""
+msgstr "Я Хоббит! И у меня есть КОЛЬЦО!"
 
 #: english/data/text/english/dialog/57npc.msg:118
 msgid "Hahahhh! am RICH!  "
-msgstr ""
+msgstr "Хаха! Я БОГАТ!"
 
 #: english/data/text/english/dialog/57npc.msg:119
 msgid "GOLD! I can turn rocks to gold! "
-msgstr ""
+msgstr "Золото! Я могу превращать камни в золото!"
 
 #: english/data/text/english/dialog/57npc.msg:120
 msgid "Am VIC supertrader!  "
