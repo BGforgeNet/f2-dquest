@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-27 02:52+0000\n"
+"PO-Revision-Date: 2017-04-28 09:28+0000\n"
 "Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3539,59 +3539,59 @@ msgstr "Золото! Я могу превращать камни в золот�
 
 #: english/data/text/english/dialog/57npc.msg:120
 msgid "Am VIC supertrader!  "
-msgstr ""
+msgstr "Я ВИК суперторговец!"
 
 #: english/data/text/english/dialog/57npc.msg:121
 msgid "Hahah! I dont known who am i ..but not ME!  "
-msgstr ""
+msgstr "Хаха! Я не знаю кто я ...но не Я! "
 
 #: english/data/text/english/dialog/57npc.msg:122
 msgid "Am Veeery BIG tree!  "
-msgstr ""
+msgstr "Я ооочень БОЛЬШОЕ дерево! "
 
 #: english/data/text/english/dialog/57npc.msg:123
 msgid "Am dog shit! SOMETHING WRONG!  "
-msgstr ""
+msgstr "Я собачье дерьмо! ЧТО-ТО НЕ ТАК! "
 
 #: english/data/text/english/dialog/57npc.msg:124
 msgid "Am brahmin shit! Whats wrong!  "
-msgstr ""
+msgstr "Я браминье дерьмо! Да что такое!"
 
 #: english/data/text/english/dialog/57npc.msg:125
 msgid "Am dirty RAT! What the fuck! "
-msgstr ""
+msgstr "Я грязная КРЫСА! Какого хрена!"
 
 #: english/data/text/english/dialog/57npc.msg:126
 msgid "Am president! And i have A-Bomb! "
-msgstr ""
+msgstr "Я президент! И у меня есть атомная бомба!"
 
 #: english/data/text/english/dialog/57npc.msg:127
 msgid "Am tricky kid and am VERY quick! "
-msgstr ""
+msgstr "Я хитрый парень, и очень шустрый!"
 
 #: english/data/text/english/dialog/57npc.msg:128
 msgid "Please HELP me i lost my head! "
-msgstr ""
+msgstr "Пожалуйста, ПОМОГИТЕ мне, я потерял голову!"
 
 #: english/data/text/english/dialog/57npc.msg:129
 msgid "Am SNAKE i escaped from New York!  "
-msgstr ""
+msgstr "Я ЗМЕЯ, я сбежал из Нью-Йорка!"
 
 #: english/data/text/english/dialog/57npc.msg:130
 msgid "WHY AM SO TIRED!? "
-msgstr ""
+msgstr "ПОЧЕМУ Я ТАК УСТАЛ!?"
 
 #: english/data/text/english/dialog/58npc.msg:10
 msgid "Punk. "
-msgstr ""
+msgstr "Панк."
 
 #: english/data/text/english/dialog/58npc.msg:20
 msgid "Pretty woman in black leather and green short hairs.."
-msgstr ""
+msgstr "Красивая женщина с короткими зелеными волосами, одетая в черную кожу."
 
 #: english/data/text/english/dialog/58npc.msg:100
 msgid "[She say quickly] I have \"Hero Jets\" only 20$"
-msgstr ""
+msgstr "[Она говорит быстро] У меня есть \"Геройский Джет\", всего по 20 баксов."
 
 #: english/data/text/english/dialog/58npc.msg:200
 msgid "How it works?"
