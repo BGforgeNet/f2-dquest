@@ -205,7 +205,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-28 09:28+0000\n"
+"PO-Revision-Date: 2017-04-29 05:50+0000\n"
 "Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -3595,47 +3595,47 @@ msgstr "[Она говорит быстро] У меня есть \"Геройс
 
 #: english/data/text/english/dialog/58npc.msg:200
 msgid "How it works?"
-msgstr ""
+msgstr "Как это работает?"
 
 #: english/data/text/english/dialog/58npc.msg:250
 msgid "This mixture will help you to feel like hero. So what? Are you interested to buy it or not!? Make your decision faster i have many customers! Am inventioner and producer. Just 20$ come on!"
-msgstr ""
+msgstr "Это зелье поможет тебе почувствовать себя героем. Так что? Будешь покупать или нет!? Думай быстрее, у меня много клиентов! Я изобретатель и производитель. Давай, всего 20 баксов!"
 
 #: english/data/text/english/dialog/58npc.msg:300
 msgid "Uh.. ok let me try your Jet, here is money."
-msgstr ""
+msgstr "Эээ... ну давай попробуем твой Джет, вот деньги."
 
 #: english/data/text/english/dialog/58npc.msg:350
 msgid "Thanx. Take only one breath each day, its very strong!"
-msgstr ""
+msgstr "Спасибо. Пыхай только раз в день, оно очень сильное!"
 
 #: english/data/text/english/dialog/58npc.msg:400
 msgid "Next please!"
-msgstr ""
+msgstr "Следующий, прошу!"
 
 #: english/data/text/english/dialog/58npc.msg:401
 msgid "Hero Jets!"
-msgstr ""
+msgstr "Джет для героев!"
 
 #: english/data/text/english/dialog/58npc.msg:402
 msgid "Only 20$"
-msgstr ""
+msgstr "Всего 20 баксов"
 
 #: english/data/text/english/dialog/58npc.msg:403
 msgid "Fuck off with these rocks!"
-msgstr ""
+msgstr "Отвали со своими камнями!"
 
 #: english/data/text/english/dialog/58npc.msg:404
 msgid "NEXT!"
-msgstr ""
+msgstr "СЛЕДУЮЩИЙ!"
 
 #: english/data/text/english/dialog/59npc.msg:100
 msgid "Helo.. [He look around to be sure that nobody hear him and say] ..are you interested to earn some cash?"
-msgstr ""
+msgstr "Привет... [он оглядывается вокруг, чтобы убедиться, что никто его не слышит и продолжает] ...хочешь подзаработать?"
 
 #: english/data/text/english/dialog/59npc.msg:200
 msgid "Sure, tell me about your problem."
-msgstr ""
+msgstr "Конечно, рассказывай в чем у тебя дело."
 
 #: english/data/text/english/dialog/59npc.msg:250
 msgid "Am trying to fix my car, but damn i spend on this vehicle few months and its still not work! Its just impossible to fix it using only junk and rusty parts which can be found on streets. I want you to steal some parts from Smith. He is owner of junkyard over there! [he point finger in random direction] Bring me anything which look like engine."
