@@ -205,8 +205,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-30 06:34+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2017-04-30 06:36+0000\n"
+"Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -3740,31 +3740,31 @@ msgstr "спасибо"
 #: english/data/text/english/dialog/65npc.msg:400
 #: english/data/text/english/dialog/quest.msg:400
 msgid "r1"
-msgstr ""
+msgstr "р1"
 
 #: english/data/text/english/dialog/61npc.msg:401
 #: english/data/text/english/dialog/65npc.msg:401
 #: english/data/text/english/dialog/quest.msg:401
 msgid "r2"
-msgstr ""
+msgstr "р2"
 
 #: english/data/text/english/dialog/61npc.msg:402
 #: english/data/text/english/dialog/65npc.msg:402
 #: english/data/text/english/dialog/quest.msg:402
 msgid "r3"
-msgstr ""
+msgstr "р3"
 
 #: english/data/text/english/dialog/61npc.msg:403
 #: english/data/text/english/dialog/65npc.msg:403
 #: english/data/text/english/dialog/quest.msg:403
 msgid "r4"
-msgstr ""
+msgstr "р4"
 
 #: english/data/text/english/dialog/61npc.msg:404
 #: english/data/text/english/dialog/65npc.msg:404
 #: english/data/text/english/dialog/quest.msg:404
 msgid "r5"
-msgstr ""
+msgstr "р5"
 
 #: english/data/text/english/dialog/62npc.msg:10
 msgid "Psychiatry. "
