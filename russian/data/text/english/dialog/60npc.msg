@@ -2,7 +2,7 @@
 {10}{}{Den News. }
 {20}{}{Множество грязных страниц, прикрепленных к куску дерева...}
 {100}{}{=== DEN = NEWS === }
-{200}{}{"Геройский Винт" ЛИШЬ ЗА $20}
+{200}{}{"Геройский Джет" ВСЕГО ПО 20 баксов!!!}
 {250}{}{AMAZING Few days ago i invented powerfull drug which help to feel like REAL hero! JUST 20$ come to my house i have them lot in my stock. You can be Batman, Spierman or even Chuck Norris! AMAZING}
 {300}{}{I found UFO near Navarro!}
 {350}{}{I seen many unidentified obiects over Navarro base and i found few from them crased on desert. Pay me 3000$ and i will sell you that wonderfull vehicle! I have them THREE on my junkyard!}

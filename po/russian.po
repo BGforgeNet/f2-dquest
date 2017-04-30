@@ -205,8 +205,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-30 06:21+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2017-04-30 06:22+0000\n"
+"Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -3683,7 +3683,7 @@ msgstr ""
 
 #: english/data/text/english/dialog/60npc.msg:200
 msgid "\"Hero Jet\" ONLY 20$ !!! "
-msgstr "\"Геройский Винт\" ЛИШЬ ЗА $20"
+msgstr "\"Геройский Джет\" ВСЕГО ПО 20 баксов!!!"
 
 #: english/data/text/english/dialog/60npc.msg:250
 msgid "AMAZING Few days ago i invented powerfull drug which help to feel like REAL hero! JUST 20$ come to my house i have them lot in my stock. You can be Batman, Spierman or even Chuck Norris! AMAZING"
