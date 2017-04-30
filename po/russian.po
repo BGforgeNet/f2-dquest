@@ -205,8 +205,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-30 06:32+0000\n"
-"Last-Translator: Magus <weblate@bgforge.net>\n"
+"PO-Revision-Date: 2017-04-30 06:34+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -3729,12 +3729,12 @@ msgstr "Да, есть и другие возможности. Мы ищем п�
 #: english/data/text/english/dialog/65npc.msg:300
 #: english/data/text/english/dialog/quest.msg:300
 msgid "i found"
-msgstr ""
+msgstr "Я нашел"
 
 #: english/data/text/english/dialog/61npc.msg:350
 #: english/data/text/english/dialog/quest.msg:350
 msgid "thanx"
-msgstr ""
+msgstr "спасибо"
 
 #: english/data/text/english/dialog/61npc.msg:400
 #: english/data/text/english/dialog/65npc.msg:400
@@ -3768,15 +3768,15 @@ msgstr ""
 
 #: english/data/text/english/dialog/62npc.msg:10
 msgid "Psychiatry. "
-msgstr ""
+msgstr "Психиатрия."
 
 #: english/data/text/english/dialog/62npc.msg:20
 msgid "He look very clever.."
-msgstr ""
+msgstr "Он выглядит очень умным..."
 
 #: english/data/text/english/dialog/62npc.msg:100
 msgid "Lets begin tests. Situation first: someone want help, what you do? Situation second: you can fill backpack only by four items, what it is? Situation third: you found very powerfull drug, what you do?"
-msgstr ""
+msgstr "Давайте начнем тесты. Ситуация первая: кому-то нужна помощь, что вы будете делать? Ситуация вторая: вы можете заполнить рюкзак только четырьмя вещами, что это будет? Ситуация третья: вы нашли очень мощный препарат, что вы будете делать?"
 
 #: english/data/text/english/dialog/62npc.msg:200
 msgid "1. Am tell him \"sorry am busy\" "

@@ -1,7 +1,7 @@
 # coding: windows-1251
-{10}{}{Psychiatry. }
-{20}{}{He look very clever..}
-{100}{}{Lets begin tests. Situation first: someone want help, what you do? Situation second: you can fill backpack only by four items, what it is? Situation third: you found very powerfull drug, what you do?}
+{10}{}{Психиатрия.}
+{20}{}{Он выглядит очень умным...}
+{100}{}{Давайте начнем тесты. Ситуация первая: кому-то нужна помощь, что вы будете делать? Ситуация вторая: вы можете заполнить рюкзак только четырьмя вещами, что это будет? Ситуация третья: вы нашли очень мощный препарат, что вы будете делать?}
 {200}{}{1. Я ему говорю "извини я занят"}
 {250}{}{Стальная дверь.}
 {300}{}{2. Четыре пива!}
