@@ -205,8 +205,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-30 06:25+0000\n"
-"Last-Translator: Magus <weblate@bgforge.net>\n"
+"PO-Revision-Date: 2017-04-30 06:29+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -3703,19 +3703,19 @@ msgstr "ВСТУПАЙ В АРМИЮ СЕГОДНЯ"
 
 #: english/data/text/english/dialog/60npc.msg:450
 msgid "We search new recruits to Brotherhood of Steel army. Visit our bunker in Den and talk with sir Marcus from Blood Raven squad. Earn richness and fame during battles against mutants! "
-msgstr ""
+msgstr "Мы ищем новых рекрутов для армии Братства Стали. Посетите наш бункер в Дыре и поговорите с сэром Маркусом из отряда Кровавого Ворона. Заработайте богатство и славу в боях против мутантов!"
 
 #: english/data/text/english/dialog/61npc.msg:10
 msgid "sir Marcus. "
-msgstr ""
+msgstr "сэр Маркус."
 
 #: english/data/text/english/dialog/61npc.msg:20
 msgid "Leader of Bloor Reaven squad."
-msgstr ""
+msgstr "Лидер отряда Кровавого Ворона."
 
 #: english/data/text/english/dialog/61npc.msg:100
 msgid "If you wish to join Brotherhood of Steel army you must pass trough few basic tests in next room. Our weapons are very dangerous and we fear fools who panic during battle. Go to next room and talk with our psychiatry."
-msgstr ""
+msgstr "Если вы хотите присоединиться к армии Братства Стали, вы должны пройти через несколько базовых тестов в соседней комнате. Наше оружие очень опасное, и мы остерегаемся дураков, которые могут запаниковать во время боя. Идите в следующую комнату и поговорите с нашим психиатром."
 
 #: english/data/text/english/dialog/61npc.msg:200
 msgid "Uh.. and any other chances to join BoS?"
