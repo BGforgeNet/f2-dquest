@@ -205,8 +205,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-30 06:31+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2017-04-30 06:32+0000\n"
+"Last-Translator: Magus <weblate@bgforge.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
@@ -3723,7 +3723,7 @@ msgstr "Уф... А какие-нибудь другие возможности �
 
 #: english/data/text/english/dialog/61npc.msg:250
 msgid "Yes it is other possibility. We search plans of Scout Disc known as UFO. Our best scients and engineers dont known how they work. We have many reports about secret base near Navarro where they fly, so try your luck there. "
-msgstr "Да, есть и другие возможности. Мы ищем планы Разведывательного Диска, также известного как НЛО. Наши лучшие ученые и инженеры не понимают, как эти штуки работают. У нас есть много отчетов по поводу секретной базы у Наварро, где они летают. Можешь попытать счастья там."
+msgstr "Да, есть и другие возможности. Мы ищем планы Разведывательного Диска, также известного как НЛО. Наши лучшие ученые и инженеры не понимают, как эти штуки работают. Нам приходит много сообщений, что они летают у секретной базы в Наварро. Можешь попытать счастья там."
 
 #: english/data/text/english/dialog/61npc.msg:300
 #: english/data/text/english/dialog/65npc.msg:300
