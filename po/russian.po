@@ -205,15 +205,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-2-14 5:26+0000\n"
-"PO-Revision-Date: 2017-04-03 23:06+0000\n"
-"Last-Translator: The Magus <weblate@bgforge.net>\n"
+"PO-Revision-Date: 2017-05-01 07:08+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.11\n"
+"X-Generator: Weblate 2.12\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
 msgid "Guard."
@@ -3184,597 +3184,599 @@ msgstr "Огненный плуг это метод разжигания огн�
 
 #: english/data/text/english/dialog/52npc.msg:158
 msgid "The direct spark method is the easiest of the primitive methods to use for make fire. The flint and steel method is the most reliable of the direct spark methods. Strike a flint or other hard, sharp-edged rock edge with a piece of carbon steel (stainless steel will not produce a good spark). This method requires a loose-jointed wrist and practice. When a spark has caught in the tinder, blow on it. The spark will spread and burst into flames."
-msgstr ""
+msgstr "Прямая искра это самый простой из примитивных методов разжигания огня. Кремень и сталь это самый надежный метод добыть прямую искру. Ударьте кремень или другой острый камень куском углеродистой стали (нержавеющая сталь не произведет хорошую искру). Этот метод требует свободно двигающееся запястье и практику. Когда искра попадет на трут, дуньте на нее. Искра раздуется и разожжет огонь."
 
 #: english/data/text/english/dialog/52npc.msg:159
 msgid "It takes much more than the knowledge and skills to build shelters, get food, make fires, and travel without the aid of standard navigational devices to live successfully through a survival situation. Some people with little or no survival training have managed to survive life-threatening circumstances. Some people with survival training have not used their skills and died. A key ingredient in any survival situation is the mental attitude of the individual(s) involved. Having survival skills is important; having the will to survive is essential."
-msgstr ""
+msgstr "Успешное выживание требует гораздо больше, чем знания и навыки строительства укрытия, добычи еды, разведения костров, и путешествий без помощи стандартных навигационных устройств. Некоторым людям с небольшими навыками выживания или вообще без них удалось выжить в угрожающих жизни обстоятельствах. Некоторые люди с навыками выживания не использовали их и погибли. Ключевой элемент в любой ситуации выживания - это психическое состояния выживальщика(ов). Иметь навыки выживания важно, иметь волю к жизни необходимо."
 
 #: english/data/text/english/dialog/52npc.msg:160
 msgid "There is a psychology to survival. The soldier in a survival environment faces many stresses that ultimately impact on his mind. These stresses can produce thoughts and emotions that, if poorly understood, can transform a confident, well-trained soldier into an indecisive, ineffective individual with questionable ability to survive. Thus, every soldier must be aware of and be able to recognize those stresses commonly associated with survival."
-msgstr ""
+msgstr "В выживании участвует психология. Солдат в среде выживания сталкивается с множеством стрессов, что в конечном счете влияет на его разум. Эти стрессы могут приводить к мыслям и эмоциям, которые, если плохо поняли, может превратить уверенного в себе, хорошо обученного солдата в нерешительную, неэффективную личность с сомнительной способностью выживать. Поэтому, каждый военнослужащий должен знать и уметь распознавать стрессы, которые обычно связаны с выживанием."
 
 #: english/data/text/english/dialog/52npc.msg:161
 msgid "Before you can understand psychological reactions in a survival setting, it is helpful to first know a little bit about stress. Stress is not a disease that you cure and eliminate. Instead, it is a condition we all experience. Stress can be described as our reaction to pressure. It is the name given to the experience we have as we physically, mentally, emotionally, and spiritually respond to life's tensions."
-msgstr ""
+msgstr "Прежде чем вы сможете понять психологические реакции в условиях выживания, полезно сначала узнать немного о стрессе. Стресс - это не заболевание, которое можно вылечить и устранить. Это состояние, которое мы все испытываем. Стресс может быть описан как наша реакция на давление. Это название, данное нашему состоянию, когда мы физически, умственно, эмоционально и духовно реагируем на напряженность жизни."
 
 #: english/data/text/english/dialog/52npc.msg:162
 msgid "We need stress because it has many positive benefits. Stress provides us with challenges; it gives us chances to learn about our values and strengths. Stress can show our ability to handle pressure without breaking; it tests our adaptability and flexibility; it can stimulate us to do our best. Because we usually do not consider unimportant events stressful, stress can also be an excellent indicator of the significance we attach to an event: in other words, it highlights what is important to us."
-msgstr ""
+msgstr "Нам нужен стресс, потому что он имеет много положительных сторон. Стресс создает для нас вызовы; он дает нам шанс узнать о наши ценностях и сильных сторонах. Стресс может показать нашу способность справляться с давлением без повреждений; он проверяет нашу приспособляемость и гибкость, он может стимулировать нас к лучшему. Так как мы обычно не испытываем стресс при маловажных событиях, стресс также может стать отличным индикатором значимости, которую мы придаем событию: другими словами, он подчеркивает, что важно для нас."
 
 #: english/data/text/english/dialog/52npc.msg:163
 msgid ""
 "Listed below are a few of the common signs of distress you may find in your fellow soldiers or yourself when faced with too much stress: Difficulty making decisions. Angry outbursts. Forgetfulness. Low energy level. Constant worrying. Propensity for mistakes. Thoughts about death or suicide. Trouble getting along with others. Withdrawing from others. \n"
 "Hiding from responsibilities. Carelessness."
-msgstr ""
+msgstr "Ниже перечислены некоторые общие признаки расстройства, которые вы может заметить в ваших товарищах или в себе при столкновении со слишком большим уровнем стресса: сложность принятия решений. Вспышки гнева. Забывчивость. Низкий уровень энергии. Постоянные переживания. Склонность к ошибкам. Мысли о смерти или самоубийстве. Трудности в общении с другими. Вывод от других. Уклонение от ответственности. Разгильдяйство."
 
 #: english/data/text/english/dialog/52npc.msg:164
 msgid "Stress can be constructive or destructive. It can encourage or discourage, move us along or stop us dead in our tracks, and make life meaningful or seemingly meaningless. Stress can inspire you to operate successfully and perform at your maximum efficiency in a survival situation. It can also cause you to panic and forget all your training. Key to your survival is your ability to manage the inevitable stresses you will encounter. The survivor is the soldier who works with his stresses instead of letting his stresses work on him."
-msgstr ""
+msgstr "Стресс может быть конструктивным или деструктивным. Он может поощрять или препятствовать, двигать нами или остановить нас в нашем пути, и сделать жизнь осмысленной или бессмысленной на вид. Стресс может вдохновить вас на успешное функционирование и максимальную эффективность в ситуации выживания. Он также может заставить вас паниковать и забыть все, чему вы учились. Ключ к выживанию - это ваша способность управлять неизбежными стрессами, которые вы встретите. Выживший солдат - это солдат, который работает над своими стрессами, вместо того, чтобы позволять стрессам работать над ним."
 
 #: english/data/text/english/dialog/52npc.msg:165
 msgid "Injury, illness, and death are real possibilities a survivor has to face. Perhaps nothing is more stressful than being alone in an unfamiliar environment where you could die from hostile action, an accident, or from eating something lethal. Illness and injury can also add to stress by limiting your ability to maneuver, get food and drink, find shelter, and defend yourself. Even if illness and injury don't lead to death, they add to stress through the pain and discomfort they generate."
-msgstr ""
+msgstr "Травмы, болезни, и смерть - это реальные возможности, с которыми приходится сталкиваться выживальщикам. Возможно, нет ничего более напрягающего, чем оказаться в одиночестве в незнакомой обстановке, где вы можете умереть от враждебных действий, несчастного случая, или при поедании чего-то смертельно опасного. Болезни и травмы также могут усилить стресс, ограничивая вашу возможность передвигаться, добывать еду и питье, находить укрытие и защищать себя. Даже если болезни и травмы не приводят к смерти, они усиляют стресс, принося боль и дискомфорт."
 
 #: english/data/text/english/dialog/52npc.msg:166
 msgid "Some people have trouble operating in settings where everything is not clear-cut. The only guarantee in a survival situation is that nothing is guaranteed. It can be extremely stressful operating on limited information in a setting where you have limited control of your surroundings. This uncertainty and lack of control also add to the stress of being ill, injured, or killed."
-msgstr ""
+msgstr "Некоторые люди с трудом действуют в нечеткой обстановке. Единственное, что можно знать в ситуации выживания - что ничего нельзя знат наверняка. Можеть быть очень сложно действовать при ограниченной информации в обстановке, когда ваш контроль за окружением сильно ограничен. Эта неопределенность и отсутствие контроля также усугубляют стресс от болезней или ран."
 
 #: english/data/text/english/dialog/52npc.msg:167
 msgid "Without food and water a person will weaken and eventually die. Thus, getting and preserving food and water takes on increasing importance as the length of time in a survival setting increases. For a soldier used to having his provisions issued, foraging can be a big source of stress."
-msgstr ""
+msgstr "Без пищи и воды человек будет слабеть и в конце концов умрет. Таким образом, получение и сохранение пищи и воды приобретает все большее значение при увеличении продолжительности пребывания в условиях выживания. Для солдата, привыкшего, что рацион ему выдается, фуражировка может быть большим источником стресса."
 
 #: english/data/text/english/dialog/52npc.msg:168
 msgid "Man has been able to survive many shifts in his environment throughout the centuries. His ability to adapt physically and mentally to a changing world kept him alive while other species around him gradually died off. The same survival mechanisms that kept our forefathers alive can help keep us alive as well! However, these survival mechanisms that can help us can also work against us if we don't understand and anticipate their presence."
-msgstr ""
+msgstr "Человек смог пережить много изменений в окружающей среде на протяжении веков. Его способность адаптироваться физически и морально к меняющемуся миру сохранил его живым, в то время как другие виды вокруг него постепенно вымерали. Те же механизмы выживания, которые сохранили наших предков живыми, смогут помочь и нам! Однако, эти же механизмы могут работать и против нас, если мы не понимаем их и не знаем о том, что они существуют."
 
 #: english/data/text/english/dialog/52npc.msg:169
 msgid "Fear is our emotional response to dangerous circumstances that we believe have the potential to cause death, injury, or illness. This harm is not just limited to physical damage; the threat to one's emotional and mental well-being can generate fear as well. For the soldier trying to survive, fear can have a positive function if it encourages him to be cautious in situations where recklessness could result in injury. Unfortunately, fear can also immobilize a person."
-msgstr ""
+msgstr "Страх - это наша эмоциональная реакция на опасные обстоятельства, которые, по нашему мнению, могут привести к смерти, травме или болезни. Этот вред не ограничивается только физическим ущербом; угроза эмоциональному и психическому благополучию также могут породить страх. Для солдата, пытающегося выжить, страх может иметь позитивное влияние, если он помогает ему быть осторожным в ситуациях, где неосторожность может привести к травмам. К сожалению, страх также может и обездвижить человека."
 
 #: english/data/text/english/dialog/52npc.msg:170
 msgid "The soldier in a survival setting reduces his anxiety by performing those tasks that will ensure his coming through the ordeal alive. As he reduces his anxiety, the soldier is also bringing under control the source of that anxiety: his fears. In this form, anxiety is good; however, anxiety can also have a devastating impact. Anxiety can overwhelm a soldier to the point where he becomes easily confused and has difficulty thinking."
-msgstr ""
+msgstr "Солдат в условиях выживания снимает свою тревогу, выполняя задачи, которые будут обеспечивать его выживание. В процессе уменьшения тревожности, солдат начинает контролировать и источник беспокойства: его страхи. В такой форме, тревога - это хорошо, однако, она может также иметь и разрушительные последствия. Тревога может довести солдата до точки, когда он будет легко запутываться."
 
 #: english/data/text/english/dialog/52npc.msg:171
 msgid "Sooner or later, soldiers will have to cope with frustration when a few of their plans run into trouble. One outgrowth of this frustration is anger. There are many events in a survival situation that can frustrate or anger a soldier. Getting lost, damaged or forgotten equipment, the weather, inhospitable terrain, enemy patrols, and physical limitations are just a few sources of frustration and anger."
-msgstr ""
+msgstr "Рано или поздно, солдатам придется справляться с разочарованием, когда некоторые их планы сорвутся. Одним из результатов этого разочарования является гнев. Есть много событий в ситуации выживания, которые могут расстроить или разозлить солдата. Потеря пути, поврежденное или забыток оборудование, погода, негостеприимная местность, вражеские патрули, и физические ограничения - это лишь некоторые из источников разочарования и гнева."
 
 #: english/data/text/english/dialog/52npc.msg:172
 msgid "Depression is closely linked with frustration and anger. The frustrated person becomes more and more angry as he fails to reach his goals. If the anger does not help the person to succeed, then the frustration level goes even higher. A destructive cycle between anger and frustration continues until the person becomes worn down-physically, emotionally, and mentally."
-msgstr ""
+msgstr "Депрессия тесно связана с разочарованием и гневом. Разочарованный человек становится все более и более сердитым при недостижении целей. Если гнев не помогает человеку добиться успеха, то уровень разочарования вырастает еще. Разрушительный круг между гневом и разочарованием продолжается до тех пор, пока человек не устает - физически, эмоционально и умственно."
 
 #: english/data/text/english/dialog/52npc.msg:173
 msgid "Don't be afraid to make an honest appraisal of situations. See circumstances as they are, not as you want them to be. Keep your hopes and expectations within the estimate of the situation. When you go into a survival setting with unrealistic expectations, you may be laying the groundwork for bitter disappointment. Follow the adage, \"Hope for the best, prepare for the worst.\" It is much easier to adjust to pleasant surprises about one's unexpected good fortunes than to be upset by one's unexpected harsh circumstances."
-msgstr ""
+msgstr "Не бойтесь оценить ситуацию честно. Увидеть обстоятельства, как они есть, а не как вы хотите их видеть. Держите ваши надежды и ожидания в реалистичных рамках. Когда вы попадаете в ситуацию выживания с нереалистичными ожиданиями, это предвестник горького разочарования. Следуйте поговорке \"надейся на лучшее, готовься к худшему.\" Гораздо легче подстроиться к приятным сюрпризам, чем быть расстроеным неожиданно тяжелыми обстоятельствами."
 
 #: english/data/text/english/dialog/52npc.msg:174
 msgid "Remember, failure to prepare yourself psychologically to cope with survival leads to reactions such as depression, carelessness, inattention, loss of confidence, poor decision-making, and giving up before the body gives in. At stake is your life and the lives of others who are depending on you to do your share."
-msgstr ""
+msgstr "Помните, что неспособность подготовить себя психологически, чтобы справиться с выживанием приводит к таким последствиям как депрессия, невнимательность, невнимательность, потеря уверенности, принятие ошибочных решений, и готовность сдаться, даже если физически к этому нет предпосылок. На кону стоит ваша жизнь и жизни других людей, которые зависят от того, как вы выполните свою часть работы."
 
 #: english/data/text/english/dialog/52npc.msg:175
 msgid "People under stress have a potential to panic if they are not well trained and not prepared psychologically to face whatever the circumstances may be. While we often cannot control the survival circumstances in which we find ourselves, it is within our ability to control our response to those circumstances. Learning stress management techniques can enhance significantly your capability to remain calm and focused as you work to keep yourself and others alive."
-msgstr ""
+msgstr "Люди в состоянии стресса могут запаникова, если они не обучены и не подготовлены психологически к любым обстоятельствам. Хотя мы часто не можем контролировать обстоятельства, в которых мы оказались, мы можем контролировать наши реакции на них. Изучение техники управления стрессом может значительно улучшить вашу способность оставаться спокойным и сосредоточенным, пока вы стараетесь сохранить себя и других в живых."
 
 #: english/data/text/english/dialog/52npc.msg:176
 msgid "Survival planning is nothing more than realizing something could happen that would put you in a survival situation and, with that in mind, taking steps to increase your chances of survival. Thus, survival planning means preparation. Preparation means having survival items and knowing how to use them."
-msgstr ""
+msgstr "Планирование выживания это ничто иное, как осознание, что что-то может поставить вас в ситуацию выживания, и предпринятие шагов, увеличивающих ваши шансы. Таким образом, планирование выживания означает подготовку. Подготовка значит наличие требуемых вещей и знание, как их использовать."
 
 #: english/data/text/english/dialog/52npc.msg:177
 msgid "One important aspect of prior planning is preventive medicine. Ensuring that you have no dental problems and that your immunizations are current will help you avoid potential dental or health problems. A dental problem in a survival situation will reduce your ability to cope with other problems that you face. Failure to keep your shots current may mean your body is not immune to diseases that are prevalent in the area."
-msgstr ""
+msgstr "Одним из важных аспектов предварительного планирования это профилактическая медицина. Уверенность, что у вас нет стоматологических проблем, и что прививки еще имеют свою силу, поможет вам избежать возможных проблем с зубами и со здоровьем. Проблемы с зубами в ситуации выживания будут снижать вашу способность справляться с другими задачами. Пропущенные прививки могут означать, что ваш организм не имеет иммунитета к болезням, которые распространены в этом районе."
 
 #: english/data/text/english/dialog/52npc.msg:178
 msgid "The environment is the key to the types of items you will need in your survival kit. How much equipment you put in your kit depends on how you will carry the kit. A kit carried on your body will have to be smaller than one carried in a vehicle. Always layer your survival kit, keeping the most important items on your body. For example, your map and compass should always be on your body. Carry less important items on your load bearing equipment. Place bulky items in the rucksack."
-msgstr ""
+msgstr "Главно, что определяет ваш комплект для выживания - окружающая среда. Сколько снаряжения вы положите в ваш комплект, зависит от того, как вы будете его носить. Комплект, переносимый на теле, будет меньше, чем перевозимый в транспортном средстве. Всегда разделяйте ваш комплект для выживания, храня самые важные элементы на себе. Например, ваша карта и компас всегда должны быть с собой. Менее важные элементы - пристегивайте к одежде. Громоздкие вещи сложите в рюкзак."
 
 #: english/data/text/english/dialog/52npc.msg:179
 msgid "Your survival kit need not be elaborate. You need only functional items that will meet your needs and a case to hold the items. For the case, you might want to use a Band Aid box, a first aid case, an ammunition pouch, or another suitable case. This case should be: Water repellent or waterproof. Easy to carry or attach to your body. Suitable to accept various sized components. Durable."
-msgstr ""
+msgstr "Ваш комплект для выживания не должен быть сложным. Вам нужно взять только те предметы, которых будет достаточно, и чехол для их хранения. Например, вы можете использовать коробку от аптечки первой помощи, сумку для патронов, или что-то другое. Чехол должен быть водоотталкивающий или водонепроницаемый, легко переносимый, вмещающий вещи разного размера, прочный."
 
 #: english/data/text/english/dialog/52npc.msg:180
 msgid "In your survival kit, you should have: First aid items. Water purification tablets or drops. Fire starting equipment. Signaling items. Food procurement items. Shelter items. Some examples of these items are: Lighter, metal match, waterproof matches. Snare wire. Signaling mirror. Wrist compass. Fish and snare line. Fishhooks. Candle. Small hand lens. Oxytetracycline tablets (diarrhea or infection). Water purification tablets. Solar blanket. Surgical blades. Butterfly sutures. Condoms for water storage. Chap Stick. Needle and thread. Knife."
-msgstr ""
+msgstr "В вашем комплекте для выживания должны быть: средства для оказания первой помощи. Таблетки или капли для очистки воды. Снаряжение для размигания огня. Сигнальные вещи. Вещи для добычи еды. Вещи для укрытия. Некоторые примеры таких вещей: зажигалка, металлические спички, водонепроницаемые спички. Силки из проволоки. Зеркало для сигнализации. Наручный компас. Веревка для рыбалки и ловушек. Крючки. Свечи. Небольшая ручная линза. Таблетки окситетрациклина (от поноса или инфекции). Таблетки для очистки воды. Солнечное одеяло. Хирургические лезвия. Нить для наложения швов. Презервативы для хранения воды. Косметическая помада. Игла и нить. Нож."
 
 #: english/data/text/english/dialog/52npc.msg:181
 msgid "Our modern wonder drugs, laboratories, and equipment have obscured more primitive types of medicine involving determination, common sense, and a few simple treatments. In many areas of the world, however, the people still depend on local \"witch doctors\" or healers to cure their ailments. Many of the herbs (plants) and treatments they use are as effective as the most modern medications available. In fact, many modern medications come from refined herbs."
-msgstr ""
+msgstr "Наши современные чудо-препараты, лаборатории и оборудование затмили более примитивные виды медицины, использующие решительность, здравый смысл и некоторые простые виды терапии. Однако, во многих районах мира, люди по-прежнему зависят от местных \"колдунов\" и знахарей в лечении своих недугов. Многие из трав (растений) и веществ, которые они используют, не хуже самых современных лекарств. На самом деле, многие современные лекарства получают из очищенных трав."
 
 #: english/data/text/english/dialog/52npc.msg:182
 msgid "The breakdown of the body's heat regulatory system (body temperature more than 40.5 degrees C, 105 degrees F) causes a heatstroke. Other heat injuries, such as cramps or dehydration, do not always precede a heatstroke. Signs and symptoms of heatstroke are: Swollen, beet-red face. Reddened whites of eyes. Victim not sweating. Unconsciousness or delirium, which can cause pallor, a bluish color to lips and nail beds (cyanosis), and cool skin."
-msgstr ""
+msgstr "Срыв регуляторных систем температуры тела (температура более 40,5 градусов Цельсия, 105 градусов Фаренгейта) вызывает тепловой удар. Другие термические травмы, такие как судороги или обезвоживание, не всегда предшествуют тепловому удару. Признаки и симптомы теплового удара: опухшее, свекольно-красное лицо. Покрасневшие белки глаз. Жертва не потеет. Бессознательность или бред, которые могут вызвать бледность, синюшный оттенок губ и ногтевого ложа (цианоз), и холодную кожу."
 
 #: english/data/text/english/dialog/52npc.msg:183
 msgid "Defined as the body's failure to maintain a temperature of 36 degrees C (97 degrees F). Exposure to cool or cold temperature over a short or long time can cause hypothermia. Dehydration and lack of food and rest predispose the survivor to hypothermia. Unlike heatstroke, you must gradually warm the hypothermia victim. Get the victim into dry clothing. Replace lost fluids, and warm him."
-msgstr ""
+msgstr "Определяется как неспособность организма поддерживать температуру 36 градусов Цельсия (97 градусов по Фаренгейту). Воздействие холода или низкой температуры в течение короткого или длительного времени может привести к гипотермии. Обезвоживание и недостаток пищи и отдыха предрасполагают выживальщика к переохлаждению. В отличие от теплового удара, необходимо постепенно согреть пострадавшего от переохлаждения. Переодеть его в сухое. Восполнить потерянную жидкость, и согреть его."
 
 #: english/data/text/english/dialog/52npc.msg:184
 msgid "You can usually avoid worm infestations and other intestinal parasites if you take preventive measures. For example, never go barefoot. The most effective way to prevent intestinal parasites is to avoid uncooked meat and raw vegetables contaminated by raw sewage or human waste used as a fertilizer. However, should you become infested and lack proper medicine, you can use home remedies. Keep in mind that these home remedies work on the principle of changing the environment of the gastrointestinal tract."
-msgstr ""
+msgstr "Обычно вы можете избежать заражения гельминтами и другими кишечными паразитами, если примете превентивные меры. Например, никогда не ходите босиком. Наиболее эффективный способ профилактики кишечных паразитов - это избегать сырого мяса и сырых овощей, загрязненных сточными водами или человеческими экскрементами в качестве удобрения. Тем не менее, если вы заразились и не имеете доступа к обычным лекарствам, вы можете использовать домашние средства. Имейте в виду, что эти средства работают по принципу изменения среды желудочно-кишечного тракта."
 
 #: english/data/text/english/dialog/52npc.msg:185
 msgid "Open wounds are serious in a survival situation, not only because of tissue damage and blood loss, but also because they may become infected. Bacteria on the object that made the wound, on the individual's skin and clothing, or on other foreign material or dirt that touches the wound may cause infection."
-msgstr ""
+msgstr "Открытые раны опасны в ситуации выживания, не только из-за повреждения тканей и потери крови, но и потому, что они могут заразиться. Бактерии на объекте, которым нанесли рану, на коже и одежде, или других посторонних материалах, а также в грязи, попавшей в рану, могут вызвать инфекцию."
 
 #: english/data/text/english/dialog/52npc.msg:186
 msgid "By taking proper care of the wound you can reduce further contamination and promote healing. Clean the wound as soon as possible after it occurs by: Removing or cutting clothing away from the wound. Always looking for an exit wound if a sharp object, gun shot, or projectile caused a wound. Thoroughly cleaning the skin around the wound. Rinsing (not scrubbing) the wound with large amounts of water under pressure. You can use fresh urine if water is not available."
-msgstr ""
+msgstr "Правильно следя за раной, можно уменьшить дальнейшее загрязнение и ускорить заживление. Очистите рану как можно скорее после нанесения, путем удаления или срезания одежды с раны. Всегда ищите выходное отверстие, если рана нанесена острым предметом, выстрелом, или другим снарядом. Тщательно очистите кожу вокруг раны. Промойте (не трите) рану большим количеством воды под давлением. Вы можете использовать свежую мочу, если вода недоступна."
 
 #: english/data/text/english/dialog/52npc.msg:187
 msgid "To treat an infected wound: Place a warm, moist compress directly on the infected wound. Change the compress when it cools, keeping a warm compress on the wound for a total of 30 minutes. Apply the compresses three or four times daily. Drain the wound. Open and gently probe the infected wound with a sterile instrument. Dress and bandage the wound. Drink a lot of water. Continue this treatment daily until all signs of infection have disappeared."
-msgstr ""
+msgstr "Чтобы вылечить зараженную рану, поставьте теплый влажный компресс прямо на нее. Меняйте компресс, когда он остынет, держите теплый компресс на ране в течение 30 минут. Ставьте компрессы три-четыре раза в день. Высушите рану. Откройте и аккуратно прозондируйте ее стерильным инструментом. Замотайте и перевяжите рану. Пейте много воды. Продолжайте это лечение ежедневно, пока все признаки инфекции не исчезнут."
 
 #: english/data/text/english/dialog/52npc.msg:188
 msgid "If you do not have antibiotics and the wound has become severely infected, does not heal, and ordinary debridement is impossible, consider maggot therapy, despite its hazards: Expose the wound to flies for one day and then cover it. Check daily for maggots. Once maggots develop, keep wound covered but check daily. Remove all maggots when they have cleaned out all dead tissue and before they start on healthy tissue. Increased pain and bright red blood in the wound indicate that the maggots have reached healthy tissue. Flush the wound repeatedly with sterile water or fresh urine to remove the maggots."
-msgstr ""
+msgstr "Если у вас нет антибиотиков, но рана сильно заражена и не заживает, а обычная хирургическая обработка невозможна, подумайте о терапии личинками, несмотря на ее опасность. Выставьте рану мухам на один день, а затем закройте ее. Ежедневно проверяте на опарышей. Когда личинки разовьются, держите рану закрытой, но ежедневно проверяйте. Удалите все личинки, когда они вычистили всю мертвую ткань, но до того, как они примутся за здоровую. Усиление боли и ярко-красная кровь в ране указывают, что личинки достигли здоровой ткани. Много раз промойте рану стерильной водой или свежей мочой, чтобы удалить личинки."
 
 #: english/data/text/english/dialog/52npc.msg:189
 msgid "Keep the skin clean and dry, and expose the infected wound area to as much sunlight as possible. Do not scratch the affected area. During the Southeast Asian conflict, soldiers used anti fungal powders, lye soap, chlorine bleach, alcohol, vinegar, concentrated salt water, and iodine to treat fungal infections with varying degrees of success. As with any \"unorthodox\" method of treatment, use it with caution."
-msgstr ""
+msgstr "Держите кожу чистой и сухой, и по возможности открывайте зараженные раны солнечному свету. Не чешите пораженную область. В конфликте в Юго-Восточной Азии солдаты использовали анти-грибковые порошки, щелочное мыло, хлорный отбеливатель, спирт, уксус, концентрированную соленую воду и йод для лечения грибковых инфекций с разной степенью успеха. Используйте любой нестандартный метод лечения с осторожностью."
 
 #: english/data/text/english/dialog/52npc.msg:190
 msgid "To treat a skin rash effectively, first determine what is causing it. This determination may be difficult even in the best of situations. Observe the following rules to treat rashes: If it is moist, keep it dry. If it is dry, keep it moist. Do not scratch it. Use a compress of vinegar or tannic acid derived from tea or from boiling acorns or the bark of a hardwood tree to dry weeping rashes. Keep dry rashes moist by rubbing a small amount of rendered animal fat or grease on the affected area."
-msgstr ""
+msgstr "Чтобы эффективно лечить сыпь на коже, сначала определите, что является ee причиной. Это может быть сложно даже в хорошей ситуации. Соблюдайте следующие правила для лечения сыпи: если она влажная, держать ее сухой. Если она сухая, держать ee влажной. Не чесать. Наложите компресс из уксуса и дубильной кислоты, которую можно получить из чая, или при кипячении желудей или коры лиственных деревьев, чтобы высушить мокрую сыпь. Увлажняйте сухую сыпь, нанося небольшое количество животного жира или масла на пораженный участок."
 
 #: english/data/text/english/dialog/52npc.msg:191
 msgid "Remember, treat rashes as open wounds and clean and dress them daily. There are many substances available to survivors in the wild or in captivity for use as antiseptics to treat wound: Iodine tablets. Use 5 to 15 tablets in a liter of water to produce a good rinse for wounds during healing. Garlic. Rub it on a wound or boil it to extract the oils and use the water to rinse the affected area. Salt water. Use 2 to 3 tablespoons per liter of water to kill bacteria. Bee honey. Use it straight or dissolved in water. Sphagnum moss. Found in boggy areas worldwide, it is a natural source of iodine. Use as a dressing."
-msgstr ""
+msgstr "Помните, относитесь к сыпи как к открытой ране - чистите и перевязывайте ее ежедневно. Выживающим в дикой природе или в неволе доступно много веществ для использования в качестве антисептиков для лечения раны: таблетки йода. Растворить от 5 до 15 таблеток в литре воды, чтобы хорошо промыть рану во время лечения. Чеснок. Втирать его в рану или сварить его, чтобы извлечь масла и использовать бульон, чтобы промыть пораженный участок. Соленая вода. Растворите 2-3 столовые ложки в литре воды, чтобы убить бактерии. Пчелиный мед. Использовать его непосредственно или растворенным в воде. Мох сфагнум. Встречается в заболоченных местах по всему миру, является натуральным источником йода. Использовать для перевязки."
 
 #: english/data/text/english/dialog/52npc.msg:192
 msgid "Trench Foot results from many hours or days of exposure to wet or damp conditions at a temperature just above freezing. The nerves and muscles sustain the main damage, but gangrene can occur. In extreme cases the flesh dies and it may become necessary to have the foot or leg amputated. The best prevention is to keep your feet dry. Carry extra socks with you in a waterproof packet. Dry wet socks against your body. Wash your feet daily and put on dry socks."
-msgstr ""
+msgstr "Траншейная стопа является результатом пребывания в мокрых или влажных условиях при температуре чуть выше нуля в течение многих часов или дней. В основном страдают нервы и мышцы, но может и развиться гангрена. В крайних случаях плоть отмирает, и может возникнуть необходимость ампутации стопы или целой ноги. Лучшая профилактика - держать ноги сухими. Носите запасные носки с собой в водонепроницаемом пакете. Сушите мокрые носки на теле. Ежедневно мойте ноги и надевайте сухие носки."
 
 #: english/data/text/english/dialog/52npc.msg:193
 msgid "Insects and related pests are hazards in a survival situation. They not only cause irritations, but they are often carriers of diseases that cause severe allergic reactions in some individuals. In many parts of the world you will be exposed to serious, even fatal, diseases not encountered in the United States."
-msgstr ""
+msgstr "Насекомые и паразиты опасны в ситуации выживания. Они не только причиняют раздражение, но и часто являются носителями заболеваний, которые вызывают серьезные аллергические реакции у некоторых людей. Во многих частях света вам грозят серьезные, даже смертельные, заболевания, не встречающиеся в США."
 
 #: english/data/text/english/dialog/52npc.msg:194
 msgid "If you get bitten or stung, do not scratch the bite or sting, it might become infected. Inspect your body at least once a day to ensure there are no insects attached to you. If you find ticks attached to your body, cover them with a substance, such as Vaseline, heavy oil, or tree sap, that will cut off their air supply. Without air, the tick releases its hold, and you can remove it."
-msgstr ""
+msgstr "Если вас укусили или ужалили, не чешите рану, вы можете занести в нее заразу. Осматривайте все тело хотя бы раз в сутки, чтобы убедиться, что на вас нет насекомых. Если вы обнаружите клеща, прицепившегося к вашему телу, намажьте его вазелином, мазутом или древесной смолой, чтобы перекрыть ему воздух. Без воздуха, клещ ослабляет хватку, и вы можете его удалить."
 
 #: english/data/text/english/dialog/52npc.msg:195
 msgid "If stung by a bee, immediately remove the stinger and venom sac, if attached, by scraping with a fingernail or a knife blade. Do not squeeze or grasp the stinger or venom sac, as squeezing will force more venom into the wound. Wash the sting site thoroughly with soap and water to lessen the chance of a secondary infection. If you know or suspect that you are allergic to insect stings, always carry an insect sting kit with you."
-msgstr ""
+msgstr "Если вас ужалила пчела, немедленно удалите жало и мешочек с ядом (если он все еще прицеплен) с помощью ногтя или лезвия ножа. Не сжимайте и не обхватывайте жало или мешочек с ядом, так как это выдавит еще больше яда в рану. Тщательно промойте место укуса водой с мылом, чтобы снизить вероятность вторичного заражения. Если вы знаете или подозреваете, что у вас аллергия на укусы насекомых, всегда имейте с собой набор для обработки укусов."
 
 #: english/data/text/english/dialog/52npc.msg:196
 msgid "Relieve the itching and discomfort caused by insect bites by applying: Cold compresses. A cooling paste of mud and ashes. Sap from dandelions. Coconut meat. Crushed cloves of garlic. Onion."
-msgstr ""
+msgstr "Чтобы облегчить зуд и дискомфорт, вызванный укусами насекомых, вы можете наложить: холодный компрес. Охлаждающую пасту из грязи и пепла. Сок одуванчиков. Кокосовую мякоть. Измельченные зубчики чеснока. Лук."
 
 #: english/data/text/english/dialog/52npc.msg:197
 msgid "Snake venoms not only contain poisons that attack the victim's central nervous system (neurotoxins) and blood circulation (hemotoxins), but also digestive enzymes (cytotoxins) to aid in digesting their prey. These poisons can cause a very large area of tissue death, leaving a large open wound. This condition could lead to the need for eventual amputation if not treated."
-msgstr ""
+msgstr "Змеиные укусы содержат не только яды, которые атакуют центральную нервную систему жертвы (нейротоксины) и кровообращение (гемотоксины), но и пищеварительные ферменты (цитотоксины), для облегчения переваривания своей добычи. Эти яды могут повредить ткань на очень большой площади, оставляя после себя большие открытые раны. Без лечения, в конечном итоге это может привести к ампутации."
 
 #: english/data/text/english/dialog/52npc.msg:198
 msgid "Before you start treating a snakebite, determine whether the snake was poisonous or nonpoisonous. Bites from a nonpoisonous snake will show rows of teeth. Bites from a poisonous snake may have rows of teeth showing, but will have one or more distinctive puncture marks caused by fang penetration. Symptoms of a poisonous bite may be spontaneous bleeding from the nose and anus, blood in the urine, pain at the site of the bite, and swelling at the site of the bite within a few minutes or up to 2 hours later."
-msgstr ""
+msgstr "Прежде чем вы начнете лечить укус змеи, определите, является ли змея ядовитой или неядовитой. Укусы неядовитых змей будут выглядить как ряды зубов. Укусы ядовитых змей тоже могут иметь ряды, но вместе с ними и более характерные отметины, вызванные проникновением клыков. Признаками ядовитого укуса могут быть спонтанные кровотечения из носа и ануса, кровь в моче, боль в месте укуса, и отек в месте укуса, развивающийся от нескольких минут до двух часов после него."
 
 #: english/data/text/english/dialog/52npc.msg:199
 msgid ""
 "If you determine that a poisonous snake bit an individual, take the following steps: Reassure the victim and keep him still. Set up for shock and force fluids or give an intravenous (IV). Remove watches, rings, bracelets, or other constricting items. Clean the bite area. Maintain an airway (especially if bitten near the face or neck) and be prepared to administer mouth to mouth resuscitation or CPR. Use a constricting band between the wound and the heart. Immobilize the site. \n"
 "Remove the poison as soon as possible by using a mechanical suction device or by squeezing."
 msgstr ""
+"Если вы определили, что ядовитая змея укусила человека, примите следующие меры: успокойте пострадавшего и не давайте ему двигаться. Будьте готовы, что у него будет шок или придется ставить капельницу. Снимите часы, кольца, браслеты и другие стягивающие предметы. Очистите место укуса. Поддерживайте проходимость дыхательных путей (особенно в случае укуса лица или шеи), и будьте готовы сделать дыхание \"рот в рот\" и массаж сердца. Наложите стягивающий жгут между раной и сердцем. Обездвижьте место укуса.\n"
+"Удалите яд как можно скорее с помощью механического устройства всасывания или выдавливания."
 
 #: english/data/text/english/dialog/52npc.msg:200
 msgid "If the water you find is muddy, stagnant, and foul smelling, you can clear the water: By placing it in a container and letting it stand for 12 hours. By pouring it through a filtering system. To make a filtering system, place several centimeters or layers of filtering material such as sand, crushed rock, charcoal, or cloth in bamboo, a hollow log, or an article of clothing."
-msgstr ""
+msgstr "Если вода, которую вам удалось найти, мутная, застоявшаяся и вонючая, вы можете очистить ее, поместив ее в контейнер и оставив на 12 часов. Либо пропустив ее через систему фильтрации. Чтобы сделать систему фильтрации, уложите несколько сантиметров или слоев фильтрующих материалов, таких как песок, щебень, уголь, полые деревяшки, или куски ткани."
 
 #: english/data/text/english/dialog/52npc.msg:201
 msgid "You can, with relatively few exceptions, eat anything that crawls, swims, walks, or flies. The first obstacle is overcoming your natural aversion to a particular food source. Historically, people in starvation situations have resorted to eating everything imaginable for nourishment. A person who ignores an otherwise healthy food source due to a personal bias, or because he feels it is unappetizing, is risking his own survival. Although it may prove difficult at first, a survivor must eat what is available to maintain his health."
-msgstr ""
+msgstr "Вы можете, с некоторыми исключениями, есть все, что ползает, плавает, ходит или летает. Первое препятствие - преодолеть естественное отвращение к определенному источнику питания. Исторически, голодающие люди начинают употреблять в еду все что только можно. Человек, который игнорирует здоровый источник пищи из-за личной предвзятости, или потому, что он думает, будто это невкусно, рискует своим собственным выживанием. Хотя поначалу это может оказаться тяжело, выживальщик должен есть то, что ему доступно, чтобы сохранить свое здоровье."
 
 #: english/data/text/english/dialog/52npc.msg:202
 msgid "The most abundant life-form on earth, insects are easily caught. Insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source"
-msgstr ""
+msgstr "Самуб распространенную форму жизни на земле, насекомых, легко поймать. Насекомые обеспечивают от 65% до 80% белка, тогда как говядина - только 20%. Этот факт делает насекомых важным, хотя и не слишком аппетитным, источником пищи."
 
 #: english/data/text/english/dialog/53npc.msg:20
 #: english/data/text/english/dialog/55npc.msg:20
 #: english/data/text/english/dialog/59npc.msg:20
 msgid "Just some dirty folk which you seen many around.."
-msgstr ""
+msgstr "Просто какие-то грязные людишки, каких вы уже много видали."
 
 #: english/data/text/english/dialog/53npc.msg:100
 msgid "Ouh.. yes yes.. "
-msgstr ""
+msgstr "Ау... да да."
 
 #: english/data/text/english/dialog/53npc.msg:101
 msgid "You have nice dress.. "
-msgstr ""
+msgstr "У тебя красивое платье."
 
 #: english/data/text/english/dialog/53npc.msg:102
 msgid "Look what i made with hairs.. "
-msgstr ""
+msgstr "Смотри чего я сделала с волосами."
 
 #: english/data/text/english/dialog/53npc.msg:103
 msgid "I need it!"
-msgstr ""
+msgstr "Мне это нужно!"
 
 #: english/data/text/english/dialog/53npc.msg:104
 msgid "We must made big orgy again.."
-msgstr ""
+msgstr "Нужно снова устроить большую оргию."
 
 #: english/data/text/english/dialog/54npc.msg:10
 msgid "Dirty kid. "
-msgstr ""
+msgstr "Грязный ребенок. "
 
 #: english/data/text/english/dialog/54npc.msg:20
 msgid "He wear rags and have dirty face.."
-msgstr ""
+msgstr "Он носит лохмотья и у него грязное лицо."
 
 #: english/data/text/english/dialog/54npc.msg:100
 #: english/data/text/english/dialog/54npc.msg:102
 #: english/data/text/english/dialog/54npc.msg:103
 #: english/data/text/english/dialog/54npc.msg:104
 msgid "I hope kids have 50% discount.. "
-msgstr ""
+msgstr "Надеюсь, детям скидка 50%."
 
 #: english/data/text/english/dialog/54npc.msg:101
 msgid "I hope kids have 50% discount.."
-msgstr ""
+msgstr "Надеюсь, детям скидка 50%."
 
 #: english/data/text/english/dialog/55npc.msg:100
 msgid "Come on! "
-msgstr ""
+msgstr "Давай!"
 
 #: english/data/text/english/dialog/55npc.msg:101
 msgid "Faster!"
-msgstr ""
+msgstr "Быстрее!"
 
 #: english/data/text/english/dialog/55npc.msg:102
 msgid "I need it NOW! "
-msgstr ""
+msgstr "Мне надо СЕЙЧАС!"
 
 #: english/data/text/english/dialog/55npc.msg:103
 msgid "Hurry! "
-msgstr ""
+msgstr "Скорей!"
 
 #: english/data/text/english/dialog/55npc.msg:104
 msgid "Damn! "
-msgstr ""
+msgstr "Черт!"
 
 #: english/data/text/english/dialog/56npc.msg:10
 msgid "Addicted. "
-msgstr ""
+msgstr "Наркоман."
 
 #: english/data/text/english/dialog/56npc.msg:20
 msgid "Some folk in great need without money.."
-msgstr ""
+msgstr "Какой-то человек, сильно нуждающийся в деньгах."
 
 #: english/data/text/english/dialog/56npc.msg:100
 msgid "No its not rocks, its money! "
-msgstr ""
+msgstr "Нет, это не камни, это деньги!"
 
 #: english/data/text/english/dialog/56npc.msg:101
 msgid "Dont do it to me! Am your best customer!"
-msgstr ""
+msgstr "Не поступай так со мной! Я твой лучший клиент!"
 
 #: english/data/text/english/dialog/56npc.msg:102
 msgid "Please give me just little! "
-msgstr ""
+msgstr "Ну хоть немножко дай!"
 
 #: english/data/text/english/dialog/56npc.msg:103
 msgid "I will be your slave! Give me one shoot! "
-msgstr ""
+msgstr "Я буду твоим рабом! Дай одну дозу! "
 
 #: english/data/text/english/dialog/56npc.msg:104
 msgid "Fuck you all! Fuck! Aaarrgghh!! "
-msgstr ""
+msgstr "Пошли вы все! Блядь! Аааааааа!"
 
 #: english/data/text/english/dialog/57npc.msg:101
 msgid "Am BATMAN! And i have very cool car!  "
-msgstr ""
+msgstr "Я БЭТМЕН! И у меня крутая тачка!"
 
 #: english/data/text/english/dialog/57npc.msg:102
 msgid "Am Superman strongh like horse!  "
-msgstr ""
+msgstr "Я Супермен! Я силен как лошадь!"
 
 #: english/data/text/english/dialog/57npc.msg:103
 msgid "Argggh! Am SUPER mutant! "
-msgstr ""
+msgstr "Ааааа! Я СУПЕР мутант!"
 
 #: english/data/text/english/dialog/57npc.msg:104
 msgid "Am Bond.. JAMES Bond! "
-msgstr ""
+msgstr "Я Бонд! ДЖЕЙМС Бонд!"
 
 #: english/data/text/english/dialog/57npc.msg:105
 msgid "Hahahah! Am Spiderman! "
-msgstr ""
+msgstr "Хахаха! Я Спайдермен!"
 
 #: english/data/text/english/dialog/57npc.msg:106
 msgid "Am Turtle Ninja! Master of karate! "
-msgstr ""
+msgstr "Я черепашка-ниндзя! Мастер карате!"
 
 #: english/data/text/english/dialog/57npc.msg:107
 msgid "Am Chuck Norris! I will kick your face! "
-msgstr ""
+msgstr "Я Чак Норрис! Я ударю тебя ногой в лицо!"
 
 #: english/data/text/english/dialog/57npc.msg:108
 msgid "Arrgghh Am HULK! "
-msgstr ""
+msgstr "Аааааа я ХАЛК!"
 
 #: english/data/text/english/dialog/57npc.msg:109
 msgid "Am Richard Wintage from TV! "
-msgstr ""
+msgstr "Я Ричард Винтаж из телевизора!"
 
 #: english/data/text/english/dialog/57npc.msg:110
 msgid "Am Harrison! Master of modifications! "
-msgstr ""
+msgstr "Я Гаррисон! Мастер модификаций! "
 
 #: english/data/text/english/dialog/57npc.msg:111
 msgid "Am magapornstar yeah!  "
-msgstr ""
+msgstr "Я мегапорнозвезда, даа!"
 
 #: english/data/text/english/dialog/57npc.msg:112
 msgid "Who are me!? Am Unvisible!  "
-msgstr ""
+msgstr "Кто я!? Я Невидимка! "
 
 #: english/data/text/english/dialog/57npc.msg:113
 msgid "Am Pipboy3000 and i have HEROIC charisma! "
-msgstr ""
+msgstr "Я Пипбой3000 и у меня ГЕРОИЧЕСКАЯ харизма!"
 
 #: english/data/text/english/dialog/57npc.msg:114
 msgid "Am MISTER FLY! Hahahah! "
-msgstr ""
+msgstr "Я МИСТЕР МУХА! Хахаха!"
 
 #: english/data/text/english/dialog/57npc.msg:115
 msgid "Am forum administrator! "
-msgstr ""
+msgstr "Я администратор форума! "
 
 #: english/data/text/english/dialog/57npc.msg:116
 msgid "Am Gorgeous Nurse yeesss.."
-msgstr ""
+msgstr "Я Великолепная Медсестра, даааа..."
 
 #: english/data/text/english/dialog/57npc.msg:117
 msgid "Am Hobbit! And i have RING! "
-msgstr ""
+msgstr "Я Хоббит! И у меня есть КОЛЬЦО!"
 
 #: english/data/text/english/dialog/57npc.msg:118
 msgid "Hahahhh! am RICH!  "
-msgstr ""
+msgstr "Хаха! Я БОГАТ!"
 
 #: english/data/text/english/dialog/57npc.msg:119
 msgid "GOLD! I can turn rocks to gold! "
-msgstr ""
+msgstr "Золото! Я могу превращать камни в золото!"
 
 #: english/data/text/english/dialog/57npc.msg:120
 msgid "Am VIC supertrader!  "
-msgstr ""
+msgstr "Я ВИК суперторговец!"
 
 #: english/data/text/english/dialog/57npc.msg:121
 msgid "Hahah! I dont known who am i ..but not ME!  "
-msgstr ""
+msgstr "Хаха! Я не знаю кто я ...но не Я! "
 
 #: english/data/text/english/dialog/57npc.msg:122
 msgid "Am Veeery BIG tree!  "
-msgstr ""
+msgstr "Я ооочень БОЛЬШОЕ дерево! "
 
 #: english/data/text/english/dialog/57npc.msg:123
 msgid "Am dog shit! SOMETHING WRONG!  "
-msgstr ""
+msgstr "Я собачье дерьмо! ЧТО-ТО НЕ ТАК! "
 
 #: english/data/text/english/dialog/57npc.msg:124
 msgid "Am brahmin shit! Whats wrong!  "
-msgstr ""
+msgstr "Я браминье дерьмо! Да что такое!"
 
 #: english/data/text/english/dialog/57npc.msg:125
 msgid "Am dirty RAT! What the fuck! "
-msgstr ""
+msgstr "Я грязная КРЫСА! Какого хрена!"
 
 #: english/data/text/english/dialog/57npc.msg:126
 msgid "Am president! And i have A-Bomb! "
-msgstr ""
+msgstr "Я президент! И у меня есть атомная бомба!"
 
 #: english/data/text/english/dialog/57npc.msg:127
 msgid "Am tricky kid and am VERY quick! "
-msgstr ""
+msgstr "Я хитрый парень, и очень шустрый!"
 
 #: english/data/text/english/dialog/57npc.msg:128
 msgid "Please HELP me i lost my head! "
-msgstr ""
+msgstr "Пожалуйста, ПОМОГИТЕ мне, я потерял голову!"
 
 #: english/data/text/english/dialog/57npc.msg:129
 msgid "Am SNAKE i escaped from New York!  "
-msgstr ""
+msgstr "Я ЗМЕЯ, я сбежал из Нью-Йорка!"
 
 #: english/data/text/english/dialog/57npc.msg:130
 msgid "WHY AM SO TIRED!? "
-msgstr ""
+msgstr "ПОЧЕМУ Я ТАК УСТАЛ!?"
 
 #: english/data/text/english/dialog/58npc.msg:10
 msgid "Punk. "
-msgstr ""
+msgstr "Панк."
 
 #: english/data/text/english/dialog/58npc.msg:20
 msgid "Pretty woman in black leather and green short hairs.."
-msgstr ""
+msgstr "Красивая женщина с короткими зелеными волосами, одетая в черную кожу."
 
 #: english/data/text/english/dialog/58npc.msg:100
 msgid "[She say quickly] I have \"Hero Jets\" only 20$"
-msgstr ""
+msgstr "[Она говорит быстро] У меня есть \"Геройский Джет\", всего по 20 баксов."
 
 #: english/data/text/english/dialog/58npc.msg:200
 msgid "How it works?"
-msgstr ""
+msgstr "Как это работает?"
 
 #: english/data/text/english/dialog/58npc.msg:250
 msgid "This mixture will help you to feel like hero. So what? Are you interested to buy it or not!? Make your decision faster i have many customers! Am inventioner and producer. Just 20$ come on!"
-msgstr ""
+msgstr "Это зелье поможет тебе почувствовать себя героем. Так что? Будешь покупать или нет!? Думай быстрее, у меня много клиентов! Я изобретатель и производитель. Давай, всего 20 баксов!"
 
 #: english/data/text/english/dialog/58npc.msg:300
 msgid "Uh.. ok let me try your Jet, here is money."
-msgstr ""
+msgstr "Эээ... ну давай попробуем твой Джет, вот деньги."
 
 #: english/data/text/english/dialog/58npc.msg:350
 msgid "Thanx. Take only one breath each day, its very strong!"
-msgstr ""
+msgstr "Спасибо. Пыхай только раз в день, оно очень сильное!"
 
 #: english/data/text/english/dialog/58npc.msg:400
 msgid "Next please!"
-msgstr ""
+msgstr "Следующий, прошу!"
 
 #: english/data/text/english/dialog/58npc.msg:401
 msgid "Hero Jets!"
-msgstr ""
+msgstr "Джет для героев!"
 
 #: english/data/text/english/dialog/58npc.msg:402
 msgid "Only 20$"
-msgstr ""
+msgstr "Всего 20 баксов"
 
 #: english/data/text/english/dialog/58npc.msg:403
 msgid "Fuck off with these rocks!"
-msgstr ""
+msgstr "Отвали со своими камнями!"
 
 #: english/data/text/english/dialog/58npc.msg:404
 msgid "NEXT!"
-msgstr ""
+msgstr "СЛЕДУЮЩИЙ!"
 
 #: english/data/text/english/dialog/59npc.msg:100
 msgid "Helo.. [He look around to be sure that nobody hear him and say] ..are you interested to earn some cash?"
-msgstr ""
+msgstr "Привет... [он оглядывается вокруг, чтобы убедиться, что никто его не слышит и продолжает] ...хочешь подзаработать?"
 
 #: english/data/text/english/dialog/59npc.msg:200
 msgid "Sure, tell me about your problem."
-msgstr ""
+msgstr "Конечно, рассказывай в чем у тебя дело."
 
 #: english/data/text/english/dialog/59npc.msg:250
 msgid "Am trying to fix my car, but damn i spend on this vehicle few months and its still not work! Its just impossible to fix it using only junk and rusty parts which can be found on streets. I want you to steal some parts from Smith. He is owner of junkyard over there! [he point finger in random direction] Bring me anything which look like engine."
-msgstr ""
+msgstr "Я пытаюсь починить свою машину, но блин, я уже несколько месяцев потратил на эту колымагу, но она до сих пор не работает! Ее просто невозможно отремонтировать, используя только старье и ржавые детали, которые можно найти на улицах. Я хочу, чтобы ты спер некоторые детали у Смита. Это владелец вон той свалки! [указывает пальцем в случайном направлении] принеси мне что угодно, что выглядит как двигатель."
 
 #: english/data/text/english/dialog/59npc.msg:300
 msgid "I found something in his workshop! He was so busy that dont seen when i take it. Easy job, now where is my money?"
-msgstr ""
+msgstr "Я нашел кое-что в его мастерской! Он был так занят, что не увидел, как я это взял. Легкая работенка. Ну а теперь, где мои деньги?"
 
 #: english/data/text/english/dialog/59npc.msg:350
 msgid "What? I should do it myself.. uh ok here is your cash. Bye!"
-msgstr ""
+msgstr "Что? Я должен сделать это сам... Ну, ок, вот твои деньги. Пока!"
 
 #: english/data/text/english/dialog/59npc.msg:400
 msgid "I will drive highwaymen someday!"
-msgstr ""
+msgstr "Когда-нибудь я буду гонять на Хайвеймене!"
 
 #: english/data/text/english/dialog/59npc.msg:401
 msgid "Every chicks will jump into my car!"
-msgstr ""
+msgstr "Любая цыпочка будет рада запрыгнуть в мою тачку!"
 
 #: english/data/text/english/dialog/59npc.msg:402
 msgid "::HISS!::"
-msgstr ""
+msgstr "::ШШШ!::"
 
 #: english/data/text/english/dialog/59npc.msg:403
 msgid "::SCREW!::"
-msgstr ""
+msgstr "::ЗАВИНЧИВАНИЕ!::"
 
 #: english/data/text/english/dialog/59npc.msg:404
 msgid "::BANG!::"
-msgstr ""
+msgstr "::УДАР!::"
 
 #: english/data/text/english/dialog/60npc.msg:10
 msgid "Den News. "
-msgstr ""
+msgstr "Новости Дыры"
 
 #: english/data/text/english/dialog/60npc.msg:20
 msgid "Many dirty pages attached to piece of wood.."
-msgstr ""
+msgstr "Множество грязных страниц, прикрепленных к куску дерева..."
 
 #: english/data/text/english/dialog/60npc.msg:100
 msgid "=== DEN = NEWS === "
-msgstr ""
+msgstr "=== НОВОСТИ = ДЫРЫ === "
 
 #: english/data/text/english/dialog/60npc.msg:200
 msgid "\"Hero Jet\" ONLY 20$ !!! "
-msgstr ""
+msgstr "\"Геройский Джет\" ВСЕГО ПО 20 баксов!!!"
 
 #: english/data/text/english/dialog/60npc.msg:250
 msgid "AMAZING Few days ago i invented powerfull drug which help to feel like REAL hero! JUST 20$ come to my house i have them lot in my stock. You can be Batman, Spierman or even Chuck Norris! AMAZING"
-msgstr ""
+msgstr "ПОТРЯСАЮЩЕ! Несколько дней назад я изобрел мощный препарат, который поможет тебе почувствовать себя НАСТОЯЩИМ героем! ВСЕГО ЛИШЬ 20 баксов, приходи ко мне домой, у меня его много в запасе. Ты можешь стать Бэтмэном, Человеком Пауком или даже Чаком Норрисом! ПОТРЯСАЮЩЕ!"
 
 #: english/data/text/english/dialog/60npc.msg:300
 msgid "I found UFO near Navarro!"
-msgstr ""
+msgstr "Я нашел НЛО рядом с Наварро!"
 
 #: english/data/text/english/dialog/60npc.msg:350
 msgid "I seen many unidentified obiects over Navarro base and i found few from them crased on desert. Pay me 3000$ and i will sell you that wonderfull vehicle! I have them THREE on my junkyard!"
-msgstr ""
+msgstr "Я видел много неопознанных объектов на базе Наварро, я также нашел несколько из них, потерпевших крушение в пустыне. Заплати мне $3000 и я продам тебе этот чудной аппарат! У меня на свалке их ТРИ штуки лежит!"
 
 #: english/data/text/english/dialog/60npc.msg:400
 msgid "JOIN TO ARMY TODAY "
-msgstr ""
+msgstr "ВСТУПАЙ В АРМИЮ СЕГОДНЯ"
 
 #: english/data/text/english/dialog/60npc.msg:450
 msgid "We search new recruits to Brotherhood of Steel army. Visit our bunker in Den and talk with sir Marcus from Blood Raven squad. Earn richness and fame during battles against mutants! "
-msgstr ""
+msgstr "Мы ищем новых рекрутов для армии Братства Стали. Посетите наш бункер в Дыре и поговорите с сэром Маркусом из отряда Кровавого Ворона. Заработайте богатство и славу в боях против мутантов!"
 
 #: english/data/text/english/dialog/61npc.msg:10
 msgid "sir Marcus. "
-msgstr ""
+msgstr "сэр Маркус."
 
 #: english/data/text/english/dialog/61npc.msg:20
 msgid "Leader of Bloor Reaven squad."
-msgstr ""
+msgstr "Лидер отряда Кровавого Ворона."
 
 #: english/data/text/english/dialog/61npc.msg:100
 msgid "If you wish to join Brotherhood of Steel army you must pass trough few basic tests in next room. Our weapons are very dangerous and we fear fools who panic during battle. Go to next room and talk with our psychiatry."
-msgstr ""
+msgstr "Если вы хотите присоединиться к армии Братства Стали, вы должны пройти несколько базовых тестов в соседней комнате. Наше оружие очень опасное, и мы остерегаемся дураков, которые могут запаниковать во время боя. Идите в следующую комнату и поговорите с нашим психиатром."
 
 #: english/data/text/english/dialog/61npc.msg:200
 msgid "Uh.. and any other chances to join BoS?"
-msgstr ""
+msgstr "Уф... А какие-нибудь другие возможности присоединиться к Братству?"
 
 #: english/data/text/english/dialog/61npc.msg:250
 msgid "Yes it is other possibility. We search plans of Scout Disc known as UFO. Our best scients and engineers dont known how they work. We have many reports about secret base near Navarro where they fly, so try your luck there. "
-msgstr ""
+msgstr "Да, есть и другие возможности. Мы ищем планы Разведывательного Диска, также известного как НЛО. Наши лучшие ученые и инженеры не понимают, как эти штуки работают. Нам приходит много сообщений, что они летают у секретной базы в Наварро. Можешь попытать счастья там."
 
 #: english/data/text/english/dialog/61npc.msg:300
 #: english/data/text/english/dialog/65npc.msg:300
 #: english/data/text/english/dialog/quest.msg:300
 msgid "i found"
-msgstr ""
+msgstr "Я нашел"
 
 #: english/data/text/english/dialog/61npc.msg:350
 #: english/data/text/english/dialog/quest.msg:350
 msgid "thanx"
-msgstr ""
+msgstr "спасибо"
 
 #: english/data/text/english/dialog/61npc.msg:400
 #: english/data/text/english/dialog/65npc.msg:400
 #: english/data/text/english/dialog/quest.msg:400
 msgid "r1"
-msgstr ""
+msgstr "р1"
 
 #: english/data/text/english/dialog/61npc.msg:401
 #: english/data/text/english/dialog/65npc.msg:401
 #: english/data/text/english/dialog/quest.msg:401
 msgid "r2"
-msgstr ""
+msgstr "р2"
 
 #: english/data/text/english/dialog/61npc.msg:402
 #: english/data/text/english/dialog/65npc.msg:402
 #: english/data/text/english/dialog/quest.msg:402
 msgid "r3"
-msgstr ""
+msgstr "р3"
 
 #: english/data/text/english/dialog/61npc.msg:403
 #: english/data/text/english/dialog/65npc.msg:403
 #: english/data/text/english/dialog/quest.msg:403
 msgid "r4"
-msgstr ""
+msgstr "р4"
 
 #: english/data/text/english/dialog/61npc.msg:404
 #: english/data/text/english/dialog/65npc.msg:404
 #: english/data/text/english/dialog/quest.msg:404
 msgid "r5"
-msgstr ""
+msgstr "р5"
 
 #: english/data/text/english/dialog/62npc.msg:10
 msgid "Psychiatry. "
-msgstr ""
+msgstr "Психиатрия."
 
 #: english/data/text/english/dialog/62npc.msg:20
 msgid "He look very clever.."
-msgstr ""
+msgstr "Он выглядит очень умным..."
 
 #: english/data/text/english/dialog/62npc.msg:100
 msgid "Lets begin tests. Situation first: someone want help, what you do? Situation second: you can fill backpack only by four items, what it is? Situation third: you found very powerfull drug, what you do?"
-msgstr ""
+msgstr "Давайте начнем тесты. Ситуация первая: кому-то нужна помощь, что вы будете делать? Ситуация вторая: вы можете заполнить рюкзак только четырьмя вещами, что это будет? Ситуация третья: вы нашли очень мощный препарат, что вы будете делать?"
 
 #: english/data/text/english/dialog/62npc.msg:200
 msgid "1. Am tell him \"sorry am busy\" "
