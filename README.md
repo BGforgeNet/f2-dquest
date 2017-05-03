@@ -1,4 +1,4 @@
-## Fallout 2: Dangerous quest! (13V) mod translation
+## Fallout 2: Dangerous quest! mod translation
 
 <a href="https://tra.bgforge.net/projects/fallout-2-dangerous-quest/main/">
 <img  src="https://tra.bgforge.net/widgets/fallout-2-dangerous-quest/-/svg-badge.svg" alt="Translation status" />
