@@ -213,7 +213,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: msg2po v.1.0.0\n"
+"X-Generator: msg2po v.2.0.0\n"
 
 #: english/data/text/english/dialog/01npc.msg:10
 msgid "Guard."
