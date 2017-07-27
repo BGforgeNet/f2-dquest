@@ -12,3 +12,4 @@
 [Dangerous Quest!](http://www.nuclear-city.com/index.php/topic/738-dangerous-quest/) is a parody mod for Fallout 2 by [Lich](http://www.nma-fallout.com/members/lich.48382/).
 
 This is a Russian translation effort for the mod, coordinated on [BGforge](https://tra.bgforge.net/projects/fallout-2-dangerous-quest/main/ru/).
+
