@@ -10,7 +10,7 @@
 [__Help translating__](https://tra.bgforge.net/projects/fallout/dangerous-quest/)
  | [__Download__](https://github.com/BGforgeNet/f2-dquest/releases)
  | [__Support__](https://github.com/BGforgeNet/f2-dquest/issues)
- | [__Discussion__](https://forum.bgforge.net/viewtopic.php?f=5&t=9)
+ | [__Discussion__](https://forums.bgforge.net/viewtopic.php?f=5&t=9)
 
 [Dangerous Quest!](http://www.nuclear-city.com/index.php/topic/738-dangerous-quest/) is a parody mod for Fallout 2 by [Lich](http://www.nma-fallout.com/members/lich.48382/).
 
