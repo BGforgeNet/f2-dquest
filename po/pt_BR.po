@@ -4,52 +4,60 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-11 14:12+0000\n"
+"Last-Translator: Felipe <felipefplzx@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/fallout/"
+"dangerous-quest/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: data/text/english/dialog/01npc.msg:10
 msgid "Guard."
-msgstr ""
+msgstr "Guardar."
 
 #: data/text/english/dialog/01npc.msg:20 data/text/english/dialog/02npc.msg:20
 msgid "They everyone tribals look the same.."
-msgstr ""
+msgstr "Eles todos tribais parecem os mesmos..."
 
 #: data/text/english/dialog/01npc.msg:100
 msgid ""
 "Hey! You! Dirty man! What you doing here?! This village is top secret and "
 "nobody from outside world cant enter our holy land! "
 msgstr ""
+"Ei! Você! Homem sujo! O que você está fazendo aqui?! Esta vila é altamente "
+"secreta e ninguém do mundo exterior pode entrar na nossa terra sagrada!"
 
 #: data/text/english/dialog/01npc.msg:200
 msgid "Am just traveller from Klamath."
-msgstr ""
+msgstr "Eu sou apenas um viajante de Klamath."
 
 #: data/text/english/dialog/01npc.msg:250
 msgid ""
 "Get out of here! Peoples like you come here only to steal everything and "
 "make troubles. Thats why we dont like tourists!  "
 msgstr ""
+"Saia daqui! Pessoas como você vem aqui só pra roubar tudo e criar problemas. "
+"É por isso que nós não gostamos de turistas!"
 
 #: data/text/english/dialog/01npc.msg:300
 msgid "Do you have flask of beer? "
-msgstr ""
+msgstr "Você tem frasco de cerveja?"
 
 #: data/text/english/dialog/01npc.msg:350
 msgid ""
 "What is beee? I never heard about such thing.. Maybe our crazy shaman will "
 "have one, he got many strange mixtures and potions."
 msgstr ""
+"O que é cerve? Eu nunca ouvi sobre tal coisa... Talvez nosso xamâ louco terá "
+"uma, ele tem muitas misturas e poções estranhas."
 
 #: data/text/english/dialog/01npc.msg:400
 msgid "I search something to drink.. And what you do?"
-msgstr ""
+msgstr "Eu procuro algo pra beber... E o que você faz?"
 
 #: data/text/english/dialog/01npc.msg:450
 msgid ""
@@ -57,6 +65,9 @@ msgid ""
 "Already nobody returned from there. We need brave champion to made dangerous"
 " quest which will save us in these dark times."
 msgstr ""
+"Nossa bruxa põe outro aldeão no templo das provações e eu devo observá-lo. "
+"Ninguém já retornou de lá. Nós precisamos de bravo campeão pra fazer missão "
+"perigosa a qual nos salvará nestes tempos sombrios."
 
 #: data/text/english/dialog/01npc.msg:910
 #: data/text/english/dialog/02npc.msg:910
@@ -102,7 +113,7 @@ msgstr ""
 #: data/text/english/dialog/quest.msg:910
 #: data/text/english/dialog/talk.msg:910
 msgid "END "
-msgstr ""
+msgstr "FIM "
 
 #: data/text/english/dialog/01npc.msg:920
 #: data/text/english/dialog/02npc.msg:920
@@ -149,19 +160,19 @@ msgstr ""
 #: data/text/english/dialog/quest.msg:920
 #: data/text/english/dialog/talk.msg:920
 msgid "BACK "
-msgstr ""
+msgstr "VOLTAR "
 
 #: data/text/english/dialog/02npc.msg:10 data/text/english/dialog/30npc.msg:10
 msgid "Chosen One. "
-msgstr ""
+msgstr "Escolhido."
 
 #: data/text/english/dialog/02npc.msg:100
 msgid "Damn! I will die there.. i known that! "
-msgstr ""
+msgstr "Maldição! Eu morrerei aqui... Eu sei disso!"
 
 #: data/text/english/dialog/02npc.msg:200
 msgid "Hi man! Whats up?"
-msgstr ""
+msgstr "Oi cara! O que é que há?"
 
 #: data/text/english/dialog/02npc.msg:250
 msgid ""
@@ -183,15 +194,15 @@ msgstr ""
 #: data/text/english/dialog/51npc.msg:400
 #: data/text/english/dialog/65npc.msg:201
 msgid "Do you have beer?"
-msgstr ""
+msgstr "Você tem cerveja?"
 
 #: data/text/english/dialog/02npc.msg:350
 msgid "[He look into temple darkness and ignore your question]"
-msgstr ""
+msgstr "[Ele olha pra escuridão do templo e ignra sua pergunta]"
 
 #: data/text/english/dialog/02npc.msg:400
 msgid "Am so thirsty! Maybe i will find some beer it this.. tample?"
-msgstr ""
+msgstr "Estou tão sedento! Talvez eu acharei alguma cerveja neste... tamplo?"
 
 #: data/text/english/dialog/02npc.msg:450
 msgid ""
@@ -199,34 +210,37 @@ msgid ""
 "alone! I must made first little step into darkness.. but i fear to move my "
 "leg."
 msgstr ""
+"Oh sim... templo contém muitos tesouros do mundo antigo. Agora me deixe em "
+"paz! Eu devo ter feito primeiro pequeno passo na escuridão... Mas eu temo "
+"mover minha perna."
 
 #: data/text/english/dialog/03npc.msg:10
 msgid "Some beast. "
-msgstr ""
+msgstr "Alguma fera."
 
 #: data/text/english/dialog/03npc.msg:20
 msgid "He dont look agressive.."
-msgstr ""
+msgstr "Ele não parece agressivo..."
 
 #: data/text/english/dialog/03npc.msg:100
 msgid "HEP! "
-msgstr ""
+msgstr "AJUD!"
 
 #: data/text/english/dialog/03npc.msg:101
 msgid "Uh.. no humans anymore! ..HEEP! "
-msgstr ""
+msgstr "Uh... Não há mais humanos! ...AJUUD!"
 
 #: data/text/english/dialog/03npc.msg:102
 msgid "I want to eat something different.. some fruit! "
-msgstr ""
+msgstr "Eu quero comer algo diferente... Alguma fruta!"
 
 #: data/text/english/dialog/03npc.msg:103
 msgid "Oh no another human! Get out of my sight, you tasty bad! "
-msgstr ""
+msgstr "Oh não, outro humano! Saia da minha vista, você tem gosto ruim! "
 
 #: data/text/english/dialog/03npc.msg:104
 msgid "Heeegoodbyeeeep!"
-msgstr ""
+msgstr "Heeeeadeeeeuuuusssss!"
 
 #: data/text/english/dialog/04npc.msg:10 data/text/english/dialog/05npc.msg:10
 #: data/text/english/dialog/06npc.msg:10 data/text/english/dialog/07npc.msg:10
@@ -235,7 +249,7 @@ msgstr ""
 #: data/text/english/dialog/17npc.msg:10 data/text/english/dialog/float.msg:10
 #: data/text/english/dialog/quest.msg:10 data/text/english/dialog/talk.msg:10
 msgid "Villager. "
-msgstr ""
+msgstr "Aldeão. "
 
 #: data/text/english/dialog/04npc.msg:20 data/text/english/dialog/05npc.msg:20
 #: data/text/english/dialog/06npc.msg:20 data/text/english/dialog/07npc.msg:20
@@ -246,15 +260,15 @@ msgstr ""
 #: data/text/english/dialog/float.msg:20 data/text/english/dialog/quest.msg:20
 #: data/text/english/dialog/talk.msg:20
 msgid "They everyone look the same.."
-msgstr ""
+msgstr "Eles todos parecem os mesmos..."
 
 #: data/text/english/dialog/04npc.msg:100
 msgid "Helo stranger.. do you hear that strange voice from well??"
-msgstr ""
+msgstr "Oi estranho.. Você ouve essa voz estranha do poço?"
 
 #: data/text/english/dialog/04npc.msg:200
 msgid "Yeah.. it sound like dog scream."
-msgstr ""
+msgstr "Sim... soa como grito de cachorro."
 
 #: data/text/english/dialog/04npc.msg:250
 msgid ""
@@ -265,7 +279,7 @@ msgstr ""
 
 #: data/text/english/dialog/04npc.msg:300
 msgid "Look! I found one."
-msgstr ""
+msgstr "Olha! Eu achei um."
 
 #: data/text/english/dialog/04npc.msg:350
 msgid ""
@@ -277,23 +291,23 @@ msgstr ""
 
 #: data/text/english/dialog/04npc.msg:400
 msgid "We are now bless by earth!"
-msgstr ""
+msgstr "Nós somos agora abençoados pela terra!"
 
 #: data/text/english/dialog/04npc.msg:401
 msgid "So many flies around magic well!"
-msgstr ""
+msgstr "Tantas moscas ao redor do poço mágico!"
 
 #: data/text/english/dialog/04npc.msg:402
 msgid "Blessed silence."
-msgstr ""
+msgstr "Silêncio abençoado."
 
 #: data/text/english/dialog/04npc.msg:403
 msgid "Uh.. what is that smell?"
-msgstr ""
+msgstr "Uh... O que é esse cheiro?"
 
 #: data/text/english/dialog/04npc.msg:404
 msgid "Thank you my friend!"
-msgstr ""
+msgstr "Obrigado meu amigo!"
 
 #: data/text/english/dialog/05npc.msg:100
 msgid ""
@@ -303,21 +317,23 @@ msgstr ""
 
 #: data/text/english/dialog/05npc.msg:200
 msgid "I dont like to solve riddles."
-msgstr ""
+msgstr "Eu não gosto de resolver enigmas."
 
 #: data/text/english/dialog/05npc.msg:250
 msgid ""
 "Uh yes.. you dont look very clever. Nevermind, i will just wait here until "
 "he return. Probably he run around village and hunt for rats."
 msgstr ""
+"Uh sim... Você não parece muito esperto. Deixa pra lá, eu apenas esperarei "
+"aqui até ele retornar. Provavelmente ele correr pela vila e caçar ratos."
 
 #: data/text/english/dialog/05npc.msg:350
 msgid "[He look around searching dog and ignore your question]"
-msgstr ""
+msgstr "[Ele olha ao redor procurando cachorro e ignora sua pergunta]"
 
 #: data/text/english/dialog/05npc.msg:400
 msgid "Tell me about this village."
-msgstr ""
+msgstr "Me fale sobre esta vila."
 
 #: data/text/english/dialog/05npc.msg:450
 msgid ""
@@ -339,6 +355,8 @@ msgid ""
 "Uh.. you are this guard which i seen near temple entrance? Sorry your "
 "everyone tribals look the same to me."
 msgstr ""
+"Uh... Você é este guarda o qual eu vi perto da entrada do templo? Lamento, "
+"vocês todos tribais parecem os mesmos pra mim."
 
 #: data/text/english/dialog/06npc.msg:250
 msgid ""
@@ -349,17 +367,20 @@ msgstr ""
 
 #: data/text/english/dialog/06npc.msg:300
 msgid "And whats happend with that guy who fear to enter?"
-msgstr ""
+msgstr "E o que acontece com o cara que teme entrar?"
 
 #: data/text/english/dialog/06npc.msg:350
 msgid ""
 "He escaped trough forest outside village, the same way which you come here. "
 "I hope he will never return because i dont like losers!"
 msgstr ""
+"Ele escapou através da floresta no lado de fora da vila, do mesmo jeito pelo "
+"qual você chegou aqui. Eu espero que ele nunca retorne porque eu não gosto "
+"de perdedores!"
 
 #: data/text/english/dialog/06npc.msg:400
 msgid "Yes am hero! Now give me beer!"
-msgstr ""
+msgstr "Sim sou herói! Agora me dê cerveja!"
 
 #: data/text/english/dialog/06npc.msg:450
 msgid ""
@@ -370,11 +391,11 @@ msgstr ""
 
 #: data/text/english/dialog/07npc.msg:100
 msgid "Am so tired.. Hey dirty man! Can you help me?!"
-msgstr ""
+msgstr "Estou tão cansado... Ei homem sujo! Você pode me ajudar?"
 
 #: data/text/english/dialog/07npc.msg:200
 msgid "Uh am not sure.. what you need?"
-msgstr ""
+msgstr "Uh, não tenho certeza... O que você precisa?"
 
 #: data/text/english/dialog/07npc.msg:250
 msgid ""
@@ -385,7 +406,7 @@ msgstr ""
 
 #: data/text/english/dialog/07npc.msg:300
 msgid "I found clean shovel!"
-msgstr ""
+msgstr "Eu achei pá limpa!"
 
 #: data/text/english/dialog/07npc.msg:350
 msgid ""
@@ -396,31 +417,31 @@ msgstr ""
 
 #: data/text/english/dialog/07npc.msg:400
 msgid "Am so tired.."
-msgstr ""
+msgstr "Estou tão cansado..."
 
 #: data/text/english/dialog/07npc.msg:401
 msgid "I smell like brahmin.."
-msgstr ""
+msgstr "Eu cheiro mal igual brahmin..."
 
 #: data/text/english/dialog/07npc.msg:402
 msgid "Damn i have heavy shoes.."
-msgstr ""
+msgstr "Maldição! Eu tenho sapatos pesados..."
 
 #: data/text/english/dialog/07npc.msg:403
 msgid "Another wonderfull day.."
-msgstr ""
+msgstr "Outro dia maravilhoso..."
 
 #: data/text/english/dialog/07npc.msg:404
 msgid "Leave me alone, am busy.."
-msgstr ""
+msgstr "Me deixe em paz, estou ocupado..."
 
 #: data/text/english/dialog/08npc.msg:10
 msgid "Shaman. "
-msgstr ""
+msgstr "Xamã."
 
 #: data/text/english/dialog/08npc.msg:20
 msgid "He look really crazy.."
-msgstr ""
+msgstr "Ele parece realmente louco..."
 
 #: data/text/english/dialog/08npc.msg:100
 msgid "Hahahah.. look at these shapes and colours!!"
