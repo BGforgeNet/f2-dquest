@@ -4,52 +4,60 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-25 14:12+0000\n"
+"Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
+"Language-Team: German <https://tra.bgforge.net/projects/fallout/"
+"dangerous-quest/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: data/text/english/dialog/01npc.msg:10
 msgid "Guard."
-msgstr ""
+msgstr "Bewachen."
 
 #: data/text/english/dialog/01npc.msg:20 data/text/english/dialog/02npc.msg:20
 msgid "They everyone tribals look the same.."
-msgstr ""
+msgstr "Sie, alle Stammesangehörigen, sehen gleich aus .."
 
 #: data/text/english/dialog/01npc.msg:100
 msgid ""
 "Hey! You! Dirty man! What you doing here?! This village is top secret and "
 "nobody from outside world cant enter our holy land! "
 msgstr ""
+"Hey! Du! Dreckiger Mann! Was machst du hier? Dieses Dorf ist streng geheim "
+"und niemand von außerhalb darf unser heiliges Land betreten!"
 
 #: data/text/english/dialog/01npc.msg:200
 msgid "Am just traveller from Klamath."
-msgstr ""
+msgstr "Ich bin nur ein Reisender aus Klamath."
 
 #: data/text/english/dialog/01npc.msg:250
 msgid ""
 "Get out of here! Peoples like you come here only to steal everything and "
 "make troubles. Thats why we dont like tourists!  "
 msgstr ""
+"Verschwinde hier! Leute wie du kommen hierher, nur um alles zu stehlen und "
+"Probleme zu machen. Deshalb mögen wir keine Touristen!"
 
 #: data/text/english/dialog/01npc.msg:300
 msgid "Do you have flask of beer? "
-msgstr ""
+msgstr "Hast du eine Flasche Bier?"
 
 #: data/text/english/dialog/01npc.msg:350
 msgid ""
 "What is beee? I never heard about such thing.. Maybe our crazy shaman will "
 "have one, he got many strange mixtures and potions."
 msgstr ""
+"Was ist Bieee? Ich habe noch nie davon gehört.. Vielleicht hat unser "
+"verrückter Schamane eine, er hat viele seltsame Mischungen und Tränke."
 
 #: data/text/english/dialog/01npc.msg:400
 msgid "I search something to drink.. And what you do?"
-msgstr ""
+msgstr "Ich suche etwas zu trinken... Was hast du?"
 
 #: data/text/english/dialog/01npc.msg:450
 msgid ""
@@ -57,6 +65,10 @@ msgid ""
 "Already nobody returned from there. We need brave champion to made dangerous"
 " quest which will save us in these dark times."
 msgstr ""
+"Unsere Hexe hat einen anderen Dorfbewohner in den Temple of Trails geschickt "
+"und ich muss ihn beobachten. Bisher ist noch niemand von dort zurückgekehrt. "
+"Wir brauchen einen mutigen Krieger, der eine gefährliche Aufgabe erfüllt und "
+"uns in diesen dunklen Tagen retten wird."
 
 #: data/text/english/dialog/01npc.msg:910
 #: data/text/english/dialog/02npc.msg:910
@@ -102,7 +114,7 @@ msgstr ""
 #: data/text/english/dialog/quest.msg:910
 #: data/text/english/dialog/talk.msg:910
 msgid "END "
-msgstr ""
+msgstr "Ende"
 
 #: data/text/english/dialog/01npc.msg:920
 #: data/text/english/dialog/02npc.msg:920
@@ -149,19 +161,19 @@ msgstr ""
 #: data/text/english/dialog/quest.msg:920
 #: data/text/english/dialog/talk.msg:920
 msgid "BACK "
-msgstr ""
+msgstr "Zurück"
 
 #: data/text/english/dialog/02npc.msg:10 data/text/english/dialog/30npc.msg:10
 msgid "Chosen One. "
-msgstr ""
+msgstr "Auserwähltes Wesen."
 
 #: data/text/english/dialog/02npc.msg:100
 msgid "Damn! I will die there.. i known that! "
-msgstr ""
+msgstr "Verdammt! Ich werde dort sterben...ich weiß es!"
 
 #: data/text/english/dialog/02npc.msg:200
 msgid "Hi man! Whats up?"
-msgstr ""
+msgstr "Hallo Mann! Was ist los?"
 
 #: data/text/english/dialog/02npc.msg:250
 msgid ""
@@ -169,6 +181,10 @@ msgid ""
 "can you hear this scream from darkness? Everyone died there. She must be "
 "really stupid to kill our brothers and sisters in this dumb test!"
 msgstr ""
+"Hexe mich auserwählt für Test im Tempel. Ich Angst zu betreten, weil niemand "
+"zurückkommen...kannst du hören Schrei aus Dunkelheit? Jeder gestorben dort. "
+"Sie muss sehr dumm sein, zu töten unsere Brüder und Schwestern in dummen "
+"Test!"
 
 #: data/text/english/dialog/02npc.msg:300
 #: data/text/english/dialog/05npc.msg:300
@@ -183,15 +199,16 @@ msgstr ""
 #: data/text/english/dialog/51npc.msg:400
 #: data/text/english/dialog/65npc.msg:201
 msgid "Do you have beer?"
-msgstr ""
+msgstr "Habt ihr Bier?"
 
 #: data/text/english/dialog/02npc.msg:350
 msgid "[He look into temple darkness and ignore your question]"
-msgstr ""
+msgstr "[Er sieht in Dunkelheit des Tempels und ignoriert deine Frage]"
 
 #: data/text/english/dialog/02npc.msg:400
 msgid "Am so thirsty! Maybe i will find some beer it this.. tample?"
 msgstr ""
+"Isch bin so durstisch! Vielleischt finde isch was in diesen...hick, Tämpel?"
 
 #: data/text/english/dialog/02npc.msg:450
 msgid ""
@@ -199,34 +216,37 @@ msgid ""
 "alone! I must made first little step into darkness.. but i fear to move my "
 "leg."
 msgstr ""
+"Oh ja... Tempel hat viel Schätze aus vergangener Welt. Jetzt mich in Ruhe "
+"lassen! Muss kleinen ersten Schritt in Dunkelheit machen...aber ich Angst "
+"haben mein Bein zu bewegen."
 
 #: data/text/english/dialog/03npc.msg:10
 msgid "Some beast. "
-msgstr ""
+msgstr "Ein Ungetüm."
 
 #: data/text/english/dialog/03npc.msg:20
 msgid "He dont look agressive.."
-msgstr ""
+msgstr "Er sieht nicht aggressive aus..."
 
 #: data/text/english/dialog/03npc.msg:100
 msgid "HEP! "
-msgstr ""
+msgstr "Hilf!"
 
 #: data/text/english/dialog/03npc.msg:101
 msgid "Uh.. no humans anymore! ..HEEP! "
-msgstr ""
+msgstr "Oh...keine Menschen mehr!...Helf!"
 
 #: data/text/english/dialog/03npc.msg:102
 msgid "I want to eat something different.. some fruit! "
-msgstr ""
+msgstr "Ich möchte etwas anderes essen...einige Früchte!"
 
 #: data/text/english/dialog/03npc.msg:103
 msgid "Oh no another human! Get out of my sight, you tasty bad! "
-msgstr ""
+msgstr "Oh nein, nicht noch ein Mensch! Verschwinde, ihr schmeckt furchtbar!"
 
 #: data/text/english/dialog/03npc.msg:104
 msgid "Heeegoodbyeeeep!"
-msgstr ""
+msgstr "Aufffffwiiiieeeddddeeeseeehh!"
 
 #: data/text/english/dialog/04npc.msg:10 data/text/english/dialog/05npc.msg:10
 #: data/text/english/dialog/06npc.msg:10 data/text/english/dialog/07npc.msg:10
@@ -235,7 +255,7 @@ msgstr ""
 #: data/text/english/dialog/17npc.msg:10 data/text/english/dialog/float.msg:10
 #: data/text/english/dialog/quest.msg:10 data/text/english/dialog/talk.msg:10
 msgid "Villager. "
-msgstr ""
+msgstr "Dorfbewohner."
 
 #: data/text/english/dialog/04npc.msg:20 data/text/english/dialog/05npc.msg:20
 #: data/text/english/dialog/06npc.msg:20 data/text/english/dialog/07npc.msg:20
@@ -246,15 +266,15 @@ msgstr ""
 #: data/text/english/dialog/float.msg:20 data/text/english/dialog/quest.msg:20
 #: data/text/english/dialog/talk.msg:20
 msgid "They everyone look the same.."
-msgstr ""
+msgstr "Sie alle sehen gleich aus..."
 
 #: data/text/english/dialog/04npc.msg:100
 msgid "Helo stranger.. do you hear that strange voice from well??"
-msgstr ""
+msgstr "Hallo Fremder...hast komische Stimme von Quelle gehört?"
 
 #: data/text/english/dialog/04npc.msg:200
 msgid "Yeah.. it sound like dog scream."
-msgstr ""
+msgstr "Ja, es klang wie ein Schrei von einem Hund."
 
 #: data/text/english/dialog/04npc.msg:250
 msgid ""
@@ -262,10 +282,13 @@ msgid ""
 " he need sacrifice made from earth element. Go on corn filed and bring me "
 "some big stone.."
 msgstr ""
+"Nein, muss was anderes sein. Muss alter Geist der Erde sein...und braucht "
+"Opfer aus Erdelement gemacht. Geh Getreidefeld und bringen mir ein paar "
+"große Steine..."
 
 #: data/text/english/dialog/04npc.msg:300
 msgid "Look! I found one."
-msgstr ""
+msgstr "Schau! Ich habe einen gefunden."
 
 #: data/text/english/dialog/04npc.msg:350
 msgid ""
@@ -274,50 +297,59 @@ msgid ""
 "ghost of earth is happy and dont scream anymore. Here is your revard, "
 "wonderfull flower which grown near well."
 msgstr ""
+"Opfer hier für Göttter von Erde! [Der Dorfbewohner wirft diesen Stein in den "
+"Brunnen und nach einem kurzem Schrei herrscht Totenstille.] Freund danke, "
+"jetzt Geist sein glücklich und nicht mehr schreien. Hier nehmen Belohnung, "
+"wunderschön Blume wachsen neben Quelle."
 
 #: data/text/english/dialog/04npc.msg:400
 msgid "We are now bless by earth!"
-msgstr ""
+msgstr "Wir jetzt geseegnet sein von Erde!"
 
 #: data/text/english/dialog/04npc.msg:401
 msgid "So many flies around magic well!"
-msgstr ""
+msgstr "So viele Fliegen um magischer Quelle!"
 
 #: data/text/english/dialog/04npc.msg:402
 msgid "Blessed silence."
-msgstr ""
+msgstr "Gesegnete Stille."
 
 #: data/text/english/dialog/04npc.msg:403
 msgid "Uh.. what is that smell?"
-msgstr ""
+msgstr "Igit, was ist das für ein Gestank?"
 
 #: data/text/english/dialog/04npc.msg:404
 msgid "Thank you my friend!"
-msgstr ""
+msgstr "Danke, mein Freund!"
 
 #: data/text/english/dialog/05npc.msg:100
 msgid ""
 "I lost my dog. Uh.. and i fear that someone eat him! Outsider, can you "
 "investigate where go my dirty animal? His name was \"Klint\"."
 msgstr ""
+"Verloren meinen Hund. Äh...Angst haben, jemand ihn essen. Außenweltler, du "
+"rausfinden können, wo mein dreckiges Tier gegangen ist? Seine name \"Klint\" "
+"war."
 
 #: data/text/english/dialog/05npc.msg:200
 msgid "I dont like to solve riddles."
-msgstr ""
+msgstr "Ich mag es nicht, Rätsel zu lösen."
 
 #: data/text/english/dialog/05npc.msg:250
 msgid ""
 "Uh yes.. you dont look very clever. Nevermind, i will just wait here until "
 "he return. Probably he run around village and hunt for rats."
 msgstr ""
+"Ah ja, du nicht klug sehen aus. Schlimm nicht, werden hier bis kommen er "
+"zurück. Er wahrscheinlich rennen um Dorf, jagen Ratten."
 
 #: data/text/english/dialog/05npc.msg:350
 msgid "[He look around searching dog and ignore your question]"
-msgstr ""
+msgstr "[Er sieht umher, um den Hund zu suchen und ignoriert deine Frage]"
 
 #: data/text/english/dialog/05npc.msg:400
 msgid "Tell me about this village."
-msgstr ""
+msgstr "Er zähl mir ewtas von diesem Dorf."
 
 #: data/text/english/dialog/05npc.msg:450
 msgid ""
@@ -326,6 +358,11 @@ msgid ""
 "But one day come to us trader Vic with his amazing stuff. Holy ghosts "
 "abandon us and many peoples get sick. "
 msgstr ""
+"Wir in Frieden weit entfernt von Zivilisation wohnen. Ältesten sagen, "
+"Technik nur bringen Schmerz und Zerstörung, so wir glauben nur in "
+"traditionelle Magie von Schamanen. Aber eines Tages kommen Händler Vic mit "
+"sein tollen Zeug. Heilige Geister uns dann verlassen und viel Leute werden "
+"krank."
 
 #: data/text/english/dialog/06npc.msg:100
 msgid ""
@@ -333,12 +370,17 @@ msgid ""
 "our champion!. Go and talk with elder, she have something very important to "
 "tell you."
 msgstr ""
+"Nicht ich glauben können! Du geschafft haben durch Tempel, niemand schaffen "
+"zuvor. Du seinen unser Champion jetzt! Geh und sprechen mit Ältesten, sie "
+"dir sagen müssen wichtige Dinge."
 
 #: data/text/english/dialog/06npc.msg:200
 msgid ""
 "Uh.. you are this guard which i seen near temple entrance? Sorry your "
 "everyone tribals look the same to me."
 msgstr ""
+"Oh...bist du die Wache, die ich in der Nähe des Tempels gesehen habe? "
+"Entschuldige, ihr Stammesangehörige seht für mich alle gleich aus."
 
 #: data/text/english/dialog/06npc.msg:250
 msgid ""
@@ -346,20 +388,26 @@ msgid ""
 "call his dog my fame name. Hopefully i fixed that problem yesterday and i "
 "feel better now. "
 msgstr ""
+"Ja, ich bin wache und großer Krieger \"Klint\". Ich übrigens hassen Bastard "
+"der nennen seinen Hund nach meinem berühmten Namen nennt. Ich hoffen, dass "
+"ich gestern es gelöst habe und ich fühlen besser jetzt."
 
 #: data/text/english/dialog/06npc.msg:300
 msgid "And whats happend with that guy who fear to enter?"
 msgstr ""
+"Und was ist mit dem Kerl passiert, der Angst hatte den Tempel zu betreten?"
 
 #: data/text/english/dialog/06npc.msg:350
 msgid ""
 "He escaped trough forest outside village, the same way which you come here. "
 "I hope he will never return because i dont like losers!"
 msgstr ""
+"Er entkommen ist durch Wald außerhalb des Dorfes, selbe durch den du "
+"gekommen hier. Hoffen er nicht kommen wieder, ich nämlich mögen Verlierer!"
 
 #: data/text/english/dialog/06npc.msg:400
 msgid "Yes am hero! Now give me beer!"
-msgstr ""
+msgstr "Ja, ICH bin ein Held! Jetzt gib mir endlich BIER!"
 
 #: data/text/english/dialog/06npc.msg:450
 msgid ""
@@ -367,14 +415,17 @@ msgid ""
 "about holy artefacts. And she deal with trader Vis which bring us many "
 "strange stuff from outside world."
 msgstr ""
+"Entschuldigen, nicht wissen ich, was sein das...Reden mit Ältesten, sie "
+"wissen viel über heilige Artefakte. Und sie handeln mit Händler Vic, er uns "
+"bringen viel seltsames Zeug von der Außenwelt."
 
 #: data/text/english/dialog/07npc.msg:100
 msgid "Am so tired.. Hey dirty man! Can you help me?!"
-msgstr ""
+msgstr "Ich bin so müde...Hey schmutziger Mann! Kannst du mir helfen?"
 
 #: data/text/english/dialog/07npc.msg:200
 msgid "Uh am not sure.. what you need?"
-msgstr ""
+msgstr "Oh, nicht sicher sein...was brauchen?"
 
 #: data/text/english/dialog/07npc.msg:250
 msgid ""
@@ -382,10 +433,14 @@ msgid ""
 "new, clean one. It shold lay somewhere near tents over there! [She point "
 "finger in random direction and sit on ground trying to clean shoes]"
 msgstr ""
+"Schamane möchte liefern mehr Scheiße, aber meine Schaufel sein zu schwer. "
+"Bringen mir neue, saubere. Sie sollte liegen nahe der Zelte dadrüben! [Sie "
+"zeigt mit dem Finger in eine zufällige Richtung und sitzt auf dem Boden und "
+"versucht Schuhe zu putzen]"
 
 #: data/text/english/dialog/07npc.msg:300
 msgid "I found clean shovel!"
-msgstr ""
+msgstr "Ich habe die saubere Schaufel gefunden!"
 
 #: data/text/english/dialog/07npc.msg:350
 msgid ""
@@ -393,42 +448,45 @@ msgid ""
 "shining items which Vic gived me for one kiss. I heard that many things can "
 "be buy for such thing called.. \"money\"."
 msgstr ""
+"Tanke schön Mann...ich werden die Arbeit später beenden, weil bin zu müde. "
+"Nehmen glänzende Dinge, die Vic geben mir für einen Kuss. Ich hören, man "
+"viele Dinge kann kaufen für Sache genannt...\"Geld\"."
 
 #: data/text/english/dialog/07npc.msg:400
 msgid "Am so tired.."
-msgstr ""
+msgstr "Ich bin so müde..."
 
 #: data/text/english/dialog/07npc.msg:401
 msgid "I smell like brahmin.."
-msgstr ""
+msgstr "Ich rieche nach Brahmin..."
 
 #: data/text/english/dialog/07npc.msg:402
 msgid "Damn i have heavy shoes.."
-msgstr ""
+msgstr "Verdammt, meine Schuhe sind schwer..."
 
 #: data/text/english/dialog/07npc.msg:403
 msgid "Another wonderfull day.."
-msgstr ""
+msgstr "Ein weiterer wundervoller Tag ..."
 
 #: data/text/english/dialog/07npc.msg:404
 msgid "Leave me alone, am busy.."
-msgstr ""
+msgstr "Lass mich in Ruhe, ich bin beschäftig..."
 
 #: data/text/english/dialog/08npc.msg:10
 msgid "Shaman. "
-msgstr ""
+msgstr "Schamane."
 
 #: data/text/english/dialog/08npc.msg:20
 msgid "He look really crazy.."
-msgstr ""
+msgstr "Er sieht wirklich verrückt aus..."
 
 #: data/text/english/dialog/08npc.msg:100
 msgid "Hahahah.. look at these shapes and colours!!"
-msgstr ""
+msgstr "Hahahah...schaut euch die Formen und Farben an!!"
 
 #: data/text/english/dialog/08npc.msg:200
 msgid "Uh.. what you talking about?"
-msgstr ""
+msgstr "Hä...von was sprichst du?"
 
 #: data/text/english/dialog/08npc.msg:250
 msgid ""
@@ -437,189 +495,197 @@ msgid ""
 " much flowers. Bring me one and i will help you to see hidden side of "
 "amazing world!"
 msgstr ""
+"Hahahah...entschuldige, ich vergessen, du nicht siehst, was ich sehen kann! "
+"Ich erfunden wunderbare Mixtur. Herstellen aus Brahminscheiß und Broc Blume. "
+"Da nicht haben genug Blumen, bringen mir eine und ich helfen zu sehen dir, "
+"versteckte Seite von unglaublichen Welt."
 
 #: data/text/english/dialog/08npc.msg:300
 msgid "I got flower, can you made this mixture for me?"
-msgstr ""
+msgstr "Ich habe die Blume, kannst du jetzt die Mixtur für mich herstellen?"
 
 #: data/text/english/dialog/08npc.msg:350
 msgid ""
 "Oh yeah! [He take flower from you and piece of shit from barrel. After half "
 "hour he gived you wonderfull mixture.]"
 msgstr ""
+"Oh, jaaa! [Er nimmt die Blume von dir und ein Stück Kacke vom Fass, eine "
+"Halbestunde später gibt er dir die wunderbare Mischung.]"
 
 #: data/text/english/dialog/08npc.msg:400
 msgid "Help me! Snake bird attack my shoe!"
-msgstr ""
+msgstr "Helft mir! Ein Schlangenvogel greift meinen Schuh an."
 
 #: data/text/english/dialog/08npc.msg:401
 msgid "Why these rocks escaping from me?!"
-msgstr ""
+msgstr "Warum flüchtet dieser Fels vor mir?!"
 
 #: data/text/english/dialog/08npc.msg:402
 msgid "Wow i have third hand!!"
-msgstr ""
+msgstr "Wow, ich hab ne dritte Hand!!"
 
 #: data/text/english/dialog/08npc.msg:403
 msgid "What is that?! I cant catch it!!"
-msgstr ""
+msgstr "Was ist das?! Ich kann es nicht fangen!!!"
 
 #: data/text/english/dialog/08npc.msg:404
 msgid "Fire! My house is under fire!!"
-msgstr ""
+msgstr "Feuer! Mein Haus brennt!!"
 
 #: data/text/english/dialog/09npc.msg:100
 #: data/text/english/dialog/57npc.msg:100
 msgid "You have wonderfull vision but you feel sick. "
-msgstr ""
+msgstr "Du hast eine wunderbare Vision, aber du fühlst dich krank."
 
 #: data/text/english/dialog/09npc.msg:101
 msgid "Am mister fly! And am quick like wind!  "
-msgstr ""
+msgstr "Ich bin Herr Fliege! Und ich bin schnell wie der Wind!"
 
 #: data/text/english/dialog/09npc.msg:102
 msgid "Where is my shoes? Police! Someone steal my shoes!!  "
-msgstr ""
+msgstr "Wo sind meine Schuhe? Polizei! Jemand hat meine Schuhe geklaut!!"
 
 #: data/text/english/dialog/09npc.msg:103
 msgid "Wow.. my head is so BIG!  "
-msgstr ""
+msgstr "Stark...mein Kpf ist so GROß!"
 
 #: data/text/english/dialog/09npc.msg:104
 msgid "I found gold! hahah! ..no its stone. "
-msgstr ""
+msgstr "Ich habe Gold gefunden!...nee, ist nur ein Stein."
 
 #: data/text/english/dialog/09npc.msg:105
 msgid "Look at this rainbow!! "
-msgstr ""
+msgstr "Schaut euch den Regenbogen an!!"
 
 #: data/text/english/dialog/09npc.msg:106
 msgid "I cant move my leg! Argh!! Help me! "
-msgstr ""
+msgstr "Ich kann mein Bein nicht bewegen! Argh!! Helft mir!"
 
 #: data/text/english/dialog/09npc.msg:107
 msgid "Whats wrong with my fingers? I have them too much.. "
-msgstr ""
+msgstr "Was ist den mit meinen Fingern? Ich habe sie zu viel..."
 
 #: data/text/english/dialog/09npc.msg:108
 msgid "Am unvisible! "
-msgstr ""
+msgstr "Ich bin unsichtbar!"
 
 #: data/text/english/dialog/09npc.msg:109
 msgid "Am faster than bullet! Wow i move so fast! "
-msgstr ""
+msgstr "Ich bin schneller als eine Kugel! Wow, ich beweg mich so schnell!"
 
 #: data/text/english/dialog/09npc.msg:110
 msgid "Where is my schlager?! Uh.. i got it in hand.. "
-msgstr ""
+msgstr "Wo ist mein Becher?! Oh...ich habe ihn in der Hand..."
 
 #: data/text/english/dialog/09npc.msg:111
 msgid "What is that on sky? ..its UFO!?  "
-msgstr ""
+msgstr "Was ist das am Himmerl?...ist das ein UFO!?"
 
 #: data/text/english/dialog/09npc.msg:112
 msgid "Arrgh! Snake rat eat my shoes!  "
-msgstr ""
+msgstr "Ah! Schlangenratten haben meine Schuhe gefressen!"
 
 #: data/text/english/dialog/09npc.msg:113
 msgid "Am so big! I could crush you by my finger! "
-msgstr ""
+msgstr "Ich bin so groß! Ich könnte dich mit meinem Finger zerquetschen!"
 
 #: data/text/english/dialog/09npc.msg:114
 msgid "Why my pants are suddenly so wet?! "
-msgstr ""
+msgstr "Warum ist meine Hose plötzlich so nass?!"
 
 #: data/text/english/dialog/09npc.msg:115
 msgid "Hey! You! Birdhead! Come on! "
-msgstr ""
+msgstr "Hey! Du! Vogelkopf! Komm schon!"
 
 #: data/text/english/dialog/09npc.msg:116
 msgid "I think i could jump over house.. "
-msgstr ""
+msgstr "Ich glaube ich kann über das Haus springen..."
 
 #: data/text/english/dialog/09npc.msg:117
 msgid "Am rabbit.. I want to climb on tree! "
-msgstr ""
+msgstr "Ich bin ein Hase...Ich will auf den Baum klettern!"
 
 #: data/text/english/dialog/09npc.msg:118
 msgid "Mouse?! I have mouse in pocket!  "
-msgstr ""
+msgstr "Maus? Ich habe eine Maus in der Tasche!"
 
 #: data/text/english/dialog/09npc.msg:119
 msgid "Why these rocks watch at me?! "
-msgstr ""
+msgstr "Warum beobachten diese Felsen mich?!"
 
 #: data/text/english/dialog/09npc.msg:120
 msgid "I lost my hat!! Uh.. do i have hat before?  "
-msgstr ""
+msgstr "Ich habe meinen Hut verloren!! Oh, hatte ich überhaupt einen Hut?"
 
 #: data/text/english/dialog/09npc.msg:121
 msgid "Where is my hairs?! Uh.. i got them in pocket!  "
-msgstr ""
+msgstr "Wo sind meine Haare? Uhi...Ich habe sie in der Tasche!"
 
 #: data/text/english/dialog/09npc.msg:122
 msgid "Damn! My Schlager is empty!  "
-msgstr ""
+msgstr "Verdammt! Mein Becher ist leer!"
 
 #: data/text/english/dialog/09npc.msg:123
 msgid "Everything so slowly.. Hey you! Come on!  "
-msgstr ""
+msgstr "Alles ist so langsam...hey du! Komm schon!"
 
 #: data/text/english/dialog/09npc.msg:124
 msgid "Yeah i like that music!!!  "
-msgstr ""
+msgstr "Yeah, ich mag diese Musik!!!"
 
 #: data/text/english/dialog/09npc.msg:125
 msgid "What you want from me?! Fuck off damn rat! "
-msgstr ""
+msgstr "Was willst du von mir?! Verpiss dich du verdammte Ratte!"
 
 #: data/text/english/dialog/09npc.msg:126
 msgid "What these flies want from me?! "
-msgstr ""
+msgstr "Was wollen diese Fliegen von mir?!"
 
 #: data/text/english/dialog/09npc.msg:127
 msgid "What this dog say?! "
-msgstr ""
+msgstr "Was sagt dieser Hund?!"
 
 #: data/text/english/dialog/09npc.msg:128
 msgid "WoW! My hand is so long!! "
-msgstr ""
+msgstr "Wow, meine Hand ist so laaaaannnng!!"
 
 #: data/text/english/dialog/09npc.msg:129
 msgid "Why am so green?! Oh no am supermutant!!  "
-msgstr ""
+msgstr "Warum bin so grün? Oh nein, ich bin ein Supermutant!!"
 
 #: data/text/english/dialog/09npc.msg:130
 msgid "Police! Rabbit steal my fingers!! "
-msgstr ""
+msgstr "Polizei! Hasen haben meine Finger gestohlen!!"
 
 #: data/text/english/dialog/10npc.msg:100
 msgid "Uh i feel sick! "
-msgstr ""
+msgstr "Oh, ich fühle mich krank!"
 
 #: data/text/english/dialog/10npc.msg:101
 msgid "I drink too much shaman mixtures.. "
-msgstr ""
+msgstr "Ich habe wohl zu viel von der Schamanenmischung getrunken..."
 
 #: data/text/english/dialog/10npc.msg:102
 msgid "My head.. its that big as i feel it?! "
-msgstr ""
+msgstr "Mein Kopf...ist er so groß, wie er sich anfühlt?!"
 
 #: data/text/english/dialog/10npc.msg:103
 msgid "What these flies want from me?"
-msgstr ""
+msgstr "Was wollen diese Fliegen von mir?"
 
 #: data/text/english/dialog/10npc.msg:104
 msgid "Uh the pain.. I need rest!"
-msgstr ""
+msgstr "Oh, dieser Schmerz, ich brauch ne Pause!"
 
 #: data/text/english/dialog/11npc.msg:100
 msgid "Finally! After many years i finished this.. monument!"
 msgstr ""
+"Endlich! Nach vielen Jahren habe ich endlich dieses...Monument "
+"fertiggestellt!"
 
 #: data/text/english/dialog/11npc.msg:200
 msgid "How you made it?"
-msgstr ""
+msgstr "Wie hast du das gemacht?"
 
 #: data/text/english/dialog/11npc.msg:250
 msgid ""
@@ -1104,7 +1170,7 @@ msgstr ""
 
 #: data/text/english/dialog/22npc.msg:402
 msgid "Leave me alone!"
-msgstr ""
+msgstr "Lass mich in Ruhe!"
 
 #: data/text/english/dialog/22npc.msg:403
 msgid "Yeah i have lighter!"
@@ -1769,7 +1835,7 @@ msgstr ""
 
 #: data/text/english/dialog/27npc.msg:400
 msgid "What is your name?"
-msgstr ""
+msgstr "Wie heißt du?"
 
 #: data/text/english/dialog/27npc.msg:450
 msgid ""
@@ -1877,7 +1943,7 @@ msgstr ""
 
 #: data/text/english/dialog/30npc.msg:200
 msgid "What are you doing here?"
-msgstr ""
+msgstr "Was machst du hier?"
 
 #: data/text/english/dialog/30npc.msg:250
 msgid ""
@@ -2276,7 +2342,7 @@ msgstr ""
 #: data/text/english/dialog/38npc.msg:622
 #: data/text/english/dialog/38npc.msg:623
 msgid " "
-msgstr ""
+msgstr "."
 
 #: data/text/english/dialog/34npc.msg:700
 #: data/text/english/dialog/37npc.msg:700
@@ -2545,7 +2611,7 @@ msgstr ""
 #: data/text/english/dialog/42npc.msg:200
 #: data/text/english/dialog/45npc.msg:300
 msgid "What you do?"
-msgstr ""
+msgstr "Was du machen?"
 
 #: data/text/english/dialog/42npc.msg:250
 msgid ""
