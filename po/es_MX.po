@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-08-12 12:40+0000\n"
+"PO-Revision-Date: 2021-08-13 12:40+0000\n"
 "Last-Translator: Ernesto Raygoza <raygoza_09@hotmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/es_MX/>\n"
@@ -356,6 +356,11 @@ msgid ""
 "But one day come to us trader Vic with his amazing stuff. Holy ghosts "
 "abandon us and many peoples get sick. "
 msgstr ""
+"Vivimos en paz lejos de la civilización. Los ancianos dicen que la técnica "
+"solo trae dolor y devastación, por lo que debemos creer solo en la magia "
+"tradicional de los chamanes. Pero un día vino un comerciante llamado Vic, "
+"con sus increíbles cosas. Los fantasmas santos nos abandonan y muchos "
+"pueblos se enferman."
 
 #: data/text/english/dialog/06npc.msg:100
 msgid ""
@@ -363,12 +368,17 @@ msgid ""
 "our champion!. Go and talk with elder, she have something very important to "
 "tell you."
 msgstr ""
+"¡No lo puedo creer! Has superado la prueba, ¡Nadie lo había hecho! ¡Ahora "
+"eres nuestro campeón!. Ve y habla con la anciana, ella tiene algo muy "
+"importante que decirte."
 
 #: data/text/english/dialog/06npc.msg:200
 msgid ""
 "Uh.. you are this guard which i seen near temple entrance? Sorry your "
 "everyone tribals look the same to me."
 msgstr ""
+"Uh… ¿Eres el guardia de la entrada del templo? Siento que todos los tribales "
+"son iguales."
 
 #: data/text/english/dialog/06npc.msg:250
 msgid ""
@@ -376,20 +386,25 @@ msgid ""
 "call his dog my fame name. Hopefully i fixed that problem yesterday and i "
 "feel better now. "
 msgstr ""
+"Sí, soy el guardia y un gran guerrero, \"Klint\". Por cierto, odio a este "
+"bastardo que llamó a su perro con mi nombre. Ojalá pueda solucionar el "
+"problema de ayer para ahora sentirme mejor."
 
 #: data/text/english/dialog/06npc.msg:300
 msgid "And whats happend with that guy who fear to enter?"
-msgstr ""
+msgstr "¿Y qué pasó con el tipo que le teme a entrar?"
 
 #: data/text/english/dialog/06npc.msg:350
 msgid ""
 "He escaped trough forest outside village, the same way which you come here. "
 "I hope he will never return because i dont like losers!"
 msgstr ""
+"Se escapó a través del bosque en las afueras de la aldea, de la misma manera "
+"de la que tú vienes. ¡Espero que nunca regrese, no me gustan los cobardes!"
 
 #: data/text/english/dialog/06npc.msg:400
 msgid "Yes am hero! Now give me beer!"
-msgstr ""
+msgstr "¡Sí, soy un héroe! ¡Ahora dame cerveza!"
 
 #: data/text/english/dialog/06npc.msg:450
 msgid ""
@@ -397,14 +412,17 @@ msgid ""
 "about holy artefacts. And she deal with trader Vis which bring us many "
 "strange stuff from outside world."
 msgstr ""
+"Lo siento, pero no sé qué es eso… Habla con la anciana, ella sabe muchas "
+"cosas sobre los artefactos sagrados. También hace tratos con el comerciante "
+"Vic, él nos trae muchas cosas extrañas del mundo exterior."
 
 #: data/text/english/dialog/07npc.msg:100
 msgid "Am so tired.. Hey dirty man! Can you help me?!"
-msgstr ""
+msgstr "Estoy cansada… ¡Oye, sucio! ¡¿Puedes ayudarme?!"
 
 #: data/text/english/dialog/07npc.msg:200
 msgid "Uh am not sure.. what you need?"
-msgstr ""
+msgstr "No estoy seguro… pero ¿Qué necesitas?"
 
 #: data/text/english/dialog/07npc.msg:250
 msgid ""
@@ -412,10 +430,14 @@ msgid ""
 "new, clean one. It shold lay somewhere near tents over there! [She point "
 "finger in random direction and sit on ground trying to clean shoes]"
 msgstr ""
+"Necesito entregarle más mierda al Chamán, pero mi pala es muy pesada. Tráeme "
+"una nueva y limpia. ¡Debería estar en algún lugar cerca de las tiendas de "
+"campaña! [Señala con el dedo en una dirección aleatoria y se sienta en el "
+"suelo tratando de limpiar los zapatos]"
 
 #: data/text/english/dialog/07npc.msg:300
 msgid "I found clean shovel!"
-msgstr ""
+msgstr "¡Encontré una pala limpia!"
 
 #: data/text/english/dialog/07npc.msg:350
 msgid ""
@@ -423,42 +445,45 @@ msgid ""
 "shining items which Vic gived me for one kiss. I heard that many things can "
 "be buy for such thing called.. \"money\"."
 msgstr ""
+"Gracias chico… terminaré mi trabajo más tarde, porque estoy muy cansada. "
+"Toma estas cosas brillantes que Vic me dio por un beso. Escuché que muchas "
+"cosas se pueden comprar por algo llamado… \"dinero\"."
 
 #: data/text/english/dialog/07npc.msg:400
 msgid "Am so tired.."
-msgstr ""
+msgstr "Estoy cansada."
 
 #: data/text/english/dialog/07npc.msg:401
 msgid "I smell like brahmin.."
-msgstr ""
+msgstr "Huelo a brahmin."
 
 #: data/text/english/dialog/07npc.msg:402
 msgid "Damn i have heavy shoes.."
-msgstr ""
+msgstr "¡Maldita sea! ¡Cómo pesan mis zapatos!."
 
 #: data/text/english/dialog/07npc.msg:403
 msgid "Another wonderfull day.."
-msgstr ""
+msgstr "Otro día maravilloso."
 
 #: data/text/english/dialog/07npc.msg:404
 msgid "Leave me alone, am busy.."
-msgstr ""
+msgstr "Estoy ocupada, déjame sola."
 
 #: data/text/english/dialog/08npc.msg:10
 msgid "Shaman. "
-msgstr ""
+msgstr "Chamán."
 
 #: data/text/english/dialog/08npc.msg:20
 msgid "He look really crazy.."
-msgstr ""
+msgstr "Tiene aspecto de un loco."
 
 #: data/text/english/dialog/08npc.msg:100
 msgid "Hahahah.. look at these shapes and colours!!"
-msgstr ""
+msgstr "¡Jajajaja… mira esas formas y colores!"
 
 #: data/text/english/dialog/08npc.msg:200
 msgid "Uh.. what you talking about?"
-msgstr ""
+msgstr "¿De qué estás hablando?"
 
 #: data/text/english/dialog/08npc.msg:250
 msgid ""
@@ -467,53 +492,59 @@ msgid ""
 " much flowers. Bring me one and i will help you to see hidden side of "
 "amazing world!"
 msgstr ""
+"¡Jajajaja… lo siento, olvidé que no ves lo que yo veo! Inventé una mezcla "
+"maravillosa. Está hecha de mierda de brahmin y flor de broquia. A menos que "
+"no tenga demasiadas flores. ¡Tráeme una y te ayudaré a ver el lado oculto "
+"del mundo asombroso!"
 
 #: data/text/english/dialog/08npc.msg:300
 msgid "I got flower, can you made this mixture for me?"
-msgstr ""
+msgstr "Tengo la flor, ¿Puedes hacerme la mezcla maravillosa?"
 
 #: data/text/english/dialog/08npc.msg:350
 msgid ""
 "Oh yeah! [He take flower from you and piece of shit from barrel. After half "
 "hour he gived you wonderfull mixture.]"
 msgstr ""
+"¡Oh sí! [Te quita la flor y un pedazo de mierda del barril. Después de media "
+"hora te dio una mezcla maravillosa.]"
 
 #: data/text/english/dialog/08npc.msg:400
 msgid "Help me! Snake bird attack my shoe!"
-msgstr ""
+msgstr "¡Ayúdame! ¡El pájaro serpiente ataca mi zapato!"
 
 #: data/text/english/dialog/08npc.msg:401
 msgid "Why these rocks escaping from me?!"
-msgstr ""
+msgstr "¡¿Por qué estas rocas se me escapan?!"
 
 #: data/text/english/dialog/08npc.msg:402
 msgid "Wow i have third hand!!"
-msgstr ""
+msgstr "¡Wow, tengo tres manos!"
 
 #: data/text/english/dialog/08npc.msg:403
 msgid "What is that?! I cant catch it!!"
-msgstr ""
+msgstr "¡¿Qué es eso?!… ¡¡No puedo atraparlo!!"
 
 #: data/text/english/dialog/08npc.msg:404
 msgid "Fire! My house is under fire!!"
-msgstr ""
+msgstr "¡Fuego! ¡Mi casa se está quemando!"
 
 #: data/text/english/dialog/09npc.msg:100
 #: data/text/english/dialog/57npc.msg:100
 msgid "You have wonderfull vision but you feel sick. "
-msgstr ""
+msgstr "Tienes una excelente visión pero te sientes enfermo."
 
 #: data/text/english/dialog/09npc.msg:101
 msgid "Am mister fly! And am quick like wind!  "
-msgstr ""
+msgstr "¡Soy señor mosca! ¡Y vuelo como el viento!"
 
 #: data/text/english/dialog/09npc.msg:102
 msgid "Where is my shoes? Police! Someone steal my shoes!!  "
-msgstr ""
+msgstr "¿Dónde están mis zapatos? ¡Policía! ¡¡Alguien robó mis zapatos!!"
 
 #: data/text/english/dialog/09npc.msg:103
 msgid "Wow.. my head is so BIG!  "
-msgstr ""
+msgstr "¡Wow… mi cabeza es tan GRANDE!"
 
 #: data/text/english/dialog/09npc.msg:104
 msgid "I found gold! hahah! ..no its stone. "
