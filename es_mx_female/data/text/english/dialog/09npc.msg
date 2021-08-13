@@ -1,7 +1,7 @@
-{100}{}{You have wonderfull vision but you feel sick. }
-{101}{}{Am mister fly! And am quick like wind!  }
-{102}{}{Where is my shoes? Police! Someone steal my shoes!!  }
-{103}{}{Wow.. my head is so BIG!  }
+{100}{}{Tienes una excelente visión pero te sientes enferma.}
+{101}{}{¡Soy señor mosca! ¡Y vuelo como el viento!}
+{102}{}{¿Dónde están mis zapatos? ¡Policía! ¡¡Alguien robó mis zapatos!!}
+{103}{}{¡Wow… mi cabeza es tan GRANDE!}
 {104}{}{I found gold! hahah! ..no its stone. }
 {105}{}{Look at this rainbow!! }
 {106}{}{I cant move my leg! Argh!! Help me! }

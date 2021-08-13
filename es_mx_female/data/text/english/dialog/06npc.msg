@@ -1,11 +1,11 @@
 {10}{}{Aldeano.}
 {20}{}{Todos aquí tienen el mismo aspecto.}
-{100}{}{I cant believe! You pass trough temple, nobody made it before! You are now our champion!. Go and talk with elder, she have something very important to tell you.}
-{200}{}{Uh.. you are this guard which i seen near temple entrance? Sorry your everyone tribals look the same to me.}
-{250}{}{Yes am guard and great warrior "Klint" By the way i hate this bastard who call his dog my fame name. Hopefully i fixed that problem yesterday and i feel better now. }
-{300}{}{And whats happend with that guy who fear to enter?}
-{350}{}{He escaped trough forest outside village, the same way which you come here. I hope he will never return because i dont like losers!}
-{400}{}{Yes am hero! Now give me beer!}
-{450}{}{Sorry but i dont known what it is.. Talk with Elder, she known many things about holy artefacts. And she deal with trader Vis which bring us many strange stuff from outside world.}
+{100}{}{¡No lo puedo creer! Has superado la prueba, ¡Nadie lo había hecho! ¡Ahora eres nuestro campeón!. Ve y habla con la anciana, ella tiene algo muy importante que decirte.}
+{200}{}{Uh… ¿Eres el guardia de la entrada del templo? Siento que todos los tribales son iguales.}
+{250}{}{Sí, soy el guardia y un gran guerrero, "Klint". Por cierto, odio a este bastardo que llamó a su perro con mi nombre. Ojalá pueda solucionar el problema de ayer para ahora sentirme mejor.}
+{300}{}{¿Y qué pasó con el tipo que le teme a entrar?}
+{350}{}{Se escapó a través del bosque en las afueras de la aldea, de la misma manera de la que tú vienes. ¡Espero que nunca regrese, no me gustan los cobardes!}
+{400}{}{¡Sí, soy un héroe! ¡Ahora dame cerveza!}
+{450}{}{Lo siento, pero no sé qué es eso… Habla con la anciana, ella sabe muchas cosas sobre los artefactos sagrados. También hace tratos con el comerciante Vic, él nos trae muchas cosas extrañas del mundo exterior.}
 {910}{}{FIN}
 {920}{}{REGRESAR}

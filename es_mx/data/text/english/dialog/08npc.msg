@@ -1,14 +1,14 @@
-{10}{}{Shaman. }
-{20}{}{He look really crazy..}
-{100}{}{Hahahah.. look at these shapes and colours!!}
-{200}{}{Uh.. what you talking about?}
-{250}{}{Hahahah.. sorry i forgot that you dont see what i see! I invented wonderfull mixture. Its made from brahmin shit and broc flower. Unless i dont have too much flowers. Bring me one and i will help you to see hidden side of amazing world!}
-{300}{}{I got flower, can you made this mixture for me?}
-{350}{}{Oh yeah! [He take flower from you and piece of shit from barrel. After half hour he gived you wonderfull mixture.]}
-{400}{}{Help me! Snake bird attack my shoe!}
-{401}{}{Why these rocks escaping from me?!}
-{402}{}{Wow i have third hand!!}
-{403}{}{What is that?! I cant catch it!!}
-{404}{}{Fire! My house is under fire!!}
+{10}{}{Chamán.}
+{20}{}{Tiene aspecto de un loco.}
+{100}{}{¡Jajajaja… mira esas formas y colores!}
+{200}{}{¿De qué estás hablando?}
+{250}{}{¡Jajajaja… lo siento, olvidé que no ves lo que yo veo! Inventé una mezcla maravillosa. Está hecha de mierda de brahmin y flor de broquia. A menos que no tenga demasiadas flores. ¡Tráeme una y te ayudaré a ver el lado oculto del mundo asombroso!}
+{300}{}{Tengo la flor, ¿Puedes hacerme la mezcla maravillosa?}
+{350}{}{¡Oh sí! [Te quita la flor y un pedazo de mierda del barril. Después de media hora te dio una mezcla maravillosa.]}
+{400}{}{¡Ayúdame! ¡El pájaro serpiente ataca mi zapato!}
+{401}{}{¡¿Por qué estas rocas se me escapan?!}
+{402}{}{¡Wow, tengo tres manos!}
+{403}{}{¡¿Qué es eso?!… ¡¡No puedo atraparlo!!}
+{404}{}{¡Fuego! ¡Mi casa se está quemando!}
 {910}{}{FIN}
 {920}{}{REGRESAR}

@@ -6,6 +6,6 @@
 {300}{}{¿Tienes algo de cerveza?}
 {350}{}{[Mira a su alrededor buscando perro e ignora tu pregunta]}
 {400}{}{Háblame de este pueblo.}
-{450}{}{We live in peace far from civilization. Elders say that technic bring only pain and devastation so we must believe only in traditional shamans magic. But one day come to us trader Vic with his amazing stuff. Holy ghosts abandon us and many peoples get sick. }
+{450}{}{Vivimos en paz lejos de la civilización. Los ancianos dicen que la técnica solo trae dolor y devastación, por lo que debemos creer solo en la magia tradicional de los chamanes. Pero un día vino un comerciante llamado Vic, con sus increíbles cosas. Los fantasmas santos nos abandonan y muchos pueblos se enferman.}
 {910}{}{FIN}
 {920}{}{REGRESAR}
