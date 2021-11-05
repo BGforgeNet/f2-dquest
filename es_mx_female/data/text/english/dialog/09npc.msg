@@ -2,9 +2,9 @@
 {101}{}{¡Soy señor mosca! ¡Y vuelo como el viento!}
 {102}{}{¿Dónde están mis zapatos? ¡Policía! ¡¡Alguien robó mis zapatos!!}
 {103}{}{¡Wow… mi cabeza es tan GRANDE!}
-{104}{}{I found gold! hahah! ..no its stone. }
-{105}{}{Look at this rainbow!! }
-{106}{}{I cant move my leg! Argh!! Help me! }
+{104}{}{Encontre oro! jaja! ...no es solo piedra}
+{105}{}{Mira este arcoíris!!}
+{106}{}{No puedo mover mi pierna! Argh!! ayudame!!}
 {107}{}{Whats wrong with my fingers? I have them too much.. }
 {108}{}{Am unvisible! }
 {109}{}{Am faster than bullet! Wow i move so fast! }
