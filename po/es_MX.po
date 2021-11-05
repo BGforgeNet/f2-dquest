@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-08-13 12:40+0000\n"
-"Last-Translator: Ernesto Raygoza <raygoza_09@hotmail.com>\n"
+"PO-Revision-Date: 2021-11-05 12:40+0000\n"
+"Last-Translator: Marionn Gonzalez <marionn-15@outlook.com>\n"
 "Language-Team: Spanish (Mexico) <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/es_MX/>\n"
 "Language: es_MX\n"
@@ -548,15 +548,15 @@ msgstr "¡Wow… mi cabeza es tan GRANDE!"
 
 #: data/text/english/dialog/09npc.msg:104
 msgid "I found gold! hahah! ..no its stone. "
-msgstr ""
+msgstr "Encontre oro! jaja! ...no es solo piedra"
 
 #: data/text/english/dialog/09npc.msg:105
 msgid "Look at this rainbow!! "
-msgstr ""
+msgstr "Mira este arcoíris!!"
 
 #: data/text/english/dialog/09npc.msg:106
 msgid "I cant move my leg! Argh!! Help me! "
-msgstr ""
+msgstr "No puedo mover mi pierna! Argh!! ayudame!!"
 
 #: data/text/english/dialog/09npc.msg:107
 msgid "Whats wrong with my fingers? I have them too much.. "
