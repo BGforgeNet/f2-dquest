@@ -4,9 +4,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-02-11 14:12+0000\n"
-"Last-Translator: Felipe <felipefplzx@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/fallout/dangerous-quest/pt_BR/>\n"
+"PO-Revision-Date: 2021-12-15 12:40+0000\n"
+"Last-Translator: Caio Heronville Machado <caioefulvia@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/fallout/"
+"dangerous-quest/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -179,6 +180,10 @@ msgid ""
 "can you hear this scream from darkness? Everyone died there. She must be "
 "really stupid to kill our brothers and sisters in this dumb test!"
 msgstr ""
+"A bruxa me escolheu para o teste no templo. Eu thenho medo de entar porque "
+"ninguém volta... você consegue ouvir esse grito na escuridão? Todo mundo "
+"morre lá. Ela deve ser realmente estúpida para mandar nossos irmãos e irmãs "
+"nesse teste idiota só para morrer!"
 
 #: data/text/english/dialog/02npc.msg:300
 #: data/text/english/dialog/05npc.msg:300
@@ -275,6 +280,9 @@ msgid ""
 " he need sacrifice made from earth element. Go on corn filed and bring me "
 "some big stone.."
 msgstr ""
+"Não, eu acho que é algo diferente. Deve ser um antigo fantasma da terra... e "
+"ele necessita de sacrifícios feitos de elemento terra. Vá para a plantação "
+"de milho e me traga uma pedra grande."
 
 #: data/text/english/dialog/04npc.msg:300
 msgid "Look! I found one."
@@ -287,6 +295,10 @@ msgid ""
 "ghost of earth is happy and dont scream anymore. Here is your revard, "
 "wonderfull flower which grown near well."
 msgstr ""
+"Aqui está o sacrifício para os deuses da terra! [Aldeão joga a pedra dentro "
+"do poço e depois de um breve grito permanece um silêncio eterno.] Obrigado "
+"meu amigo, agora o fantasma da terra está feliz e não grita mais. Aqui está "
+"sua recompensa, uma flor belíssima que cresceu perto do poço."
 
 #: data/text/english/dialog/04npc.msg:400
 msgid "We are now bless by earth!"
@@ -313,6 +325,9 @@ msgid ""
 "I lost my dog. Uh.. and i fear that someone eat him! Outsider, can you "
 "investigate where go my dirty animal? His name was \"Klint\"."
 msgstr ""
+"Eu perdi meu cachorro. Uh... e eu temo que alguém comeu ele! Estranho, você "
+"poderia investigar para onde foi o sujo do meu animal? O nome dele era \""
+"Klint\"."
 
 #: data/text/english/dialog/05npc.msg:200
 msgid "I dont like to solve riddles."
@@ -341,6 +356,11 @@ msgid ""
 "But one day come to us trader Vic with his amazing stuff. Holy ghosts "
 "abandon us and many peoples get sick. "
 msgstr ""
+"Nós vivemos em paz longe da civilização. Os anciãos dizem que técnicas "
+"trazem apenas dor e devastação, então nós devemos acreditar apenas em "
+"tradicionais mágicas shamans. Mas um dia Vic o comerciante veio até nós com "
+"coisas maravilhosas. Os grandes fantasmas nos abandoram e muitas pessoas "
+"ficaram doentes."
 
 #: data/text/english/dialog/06npc.msg:100
 msgid ""
@@ -348,6 +368,9 @@ msgid ""
 "our champion!. Go and talk with elder, she have something very important to "
 "tell you."
 msgstr ""
+"Eu não acredito! Você passou pelo templo, ninguém nunca conseguiu isso "
+"antes! Você agora é nosso campeão!. Vá falar com a anciã, ela tem algo muito "
+"importante para dizer para você."
 
 #: data/text/english/dialog/06npc.msg:200
 msgid ""
@@ -363,6 +386,9 @@ msgid ""
 "call his dog my fame name. Hopefully i fixed that problem yesterday and i "
 "feel better now. "
 msgstr ""
+"Sim eu sou guarda e um grande guerreiro \"Klint\" por falar nisso eu odeio o "
+"idiota que chama seu cachorro pelo meu nome de fama. Eu consertei esse "
+"problema ontem e eu me sinto melhor agora."
 
 #: data/text/english/dialog/06npc.msg:300
 msgid "And whats happend with that guy who fear to enter?"
@@ -387,6 +413,9 @@ msgid ""
 "about holy artefacts. And she deal with trader Vis which bring us many "
 "strange stuff from outside world."
 msgstr ""
+"Desculpa mas eu não sei o que é... Fale com a Anciã, ela sabe muitas coisas "
+"sobre os grandes artefatos. E ela negocia com Vis o comerciante, que traz "
+"muitas coisas estranhas do mundo lá fora."
 
 #: data/text/english/dialog/07npc.msg:100
 msgid "Am so tired.. Hey dirty man! Can you help me?!"
@@ -397,11 +426,16 @@ msgid "Uh am not sure.. what you need?"
 msgstr "Uh, não tenho certeza... O que você precisa?"
 
 #: data/text/english/dialog/07npc.msg:250
+#, fuzzy
 msgid ""
 "Shaman want to deliver him more shit, but my shovel is so heavy. Bring me "
 "new, clean one. It shold lay somewhere near tents over there! [She point "
 "finger in random direction and sit on ground trying to clean shoes]"
 msgstr ""
+"Xamã quer entregar mais coisas de merda para ele, mas minha pá é muito "
+"pesada. Traga uma nova, uma limpa. Ela deve estar em algum lugar perto "
+"daquelas barracas! [Ela aponta o dedo em uma direção aleatória e senta no "
+"chão tentando limpar os sapatos]"
 
 #: data/text/english/dialog/07npc.msg:300
 msgid "I found clean shovel!"
@@ -413,6 +447,10 @@ msgid ""
 "shining items which Vic gived me for one kiss. I heard that many things can "
 "be buy for such thing called.. \"money\"."
 msgstr ""
+"Obrigado cara... Eu vou terminar meu trabalho mais tarde, porque eu estou "
+"muito cansado. Pegue essas coisas brilhantes que Vic me deu em troca de um "
+"beijo. Eu ouvi por aí que muitas coisas podem ser compradas com aquela coisa "
+"chamada... \"dinheiro\"."
 
 #: data/text/english/dialog/07npc.msg:400
 msgid "Am so tired.."
@@ -444,130 +482,138 @@ msgstr "Ele parece realmente louco..."
 
 #: data/text/english/dialog/08npc.msg:100
 msgid "Hahahah.. look at these shapes and colours!!"
-msgstr ""
+msgstr "Hahahah... Olha essas formas formas e cores!!"
 
 #: data/text/english/dialog/08npc.msg:200
 msgid "Uh.. what you talking about?"
-msgstr ""
+msgstr "Uh... Do quê você está falando?"
 
 #: data/text/english/dialog/08npc.msg:250
+#, fuzzy
 msgid ""
 "Hahahah.. sorry i forgot that you dont see what i see! I invented wonderfull"
 " mixture. Its made from brahmin shit and broc flower. Unless i dont have too"
 " much flowers. Bring me one and i will help you to see hidden side of "
 "amazing world!"
 msgstr ""
+"Hahahah... Desculpa eu esqueci que você não vê o que eu vejo! Eu inventei "
+"uma incrível mistura. É feita de merda de brahmin e broc flower. A não ser "
+"que eu não tenha muitas flores... Traga-me uma e eu te ajudarei a ver o que "
+"tem na parte escondida do mundo incrível!"
 
 #: data/text/english/dialog/08npc.msg:300
 msgid "I got flower, can you made this mixture for me?"
-msgstr ""
+msgstr "Eu tenho a flor, você poderia me fazer a mistura?"
 
 #: data/text/english/dialog/08npc.msg:350
 msgid ""
 "Oh yeah! [He take flower from you and piece of shit from barrel. After half "
 "hour he gived you wonderfull mixture.]"
 msgstr ""
+"Aí sim porra! [Ele pega a flor da sua mão e um pedaço de merda do "
+"barril.Depois de meia ele te entrega a mistura incrível]."
 
 #: data/text/english/dialog/08npc.msg:400
 msgid "Help me! Snake bird attack my shoe!"
-msgstr ""
+msgstr "Me ajuda! Passáro cobra atacando meu sapato!"
 
 #: data/text/english/dialog/08npc.msg:401
 msgid "Why these rocks escaping from me?!"
-msgstr ""
+msgstr "Porquê essas pedras escapam de mim?"
 
 #: data/text/english/dialog/08npc.msg:402
 msgid "Wow i have third hand!!"
-msgstr ""
+msgstr "Uau eu tenho uma terceira mão!!"
 
 #: data/text/english/dialog/08npc.msg:403
 msgid "What is that?! I cant catch it!!"
-msgstr ""
+msgstr "O quê é isto? Eu não consigo pegar!!"
 
 #: data/text/english/dialog/08npc.msg:404
 msgid "Fire! My house is under fire!!"
-msgstr ""
+msgstr "Fogo! Minha casa tá pegando fogo bicho!!"
 
 #: data/text/english/dialog/09npc.msg:100
 #: data/text/english/dialog/57npc.msg:100
 msgid "You have wonderfull vision but you feel sick. "
-msgstr ""
+msgstr "Você tem uma visão incrível mas você se sente enjoado."
 
 #: data/text/english/dialog/09npc.msg:101
 msgid "Am mister fly! And am quick like wind!  "
-msgstr ""
+msgstr "Eu sou o senhor mosca! E eu sou tão rápido quanto o vento!"
 
 #: data/text/english/dialog/09npc.msg:102
 msgid "Where is my shoes? Police! Someone steal my shoes!!  "
-msgstr ""
+msgstr "Onde estão os meus sapatos? Polícia! Alguém roubou os meus sapatos!!"
 
 #: data/text/english/dialog/09npc.msg:103
 msgid "Wow.. my head is so BIG!  "
-msgstr ""
+msgstr "Uau... Minha cabeça é tão GRANDE!"
 
 #: data/text/english/dialog/09npc.msg:104
 msgid "I found gold! hahah! ..no its stone. "
-msgstr ""
+msgstr "Eu achei ouro! hahah! ...Não é só uma pedra."
 
 #: data/text/english/dialog/09npc.msg:105
 msgid "Look at this rainbow!! "
-msgstr ""
+msgstr "Olha esse arco-íris!!"
 
 #: data/text/english/dialog/09npc.msg:106
 msgid "I cant move my leg! Argh!! Help me! "
-msgstr ""
+msgstr "Eu não consigo mexer a minha perna! Ai! Socorro!"
 
 #: data/text/english/dialog/09npc.msg:107
 msgid "Whats wrong with my fingers? I have them too much.. "
-msgstr ""
+msgstr "O que tem de errado com os meu dedos? Eu tenho muitos deles..."
 
 #: data/text/english/dialog/09npc.msg:108
+#, fuzzy
 msgid "Am unvisible! "
-msgstr ""
+msgstr "Eu sou unvisible!"
 
 #: data/text/english/dialog/09npc.msg:109
 msgid "Am faster than bullet! Wow i move so fast! "
-msgstr ""
+msgstr "Eu sou mais rápido que uma bala! Uau eu me mexo muito rápido!"
 
 #: data/text/english/dialog/09npc.msg:110
 msgid "Where is my schlager?! Uh.. i got it in hand.. "
-msgstr ""
+msgstr "Cadê a minha... Porra?! Uh... Está na minha mão..."
 
 #: data/text/english/dialog/09npc.msg:111
 msgid "What is that on sky? ..its UFO!?  "
-msgstr ""
+msgstr "O quê é aquilo no céu?... É um Alien!?..."
 
 #: data/text/english/dialog/09npc.msg:112
 msgid "Arrgh! Snake rat eat my shoes!  "
-msgstr ""
+msgstr "Arrgh! Rato cobra comeu meus sapatos!"
 
 #: data/text/english/dialog/09npc.msg:113
 msgid "Am so big! I could crush you by my finger! "
-msgstr ""
+msgstr "Eu sou tão grande! Eu poderia te esmagar só com o meu dedo!"
 
 #: data/text/english/dialog/09npc.msg:114
 msgid "Why my pants are suddenly so wet?! "
-msgstr ""
+msgstr "Porque minhas calças estão de repente tão molhadas?!"
 
 #: data/text/english/dialog/09npc.msg:115
 msgid "Hey! You! Birdhead! Come on! "
-msgstr ""
+msgstr "Ei! Você! Cabeça de pássaro! Tenha dó!"
 
 #: data/text/english/dialog/09npc.msg:116
 msgid "I think i could jump over house.. "
-msgstr ""
+msgstr "Eu acho que eu poderia pular sobre a casa..."
 
 #: data/text/english/dialog/09npc.msg:117
 msgid "Am rabbit.. I want to climb on tree! "
-msgstr ""
+msgstr "Eu sou um coelho... Eu quero pular em cima de uma árvore!"
 
 #: data/text/english/dialog/09npc.msg:118
 msgid "Mouse?! I have mouse in pocket!  "
-msgstr ""
+msgstr "Um rato?! Eu tenho um rato no bolso!"
 
 #: data/text/english/dialog/09npc.msg:119
 msgid "Why these rocks watch at me?! "
-msgstr ""
+msgstr "Porque essas pedras estão me observando?!"
 
 #: data/text/english/dialog/09npc.msg:120
 msgid "I lost my hat!! Uh.. do i have hat before?  "
