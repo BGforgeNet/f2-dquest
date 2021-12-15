@@ -2,9 +2,9 @@
 {20}{}{Eles todos parecem os mesmos...}
 {100}{}{Oi estranho.. Você ouve essa voz estranha do poço?}
 {200}{}{Sim... soa como grito de cachorro.}
-{250}{}{No i think its something different. It must be ancient ghost of earth..  and he need sacrifice made from earth element. Go on corn filed and bring me some big stone..}
+{250}{}{Não, eu acho que é algo diferente. Deve ser um antigo fantasma da terra... e ele necessita de sacrifícios feitos de elemento terra. Vá para a plantação de milho e me traga uma pedra grande.}
 {300}{}{Olha! Eu achei um.}
-{350}{}{Here is sacrifice for goddes of earth! [Villager throw that stone into well and after short scream remain ethernal silence.] Thank you my friend, now ghost of earth is happy and dont scream anymore. Here is your revard, wonderfull flower which grown near well.}
+{350}{}{Aqui está o sacrifício para os deuses da terra! [Aldeão joga a pedra dentro do poço e depois de um breve grito permanece um silêncio eterno.] Obrigado minha amiga, agora o fantasma da terra está feliz e não grita mais. Aqui está sua recompensa, uma flor belíssima que cresceu perto do poço.}
 {400}{}{Nós somos agora abençoados pela terra!}
 {401}{}{Tantas moscas ao redor do poço mágico!}
 {402}{}{Silêncio abençoado.}

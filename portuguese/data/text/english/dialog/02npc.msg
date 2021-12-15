@@ -2,7 +2,7 @@
 {20}{}{Eles todos tribais parecem os mesmos...}
 {100}{}{Maldição! Eu morrerei aqui... Eu sei disso!}
 {200}{}{Oi cara! O que é que há?}
-{250}{}{Witch chosen me for test in temple. I fear to enter because nobody return.. can you hear this scream from darkness? Everyone died there. She must be really stupid to kill our brothers and sisters in this dumb test!}
+{250}{}{A bruxa me escolheu para o teste no templo. Eu thenho medo de entar porque ninguém volta... você consegue ouvir esse grito na escuridão? Todo mundo morre lá. Ela deve ser realmente estúpida para mandar nossos irmãos e irmãs nesse teste idiota só para morrer!}
 {300}{}{Você tem cerveja?}
 {350}{}{[Ele olha pra escuridão do templo e ignra sua pergunta]}
 {400}{}{Estou tão sedento! Talvez eu acharei alguma cerveja neste... tamplo?}

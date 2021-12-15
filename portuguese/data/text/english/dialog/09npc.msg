@@ -1,23 +1,23 @@
-{100}{}{You have wonderfull vision but you feel sick. }
-{101}{}{Am mister fly! And am quick like wind!  }
-{102}{}{Where is my shoes? Police! Someone steal my shoes!!  }
-{103}{}{Wow.. my head is so BIG!  }
-{104}{}{I found gold! hahah! ..no its stone. }
-{105}{}{Look at this rainbow!! }
-{106}{}{I cant move my leg! Argh!! Help me! }
-{107}{}{Whats wrong with my fingers? I have them too much.. }
+{100}{}{Você tem uma visão incrível mas você se sente enjoado.}
+{101}{}{Eu sou o senhor mosca! E eu sou tão rápido quanto o vento!}
+{102}{}{Onde estão os meus sapatos? Polícia! Alguém roubou os meus sapatos!!}
+{103}{}{Uau... Minha cabeça é tão GRANDE!}
+{104}{}{Eu achei ouro! hahah! ...Não é só uma pedra.}
+{105}{}{Olha esse arco-íris!!}
+{106}{}{Eu não consigo mexer a minha perna! Ai! Socorro!}
+{107}{}{O que tem de errado com os meu dedos? Eu tenho muitos deles...}
 {108}{}{Am unvisible! }
-{109}{}{Am faster than bullet! Wow i move so fast! }
-{110}{}{Where is my schlager?! Uh.. i got it in hand.. }
-{111}{}{What is that on sky? ..its UFO!?  }
-{112}{}{Arrgh! Snake rat eat my shoes!  }
-{113}{}{Am so big! I could crush you by my finger! }
-{114}{}{Why my pants are suddenly so wet?! }
-{115}{}{Hey! You! Birdhead! Come on! }
-{116}{}{I think i could jump over house.. }
-{117}{}{Am rabbit.. I want to climb on tree! }
-{118}{}{Mouse?! I have mouse in pocket!  }
-{119}{}{Why these rocks watch at me?! }
+{109}{}{Eu sou mais rápido que uma bala! Uau eu me mexo muito rápido!}
+{110}{}{Cadê a minha... Porra?! Uh... Está na minha mão...}
+{111}{}{O quê é aquilo no céu?... É um Alien!?...}
+{112}{}{Arrgh! Rato cobra comeu meus sapatos!}
+{113}{}{Eu sou tão grande! Eu poderia te esmagar só com o meu dedo!}
+{114}{}{Porque minhas calças estão de repente tão molhadas?!}
+{115}{}{Ei! Você! Cabeça de pássaro! Tenha dó!}
+{116}{}{Eu acho que eu poderia pular sobre a casa...}
+{117}{}{Eu sou um coelho... Eu quero pular em cima de uma árvore!}
+{118}{}{Um rato?! Eu tenho um rato no bolso!}
+{119}{}{Porque essas pedras estão me observando?!}
 {120}{}{I lost my hat!! Uh.. do i have hat before?  }
 {121}{}{Where is my hairs?! Uh.. i got them in pocket!  }
 {122}{}{Damn! My Schlager is empty!  }

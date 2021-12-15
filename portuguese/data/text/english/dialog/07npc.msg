@@ -4,7 +4,7 @@
 {200}{}{Uh, não tenho certeza... O que você precisa?}
 {250}{}{Shaman want to deliver him more shit, but my shovel is so heavy. Bring me new, clean one. It shold lay somewhere near tents over there! [She point finger in random direction and sit on ground trying to clean shoes]}
 {300}{}{Eu achei pá limpa!}
-{350}{}{Thanx man.. i will finish my job later, because am too tired. Take this shining items which Vic gived me for one kiss. I heard that many things can be buy for such thing called.. "money".}
+{350}{}{Obrigado cara... Eu vou terminar meu trabalho mais tarde, porque eu estou muito cansado. Pegue essas coisas brilhantes que Vic me deu em troca de um beijo. Eu ouvi por aí que muitas coisas podem ser compradas com aquela coisa chamada... "dinheiro".}
 {400}{}{Estou tão cansado...}
 {401}{}{Eu cheiro mal igual brahmin...}
 {402}{}{Maldição! Eu tenho sapatos pesados...}
