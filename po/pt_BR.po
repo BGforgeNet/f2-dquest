@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-12-15 12:40+0000\n"
+"PO-Revision-Date: 2021-12-16 12:40+0000\n"
 "Last-Translator: Caio Heronville Machado <caioefulvia@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/pt_BR/>\n"
@@ -426,7 +426,6 @@ msgid "Uh am not sure.. what you need?"
 msgstr "Uh, não tenho certeza... O que você precisa?"
 
 #: data/text/english/dialog/07npc.msg:250
-#, fuzzy
 msgid ""
 "Shaman want to deliver him more shit, but my shovel is so heavy. Bring me "
 "new, clean one. It shold lay somewhere near tents over there! [She point "
@@ -489,7 +488,6 @@ msgid "Uh.. what you talking about?"
 msgstr "Uh... Do quê você está falando?"
 
 #: data/text/english/dialog/08npc.msg:250
-#, fuzzy
 msgid ""
 "Hahahah.. sorry i forgot that you dont see what i see! I invented wonderfull"
 " mixture. Its made from brahmin shit and broc flower. Unless i dont have too"
@@ -499,7 +497,7 @@ msgstr ""
 "Hahahah... Desculpa eu esqueci que você não vê o que eu vejo! Eu inventei "
 "uma incrível mistura. É feita de merda de brahmin e broc flower. A não ser "
 "que eu não tenha muitas flores... Traga-me uma e eu te ajudarei a ver o que "
-"tem na parte escondida do mundo incrível!"
+"tem na parte escondida desse mundo incrível!"
 
 #: data/text/english/dialog/08npc.msg:300
 msgid "I got flower, can you made this mixture for me?"
@@ -567,7 +565,6 @@ msgid "Whats wrong with my fingers? I have them too much.. "
 msgstr "O que tem de errado com os meu dedos? Eu tenho muitos deles..."
 
 #: data/text/english/dialog/09npc.msg:108
-#, fuzzy
 msgid "Am unvisible! "
 msgstr "Eu sou unvisible!"
 
@@ -617,75 +614,77 @@ msgstr "Porque essas pedras estão me observando?!"
 
 #: data/text/english/dialog/09npc.msg:120
 msgid "I lost my hat!! Uh.. do i have hat before?  "
-msgstr ""
+msgstr "Eu perdi meu chapéu!! Ah... eu tinha um chapéu antes?"
 
 #: data/text/english/dialog/09npc.msg:121
 msgid "Where is my hairs?! Uh.. i got them in pocket!  "
-msgstr ""
+msgstr "Onde estão meus cabelos?! Uh... eles estão no meu bolso!"
 
 #: data/text/english/dialog/09npc.msg:122
 msgid "Damn! My Schlager is empty!  "
-msgstr ""
+msgstr "Droga! Meu Schlanger está vazio!"
 
 #: data/text/english/dialog/09npc.msg:123
 msgid "Everything so slowly.. Hey you! Come on!  "
-msgstr ""
+msgstr "Tudo está tão lento... Ei você! Venha aqui!"
 
 #: data/text/english/dialog/09npc.msg:124
 msgid "Yeah i like that music!!!  "
-msgstr ""
+msgstr "Sim eu gosto daquela música!"
 
 #: data/text/english/dialog/09npc.msg:125
 msgid "What you want from me?! Fuck off damn rat! "
-msgstr ""
+msgstr "O quê você quer de mim?! Sai da frente ratasana de merda!"
 
 #: data/text/english/dialog/09npc.msg:126
 msgid "What these flies want from me?! "
-msgstr ""
+msgstr "O quê essas moscas querem de mim?"
 
 #: data/text/english/dialog/09npc.msg:127
 msgid "What this dog say?! "
-msgstr ""
+msgstr "O quê esse cachorro disse?"
 
 #: data/text/english/dialog/09npc.msg:128
 msgid "WoW! My hand is so long!! "
-msgstr ""
+msgstr "UaU! Minha mão é tão longa!!"
 
 #: data/text/english/dialog/09npc.msg:129
 msgid "Why am so green?! Oh no am supermutant!!  "
-msgstr ""
+msgstr "Porque eu estou tão verde?! Oh não eu sou um supermutante!!"
 
 #: data/text/english/dialog/09npc.msg:130
 msgid "Police! Rabbit steal my fingers!! "
-msgstr ""
+msgstr "Polícia! O coelho roubou meus dedos!!"
 
 #: data/text/english/dialog/10npc.msg:100
 msgid "Uh i feel sick! "
-msgstr ""
+msgstr "Uh eu não me sinto bem!"
 
 #: data/text/english/dialog/10npc.msg:101
 msgid "I drink too much shaman mixtures.. "
-msgstr ""
+msgstr "Eu bebi muitas misturas do xamã..."
 
 #: data/text/english/dialog/10npc.msg:102
 msgid "My head.. its that big as i feel it?! "
-msgstr ""
+msgstr "Minha cabeça... está tão grande como eu estou sentindo?!"
 
 #: data/text/english/dialog/10npc.msg:103
 msgid "What these flies want from me?"
-msgstr ""
+msgstr "O quê essas moscas querem de mim?"
 
 #: data/text/english/dialog/10npc.msg:104
 msgid "Uh the pain.. I need rest!"
-msgstr ""
+msgstr "Ai a dor... Eu preciso descansar!"
 
 #: data/text/english/dialog/11npc.msg:100
 msgid "Finally! After many years i finished this.. monument!"
 msgstr ""
+"Finalmente! Depois de todos esses anos eu teriminei... eu terminei esse "
+"monumento"
 
 #: data/text/english/dialog/11npc.msg:200
 msgid "How you made it?"
-msgstr ""
+msgstr "Como você fez?"
 
 #: data/text/english/dialog/11npc.msg:250
 msgid ""
@@ -693,20 +692,26 @@ msgid ""
 "made it in few days but i used traditional tool: wooden fork. I spend half "
 "of my life to made it, but as you see result was worth it."
 msgstr ""
+"Nossos anciãos não nos permitem usar coisas técnicas. Com a britadeira que "
+"Vic me deu eu consegui fazer em alguns dias, mas eu costumava usar uma "
+"ferramenta tradicional: garfo de madeira. Eu gastei metade da minha vida "
+"para fazê-la, mas como vê com o resultado, valeu a pena."
 
 #: data/text/english/dialog/11npc.msg:300
 msgid "What is that face?"
-msgstr ""
+msgstr "O quê é aquela cara?"
 
 #: data/text/english/dialog/11npc.msg:350
 msgid ""
 "Its me! Dont you see that? Uh maybe you dont see it.. because am old now, "
 "but its me. Its my face when i got 40 years."
 msgstr ""
+"Sou eu! Você não vê isso? Uh talvez você não vê isso... porque eu estou "
+"velho agora, mas sou eu. É o meu rosto quando eu tinha 40 anos."
 
 #: data/text/english/dialog/11npc.msg:400
 msgid "Why you made it?"
-msgstr ""
+msgstr "Porquê você a fez?"
 
 #: data/text/english/dialog/11npc.msg:450
 msgid ""
@@ -714,24 +719,29 @@ msgid ""
 "village. Just imagine my big stone face in middle of village! Sadly only our"
 " shaman understand my monumental idea."
 msgstr ""
+"Porquê?! Que pergunta idiota? Porque eu poderia ser a pessoa mais popular da "
+"vila inteira. Só imagina meu rosto gigantesco esculpido no meio da vila! "
+"Infelizmente só nossa xamã entende minha ideia sobre o monumeto."
 
 #: data/text/english/dialog/12npc.msg:10
 msgid "Some old man. "
-msgstr ""
+msgstr "Algum velhote."
 
 #: data/text/english/dialog/12npc.msg:20
 msgid "He look very wise.."
-msgstr ""
+msgstr "Ele parece ser muito sábio..."
 
 #: data/text/english/dialog/12npc.msg:100
 msgid "Hello outsider.. are you Vic friend?"
-msgstr ""
+msgstr "Olá estranho... você é o amigo do Vic?"
 
 #: data/text/english/dialog/12npc.msg:200
 msgid ""
 "I seen that man few times in Klamath. Once he sell me beer whis tasty like "
 "someone piss into bottle."
 msgstr ""
+"Eu vi aquele homem algumas vezes em Klamath. Uma vez ele me vendeu uma "
+"cerveja que tinha gosto de mijo."
 
 #: data/text/english/dialog/12npc.msg:250
 msgid ""
@@ -739,10 +749,14 @@ msgid ""
 "like traditions and thase who like technic items. Am from these who follow "
 "ancestor words which say that technic bring only pain and destruction.."
 msgstr ""
+"Então você não gosta dele? Essa vila é separada em dois grupos, \"Esses\" "
+"que gostam de tradições e \"Aqueles\" que gostam de itens técnicos, Eu sou "
+"dos \"Esses\", que seguem as pregações dos nossos anciãos que dizem que "
+"técnica traz apenas dor e destruição..."
 
 #: data/text/english/dialog/12npc.msg:300
 msgid "Are you elder?"
-msgstr ""
+msgstr "Você é o ancião?"
 
 #: data/text/english/dialog/12npc.msg:350
 msgid ""
