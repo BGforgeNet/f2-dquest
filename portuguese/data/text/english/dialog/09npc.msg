@@ -6,7 +6,7 @@
 {105}{}{Olha esse arco-íris!!}
 {106}{}{Eu não consigo mexer a minha perna! Ai! Socorro!}
 {107}{}{O que tem de errado com os meu dedos? Eu tenho muitos deles...}
-{108}{}{Am unvisible! }
+{108}{}{Eu sou unvisible!}
 {109}{}{Eu sou mais rápido que uma bala! Uau eu me mexo muito rápido!}
 {110}{}{Cadê a minha... Porra?! Uh... Está na minha mão...}
 {111}{}{O quê é aquilo no céu?... É um Alien!?...}
@@ -18,14 +18,14 @@
 {117}{}{Eu sou um coelho... Eu quero pular em cima de uma árvore!}
 {118}{}{Um rato?! Eu tenho um rato no bolso!}
 {119}{}{Porque essas pedras estão me observando?!}
-{120}{}{I lost my hat!! Uh.. do i have hat before?  }
-{121}{}{Where is my hairs?! Uh.. i got them in pocket!  }
-{122}{}{Damn! My Schlager is empty!  }
-{123}{}{Everything so slowly.. Hey you! Come on!  }
-{124}{}{Yeah i like that music!!!  }
-{125}{}{What you want from me?! Fuck off damn rat! }
-{126}{}{What these flies want from me?! }
-{127}{}{What this dog say?! }
-{128}{}{WoW! My hand is so long!! }
-{129}{}{Why am so green?! Oh no am supermutant!!  }
-{130}{}{Police! Rabbit steal my fingers!! }
+{120}{}{Eu perdi meu chapéu!! Ah... eu tinha um chapéu antes?}
+{121}{}{Onde estão meus cabelos?! Uh... eles estão no meu bolso!}
+{122}{}{Droga! Meu Schlanger está vazio!}
+{123}{}{Tudo está tão lento... Ei você! Venha aqui!}
+{124}{}{Sim eu gosto daquela música!}
+{125}{}{O quê você quer de mim?! Sai da frente ratasana de merda!}
+{126}{}{O quê essas moscas querem de mim?}
+{127}{}{O quê esse cachorro disse?}
+{128}{}{UaU! Minha mão é tão longa!!}
+{129}{}{Porque eu estou tão verde?! Oh não eu sou um supermutante!!}
+{130}{}{Polícia! O coelho roubou meus dedos!!}

@@ -1,11 +1,11 @@
 {10}{}{Aldeão. }
 {20}{}{Eles todos parecem os mesmos...}
-{100}{}{Finally! After many years i finished this.. monument!}
-{200}{}{How you made it?}
-{250}{}{Our elders dont allow us to use any technical stuff. With Vic drill i could made it in few days but i used traditional tool: wooden fork. I spend half of my life to made it, but as you see result was worth it.}
-{300}{}{What is that face?}
-{350}{}{Its me! Dont you see that? Uh maybe you dont see it.. because am old now, but its me. Its my face when i got 40 years.}
-{400}{}{Why you made it?}
-{450}{}{Why?! Such a stupid question! Because i could be most popular in whole village. Just imagine my big stone face in middle of village! Sadly only our shaman understand my monumental idea.}
+{100}{}{Finalmente! Depois de todos esses anos eu teriminei... eu terminei esse monumento}
+{200}{}{Como você fez?}
+{250}{}{Nossos anciãos não nos permitem usar coisas técnicas. Com a britadeira que Vic me deu eu consegui fazer em alguns dias, mas eu costumava usar uma ferramenta tradicional: garfo de madeira. Eu gastei metade da minha vida para fazê-la, mas como vê com o resultado, valeu a pena.}
+{300}{}{O quê é aquela cara?}
+{350}{}{Sou eu! Você não vê isso? Uh talvez você não vê isso... porque eu estou velho agora, mas sou eu. É o meu rosto quando eu tinha 40 anos.}
+{400}{}{Porquê você a fez?}
+{450}{}{Porquê?! Que pergunta idiota? Porque eu poderia ser a pessoa mais popular da vila inteira. Só imagina meu rosto gigantesco esculpido no meio da vila! Infelizmente só nossa xamã entende minha ideia sobre o monumeto.}
 {910}{}{FIM }
 {920}{}{VOLTAR }
