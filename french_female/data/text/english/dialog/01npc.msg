@@ -1,11 +1,11 @@
-{10}{}{Guard.}
-{20}{}{They everyone tribals look the same..}
-{100}{}{Hey! You! Dirty man! What you doing here?! This village is top secret and nobody from outside world cant enter our holy land! }
-{200}{}{Am just traveller from Klamath.}
-{250}{}{Get out of here! Peoples like you come here only to steal everything and make troubles. Thats why we dont like tourists!  }
-{300}{}{Do you have flask of beer? }
-{350}{}{What is beee? I never heard about such thing.. Maybe our crazy shaman will have one, he got many strange mixtures and potions.}
-{400}{}{I search something to drink.. And what you do?}
-{450}{}{Our witch put another villager to temple of trails and i must watch him. Already nobody returned from there. We need brave champion to made dangerous quest which will save us in these dark times.}
+{10}{}{Garde.}
+{20}{}{Ils se ressemblent tous...}
+{100}{}{Hé ! Toi ! Sale type ! Qu'est-ce que tu fais ici ?! Ce village est top secret et personne d'autre ne peut entrer sur notre terre sainte !}
+{200}{}{Je suis un simple voyageur de Klamath.}
+{250}{}{Sortez d'ici ! Les gens comme vous viennent ici pour tout voler et créer des problèmes. C'est pour ça qu'on n'aime pas les touristes !}
+{300}{}{Tu as une flasque de bière ?}
+{350}{}{Qu'est-ce que c'est ? Je n'ai jamais entendu parler d'une telle chose... Peut-être que notre chaman fou en aura un, il a beaucoup de mélanges et de potions étranges.}
+{400}{}{Je cherche quelque chose à boire... Et qu'est-ce que tu proposes ?}
+{450}{}{Notre chman a envoyé un autre villageois au temple des sentiers et je dois le surveiller. Déjà personne n'est revenu de là-bas. Nous avons besoin d'un champion courageux pour faire une quête dangereuse qui nous sauvera en ces temps sombres.}
 {910}{}{END }
 {920}{}{BACK }
