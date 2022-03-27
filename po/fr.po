@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2021-10-26 12:40+0000\n"
-"Last-Translator: HawK <hawkeye.falloutgen@gmail.com>\n"
+"PO-Revision-Date: 2022-03-27 12:40+0000\n"
+"Last-Translator: DocteurKain <jeanpeuplus@free.fr>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/fr/>\n"
 "Language: fr\n"
@@ -17,41 +17,48 @@ msgstr ""
 
 #: data/text/english/dialog/01npc.msg:10
 msgid "Guard."
-msgstr ""
+msgstr "Garde."
 
 #: data/text/english/dialog/01npc.msg:20 data/text/english/dialog/02npc.msg:20
 msgid "They everyone tribals look the same.."
-msgstr ""
+msgstr "Ils se ressemblent tous..."
 
 #: data/text/english/dialog/01npc.msg:100
 msgid ""
 "Hey! You! Dirty man! What you doing here?! This village is top secret and "
 "nobody from outside world cant enter our holy land! "
 msgstr ""
+"Hé ! Toi ! Sale type ! Qu'est-ce que tu fais ici ?! Ce village est top "
+"secret et personne d'autre ne peut entrer sur notre terre sainte !"
 
 #: data/text/english/dialog/01npc.msg:200
 msgid "Am just traveller from Klamath."
-msgstr ""
+msgstr "Je suis un simple voyageur de Klamath."
 
 #: data/text/english/dialog/01npc.msg:250
 msgid ""
 "Get out of here! Peoples like you come here only to steal everything and "
 "make troubles. Thats why we dont like tourists!  "
 msgstr ""
+"Sortez d'ici ! Les gens comme vous viennent ici pour tout voler et créer des "
+"problèmes. C'est pour ça qu'on n'aime pas les touristes !"
 
 #: data/text/english/dialog/01npc.msg:300
 msgid "Do you have flask of beer? "
-msgstr ""
+msgstr "Tu as une flasque de bière ?"
 
 #: data/text/english/dialog/01npc.msg:350
 msgid ""
 "What is beee? I never heard about such thing.. Maybe our crazy shaman will "
 "have one, he got many strange mixtures and potions."
 msgstr ""
+"Qu'est-ce que c'est ? Je n'ai jamais entendu parler d'une telle chose... "
+"Peut-être que notre chaman fou en aura un, il a beaucoup de mélanges et de "
+"potions étranges."
 
 #: data/text/english/dialog/01npc.msg:400
 msgid "I search something to drink.. And what you do?"
-msgstr ""
+msgstr "Je cherche quelque chose à boire... Et qu'est-ce que tu proposes ?"
 
 #: data/text/english/dialog/01npc.msg:450
 msgid ""
@@ -59,6 +66,10 @@ msgid ""
 "Already nobody returned from there. We need brave champion to made dangerous"
 " quest which will save us in these dark times."
 msgstr ""
+"Notre chman a envoyé un autre villageois au temple des sentiers et je dois "
+"le surveiller. Déjà personne n'est revenu de là-bas. Nous avons besoin d'un "
+"champion courageux pour faire une quête dangereuse qui nous sauvera en ces "
+"temps sombres."
 
 #: data/text/english/dialog/01npc.msg:910
 #: data/text/english/dialog/02npc.msg:910
