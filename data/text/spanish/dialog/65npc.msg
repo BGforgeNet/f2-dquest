@@ -2,7 +2,6 @@
 {20}{}{Everyone knowns this kid is VERY quick!}
 {100}{}{[He read something in silence]}
 {200}{}{Helo kid what you read?}
-{201}{}{¿Tienes algo de cerveza?}
 {202}{}{Why you are so quick, do you eat something?}
 {203}{}{Where is your parents?}
 {204}{}{Damn! Whats wrong with you!?}
