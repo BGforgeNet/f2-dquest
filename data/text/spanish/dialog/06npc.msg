@@ -1,11 +1,11 @@
 {10}{}{Aldeano.}
-{20}{}{Todos aquí tienen el mismo aspecto.}
-{100}{}{¡No lo puedo creer! Has superado la prueba, ¡Nadie lo había hecho! ¡Ahora eres nuestro campeón!. Ve y habla con la anciana, ella tiene algo muy importante que decirte.}
-{200}{}{Uh… ¿Eres el guardia de la entrada del templo? Siento que todos los tribales son iguales.}
-{250}{}{Sí, soy el guardia y un gran guerrero, "Klint". Por cierto, odio a este bastardo que llamó a su perro con mi nombre. Ojalá pueda solucionar el problema de ayer para ahora sentirme mejor.}
-{300}{}{¿Y qué pasó con el tipo que le teme a entrar?}
-{350}{}{Se escapó a través del bosque en las afueras de la aldea, de la misma manera de la que tú vienes. ¡Espero que nunca regrese, no me gustan los cobardes!}
-{400}{}{¡Sí, soy un héroe! ¡Ahora dame cerveza!}
-{450}{}{Lo siento, pero no sé qué es eso… Habla con la anciana, ella sabe muchas cosas sobre los artefactos sagrados. También hace tratos con el comerciante Vic, él nos trae muchas cosas extrañas del mundo exterior.}
+{20}{}{Todos aquÃ­ tienen el mismo aspecto.}
+{100}{}{Â¡No lo puedo creer! Has superado la prueba, Â¡Nadie lo habÃ­a hecho! Â¡Ahora eres nuestro campeÃ³n!. Ve y habla con la anciana, ella tiene algo muy importante que decirte.}
+{200}{}{Uhâ€¦ Â¿Eres el guardia de la entrada del templo? Siento que todos los tribales son iguales.}
+{250}{}{SÃ­, soy el guardia y un gran guerrero, "Klint". Por cierto, odio a este bastardo que llamÃ³ a su perro con mi nombre. OjalÃ¡ pueda solucionar el problema de ayer para ahora sentirme mejor.}
+{300}{}{Â¿Y quÃ© pasÃ³ con el tipo que le teme a entrar?}
+{350}{}{Se escapÃ³ a travÃ©s del bosque en las afueras de la aldea, de la misma manera de la que tÃº vienes. Â¡Espero que nunca regrese, no me gustan los cobardes!}
+{400}{}{Â¡SÃ­, soy un hÃ©roe! Â¡Ahora dame cerveza!}
+{450}{}{Lo siento, pero no sÃ© quÃ© es esoâ€¦ Habla con la anciana, ella sabe muchas cosas sobre los artefactos sagrados. TambiÃ©n hace tratos con el comerciante Vic, Ã©l nos trae muchas cosas extraÃ±as del mundo exterior.}
 {910}{}{FIN}
 {920}{}{REGRESAR}

@@ -1,5 +1,5 @@
 {10}{}{Aldeano.}
-{20}{}{Todos aquí tienen el mismo aspecto.}
+{20}{}{Todos aquÃ­ tienen el mismo aspecto.}
 {100}{}{intro}
 {200}{}{answer}
 {250}{}{bring me}

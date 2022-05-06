@@ -5,7 +5,7 @@
 {250}{}{I found them many crashed on desert near Navarro. One from my friends say they are alien ships. But am not sure about that theory, because there is no space for pilot inside. Seem like they are spying robots. Am not sure why they crashed, maybe bacause wrong program in main computer. As you see am trying to repair one, but it seem to be really dificulty [When you look at this machine it seem to be really hard to understand how it work and require skills science and repair near 300%] }
 {300}{}{Can you borrow me your car? }
 {350}{}{Forget about that i spend half year to repair it. Find some brahmin and drive it like others do. And DONT touch my car or i will change your face shape! [He point you big hammer on table] }
-{400}{}{Você tem cerveja?}
+{400}{}{VocÃª tem cerveja?}
 {450}{}{[He seem to be too busy for such question]}
 {910}{}{FIM }
 {920}{}{VOLTAR }

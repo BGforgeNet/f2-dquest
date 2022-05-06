@@ -1,5 +1,5 @@
 {10}{}{Citizen. }
-{20}{}{Todos aquí tienen el mismo aspecto.}
+{20}{}{Todos aquÃ­ tienen el mismo aspecto.}
 {100}{}{So you return from your.. journey. Its good to see you again. Uh your wife was very angry and she asked me about sleep with her.. But dont fear she is so ugly that.. Uh i mean.. nothing.}
 {200}{}{I dont remember many things from my life.}
 {250}{}{Dont you remember when we was farmers trough many years and finally we settle in Klamath? Old good days.. they will never return. Dont worry your problems is probably because radiation and dirty water. Everybody around have problems with health.. even me.}

@@ -11,4 +11,4 @@
 {403}{}{Wonderfull tasty!}
 {404}{}{I must find some clean flasks.. }
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

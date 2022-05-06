@@ -1,11 +1,11 @@
-{10}{}{Aldeão. }
+{10}{}{AldeÃ£o. }
 {20}{}{Eles todos parecem os mesmos...}
-{100}{}{Eu perdi meu cachorro. Uh... e eu temo que alguém comeu ele! Estranho, você poderia investigar para onde foi o sujo do meu animal? O nome dele era "Klint".}
-{200}{}{Eu não gosto de resolver enigmas.}
-{250}{}{Uh sim... Você não parece muito esperto. Deixa pra lá, eu apenas esperarei aqui até ele retornar. Provavelmente ele correr pela vila e caçar ratos.}
-{300}{}{Você tem cerveja?}
+{100}{}{Eu perdi meu cachorro. Uh... e eu temo que alguÃ©m comeu ele! Estranho, vocÃª poderia investigar para onde foi o sujo do meu animal? O nome dele era "Klint".}
+{200}{}{Eu nÃ£o gosto de resolver enigmas.}
+{250}{}{Uh sim... VocÃª nÃ£o parece muito esperto. Deixa pra lÃ¡, eu apenas esperarei aqui atÃ© ele retornar. Provavelmente ele correr pela vila e caÃ§ar ratos.}
+{300}{}{VocÃª tem cerveja?}
 {350}{}{[Ele olha ao redor procurando cachorro e ignora sua pergunta]}
 {400}{}{Me fale sobre esta vila.}
-{450}{}{Nós vivemos em paz longe da civilização. Os anciãos dizem que técnicas trazem apenas dor e devastação, então nós devemos acreditar apenas em tradicionais mágicas shamans. Mas um dia Vic o comerciante veio até nós com coisas maravilhosas. Os grandes fantasmas nos abandoram e muitas pessoas ficaram doentes.}
+{450}{}{NÃ³s vivemos em paz longe da civilizaÃ§Ã£o. Os anciÃ£os dizem que tÃ©cnicas trazem apenas dor e devastaÃ§Ã£o, entÃ£o nÃ³s devemos acreditar apenas em tradicionais mÃ¡gicas shamans. Mas um dia Vic o comerciante veio atÃ© nÃ³s com coisas maravilhosas. Os grandes fantasmas nos abandoram e muitas pessoas ficaram doentes.}
 {910}{}{FIM }
 {920}{}{VOLTAR }

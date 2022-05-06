@@ -1,5 +1,5 @@
 {10}{}{Aldeano.}
-{20}{}{Todos aquí tienen el mismo aspecto.}
+{20}{}{Todos aquÃ­ tienen el mismo aspecto.}
 {100}{}{Finally! After many years i finished this.. monument!}
 {200}{}{How you made it?}
 {250}{}{Our elders dont allow us to use any technical stuff. With Vic drill i could made it in few days but i used traditional tool: wooden fork. I spend half of my life to made it, but as you see result was worth it.}

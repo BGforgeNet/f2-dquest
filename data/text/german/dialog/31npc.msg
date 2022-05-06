@@ -11,4 +11,4 @@
 {403}{}{Darling you are so sweet..}
 {404}{}{This was HOT! action..}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

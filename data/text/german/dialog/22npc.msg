@@ -11,4 +11,4 @@
 {403}{}{Yeah i have lighter!}
 {404}{}{This trashcan is full ot treasures!}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

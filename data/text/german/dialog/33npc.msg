@@ -10,4 +10,4 @@
 {500}{}{Hey you, stupid dog! Take this! [throw him meat] }
 {550}{}{Grrr.. wof! wof! [He take meat and run behind house to hide it under sand.. and you see that its many items inside hole which he dig. Rags, bones, few coins and.. golden watch!] }
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

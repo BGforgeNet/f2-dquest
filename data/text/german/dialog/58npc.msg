@@ -11,4 +11,4 @@
 {403}{}{Fuck off with these rocks!}
 {404}{}{NEXT!}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

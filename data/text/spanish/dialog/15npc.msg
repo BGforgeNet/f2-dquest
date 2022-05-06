@@ -1,5 +1,5 @@
 {10}{}{Aldeano.}
-{20}{}{Todos aquí tienen el mismo aspecto.}
+{20}{}{Todos aquÃ­ tienen el mismo aspecto.}
 {100}{}{Oh no no.. why i drink that!}
 {101}{}{My head.. its so BIG!}
 {102}{}{Yesterday funny visions and now the pain!}

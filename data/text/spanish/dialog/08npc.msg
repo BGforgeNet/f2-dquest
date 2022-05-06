@@ -1,14 +1,14 @@
-{10}{}{Chamán.}
+{10}{}{ChamÃ¡n.}
 {20}{}{Tiene aspecto de un loco.}
-{100}{}{¡Jajajaja… mira esas formas y colores!}
-{200}{}{¿De qué estás hablando?}
-{250}{}{¡Jajajaja… lo siento, olvidé que no ves lo que yo veo! Inventé una mezcla maravillosa. Está hecha de mierda de brahmin y flor de broquia. A menos que no tenga demasiadas flores. ¡Tráeme una y te ayudaré a ver el lado oculto del mundo asombroso!}
-{300}{}{Tengo la flor, ¿Puedes hacerme la mezcla maravillosa?}
-{350}{}{¡Oh sí! [Te quita la flor y un pedazo de mierda del barril. Después de media hora te dio una mezcla maravillosa.]}
-{400}{}{¡Ayúdame! ¡El pájaro serpiente ataca mi zapato!}
-{401}{}{¡¿Por qué estas rocas se me escapan?!}
-{402}{}{¡Wow, tengo tres manos!}
-{403}{}{¡¿Qué es eso?!… ¡¡No puedo atraparlo!!}
-{404}{}{¡Fuego! ¡Mi casa se está quemando!}
+{100}{}{Â¡Jajajajaâ€¦ mira esas formas y colores!}
+{200}{}{Â¿De quÃ© estÃ¡s hablando?}
+{250}{}{Â¡Jajajajaâ€¦ lo siento, olvidÃ© que no ves lo que yo veo! InventÃ© una mezcla maravillosa. EstÃ¡ hecha de mierda de brahmin y flor de broquia. A menos que no tenga demasiadas flores. Â¡TrÃ¡eme una y te ayudarÃ© a ver el lado oculto del mundo asombroso!}
+{300}{}{Tengo la flor, Â¿Puedes hacerme la mezcla maravillosa?}
+{350}{}{Â¡Oh sÃ­! [Te quita la flor y un pedazo de mierda del barril. DespuÃ©s de media hora te dio una mezcla maravillosa.]}
+{400}{}{Â¡AyÃºdame! Â¡El pÃ¡jaro serpiente ataca mi zapato!}
+{401}{}{Â¡Â¿Por quÃ© estas rocas se me escapan?!}
+{402}{}{Â¡Wow, tengo tres manos!}
+{403}{}{Â¡Â¿QuÃ© es eso?!â€¦ Â¡Â¡No puedo atraparlo!!}
+{404}{}{Â¡Fuego! Â¡Mi casa se estÃ¡ quemando!}
 {910}{}{FIN}
 {920}{}{REGRESAR}

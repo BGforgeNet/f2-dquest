@@ -21,4 +21,4 @@
 {650}{}{We dont make movies here, you must visit New Reno "Porn Club". Ofcourse they will dont hire you as "actor" if your "experience" is lower than 10. Already your SEX-EXP is: }
 {700}{}{ pyt6 }
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

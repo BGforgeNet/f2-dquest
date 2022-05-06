@@ -1,7 +1,7 @@
-{10}{}{Ein Ungetüm.}
+{10}{}{Ein UngetÃ¼m.}
 {20}{}{Er sieht nicht aggressive aus...}
 {100}{}{Hilf!}
 {101}{}{Oh...keine Menschen mehr!...Helf!}
-{102}{}{Ich möchte etwas anderes essen...einige Früchte!}
+{102}{}{Ich mÃ¶chte etwas anderes essen...einige FrÃ¼chte!}
 {103}{}{Oh nein, nicht noch ein Mensch! Verschwinde, ihr schmeckt furchtbar!}
 {104}{}{Aufffffwiiiieeeddddeeeseeehh!}

@@ -11,4 +11,4 @@
 {403}{}{Am not sure this will work but i must try..}
 {404}{}{Thank you again!}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

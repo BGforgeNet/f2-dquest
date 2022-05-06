@@ -1,9 +1,9 @@
-{100}{}{Tienes una excelente visión pero te sientes enfermo.}
-{101}{}{¡Soy señor mosca! ¡Y vuelo como el viento!}
-{102}{}{¿Dónde están mis zapatos? ¡Policía! ¡¡Alguien robó mis zapatos!!}
-{103}{}{¡Wow… mi cabeza es tan GRANDE!}
+{100}{}{Tienes una excelente visiÃ³n pero te sientes enfermo.}
+{101}{}{Â¡Soy seÃ±or mosca! Â¡Y vuelo como el viento!}
+{102}{}{Â¿DÃ³nde estÃ¡n mis zapatos? Â¡PolicÃ­a! Â¡Â¡Alguien robÃ³ mis zapatos!!}
+{103}{}{Â¡Wowâ€¦ mi cabeza es tan GRANDE!}
 {104}{}{Encontre oro! jaja! ...no es solo piedra}
-{105}{}{Mira este arcoíris!!}
+{105}{}{Mira este arcoÃ­ris!!}
 {106}{}{No puedo mover mi pierna! Argh!! ayudame!!}
 {107}{}{Whats wrong with my fingers? I have them too much.. }
 {108}{}{Am unvisible! }

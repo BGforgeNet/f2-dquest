@@ -10,7 +10,7 @@
 {250}{}{[She seem to be very lucky and agile] Thanx. But sadly.. i dont like yours haha! Many peoples call me CAT. I was thief once, member of Yakuza team. But i lost with them contact long time ago, so i hired in bathhouse to get some cash. Am not sure where they disappear and whats happend.. but it must be some tragic accident. Well, am still alive!  }
 {300}{}{I dont remember my wife and kids, i must hit brain somewhere..}
 {350}{}{Hah! No its probably because radiation. But dont be so sad, many peoples spend lot of money to be in your situation. I mean that wonderfull time when you forgot everything.. and dont care about whole problems! }
-{400}{}{¿Tienes algo de cerveza?}
+{400}{}{Â¿Tienes algo de cerveza?}
 {450}{}{Here? No! I dont have fridge, you known.. hot beer tasty ugly! If you need some drinks go to Arroyo, i heard that local shaman make very good "Schlager". Just one drink of that mixture and you fly away! Sadly it dont smell good, i wonder from what its made anyway!? }
 {500}{}{When you enter room she was naked in her favourite position and in hurry you begin action, because you got 30 minutes of time to spend with her.}
 {501}{}{[T:05] }

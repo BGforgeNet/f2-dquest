@@ -5,7 +5,7 @@
 {250}{}{Watch! [You see that he dont have any clothes under cloak! But he shown you so quick that you seen almost nothing.]}
 {300}{}{What you want from me?!}
 {350}{}{I will shown you! Just give me one coin!}
-{400}{}{Você tem cerveja?}
+{400}{}{VocÃª tem cerveja?}
 {450}{}{I have something better.. WATCH! [He shown you his dirty body. You lost concentration, and almost fall on ground.] }
 {910}{}{FIM }
 {920}{}{VOLTAR }

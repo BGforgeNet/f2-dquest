@@ -1,4 +1,4 @@
-{10}{}{Alde„o. }
+{10}{}{Alde√£o. }
 {20}{}{Eles todos parecem os mesmos...}
 {100}{}{intro}
 {200}{}{answer}

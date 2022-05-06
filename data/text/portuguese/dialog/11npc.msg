@@ -1,11 +1,11 @@
-{10}{}{Aldeão. }
+{10}{}{AldeÃ£o. }
 {20}{}{Eles todos parecem os mesmos...}
 {100}{}{Finalmente! Depois de todos esses anos eu teriminei... eu terminei esse monumento}
-{200}{}{Como você fez?}
-{250}{}{Nossos anciãos não nos permitem usar coisas técnicas. Com a britadeira que Vic me deu eu consegui fazer em alguns dias, mas eu costumava usar uma ferramenta tradicional: garfo de madeira. Eu gastei metade da minha vida para fazê-la, mas como vê com o resultado, valeu a pena.}
-{300}{}{O quê é aquela cara?}
-{350}{}{Sou eu! Você não vê isso? Uh talvez você não vê isso... porque eu estou velho agora, mas sou eu. É o meu rosto quando eu tinha 40 anos.}
-{400}{}{Porquê você a fez?}
-{450}{}{Porquê?! Que pergunta idiota? Porque eu poderia ser a pessoa mais popular da vila inteira. Só imagina meu rosto gigantesco esculpido no meio da vila! Infelizmente só nossa xamã entende minha ideia sobre o monumeto.}
+{200}{}{Como vocÃª fez?}
+{250}{}{Nossos anciÃ£os nÃ£o nos permitem usar coisas tÃ©cnicas. Com a britadeira que Vic me deu eu consegui fazer em alguns dias, mas eu costumava usar uma ferramenta tradicional: garfo de madeira. Eu gastei metade da minha vida para fazÃª-la, mas como vÃª com o resultado, valeu a pena.}
+{300}{}{O quÃª Ã© aquela cara?}
+{350}{}{Sou eu! VocÃª nÃ£o vÃª isso? Uh talvez vocÃª nÃ£o vÃª isso... porque eu estou velho agora, mas sou eu. Ã‰ o meu rosto quando eu tinha 40 anos.}
+{400}{}{PorquÃª vocÃª a fez?}
+{450}{}{PorquÃª?! Que pergunta idiota? Porque eu poderia ser a pessoa mais popular da vila inteira. SÃ³ imagina meu rosto gigantesco esculpido no meio da vila! Infelizmente sÃ³ nossa xamÃ£ entende minha ideia sobre o monumeto.}
 {910}{}{FIM }
 {920}{}{VOLTAR }

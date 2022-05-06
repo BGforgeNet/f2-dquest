@@ -11,4 +11,4 @@
 {403}{}{Old times.. lets drink for that!}
 {404}{}{Am not sure they was aliens.. but who known!}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

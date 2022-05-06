@@ -8,4 +8,4 @@
 {400}{}{Habt ihr Bier?}
 {450}{}{[He seem to be too busy for such question]}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

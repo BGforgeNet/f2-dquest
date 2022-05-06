@@ -1,4 +1,4 @@
-{100}{}{Você tem uma visão incrível mas você se sente enjoado.}
+{100}{}{VocÃª tem uma visÃ£o incrÃ­vel mas vocÃª se sente enjoado.}
 {101}{}{Am BATMAN! And i have very cool car!  }
 {102}{}{Am Superman strongh like horse!  }
 {103}{}{Argggh! Am SUPER mutant! }

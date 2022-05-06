@@ -1,5 +1,5 @@
 {10}{}{Citizen. }
-{20}{}{Todos aquí tienen el mismo aspecto.}
+{20}{}{Todos aquÃ­ tienen el mismo aspecto.}
 {100}{}{Month ago my man go search golden geckos in poison cave. Ofcourse he died there because it was too dangerous and nodoby want to help him. Now am alone and.. are you interested to be my new.. entertainment?}
 {200}{}{Uh i dont known.. probably.}
 {250}{}{I will give you ten coins for one night!}

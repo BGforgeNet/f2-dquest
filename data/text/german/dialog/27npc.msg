@@ -5,7 +5,7 @@
 {250}{}{You horse? Fuck off! Its MY!}
 {300}{}{Habt ihr Bier?}
 {350}{}{Beer? Hahahah.. I have POWERFULL! drugs..}
-{400}{}{Wie heiﬂt du?}
+{400}{}{Wie hei√üt du?}
 {450}{}{My name is Bond.. James Bond.. remember that.. Yeah! am tell him! Am best.. Am best in the universe.. Man! I could crush you by my one finger! And am so smart.. yeah! Am BEST!  }
 {910}{}{Ende}
-{920}{}{Zur¸ck}
+{920}{}{Zur√ºck}

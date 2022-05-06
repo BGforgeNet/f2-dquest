@@ -1,4 +1,4 @@
-{10}{}{Alde„o. }
+{10}{}{Alde√£o. }
 {20}{}{Eles todos parecem os mesmos...}
 {100}{}{Only the truly wiser can follow the path of darkness.}
 {101}{}{You are Klamath citizen right? Yes i known everything! }

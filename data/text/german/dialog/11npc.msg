@@ -8,4 +8,4 @@
 {400}{}{Why you made it?}
 {450}{}{Why?! Such a stupid question! Because i could be most popular in whole village. Just imagine my big stone face in middle of village! Sadly only our shaman understand my monumental idea.}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

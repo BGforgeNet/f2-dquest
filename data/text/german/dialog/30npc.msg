@@ -1,4 +1,4 @@
-{10}{}{Auserwähltes Wesen.}
+{10}{}{AuserwÃ¤hltes Wesen.}
 {20}{}{You seen him before near entrance to Arroyo temple!}
 {100}{}{[He sit in bushes and eat corn]}
 {200}{}{Was machst du hier?}
@@ -8,4 +8,4 @@
 {400}{}{Habt ihr Bier?}
 {450}{}{Do you mean this yellow water in flask which i seen in bar? No i dont have it.. and i dont like any mixtures, i got bad experiences in Arroyo. Shaman promises me wonderfull time but i was sick trough whole day! }
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

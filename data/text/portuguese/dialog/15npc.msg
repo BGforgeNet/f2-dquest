@@ -1,4 +1,4 @@
-{10}{}{Alde„o. }
+{10}{}{Alde√£o. }
 {20}{}{Eles todos parecem os mesmos...}
 {100}{}{Oh no no.. why i drink that!}
 {101}{}{My head.. its so BIG!}

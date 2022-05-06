@@ -11,4 +11,4 @@
 {403}{}{[she use cosmetics]}
 {404}{}{Hi Hi Hi}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

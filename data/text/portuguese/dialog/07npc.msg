@@ -1,13 +1,13 @@
-{10}{}{Alde„o. }
+{10}{}{Alde√£o. }
 {20}{}{Eles todos parecem os mesmos...}
-{100}{}{Estou t„o cansado... Ei homem sujo! VocÍ pode me ajudar?}
-{200}{}{Uh, n„o tenho certeza... O que vocÍ precisa?}
-{250}{}{Xam„ quer entregar mais coisas de merda para ele, mas minha p· È muito pesada. Traga uma nova, uma limpa. Ela deve estar em algum lugar perto daquelas barracas! [Ela aponta o dedo em uma direÁ„o aleatÛria e senta no ch„o tentando limpar os sapatos]}
-{300}{}{Eu achei p· limpa!}
-{350}{}{Obrigado cara... Eu vou terminar meu trabalho mais tarde, porque eu estou muito cansado. Pegue essas coisas brilhantes que Vic me deu em troca de um beijo. Eu ouvi por aÌ que muitas coisas podem ser compradas com aquela coisa chamada... "dinheiro".}
-{400}{}{Estou t„o cansado...}
+{100}{}{Estou t√£o cansado... Ei homem sujo! Voc√™ pode me ajudar?}
+{200}{}{Uh, n√£o tenho certeza... O que voc√™ precisa?}
+{250}{}{Xam√£ quer entregar mais coisas de merda para ele, mas minha p√° √© muito pesada. Traga uma nova, uma limpa. Ela deve estar em algum lugar perto daquelas barracas! [Ela aponta o dedo em uma dire√ß√£o aleat√≥ria e senta no ch√£o tentando limpar os sapatos]}
+{300}{}{Eu achei p√° limpa!}
+{350}{}{Obrigado cara... Eu vou terminar meu trabalho mais tarde, porque eu estou muito cansado. Pegue essas coisas brilhantes que Vic me deu em troca de um beijo. Eu ouvi por a√≠ que muitas coisas podem ser compradas com aquela coisa chamada... "dinheiro".}
+{400}{}{Estou t√£o cansado...}
 {401}{}{Eu cheiro mal igual brahmin...}
-{402}{}{MaldiÁ„o! Eu tenho sapatos pesados...}
+{402}{}{Maldi√ß√£o! Eu tenho sapatos pesados...}
 {403}{}{Outro dia maravilhoso...}
 {404}{}{Me deixe em paz, estou ocupado...}
 {910}{}{FIM }

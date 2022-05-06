@@ -8,4 +8,4 @@
 {400}{}{Habt ihr Bier?}
 {450}{}{I have something better.. WATCH! [He shown you his dirty body. You lost concentration, and almost fall on ground.] }
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

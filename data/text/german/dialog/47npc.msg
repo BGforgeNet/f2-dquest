@@ -8,4 +8,4 @@
 {400}{}{Well.. i dont seen doors!}
 {450}{}{Uh i forgot.. i burned every doors because night was cold.}
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

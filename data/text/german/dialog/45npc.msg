@@ -8,4 +8,4 @@
 {400}{}{Do you seen GECK?}
 {450}{}{Yes ofcourse! [he shown you some junk, everything he have is junk] As you see i have everything, am best trader in the universe! Vic sell me many items, but also i found lot of treasures outside town. Some day i will open shop called "1001 items" this will be great day am tell you! And i will sell THIS book about my bartering career. }
 {910}{}{Ende}
-{920}{}{Zurück}
+{920}{}{ZurÃ¼ck}

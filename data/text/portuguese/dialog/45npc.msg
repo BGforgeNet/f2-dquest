@@ -1,7 +1,7 @@
 {10}{}{Citizen. }
 {20}{}{Eles todos parecem os mesmos...}
 {100}{}{[He sit near table and writing something in silence]}
-{200}{}{Você tem cerveja?}
+{200}{}{VocÃª tem cerveja?}
 {250}{}{No.. [He seem to be very busy on book]}
 {300}{}{What you do?}
 {350}{}{Am writing diary.. [you look at page and read few fragments] "..today i found amazing items, not like trash yesterday.. i found very white bone, almost new!.. i found rope, almost one meter long!.. i found three nails, well they was little rusty and have weird shape.. thats all i found! Such a great day! Tomorrow i will search again.. my collection is best in the world!}

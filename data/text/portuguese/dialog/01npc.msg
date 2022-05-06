@@ -1,11 +1,11 @@
 {10}{}{Guardar.}
 {20}{}{Eles todos tribais parecem os mesmos...}
-{100}{}{Ei! Você! Homem sujo! O que você está fazendo aqui?! Esta vila é altamente secreta e ninguém do mundo exterior pode entrar na nossa terra sagrada!}
+{100}{}{Ei! VocÃª! Homem sujo! O que vocÃª estÃ¡ fazendo aqui?! Esta vila Ã© altamente secreta e ninguÃ©m do mundo exterior pode entrar na nossa terra sagrada!}
 {200}{}{Eu sou apenas um viajante de Klamath.}
-{250}{}{Saia daqui! Pessoas como você vem aqui só pra roubar tudo e criar problemas. É por isso que nós não gostamos de turistas!}
-{300}{}{Você tem frasco de cerveja?}
-{350}{}{O que é cerve? Eu nunca ouvi sobre tal coisa... Talvez nosso xamâ louco terá uma, ele tem muitas misturas e poções estranhas.}
-{400}{}{Eu procuro algo pra beber... E o que você faz?}
-{450}{}{Nossa bruxa põe outro aldeão no templo das provações e eu devo observá-lo. Ninguém já retornou de lá. Nós precisamos de bravo campeão pra fazer missão perigosa a qual nos salvará nestes tempos sombrios.}
+{250}{}{Saia daqui! Pessoas como vocÃª vem aqui sÃ³ pra roubar tudo e criar problemas. Ã‰ por isso que nÃ³s nÃ£o gostamos de turistas!}
+{300}{}{VocÃª tem frasco de cerveja?}
+{350}{}{O que Ã© cerve? Eu nunca ouvi sobre tal coisa... Talvez nosso xamÃ¢ louco terÃ¡ uma, ele tem muitas misturas e poÃ§Ãµes estranhas.}
+{400}{}{Eu procuro algo pra beber... E o que vocÃª faz?}
+{450}{}{Nossa bruxa pÃµe outro aldeÃ£o no templo das provaÃ§Ãµes e eu devo observÃ¡-lo. NinguÃ©m jÃ¡ retornou de lÃ¡. NÃ³s precisamos de bravo campeÃ£o pra fazer missÃ£o perigosa a qual nos salvarÃ¡ nestes tempos sombrios.}
 {910}{}{FIM }
 {920}{}{VOLTAR }

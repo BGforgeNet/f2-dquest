@@ -1,14 +1,14 @@
-{10}{}{Xamã.}
+{10}{}{XamÃ£.}
 {20}{}{Ele parece realmente louco...}
 {100}{}{Hahahah... Olha essas formas formas e cores!!}
-{200}{}{Uh... Do quê você está falando?}
-{250}{}{Hahahah... Desculpa eu esqueci que você não vê o que eu vejo! Eu inventei uma incrível mistura. É feita de merda de brahmin e broc flower. A não ser que eu não tenha muitas flores... Traga-me uma e eu te ajudarei a ver o que tem na parte escondida desse mundo incrível!}
-{300}{}{Eu tenho a flor, você poderia me fazer a mistura?}
-{350}{}{Aí sim porra! [Ele pega a flor da sua mão e um pedaço de merda do barril.Depois de meia ele te entrega a mistura incrível].}
-{400}{}{Me ajuda! Passáro cobra atacando meu sapato!}
-{401}{}{Porquê essas pedras escapam de mim?}
-{402}{}{Uau eu tenho uma terceira mão!!}
-{403}{}{O quê é isto? Eu não consigo pegar!!}
-{404}{}{Fogo! Minha casa tá pegando fogo bicho!!}
+{200}{}{Uh... Do quÃª vocÃª estÃ¡ falando?}
+{250}{}{Hahahah... Desculpa eu esqueci que vocÃª nÃ£o vÃª o que eu vejo! Eu inventei uma incrÃ­vel mistura. Ã‰ feita de merda de brahmin e broc flower. A nÃ£o ser que eu nÃ£o tenha muitas flores... Traga-me uma e eu te ajudarei a ver o que tem na parte escondida desse mundo incrÃ­vel!}
+{300}{}{Eu tenho a flor, vocÃª poderia me fazer a mistura?}
+{350}{}{AÃ­ sim porra! [Ele pega a flor da sua mÃ£o e um pedaÃ§o de merda do barril.Depois de meia ele te entrega a mistura incrÃ­vel].}
+{400}{}{Me ajuda! PassÃ¡ro cobra atacando meu sapato!}
+{401}{}{PorquÃª essas pedras escapam de mim?}
+{402}{}{Uau eu tenho uma terceira mÃ£o!!}
+{403}{}{O quÃª Ã© isto? Eu nÃ£o consigo pegar!!}
+{404}{}{Fogo! Minha casa tÃ¡ pegando fogo bicho!!}
 {910}{}{FIM }
 {920}{}{VOLTAR }
