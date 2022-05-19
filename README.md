@@ -1,17 +1,8 @@
 # Fallout 2: Dangerous Quest! mod translation
 
-<a href="https://tra.bgforge.net/projects/fallout/dangerous-quest/">
-<img src="https://tra.bgforge.net/widgets/fallout/-/dangerous-quest/svg-badge.svg" alt="Translation status" />
-</a>
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-<img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg" alt="License" />
-</a>
+[![Translation status](https://hive.bgforge.net/widgets/fallout/-/dangerous-quest/svg-badge.svg)](https://hive.bgforge.net/projects/fallout/dangerous-quest/)
+[![Telegram](https://img.shields.io/badge/telegram-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange?logo=telegram)](https://t.me/bgforge)
+[![Discord](https://img.shields.io/discord/420268540700917760?logo=discord&label=discord&color=blue&logoColor=FEE75C)](https://discord.gg/4Yqfggm)
+[![IRC](https://img.shields.io/badge/%23IRC-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange)](https://bgforge.net/irc)
 
-[__Help translating__](https://tra.bgforge.net/projects/fallout/dangerous-quest/)
- | [__Download__](https://github.com/BGforgeNet/f2-dquest/releases)
- | [__Support__](https://github.com/BGforgeNet/f2-dquest/issues)
- | [__Discussion__](https://forums.bgforge.net/viewtopic.php?f=5&t=9)
-
-[Dangerous Quest!](http://www.nuclear-city.com/index.php/topic/738-dangerous-quest/) is a parody mod for Fallout 2 by [Lich](http://www.nma-fallout.com/members/lich.48382/).
-
-This is a Russian translation effort for the mod, coordinated on [BGforge](https://tra.bgforge.net/projects/fallout/dangerous-quest/).
+[Dangerous Quest!](http://www.nuclear-city.com/index.php/topic/738-dangerous-quest/) is a parody mod for Fallout 2 by [Lich](http://www.nma-fallout.com/members/lich.48382/). This is a localization effort for the mod, coordinated on [BGforge](https://forums.bgforge.net/viewtopic.php?f=5&t=9).
