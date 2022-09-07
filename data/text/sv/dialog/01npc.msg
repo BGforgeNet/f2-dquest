@@ -1,7 +1,7 @@
-{10}{}{Guard.}
-{20}{}{They everyone tribals look the same..}
-{100}{}{Hey! You! Dirty man! What you doing here?! This village is top secret and nobody from outside world cant enter our holy land! }
-{200}{}{Am just traveller from Klamath.}
+{10}{}{Vakt.}
+{20}{}{De allihop stammedlemmar ser likadana ut..}
+{100}{}{Hörru du! Smutsgubbe! Vad gör du här?! Den här byn är topphemlig och ingen från världen utanför får komma in i vårt heliga land!}
+{200}{}{Är bara resenär från Klamath.}
 {250}{}{Get out of here! Peoples like you come here only to steal everything and make troubles. Thats why we dont like tourists!  }
 {300}{}{Do you have flask of beer? }
 {350}{}{What is beee? I never heard about such thing.. Maybe our crazy shaman will have one, he got many strange mixtures and potions.}

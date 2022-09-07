@@ -1,5 +1,5 @@
 {10}{}{Chosen One. }
-{20}{}{They everyone tribals look the same..}
+{20}{}{De allihop stammedlemmar ser likadana ut..}
 {100}{}{Damn! I will die there.. i known that! }
 {200}{}{Hi man! Whats up?}
 {250}{}{Witch chosen me for test in temple. I fear to enter because nobody return.. can you hear this scream from darkness? Everyone died there. She must be really stupid to kill our brothers and sisters in this dumb test!}
