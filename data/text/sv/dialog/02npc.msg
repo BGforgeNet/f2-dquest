@@ -2,10 +2,10 @@
 {20}{}{De allihop stammedlemmar ser likadana ut..}
 {100}{}{Fan! Jag kommer att dö där... jag visste det!}
 {200}{}{Hej, mannen! Hur är läget?}
-{250}{}{Witch chosen me for test in temple. I fear to enter because nobody return.. can you hear this scream from darkness? Everyone died there. She must be really stupid to kill our brothers and sisters in this dumb test!}
-{300}{}{Do you have beer?}
-{350}{}{[He look into temple darkness and ignore your question]}
-{400}{}{Am so thirsty! Maybe i will find some beer it this.. tample?}
+{250}{}{Häxan väljde mig till testet i templet. Jag e rädd för å gå in för ingen kommer tillbaks... kan du höra skriket från mörkret? Alla dog där. Hon måste vara riktigt dum om hon dödar våra bröder och systrar i detta dumma test!}
+{300}{}{Har du öl?}
+{350}{}{[Han tittar in i tempelmörkret och ignorerar din fråga]}
+{400}{}{Är så törstig! Kanske hittar jag lite öl i det här... tamplet?}
 {450}{}{Oh yes.. temple contain many treasures from ancient world. Now leave me alone! I must made first little step into darkness.. but i fear to move my leg.}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}
