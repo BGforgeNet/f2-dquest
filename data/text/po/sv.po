@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-09-07 14:30+0000\n"
+"PO-Revision-Date: 2022-09-07 15:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -122,21 +122,24 @@ msgid ""
 "can you hear this scream from darkness? Everyone died there. She must be "
 "really stupid to kill our brothers and sisters in this dumb test!"
 msgstr ""
+"Häxan väljde mig till testet i templet. Jag e rädd för å gå in för ingen "
+"kommer tillbaks... kan du höra skriket från mörkret? Alla dog där. Hon måste "
+"vara riktigt dum om hon dödar våra bröder och systrar i detta dumma test!"
 
 #: dialog/02npc.msg:300 dialog/05npc.msg:300 dialog/27npc.msg:300
 #: dialog/30npc.msg:400 dialog/32npc.msg:400 dialog/34npc.msg:400
 #: dialog/37npc.msg:400 dialog/39npc.msg:300 dialog/45npc.msg:200
 #: dialog/49npc.msg:200 dialog/51npc.msg:400 dialog/65npc.msg:201
 msgid "Do you have beer?"
-msgstr ""
+msgstr "Har du öl?"
 
 #: dialog/02npc.msg:350
 msgid "[He look into temple darkness and ignore your question]"
-msgstr ""
+msgstr "[Han tittar in i tempelmörkret och ignorerar din fråga]"
 
 #: dialog/02npc.msg:400
 msgid "Am so thirsty! Maybe i will find some beer it this.. tample?"
-msgstr ""
+msgstr "Är så törstig! Kanske hittar jag lite öl i det här... tamplet?"
 
 #: dialog/02npc.msg:450
 msgid ""
