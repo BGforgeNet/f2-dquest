@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-09-07 15:30+0000\n"
+"PO-Revision-Date: 2022-09-07 18:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -2153,7 +2153,7 @@ msgstr ""
 #: dialog/37npc.msg:622 dialog/37npc.msg:623 dialog/38npc.msg:620
 #: dialog/38npc.msg:621 dialog/38npc.msg:622 dialog/38npc.msg:623
 msgid " "
-msgstr ""
+msgstr " "
 
 #: dialog/34npc.msg:700 dialog/37npc.msg:700 dialog/38npc.msg:700
 #: dialog/talk.msg:400
