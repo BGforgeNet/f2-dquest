@@ -10,5 +10,5 @@
 {402}{}{Blessed silence.}
 {403}{}{Uh.. what is that smell?}
 {404}{}{Thank you my friend!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

@@ -7,5 +7,5 @@
 {350}{}{Its joke? Leave me alone!}
 {400}{}{Well.. i dont seen doors!}
 {450}{}{Uh i forgot.. i burned every doors because night was cold.}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

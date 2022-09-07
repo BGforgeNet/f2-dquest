@@ -10,5 +10,5 @@
 {402}{}{Yeah such a great battle!}
 {403}{}{Old times.. lets drink for that!}
 {404}{}{Am not sure they was aliens.. but who known!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

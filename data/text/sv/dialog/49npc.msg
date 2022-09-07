@@ -10,5 +10,5 @@
 {402}{}{::DRINK::}
 {403}{}{Wonderfull tasty!}
 {404}{}{I must find some clean flasks.. }
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

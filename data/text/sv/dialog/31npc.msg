@@ -10,5 +10,5 @@
 {402}{}{We must try again later, please dont leave town darling..}
 {403}{}{Darling you are so sweet..}
 {404}{}{This was HOT! action..}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

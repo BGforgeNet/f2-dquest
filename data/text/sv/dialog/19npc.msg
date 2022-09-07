@@ -10,5 +10,5 @@
 {402}{}{Finally i have GECK.. am so happy! But how it work?}
 {403}{}{Please find how work this holy artefact!}
 {404}{}{This item will bring life and happines to the wasteland!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

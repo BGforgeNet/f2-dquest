@@ -10,5 +10,5 @@
 {402}{}{Only 20$}
 {403}{}{Fuck off with these rocks!}
 {404}{}{NEXT!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

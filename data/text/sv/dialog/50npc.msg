@@ -11,4 +11,4 @@
 {403}{}{..Such a dumb ashole! I tell you to close pipe!..}
 {404}{}{..I think we got radioactive lake again!..}
 {910}{}{[Let him sleep] }
-{920}{}{BACK }
+{920}{}{TILLBAKA}

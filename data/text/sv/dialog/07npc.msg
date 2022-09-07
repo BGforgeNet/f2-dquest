@@ -10,5 +10,5 @@
 {402}{}{Damn i have heavy shoes..}
 {403}{}{Another wonderfull day..}
 {404}{}{Leave me alone, am busy..}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

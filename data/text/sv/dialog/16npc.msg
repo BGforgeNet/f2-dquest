@@ -10,5 +10,5 @@
 {402}{}{Do you want tasty soup from xander?}
 {403}{}{Am not sure this will work but i must try..}
 {404}{}{Thank you again!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

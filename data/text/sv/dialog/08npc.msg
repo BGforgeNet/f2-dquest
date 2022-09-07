@@ -10,5 +10,5 @@
 {402}{}{Wow i have third hand!!}
 {403}{}{What is that?! I cant catch it!!}
 {404}{}{Fire! My house is under fire!!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

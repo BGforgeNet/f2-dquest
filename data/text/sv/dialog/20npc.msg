@@ -7,5 +7,5 @@
 {350}{}{Do you really forgot everything or its some kind of dark humor?! We got seven childrens: Mark, Frank, Vitold, Steven, Clara, Sue, Monica.. Now go and bring us some food. I dont know.. hunt for something or buy! No just whole days you search something to drink!!}
 {400}{}{But.. do you have some beer? }
 {450}{}{WHAT?! Dont tell me anything about alcohol or i kill you! Now do something usefull for our family and fix these walls. Yesterday big rat come to my bed and i dont sleep trough whole night because he dont want to get off from house! I wish you got this rat brain! He is much more smart than you!!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

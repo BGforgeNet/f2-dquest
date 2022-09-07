@@ -10,5 +10,5 @@
 {402}{}{Come back LATER.. maybe next month.}
 {403}{}{Sorry am BUSY right now!}
 {404}{}{My shop is TEMPORARY closed!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

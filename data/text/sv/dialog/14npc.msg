@@ -7,5 +7,5 @@
 {350}{}{No he dont sell junk, but very valuable items! For example this leather armor with one arm and one leg. Or this radio which work entire two minutes! Or this hat with big hole on top. These all are treasures to us villagers, because we live far from civilisation and we never seen before such things!}
 {400}{}{Do you have beer flask in your inventory?}
 {450}{}{Yes i have beer flask, i mean empty beer flask. Its great item because it make interesting noices when you throw inside small stones and shake it! Vic teach me how do that, its called "instrument".}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

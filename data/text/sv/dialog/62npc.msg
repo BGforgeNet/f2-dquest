@@ -7,5 +7,5 @@
 {350}{}{Thanx [he mark something on paper] lets return to test. }
 {400}{}{3. I eat it and search more! }
 {450}{}{Thanx [he mark something on paper] lets return to test. }
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

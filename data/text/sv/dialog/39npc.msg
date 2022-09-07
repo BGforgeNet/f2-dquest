@@ -7,5 +7,5 @@
 {350}{}{No i dont have and i DONT care about your problems!}
 {400}{}{Do you remember me?}
 {450}{}{Yes ofcourse.. you are local loser, this town is full of peoples like you, who have holes in memories because experiment too much with drugs and radioactive beers from "Gecko Plant"}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

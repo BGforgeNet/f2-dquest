@@ -10,5 +10,5 @@
 {402}{}{Yeah! Am superstar!}
 {403}{}{[she use cosmetics]}
 {404}{}{Hi Hi Hi}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

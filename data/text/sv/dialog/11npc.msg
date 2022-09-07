@@ -7,5 +7,5 @@
 {350}{}{Its me! Dont you see that? Uh maybe you dont see it.. because am old now, but its me. Its my face when i got 40 years.}
 {400}{}{Why you made it?}
 {450}{}{Why?! Such a stupid question! Because i could be most popular in whole village. Just imagine my big stone face in middle of village! Sadly only our shaman understand my monumental idea.}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

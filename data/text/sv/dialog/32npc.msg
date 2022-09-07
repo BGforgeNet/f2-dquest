@@ -7,5 +7,5 @@
 {350}{}{I will shown you! Just give me one coin!}
 {400}{}{Do you have beer?}
 {450}{}{I have something better.. WATCH! [He shown you his dirty body. You lost concentration, and almost fall on ground.] }
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

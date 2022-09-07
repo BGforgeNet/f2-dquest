@@ -10,5 +10,5 @@
 {402}{}{Leave me alone!}
 {403}{}{Yeah i have lighter!}
 {404}{}{This trashcan is full ot treasures!}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

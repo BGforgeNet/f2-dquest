@@ -7,5 +7,5 @@
 {350}{}{Forget about that i spend half year to repair it. Find some brahmin and drive it like others do. And DONT touch my car or i will change your face shape! [He point you big hammer on table] }
 {400}{}{Do you have beer?}
 {450}{}{[He seem to be too busy for such question]}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}

@@ -7,5 +7,5 @@
 {350}{}{He escaped trough forest outside village, the same way which you come here. I hope he will never return because i dont like losers!}
 {400}{}{Yes am hero! Now give me beer!}
 {450}{}{Sorry but i dont known what it is.. Talk with Elder, she known many things about holy artefacts. And she deal with trader Vis which bring us many strange stuff from outside world.}
-{910}{}{END }
-{920}{}{BACK }
+{910}{}{SLUT}
+{920}{}{TILLBAKA}
