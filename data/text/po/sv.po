@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-09-07 13:30+0000\n"
+"PO-Revision-Date: 2022-09-07 14:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -39,20 +39,24 @@ msgid ""
 "Get out of here! Peoples like you come here only to steal everything and "
 "make troubles. Thats why we dont like tourists!  "
 msgstr ""
+"Stick härifrån! Folk som du kommer hit bara för att stjäla allt och starta "
+"trubbel. Det är därför vi inte gillar turister!"
 
 #: dialog/01npc.msg:300
 msgid "Do you have flask of beer? "
-msgstr ""
+msgstr "Har du en flaska öl?"
 
 #: dialog/01npc.msg:350
 msgid ""
 "What is beee? I never heard about such thing.. Maybe our crazy shaman will "
 "have one, he got many strange mixtures and potions."
 msgstr ""
+"Vad är bii? Jag har aldrig hört om något sånt.. Kanske vår galna shaman har "
+"ett, han har många konstiga blandningar och trolldrycker."
 
 #: dialog/01npc.msg:400
 msgid "I search something to drink.. And what you do?"
-msgstr ""
+msgstr "Jag söker efter något att dricka.. Och vad du gör?"
 
 #: dialog/01npc.msg:450
 msgid ""
@@ -60,6 +64,9 @@ msgid ""
 "Already nobody returned from there. We need brave champion to made dangerous"
 " quest which will save us in these dark times."
 msgstr ""
+"Vår häxa har satt en annan bybo i stigarnas tempel och jag måste hålla ett "
+"öga på honom. Än har ingen återvänt därifrån. Vi behöver modiga mästare som "
+"kan göra ett farligt uppdrag som kommer att rädda oss i dessa mörka tider."
 
 #: dialog/01npc.msg:910 dialog/02npc.msg:910 dialog/04npc.msg:910
 #: dialog/05npc.msg:910 dialog/06npc.msg:910 dialog/07npc.msg:910
@@ -77,7 +84,7 @@ msgstr ""
 #: dialog/62npc.msg:910 dialog/65npc.msg:910 dialog/quest.msg:910
 #: dialog/talk.msg:910
 msgid "END "
-msgstr ""
+msgstr "SLUT"
 
 #: dialog/01npc.msg:920 dialog/02npc.msg:920 dialog/04npc.msg:920
 #: dialog/05npc.msg:920 dialog/06npc.msg:920 dialog/07npc.msg:920
@@ -95,19 +102,19 @@ msgstr ""
 #: dialog/61npc.msg:920 dialog/62npc.msg:920 dialog/65npc.msg:920
 #: dialog/quest.msg:920 dialog/talk.msg:920
 msgid "BACK "
-msgstr ""
+msgstr "TILLBAKA"
 
 #: dialog/02npc.msg:10 dialog/30npc.msg:10
 msgid "Chosen One. "
-msgstr ""
+msgstr "Den utvalda."
 
 #: dialog/02npc.msg:100
 msgid "Damn! I will die there.. i known that! "
-msgstr ""
+msgstr "Fan! Jag kommer att dö där... jag visste det!"
 
 #: dialog/02npc.msg:200
 msgid "Hi man! Whats up?"
-msgstr ""
+msgstr "Hej, mannen! Hur är läget?"
 
 #: dialog/02npc.msg:250
 msgid ""
@@ -148,7 +155,7 @@ msgstr ""
 
 #: dialog/03npc.msg:100
 msgid "HEP! "
-msgstr ""
+msgstr "HJÄP!"
 
 #: dialog/03npc.msg:101
 msgid "Uh.. no humans anymore! ..HEEP! "
