@@ -6,6 +6,6 @@
 {300}{}{Har du öl?}
 {350}{}{[Han tittar in i tempelmörkret och ignorerar din fråga]}
 {400}{}{Är så törstig! Kanske hittar jag lite öl i det här... tamplet?}
-{450}{}{Oh yes.. temple contain many treasures from ancient world. Now leave me alone! I must made first little step into darkness.. but i fear to move my leg.}
+{450}{}{Åh ja, templet innehåller många skatter från den antika världen. Lämna mig nu ifred! Jag måste ta det första lilla steget in i mörkret.. men jag är rädd för att röra på mitt ben.}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}
