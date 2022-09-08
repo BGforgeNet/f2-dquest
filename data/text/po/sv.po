@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-09-08 08:30+0000\n"
+"PO-Revision-Date: 2022-09-08 09:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -165,7 +165,7 @@ msgstr "HJÄP!"
 
 #: dialog/03npc.msg:101
 msgid "Uh.. no humans anymore! ..HEEP! "
-msgstr ""
+msgstr "Eh.. inga människor längre! ..HÄÄP!"
 
 #: dialog/03npc.msg:102
 msgid "I want to eat something different.. some fruit! "
