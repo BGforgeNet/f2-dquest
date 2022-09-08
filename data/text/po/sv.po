@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-09-07 18:30+0000\n"
+"PO-Revision-Date: 2022-09-08 08:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -147,14 +147,17 @@ msgid ""
 "alone! I must made first little step into darkness.. but i fear to move my "
 "leg."
 msgstr ""
+"Åh ja, templet innehåller många skatter från den antika världen. Lämna mig "
+"nu ifred! Jag måste ta det första lilla steget in i mörkret.. men jag är "
+"rädd för att röra på mitt ben."
 
 #: dialog/03npc.msg:10
 msgid "Some beast. "
-msgstr ""
+msgstr "Någon best "
 
 #: dialog/03npc.msg:20
 msgid "He dont look agressive.."
-msgstr ""
+msgstr "Han ser inte aggressiv ut.."
 
 #: dialog/03npc.msg:100
 msgid "HEP! "
