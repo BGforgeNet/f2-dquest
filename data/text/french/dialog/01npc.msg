@@ -1,6 +1,6 @@
 {10}{}{Garde.}
 {20}{}{Ils se ressemblent tous...}
-{100}{}{Hé ! Toi ! Sale type ! Qu'est-ce que tu fais ici ?! Ce village est top secret et personne d'autre ne peut entrer sur notre terre sainte !}
+{100}{}{Hé?! Toi?! Sale type?! Qu'est-ce que tu fais ici???! Ce village est top secret et personne d'autre ne peut entrer sur notre terre sainte?!}
 {200}{}{Je suis un simple voyageur de Klamath.}
 {250}{}{Sortez d'ici ! Les gens comme vous viennent ici pour tout voler et créer des problèmes. C'est pour ça qu'on n'aime pas les touristes !}
 {300}{}{Tu as une flasque de bière ?}
