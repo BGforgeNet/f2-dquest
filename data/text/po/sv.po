@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-09-08 09:30+0000\n"
+"PO-Revision-Date: 2022-09-15 14:31+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -169,7 +169,7 @@ msgstr "Eh.. inga människor längre! ..HÄÄP!"
 
 #: dialog/03npc.msg:102
 msgid "I want to eat something different.. some fruit! "
-msgstr ""
+msgstr "Jag vill äta något annat... lite frukt!"
 
 #: dialog/03npc.msg:103
 msgid "Oh no another human! Get out of my sight, you tasty bad! "
@@ -177,14 +177,14 @@ msgstr ""
 
 #: dialog/03npc.msg:104
 msgid "Heeegoodbyeeeep!"
-msgstr ""
+msgstr "Häääadjöäääp!"
 
 #: dialog/04npc.msg:10 dialog/05npc.msg:10 dialog/06npc.msg:10
 #: dialog/07npc.msg:10 dialog/10npc.msg:10 dialog/11npc.msg:10
 #: dialog/13npc.msg:10 dialog/15npc.msg:10 dialog/17npc.msg:10
 #: dialog/float.msg:10 dialog/quest.msg:10 dialog/talk.msg:10
 msgid "Villager. "
-msgstr ""
+msgstr "Bybo."
 
 #: dialog/04npc.msg:20 dialog/05npc.msg:20 dialog/06npc.msg:20
 #: dialog/07npc.msg:20 dialog/10npc.msg:20 dialog/11npc.msg:20
@@ -192,15 +192,15 @@ msgstr ""
 #: dialog/29npc.msg:20 dialog/31npc.msg:20 dialog/45npc.msg:20
 #: dialog/float.msg:20 dialog/quest.msg:20 dialog/talk.msg:20
 msgid "They everyone look the same.."
-msgstr ""
+msgstr "De alla ser likadana ut.."
 
 #: dialog/04npc.msg:100
 msgid "Helo stranger.. do you hear that strange voice from well??"
-msgstr ""
+msgstr "Halå främling.. hör du den där konstiga rösten från brunn??"
 
 #: dialog/04npc.msg:200
 msgid "Yeah.. it sound like dog scream."
-msgstr ""
+msgstr "Ja, det låter som hundskrik."
 
 #: dialog/04npc.msg:250
 msgid ""
@@ -1008,7 +1008,7 @@ msgstr ""
 
 #: dialog/22npc.msg:10
 msgid "Frank. "
-msgstr ""
+msgstr "Frank. "
 
 #: dialog/22npc.msg:20 dialog/23npc.msg:20 dialog/24npc.msg:20
 #: dialog/25npc.msg:20
@@ -1060,7 +1060,7 @@ msgstr ""
 
 #: dialog/23npc.msg:10
 msgid "Mark. "
-msgstr ""
+msgstr "Mark."
 
 #: dialog/23npc.msg:100
 msgid "Dragon wake up and look around.."
@@ -1228,7 +1228,7 @@ msgstr ""
 
 #: dialog/24npc.msg:10
 msgid "Vitold. "
-msgstr ""
+msgstr "Vitold."
 
 #: dialog/24npc.msg:100
 msgid "What damage made my sword? "
@@ -1436,7 +1436,7 @@ msgstr ""
 
 #: dialog/25npc.msg:10
 msgid "Steven. "
-msgstr ""
+msgstr "Steven."
 
 #: dialog/25npc.msg:100
 msgid "Levels system? but how much them? "
@@ -1649,7 +1649,7 @@ msgstr ""
 
 #: dialog/26npc.msg:10
 msgid "Sue. "
-msgstr ""
+msgstr "Sue."
 
 #: dialog/26npc.msg:100
 msgid ""
@@ -1744,7 +1744,7 @@ msgstr ""
 
 #: dialog/28npc.msg:300
 msgid "[Wanted!] "
-msgstr ""
+msgstr "[Efterlyst!]"
 
 #: dialog/28npc.msg:350
 msgid ""
@@ -1767,7 +1767,7 @@ msgstr ""
 #: dialog/29npc.msg:10 dialog/31npc.msg:10 dialog/45npc.msg:10
 #: dialog/53npc.msg:10 dialog/55npc.msg:10 dialog/59npc.msg:10
 msgid "Citizen. "
-msgstr ""
+msgstr "Medborgare."
 
 #: dialog/29npc.msg:100
 msgid ""
@@ -1932,7 +1932,7 @@ msgstr ""
 
 #: dialog/33npc.msg:10
 msgid "Dog. "
-msgstr ""
+msgstr "Hund."
 
 #: dialog/33npc.msg:20
 msgid "Just some dirty dog.."
@@ -1940,7 +1940,7 @@ msgstr ""
 
 #: dialog/33npc.msg:100
 msgid "Grrrrr... "
-msgstr ""
+msgstr "Grrrrr..."
 
 #: dialog/33npc.msg:200
 msgid "What is your name.. AZOR?! "
@@ -1987,27 +1987,27 @@ msgstr ""
 #: dialog/34npc.msg:50 dialog/35npc.msg:50 dialog/37npc.msg:50
 #: dialog/38npc.msg:50
 msgid " aaa "
-msgstr ""
+msgstr " aaa"
 
 #: dialog/34npc.msg:51 dialog/35npc.msg:51 dialog/37npc.msg:51
 #: dialog/38npc.msg:51
 msgid " bbb "
-msgstr ""
+msgstr " bbb"
 
 #: dialog/34npc.msg:52 dialog/35npc.msg:52 dialog/37npc.msg:52
 #: dialog/38npc.msg:52
 msgid " ccc "
-msgstr ""
+msgstr " ccc"
 
 #: dialog/34npc.msg:53 dialog/35npc.msg:53 dialog/37npc.msg:53
 #: dialog/38npc.msg:53
 msgid " ddd "
-msgstr ""
+msgstr " ddd"
 
 #: dialog/34npc.msg:54 dialog/35npc.msg:54 dialog/37npc.msg:54
 #: dialog/38npc.msg:54
 msgid " eee "
-msgstr ""
+msgstr " eee"
 
 #: dialog/34npc.msg:100
 msgid "Hello stranger.. do you need some.. sweet time? "
@@ -2049,23 +2049,23 @@ msgstr ""
 
 #: dialog/34npc.msg:501 dialog/37npc.msg:501 dialog/38npc.msg:501
 msgid "[T:05] "
-msgstr ""
+msgstr "[T:05]"
 
 #: dialog/34npc.msg:502 dialog/37npc.msg:502 dialog/38npc.msg:502
 msgid "[T:10] "
-msgstr ""
+msgstr "[T:10]"
 
 #: dialog/34npc.msg:503 dialog/37npc.msg:503 dialog/38npc.msg:503
 msgid "[T:15] "
-msgstr ""
+msgstr "[T:15]"
 
 #: dialog/34npc.msg:504 dialog/37npc.msg:504 dialog/38npc.msg:504
 msgid "[T:20] "
-msgstr ""
+msgstr "[T:20]"
 
 #: dialog/34npc.msg:505 dialog/37npc.msg:505 dialog/38npc.msg:505
 msgid "[T:25] "
-msgstr ""
+msgstr "[T:25]"
 
 #: dialog/34npc.msg:506 dialog/37npc.msg:506 dialog/38npc.msg:506
 msgid "[T:30] TIME END! "
@@ -2161,7 +2161,7 @@ msgstr " "
 #: dialog/34npc.msg:700 dialog/37npc.msg:700 dialog/38npc.msg:700
 #: dialog/talk.msg:400
 msgid " pyt3 "
-msgstr ""
+msgstr " pyt3"
 
 #: dialog/35npc.msg:10
 msgid "Sylvia Moon. "
@@ -2237,7 +2237,7 @@ msgstr ""
 
 #: dialog/35npc.msg:700
 msgid " pyt6 "
-msgstr ""
+msgstr " pyt6"
 
 #: dialog/36npc.msg:100
 msgid "Wooden door."
@@ -2325,7 +2325,7 @@ msgstr ""
 
 #: dialog/39npc.msg:10 dialog/40npc.msg:10
 msgid "Dalton. "
-msgstr ""
+msgstr "Dalton"
 
 #: dialog/39npc.msg:20 dialog/40npc.msg:20
 msgid "One from Dalton brothers, they are very similar.."
@@ -2451,35 +2451,35 @@ msgstr ""
 
 #: dialog/42npc.msg:500
 msgid "BOM! "
-msgstr ""
+msgstr "BOMM!"
 
 #: dialog/42npc.msg:501
 msgid "SWING! "
-msgstr ""
+msgstr "SVING!"
 
 #: dialog/42npc.msg:502
 msgid "ZIP! "
-msgstr ""
+msgstr "ZIP!"
 
 #: dialog/42npc.msg:503
 msgid "WIZ! "
-msgstr ""
+msgstr "WIZ!"
 
 #: dialog/42npc.msg:504
 msgid "JAB! "
-msgstr ""
+msgstr "JAB!"
 
 #: dialog/42npc.msg:505
 msgid "PING! "
-msgstr ""
+msgstr "PING!"
 
 #: dialog/42npc.msg:506
 msgid "UUU! "
-msgstr ""
+msgstr "UUU!"
 
 #: dialog/42npc.msg:507
 msgid "ZAP! "
-msgstr ""
+msgstr "ZAPP!"
 
 #: dialog/42npc.msg:508
 msgid "HOP! "
