@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-10-17 07:30+0000\n"
+"PO-Revision-Date: 2022-10-17 08:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -2559,7 +2559,7 @@ msgstr ""
 
 #: dialog/44npc.msg:102
 msgid "Heeep!"
-msgstr "Heeep!"
+msgstr "Häääp!"
 
 #: dialog/44npc.msg:103
 msgid "LOT! loot of thress ..therss.. treassuRES!"
@@ -2622,7 +2622,7 @@ msgstr ""
 
 #: dialog/46npc.msg:103
 msgid "FASTER! "
-msgstr ""
+msgstr "SNABBARE!"
 
 #: dialog/46npc.msg:104
 msgid "::kick bushes:: "
@@ -2727,7 +2727,7 @@ msgstr ""
 
 #: dialog/49npc.msg:10
 msgid "Water Merchant. "
-msgstr ""
+msgstr "Vattenhandlare."
 
 #: dialog/49npc.msg:20
 msgid "He seem to be very busy on some big machine.."
