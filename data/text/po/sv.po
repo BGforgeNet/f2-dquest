@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-09-15 14:31+0000\n"
+"PO-Revision-Date: 2022-10-17 07:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -173,7 +173,7 @@ msgstr "Jag vill äta något annat... lite frukt!"
 
 #: dialog/03npc.msg:103
 msgid "Oh no another human! Get out of my sight, you tasty bad! "
-msgstr ""
+msgstr "Åh nej, ännu en människa! Försvinn ur min åsyn, din smakliga skurk!"
 
 #: dialog/03npc.msg:104
 msgid "Heeegoodbyeeeep!"
@@ -208,10 +208,13 @@ msgid ""
 " he need sacrifice made from earth element. Go on corn filed and bring me "
 "some big stone.."
 msgstr ""
+"Nej, jag tror att det är något annat. Det måste vara ett gammalt spöke från "
+"jorden..  och han behöver ett offer av jordelement. Gå till majsfeltet och "
+"hämta någon stor sten..."
 
 #: dialog/04npc.msg:300
 msgid "Look! I found one."
-msgstr ""
+msgstr "Titta! Jag har hittat en."
 
 #: dialog/04npc.msg:350
 msgid ""
@@ -840,11 +843,11 @@ msgstr ""
 
 #: dialog/18npc.msg:104
 msgid "Snifff! "
-msgstr ""
+msgstr "Snifff!"
 
 #: dialog/19npc.msg:10
 msgid "Witch. "
-msgstr ""
+msgstr "Häxa"
 
 #: dialog/19npc.msg:20
 msgid "Very old woman, probably leader of this small community.."
@@ -905,7 +908,7 @@ msgstr ""
 
 #: dialog/20npc.msg:10
 msgid "Gertruda. "
-msgstr ""
+msgstr "Gertruda."
 
 #: dialog/20npc.msg:20
 msgid "You remember that woman from somewhere.."
@@ -956,7 +959,7 @@ msgstr ""
 
 #: dialog/21npc.msg:10
 msgid "Clara. "
-msgstr ""
+msgstr "Clara."
 
 #: dialog/21npc.msg:20 dialog/26npc.msg:20
 msgid "She seem to be one from your seven childrens.."
@@ -2483,15 +2486,15 @@ msgstr "ZAPP!"
 
 #: dialog/42npc.msg:508
 msgid "HOP! "
-msgstr ""
+msgstr "HOP!"
 
 #: dialog/42npc.msg:509
 msgid "BAAM! "
-msgstr ""
+msgstr "BAAM!"
 
 #: dialog/43npc.msg:10 dialog/44npc.msg:10
 msgid "Soldier. "
-msgstr ""
+msgstr "Soldat."
 
 #: dialog/43npc.msg:20
 msgid "He wear extremly dirty armor.."
@@ -2556,7 +2559,7 @@ msgstr ""
 
 #: dialog/44npc.msg:102
 msgid "Heeep!"
-msgstr ""
+msgstr "Heeep!"
 
 #: dialog/44npc.msg:103
 msgid "LOT! loot of thress ..therss.. treassuRES!"
