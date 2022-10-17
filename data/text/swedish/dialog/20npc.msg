@@ -1,4 +1,4 @@
-{10}{}{Gertruda. }
+{10}{}{Gertruda.}
 {20}{}{You remember that woman from somewhere..}
 {100}{}{Just look at this picture and look at you! Do something with your face! Anyway where you was trough these whole days? Our childrens are hungry and you must fix home walls someday!!}
 {200}{}{Are we meet before?}

@@ -1,4 +1,4 @@
-{10}{}{Soldier. }
+{10}{}{Soldat.}
 {20}{}{She wear extremly dirty armor..}
 {100}{}{Nope.. i thinksh besht actioon wass on Rad-Cavee!}
 {101}{}{Yesh letys drinke for tshat.. again!}

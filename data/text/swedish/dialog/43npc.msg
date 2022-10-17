@@ -1,4 +1,4 @@
-{10}{}{Soldier. }
+{10}{}{Soldat.}
 {20}{}{He wear extremly dirty armor..}
 {100}{}{[He look at you trough shade glasses and say something with cigarette in mouth] Hey folk, come here.. i have business for you.}
 {200}{}{Me? What you want?}

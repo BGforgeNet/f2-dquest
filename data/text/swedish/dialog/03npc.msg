@@ -3,5 +3,5 @@
 {100}{}{HJÄP!}
 {101}{}{Eh.. inga människor längre! ..HÄÄP!}
 {102}{}{Jag vill äta något annat... lite frukt!}
-{103}{}{Oh no another human! Get out of my sight, you tasty bad! }
+{103}{}{Åh nej, ännu en människa! Försvinn ur min åsyn, din smakliga skurk!}
 {104}{}{Häääadjöäääp!}

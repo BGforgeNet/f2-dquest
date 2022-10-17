@@ -1,4 +1,4 @@
-{10}{}{Clara. }
+{10}{}{Clara.}
 {20}{}{She seem to be one from your seven childrens..}
 {100}{}{Dady am 12 years old and i want cosmetic case!}
 {200}{}{I dont care about that.}
