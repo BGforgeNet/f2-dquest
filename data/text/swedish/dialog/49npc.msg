@@ -1,4 +1,4 @@
-{10}{}{Water Merchant. }
+{10}{}{Vattenhandlare.}
 {20}{}{He seem to be very busy on some big machine..}
 {100}{}{[He kick machine and say] NO! Not again! Damn junk!}
 {200}{}{Har du öl?}

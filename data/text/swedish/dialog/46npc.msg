@@ -3,5 +3,5 @@
 {100}{}{Grown faster! }
 {101}{}{What you say?! }
 {102}{}{I will give you motivation!}
-{103}{}{FASTER! }
+{103}{}{SNABBARE!}
 {104}{}{::kick bushes:: }
