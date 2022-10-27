@@ -4,11 +4,11 @@
 {200}{}{Ja, det låter som hundskrik.}
 {250}{}{Nej, jag tror att det är något annat. Det måste vara ett gammalt spöke från jorden..  och han behöver ett offer av jordelement. Gå till majsfeltet och hämta någon stor sten...}
 {300}{}{Titta! Jag har hittat en.}
-{350}{}{Here is sacrifice for goddes of earth! [Villager throw that stone into well and after short scream remain ethernal silence.] Thank you my friend, now ghost of earth is happy and dont scream anymore. Here is your revard, wonderfull flower which grown near well.}
-{400}{}{We are now bless by earth!}
-{401}{}{So many flies around magic well!}
-{402}{}{Blessed silence.}
-{403}{}{Uh.. what is that smell?}
-{404}{}{Thank you my friend!}
+{350}{}{Här är ett offer för jordens gudinna! [Byborna kastar stenen i brunnen och efter ett kort skrik förblir det eterisk tystnad.] Tack min vän, nu är jordens spöke lycklig och skriker inte längre. Här är din belöning, en underbar blomma som vuxit nära brunnen.}
+{400}{}{Vi är nu välsignade av jorden!}
+{401}{}{Så många flugor runt magisk brunn!}
+{402}{}{Välsignad tystnad.}
+{403}{}{Eh.. Vad är det som luktar?}
+{404}{}{Tack, min vän!}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}

@@ -1,11 +1,11 @@
 {10}{}{Bybo.}
 {20}{}{De alla ser likadana ut..}
-{100}{}{I lost my dog. Uh.. and i fear that someone eat him! Outsider, can you investigate where go my dirty animal? His name was "Klint".}
-{200}{}{I dont like to solve riddles.}
+{100}{}{Jag förlorade min hund. Uh... och jag är rädd att någon ska äta upp honom! Utböling, kan du undersöka vart mitt smutsiga djur tagit vägen? Han hette "Klint".}
+{200}{}{Jag gillar inte att lösa gåtor.}
 {250}{}{Uh yes.. you dont look very clever. Nevermind, i will just wait here until he return. Probably he run around village and hunt for rats.}
 {300}{}{Har du öl?}
-{350}{}{[He look around searching dog and ignore your question]}
-{400}{}{Tell me about this village.}
+{350}{}{[Han ser sig omkring och letar efter hund och ignorerar din fråga]}
+{400}{}{Berätta om den här byn.}
 {450}{}{We live in peace far from civilization. Elders say that technic bring only pain and devastation so we must believe only in traditional shamans magic. But one day come to us trader Vic with his amazing stuff. Holy ghosts abandon us and many peoples get sick. }
 {910}{}{SLUT}
 {920}{}{TILLBAKA}
