@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-10-27 10:02+0000\n"
+"PO-Revision-Date: 2022-10-27 11:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -223,36 +223,43 @@ msgid ""
 "ghost of earth is happy and dont scream anymore. Here is your revard, "
 "wonderfull flower which grown near well."
 msgstr ""
+"Här är ett offer för jordens gudinna! [Byborna kastar stenen i brunnen och "
+"efter ett kort skrik förblir det eterisk tystnad.] Tack min vän, nu är "
+"jordens spöke lycklig och skriker inte längre. Här är din belöning, en "
+"underbar blomma som vuxit nära brunnen."
 
 #: dialog/04npc.msg:400
 msgid "We are now bless by earth!"
-msgstr ""
+msgstr "Vi är nu välsignade av jorden!"
 
 #: dialog/04npc.msg:401
 msgid "So many flies around magic well!"
-msgstr ""
+msgstr "Så många flugor runt magisk brunn!"
 
 #: dialog/04npc.msg:402
 msgid "Blessed silence."
-msgstr ""
+msgstr "Välsignad tystnad."
 
 #: dialog/04npc.msg:403
 msgid "Uh.. what is that smell?"
-msgstr ""
+msgstr "Eh.. Vad är det som luktar?"
 
 #: dialog/04npc.msg:404
 msgid "Thank you my friend!"
-msgstr ""
+msgstr "Tack, min vän!"
 
 #: dialog/05npc.msg:100
 msgid ""
 "I lost my dog. Uh.. and i fear that someone eat him! Outsider, can you "
 "investigate where go my dirty animal? His name was \"Klint\"."
 msgstr ""
+"Jag förlorade min hund. Uh... och jag är rädd att någon ska äta upp honom! "
+"Utböling, kan du undersöka vart mitt smutsiga djur tagit vägen? Han hette "
+"\"Klint\"."
 
 #: dialog/05npc.msg:200
 msgid "I dont like to solve riddles."
-msgstr ""
+msgstr "Jag gillar inte att lösa gåtor."
 
 #: dialog/05npc.msg:250
 msgid ""
@@ -262,11 +269,11 @@ msgstr ""
 
 #: dialog/05npc.msg:350
 msgid "[He look around searching dog and ignore your question]"
-msgstr ""
+msgstr "[Han ser sig omkring och letar efter hund och ignorerar din fråga]"
 
 #: dialog/05npc.msg:400
 msgid "Tell me about this village."
-msgstr ""
+msgstr "Berätta om den här byn."
 
 #: dialog/05npc.msg:450
 msgid ""
