@@ -2,7 +2,7 @@
 {20}{}{Just some dirty dog..}
 {100}{}{Grrrrr...}
 {200}{}{What is your name.. AZOR?! }
-{250}{}{Woof! }
+{250}{}{Voff! }
 {300}{}{What is your name.. RAZOR?! }
 {350}{}{Grrrr.. Woof! }
 {400}{}{What is your name stupid dog?! }

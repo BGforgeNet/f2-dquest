@@ -1,4 +1,4 @@
-{10}{}{VIC. }
+{10}{}{VIC.}
 {20}{}{He smiling in irony..}
 {100}{}{WELCOME! brother i have MANY amazing items, which waiting for YOU! Just share with me your DREAMS and i will give you EVERYTHING you need! Look into my boxes and select your FAVOURITE item!}
 {200}{}{[you look into dirty boxes filled with junk] I dont see GECK..}

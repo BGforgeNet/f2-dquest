@@ -9,6 +9,6 @@
 {401}{}{Hero Jets!}
 {402}{}{Only 20$}
 {403}{}{Fuck off with these rocks!}
-{404}{}{NEXT!}
+{404}{}{NÄSTA!}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}

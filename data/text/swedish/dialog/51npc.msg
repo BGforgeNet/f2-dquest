@@ -1,4 +1,4 @@
-{10}{}{Smith. }
+{10}{}{Smed. }
 {20}{}{His skin and clothes are really dirty, the same like tools which he hold in hands..}
 {100}{}{[He look very busy on some dirty metalic stuff, probably part of engine] Uh.. hello. Do you need to repair something?}
 {200}{}{Am wonder about these strange obiects in junkyard.}

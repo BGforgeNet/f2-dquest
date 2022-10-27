@@ -7,7 +7,7 @@
 {350}{}{What? I should do it myself.. uh ok here is your cash. Bye!}
 {400}{}{I will drive highwaymen someday!}
 {401}{}{Every chicks will jump into my car!}
-{402}{}{::HISS!::}
+{402}{}{::VÄS!::}
 {403}{}{::SCREW!::}
 {404}{}{::BANG!::}
 {910}{}{SLUT}

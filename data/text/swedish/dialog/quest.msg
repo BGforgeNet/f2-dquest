@@ -1,7 +1,7 @@
 {10}{}{Bybo.}
 {20}{}{De alla ser likadana ut..}
 {100}{}{intro}
-{200}{}{answer}
+{200}{}{svar}
 {250}{}{bring me}
 {300}{}{i found}
 {350}{}{thanx}

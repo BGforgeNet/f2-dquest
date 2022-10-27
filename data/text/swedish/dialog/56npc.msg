@@ -1,4 +1,4 @@
-{10}{}{Addicted. }
+{10}{}{Drogberoende. }
 {20}{}{Some folk in great need without money..}
 {100}{}{No its not rocks, its money! }
 {101}{}{Dont do it to me! Am your best customer!}

@@ -1,4 +1,4 @@
-{10}{}{Shaman. }
+{10}{}{Shaman.}
 {20}{}{He look really crazy..}
 {100}{}{Hahahah.. look at these shapes and colours!!}
 {200}{}{Uh.. what you talking about?}
