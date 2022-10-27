@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-10-17 08:30+0000\n"
+"PO-Revision-Date: 2022-10-27 10:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -365,7 +365,7 @@ msgstr ""
 
 #: dialog/08npc.msg:10
 msgid "Shaman. "
-msgstr ""
+msgstr "Shaman."
 
 #: dialog/08npc.msg:20
 msgid "He look really crazy.."
@@ -827,11 +827,11 @@ msgstr ""
 
 #: dialog/18npc.msg:100
 msgid "Grrrr! "
-msgstr ""
+msgstr "Grrrr!"
 
 #: dialog/18npc.msg:101 dialog/33npc.msg:250
 msgid "Woof! "
-msgstr ""
+msgstr "Voff! "
 
 #: dialog/18npc.msg:102
 msgid "[He look at you] "
@@ -2669,7 +2669,7 @@ msgstr ""
 
 #: dialog/48npc.msg:10
 msgid "VIC. "
-msgstr ""
+msgstr "VIC."
 
 #: dialog/48npc.msg:20
 msgid "He smiling in irony.."
@@ -2768,7 +2768,7 @@ msgstr ""
 
 #: dialog/49npc.msg:402
 msgid "::DRINK::"
-msgstr ""
+msgstr "::DRICK::"
 
 #: dialog/49npc.msg:403
 msgid "Wonderfull tasty!"
@@ -2814,11 +2814,11 @@ msgstr ""
 
 #: dialog/50npc.msg:400
 msgid "Zzzzzz..."
-msgstr ""
+msgstr "Zzzzzz..."
 
 #: dialog/50npc.msg:401
 msgid "::SNIFF::"
-msgstr ""
+msgstr "::SNIFF::"
 
 #: dialog/50npc.msg:402
 msgid "..Frank! throw me screw number eight!.."
@@ -2838,7 +2838,7 @@ msgstr ""
 
 #: dialog/51npc.msg:10
 msgid "Smith. "
-msgstr ""
+msgstr "Smed. "
 
 #: dialog/51npc.msg:20
 msgid ""
@@ -3936,7 +3936,7 @@ msgstr ""
 
 #: dialog/55npc.msg:101
 msgid "Faster!"
-msgstr ""
+msgstr "Snabbare!"
 
 #: dialog/55npc.msg:102
 msgid "I need it NOW! "
@@ -3944,15 +3944,15 @@ msgstr ""
 
 #: dialog/55npc.msg:103
 msgid "Hurry! "
-msgstr ""
+msgstr "Skynda! "
 
 #: dialog/55npc.msg:104
 msgid "Damn! "
-msgstr ""
+msgstr "Förbannat!"
 
 #: dialog/56npc.msg:10
 msgid "Addicted. "
-msgstr ""
+msgstr "Drogberoende. "
 
 #: dialog/56npc.msg:20
 msgid "Some folk in great need without money.."
@@ -4147,7 +4147,7 @@ msgstr ""
 
 #: dialog/58npc.msg:404
 msgid "NEXT!"
-msgstr ""
+msgstr "NÄSTA!"
 
 #: dialog/59npc.msg:100
 msgid ""
@@ -4188,7 +4188,7 @@ msgstr ""
 
 #: dialog/59npc.msg:402
 msgid "::HISS!::"
-msgstr ""
+msgstr "::VÄS!::"
 
 #: dialog/59npc.msg:403
 msgid "::SCREW!::"
@@ -4196,7 +4196,7 @@ msgstr ""
 
 #: dialog/59npc.msg:404
 msgid "::BANG!::"
-msgstr ""
+msgstr "::BANG!::"
 
 #: dialog/60npc.msg:10
 msgid "Den News. "
@@ -4279,27 +4279,27 @@ msgstr ""
 
 #: dialog/61npc.msg:400 dialog/65npc.msg:400 dialog/quest.msg:400
 msgid "r1"
-msgstr ""
+msgstr "r1"
 
 #: dialog/61npc.msg:401 dialog/65npc.msg:401 dialog/quest.msg:401
 msgid "r2"
-msgstr ""
+msgstr "r2"
 
 #: dialog/61npc.msg:402 dialog/65npc.msg:402 dialog/quest.msg:402
 msgid "r3"
-msgstr ""
+msgstr "r3"
 
 #: dialog/61npc.msg:403 dialog/65npc.msg:403 dialog/quest.msg:403
 msgid "r4"
-msgstr ""
+msgstr "r4"
 
 #: dialog/61npc.msg:404 dialog/65npc.msg:404 dialog/quest.msg:404
 msgid "r5"
-msgstr ""
+msgstr "r5"
 
 #: dialog/62npc.msg:10
 msgid "Psychiatry. "
-msgstr ""
+msgstr "Psykiatri."
 
 #: dialog/62npc.msg:20
 msgid "He look very clever.."
@@ -4334,7 +4334,7 @@ msgstr ""
 
 #: dialog/64npc.msg:10
 msgid "Fanatic. "
-msgstr ""
+msgstr "Fanatiker."
 
 #: dialog/64npc.msg:20
 msgid "He must eat too much drugs.."
@@ -4342,7 +4342,7 @@ msgstr ""
 
 #: dialog/64npc.msg:100
 msgid "STOP! "
-msgstr ""
+msgstr "STOPP!"
 
 #: dialog/64npc.msg:101
 msgid "Please stop! "
@@ -4400,31 +4400,31 @@ msgstr ""
 
 #: dialog/float.msg:100
 msgid "q1 "
-msgstr ""
+msgstr "q1"
 
 #: dialog/float.msg:101
 msgid "q2 "
-msgstr ""
+msgstr "q2"
 
 #: dialog/float.msg:102
 msgid "q3 "
-msgstr ""
+msgstr "q3"
 
 #: dialog/float.msg:103
 msgid "q4 "
-msgstr ""
+msgstr "q4"
 
 #: dialog/float.msg:104
 msgid "q5 "
-msgstr ""
+msgstr "q5"
 
 #: dialog/quest.msg:100
 msgid "intro"
-msgstr ""
+msgstr "intro"
 
 #: dialog/quest.msg:200
 msgid "answer"
-msgstr ""
+msgstr "svar"
 
 #: dialog/quest.msg:250
 msgid "bring me"
@@ -4432,23 +4432,23 @@ msgstr ""
 
 #: dialog/talk.msg:100
 msgid " intro "
-msgstr ""
+msgstr " intro"
 
 #: dialog/talk.msg:200
 msgid " pyt1 "
-msgstr ""
+msgstr " pyt1"
 
 #: dialog/talk.msg:250
 msgid " odp1 "
-msgstr ""
+msgstr " odp1"
 
 #: dialog/talk.msg:300
 msgid " pyt2 "
-msgstr ""
+msgstr " pyt2"
 
 #: dialog/talk.msg:350
 msgid " odp2 "
-msgstr ""
+msgstr " odp2"
 
 #: dialog/talk.msg:450
 msgid " odp3 "
