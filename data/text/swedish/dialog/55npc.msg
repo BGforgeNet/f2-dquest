@@ -4,4 +4,4 @@
 {101}{}{Snabbare!}
 {102}{}{I need it NOW! }
 {103}{}{Skynda! }
-{104}{}{Förbannat!}
+{104}{}{FÃ¶rbannat!}

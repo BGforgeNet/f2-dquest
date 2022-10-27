@@ -1,11 +1,11 @@
 {10}{}{Den utvalda.}
 {20}{}{De allihop stammedlemmar ser likadana ut..}
-{100}{}{Fan! Jag kommer att dö där... jag visste det!}
-{200}{}{Hej, mannen! Hur är läget?}
-{250}{}{Häxan väljde mig till testet i templet. Jag e rädd för å gå in för ingen kommer tillbaks... kan du höra skriket från mörkret? Alla dog där. Hon måste vara riktigt dum om hon dödar våra bröder och systrar i detta dumma test!}
-{300}{}{Har du öl?}
-{350}{}{[Han tittar in i tempelmörkret och ignorerar din fråga]}
-{400}{}{Är så törstig! Kanske hittar jag lite öl i det här... tamplet?}
-{450}{}{Åh ja, templet innehåller många skatter från den antika världen. Lämna mig nu ifred! Jag måste ta det första lilla steget in i mörkret.. men jag är rädd för att röra på mitt ben.}
+{100}{}{Fan! Jag kommer att dÃ¶ dÃ¤r... jag visste det!}
+{200}{}{Hej, mannen! Hur Ã¤r lÃ¤get?}
+{250}{}{HÃ¤xan vÃ¤ljde mig till testet i templet. Jag e rÃ¤dd fÃ¶r Ã¥ gÃ¥ in fÃ¶r ingen kommer tillbaks... kan du hÃ¶ra skriket frÃ¥n mÃ¶rkret? Alla dog dÃ¤r. Hon mÃ¥ste vara riktigt dum om hon dÃ¶dar vÃ¥ra brÃ¶der och systrar i detta dumma test!}
+{300}{}{Har du Ã¶l?}
+{350}{}{[Han tittar in i tempelmÃ¶rkret och ignorerar din frÃ¥ga]}
+{400}{}{Ã„r sÃ¥ tÃ¶rstig! Kanske hittar jag lite Ã¶l i det hÃ¤r... tamplet?}
+{450}{}{Ã…h ja, templet innehÃ¥ller mÃ¥nga skatter frÃ¥n den antika vÃ¤rlden. LÃ¤mna mig nu ifred! Jag mÃ¥ste ta det fÃ¶rsta lilla steget in i mÃ¶rkret.. men jag Ã¤r rÃ¤dd fÃ¶r att rÃ¶ra pÃ¥ mitt ben.}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}

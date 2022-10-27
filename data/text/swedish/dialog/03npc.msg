@@ -1,7 +1,7 @@
-{10}{}{Någon best }
+{10}{}{NÃ¥gon best }
 {20}{}{Han ser inte aggressiv ut..}
-{100}{}{HJÄP!}
-{101}{}{Eh.. inga människor längre! ..HÄÄP!}
-{102}{}{Jag vill äta något annat... lite frukt!}
-{103}{}{Åh nej, ännu en människa! Försvinn ur min åsyn, din smakliga skurk!}
-{104}{}{Häääadjöäääp!}
+{100}{}{HJÃ„P!}
+{101}{}{Eh.. inga mÃ¤nniskor lÃ¤ngre! ..HÃ„Ã„P!}
+{102}{}{Jag vill Ã¤ta nÃ¥got annat... lite frukt!}
+{103}{}{Ã…h nej, Ã¤nnu en mÃ¤nniska! FÃ¶rsvinn ur min Ã¥syn, din smakliga skurk!}
+{104}{}{HÃ¤Ã¤Ã¤adjÃ¶Ã¤Ã¤Ã¤p!}

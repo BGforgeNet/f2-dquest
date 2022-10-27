@@ -10,7 +10,7 @@
 {250}{}{Uh.. no, am not.. i buy it long time ago because i like blue colour.. probably it belong to some citizen, but am not sure. Well.. i dont believe in whole Vault of Future, nobody know where is this.. secret bunker.}
 {300}{}{Can you talk faster?}
 {350}{}{[She lick slowly her sexy lips and say very sensitive] Sweetheart, am ready for.. action.. do you have some cash? [Then she sit on bed and put one leg on other] Do you like my.. perfumes?}
-{400}{}{Har du öl?}
+{400}{}{Har du Ã¶l?}
 {450}{}{Honey.. i dont drink beer.. Ask Sylvia.. [she take red flower which lay on bed and smell it] But if you will find any drugs.. give me some.. please..}
 {500}{}{When you enter room she was naked in her favourite position and in hurry you begin action, because you got 30 minutes of time to spend with her.}
 {501}{}{[T:05]}

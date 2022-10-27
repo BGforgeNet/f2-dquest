@@ -1,4 +1,4 @@
-{10}{}{Häxa}
+{10}{}{HÃ¤xa}
 {20}{}{Very old woman, probably leader of this small community..}
 {100}{}{News run quickly across this small village. I heard that you survived temple of trials, is that true? Let me tell you something.. champion. We have  many problems here and i believe that everyone can be fix just like that in one minute using holy artefact called holy GECK. You must find that item! It is said that such item will bring happiness and life to the wasteland!}
 {200}{}{Uh.. but why me?}

@@ -1,14 +1,14 @@
 {10}{}{Bybo.}
 {20}{}{De alla ser likadana ut..}
-{100}{}{Halå främling.. hör du den där konstiga rösten från brunn??}
-{200}{}{Ja, det låter som hundskrik.}
-{250}{}{Nej, jag tror att det är något annat. Det måste vara ett gammalt spöke från jorden..  och han behöver ett offer av jordelement. Gå till majsfeltet och hämta någon stor sten...}
+{100}{}{HalÃ¥ frÃ¤mling.. hÃ¶r du den dÃ¤r konstiga rÃ¶sten frÃ¥n brunn??}
+{200}{}{Ja, det lÃ¥ter som hundskrik.}
+{250}{}{Nej, jag tror att det Ã¤r nÃ¥got annat. Det mÃ¥ste vara ett gammalt spÃ¶ke frÃ¥n jorden..  och han behÃ¶ver ett offer av jordelement. GÃ¥ till majsfeltet och hÃ¤mta nÃ¥gon stor sten...}
 {300}{}{Titta! Jag har hittat en.}
-{350}{}{Här är ett offer för jordens gudinna! [Byborna kastar stenen i brunnen och efter ett kort skrik förblir det eterisk tystnad.] Tack min vän, nu är jordens spöke lycklig och skriker inte längre. Här är din belöning, en underbar blomma som vuxit nära brunnen.}
-{400}{}{Vi är nu välsignade av jorden!}
-{401}{}{Så många flugor runt magisk brunn!}
-{402}{}{Välsignad tystnad.}
-{403}{}{Eh.. Vad är det som luktar?}
-{404}{}{Tack, min vän!}
+{350}{}{HÃ¤r Ã¤r ett offer fÃ¶r jordens gudinna! [Byborna kastar stenen i brunnen och efter ett kort skrik fÃ¶rblir det eterisk tystnad.] Tack min vÃ¤n, nu Ã¤r jordens spÃ¶ke lycklig och skriker inte lÃ¤ngre. HÃ¤r Ã¤r din belÃ¶ning, en underbar blomma som vuxit nÃ¤ra brunnen.}
+{400}{}{Vi Ã¤r nu vÃ¤lsignade av jorden!}
+{401}{}{SÃ¥ mÃ¥nga flugor runt magisk brunn!}
+{402}{}{VÃ¤lsignad tystnad.}
+{403}{}{Eh.. Vad Ã¤r det som luktar?}
+{404}{}{Tack, min vÃ¤n!}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}

@@ -1,11 +1,11 @@
 {10}{}{Bybo.}
 {20}{}{De alla ser likadana ut..}
-{100}{}{Jag förlorade min hund. Uh... och jag är rädd att någon ska äta upp honom! Utböling, kan du undersöka vart mitt smutsiga djur tagit vägen? Han hette "Klint".}
-{200}{}{Jag gillar inte att lösa gåtor.}
+{100}{}{Jag fÃ¶rlorade min hund. Uh... och jag Ã¤r rÃ¤dd att nÃ¥gon ska Ã¤ta upp honom! UtbÃ¶ling, kan du undersÃ¶ka vart mitt smutsiga djur tagit vÃ¤gen? Han hette "Klint".}
+{200}{}{Jag gillar inte att lÃ¶sa gÃ¥tor.}
 {250}{}{Uh yes.. you dont look very clever. Nevermind, i will just wait here until he return. Probably he run around village and hunt for rats.}
-{300}{}{Har du öl?}
-{350}{}{[Han ser sig omkring och letar efter hund och ignorerar din fråga]}
-{400}{}{Berätta om den här byn.}
+{300}{}{Har du Ã¶l?}
+{350}{}{[Han ser sig omkring och letar efter hund och ignorerar din frÃ¥ga]}
+{400}{}{BerÃ¤tta om den hÃ¤r byn.}
 {450}{}{We live in peace far from civilization. Elders say that technic bring only pain and devastation so we must believe only in traditional shamans magic. But one day come to us trader Vic with his amazing stuff. Holy ghosts abandon us and many peoples get sick. }
 {910}{}{SLUT}
 {920}{}{TILLBAKA}
