@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-10-27 11:02+0000\n"
+"PO-Revision-Date: 2022-11-04 13:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -266,6 +266,8 @@ msgid ""
 "Uh yes.. you dont look very clever. Nevermind, i will just wait here until "
 "he return. Probably he run around village and hunt for rats."
 msgstr ""
+"Ja, du ser inte särskilt smart ut. Strunt samma, jag ska bara vänta här "
+"tills han kommer tillbaka. Troligen springer han runt i byn och jagar råttor."
 
 #: dialog/05npc.msg:350
 msgid "[He look around searching dog and ignore your question]"
@@ -458,7 +460,7 @@ msgstr ""
 
 #: dialog/09npc.msg:108
 msgid "Am unvisible! "
-msgstr ""
+msgstr "Är onsynlig! "
 
 #: dialog/09npc.msg:109
 msgid "Am faster than bullet! Wow i move so fast! "
@@ -675,7 +677,7 @@ msgstr ""
 
 #: dialog/14npc.msg:10
 msgid "Unusual Villager. "
-msgstr ""
+msgstr "Ovanlig bybo."
 
 #: dialog/14npc.msg:20
 msgid "This one look different.."
@@ -747,7 +749,7 @@ msgstr ""
 
 #: dialog/16npc.msg:10
 msgid "Nice Female. "
-msgstr ""
+msgstr "Trevlig kvinna."
 
 #: dialog/16npc.msg:20
 msgid ""
@@ -826,7 +828,7 @@ msgstr ""
 
 #: dialog/18npc.msg:10
 msgid "Strange Rat. "
-msgstr ""
+msgstr "Konstig Råtta."
 
 #: dialog/18npc.msg:20
 msgid "He must be mutated.."
@@ -846,7 +848,7 @@ msgstr ""
 
 #: dialog/18npc.msg:103
 msgid "Grrrrr.. WOOF! "
-msgstr ""
+msgstr "Grrrrr.. VOFF!"
 
 #: dialog/18npc.msg:104
 msgid "Snifff! "
@@ -1699,7 +1701,7 @@ msgstr ""
 
 #: dialog/27npc.msg:10
 msgid "Some loser. "
-msgstr ""
+msgstr "Någon förlorare."
 
 #: dialog/27npc.msg:20
 msgid "He is total zero.."
@@ -1734,7 +1736,7 @@ msgstr ""
 
 #: dialog/28npc.msg:10
 msgid "Klamath News. "
-msgstr ""
+msgstr "Klamath Nyheter."
 
 #: dialog/28npc.msg:20
 msgid "News? They all are old stuff.."
@@ -1746,7 +1748,7 @@ msgstr ""
 
 #: dialog/28npc.msg:200
 msgid "[Some picture]"
-msgstr ""
+msgstr "[Någon bild]"
 
 #: dialog/28npc.msg:250
 msgid "Its someone photo and writings: This man eat my cat!"
@@ -1903,7 +1905,7 @@ msgstr ""
 
 #: dialog/32npc.msg:10
 msgid "Strange Folk. "
-msgstr ""
+msgstr "Konstigt Folk. "
 
 #: dialog/32npc.msg:20
 msgid "He look crazy.."
@@ -1962,7 +1964,7 @@ msgstr ""
 
 #: dialog/33npc.msg:350
 msgid "Grrrr.. Woof! "
-msgstr ""
+msgstr "Grrrr.. Voff! "
 
 #: dialog/33npc.msg:400
 msgid "What is your name stupid dog?! "
@@ -1988,7 +1990,7 @@ msgstr ""
 
 #: dialog/34npc.msg:10
 msgid "Isabell Sweet. "
-msgstr ""
+msgstr "Isabell Sweet."
 
 #: dialog/34npc.msg:20 dialog/37npc.msg:20 dialog/38npc.msg:20
 msgid "One from pornstars working for Bathhouse."
@@ -2175,7 +2177,7 @@ msgstr " pyt3"
 
 #: dialog/35npc.msg:10
 msgid "Sylvia Moon. "
-msgstr ""
+msgstr "Sylvia Moon."
 
 #: dialog/35npc.msg:20
 msgid "She is owner and guard of fame Bathhouse."
@@ -2251,11 +2253,11 @@ msgstr " pyt6"
 
 #: dialog/36npc.msg:100
 msgid "Wooden door."
-msgstr ""
+msgstr "Trädörr."
 
 #: dialog/37npc.msg:10
 msgid "Paulina Hot. "
-msgstr ""
+msgstr "Paulina Hot."
 
 #: dialog/37npc.msg:100
 msgid "Hi. I seen you around, you are Klamath citizen, right? "
@@ -2295,7 +2297,7 @@ msgstr ""
 
 #: dialog/38npc.msg:10
 msgid "Samantha Wet. "
-msgstr ""
+msgstr "Samantha Wet."
 
 #: dialog/38npc.msg:100
 msgid ""
@@ -4199,7 +4201,7 @@ msgstr "::VÄS!::"
 
 #: dialog/59npc.msg:403
 msgid "::SCREW!::"
-msgstr ""
+msgstr "::SKRUV!::"
 
 #: dialog/59npc.msg:404
 msgid "::BANG!::"
@@ -4282,7 +4284,7 @@ msgstr ""
 
 #: dialog/61npc.msg:350 dialog/quest.msg:350
 msgid "thanx"
-msgstr ""
+msgstr "tack"
 
 #: dialog/61npc.msg:400 dialog/65npc.msg:400 dialog/quest.msg:400
 msgid "r1"
@@ -4459,4 +4461,4 @@ msgstr " odp2"
 
 #: dialog/talk.msg:450
 msgid " odp3 "
-msgstr ""
+msgstr " odp3"
