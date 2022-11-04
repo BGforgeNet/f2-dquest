@@ -8,7 +8,7 @@
 {400}{}{I will drive highwaymen someday!}
 {401}{}{Every chicks will jump into my car!}
 {402}{}{::VÄS!::}
-{403}{}{::SCREW!::}
+{403}{}{::SKRUV!::}
 {404}{}{::BANG!::}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}

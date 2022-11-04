@@ -1,4 +1,4 @@
-{10}{}{Nice Female. }
+{10}{}{Trevlig kvinna.}
 {20}{}{She look much better from other females in this village and it seem like she used cosmetic case lately.}
 {100}{}{Helo outsider, can you help me? [She watch at you in hope and from inside of tent you hear someone voices in pain]}
 {200}{}{Sure, why not..}

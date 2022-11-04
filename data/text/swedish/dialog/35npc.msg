@@ -1,4 +1,4 @@
-{10}{}{Sylvia Moon. }
+{10}{}{Sylvia Moon.}
 {20}{}{She is owner and guard of fame Bathhouse.}
 {50}{}{ aaa}
 {51}{}{ bbb}

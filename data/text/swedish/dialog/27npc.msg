@@ -1,4 +1,4 @@
-{10}{}{Some loser. }
+{10}{}{Någon förlorare.}
 {20}{}{He is total zero..}
 {100}{}{Urgh.. yeah.. its that or.. nothing..}
 {200}{}{What you do in my house?}

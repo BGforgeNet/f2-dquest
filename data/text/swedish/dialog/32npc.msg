@@ -1,4 +1,4 @@
-{10}{}{Strange Folk. }
+{10}{}{Konstigt Folk. }
 {20}{}{He look crazy..}
 {100}{}{Let me shown you! [You hear voice of man hidden in small street, between corner and boxes. He is almost unvisible so first time you think that dog which stand near say something to you..] }
 {200}{}{Uk.. ok shown me.}

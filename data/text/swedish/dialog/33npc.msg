@@ -4,7 +4,7 @@
 {200}{}{What is your name.. AZOR?! }
 {250}{}{Voff! }
 {300}{}{What is your name.. RAZOR?! }
-{350}{}{Grrrr.. Woof! }
+{350}{}{Grrrr.. Voff! }
 {400}{}{What is your name stupid dog?! }
 {450}{}{[He "smiling" and it seem that its name is "stupid dog". This dog look very hungry.. and you wonder how he could helpfull when you bring him some meat..] }
 {500}{}{Hey you, stupid dog! Take this! [throw him meat] }

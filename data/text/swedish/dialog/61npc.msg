@@ -4,7 +4,7 @@
 {200}{}{Uh.. and any other chances to join BoS?}
 {250}{}{Yes it is other possibility. We search plans of Scout Disc known as UFO. Our best scients and engineers dont known how they work. We have many reports about secret base near Navarro where they fly, so try your luck there. }
 {300}{}{i found}
-{350}{}{thanx}
+{350}{}{tack}
 {400}{}{r1}
 {401}{}{r2}
 {402}{}{r3}

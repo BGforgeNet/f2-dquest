@@ -1,7 +1,7 @@
-{10}{}{Klamath News. }
+{10}{}{Klamath Nyheter.}
 {20}{}{News? They all are old stuff..}
 {100}{}{=== K L A M A T H === N E W S === }
-{200}{}{[Some picture]}
+{200}{}{[Någon bild]}
 {250}{}{Its someone photo and writings: This man eat my cat!}
 {300}{}{[Efterlyst!]}
 {350}{}{Its some note: "I want Beer! Am so thirsty that i will crazy! Please give me someone just one drink!" uh.. i think i seen it before.. its MY note? }

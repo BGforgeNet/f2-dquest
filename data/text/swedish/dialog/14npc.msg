@@ -1,4 +1,4 @@
-{10}{}{Unusual Villager. }
+{10}{}{Ovanlig bybo.}
 {20}{}{This one look different..}
 {100}{}{Helo my friend, its good to see outsider here. Do you have some stuff for barter? I need new battery for radio which Vic sell me lately. By the way are you his friend?}
 {200}{}{Why everyone here look the same and you like.. mad max?}
