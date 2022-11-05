@@ -16,11 +16,11 @@
 {113}{}{So you use pathfinding and me watch on trees! }
 {114}{}{I see something on ground because i got perception level3 }
 {115}{}{No! It must be something there! }
-{116}{}{No.. am not cheating.. }
-{117}{}{So what she say? }
+{116}{}{Nej... fuskar inte...}
+{117}{}{Så vad säg hon?}
 {118}{}{I dont care because i wear metal armor..}
 {119}{}{No my sword will never broke! I got smith skill level5 }
-{120}{}{Hah! THIS was funny! }
+{120}{}{Hah! DET här var roligt!}
 {121}{}{So what i could do?? I tryed everything!! }
 {122}{}{Uh.. i dont seen it. }
 {123}{}{Where is my blue dice? My favourite! }
@@ -31,9 +31,9 @@
 {128}{}{Am enter tavern and scream BEER! }
 {129}{}{He was drunken? I think he was dead! }
 {130}{}{Am sit on horse and run trough corridor to exit! }
-{131}{}{No! YOU are sick! }
+{131}{}{Nej! DU är sjuk!}
 {132}{}{So i open chest but i quickly hide my eyes! }
-{133}{}{Blind?! So what now?! }
+{133}{}{Blind?! Vad händer nu?!}
 {134}{}{And what about skill translater? }
 {135}{}{Animals got also language.. its BODY language! }
 {136}{}{HA HA HA! }

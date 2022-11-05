@@ -18,7 +18,7 @@
 {115}{}{Uh yes.. it could be complicated, but somehow i believe its best way.}
 {116}{}{How many times i could try made some action and on how skill its based?}
 {117}{}{Let me see.. no it dont make any sense..}
-{118}{}{My favourite is RED! }
+{118}{}{Min favorit är RÖD!}
 {119}{}{I vote on hundread levels, percents! }
 {120}{}{When you born, your AGE skill is zero! }
 {121}{}{Ok so i hold my sword hundread days, so my HOLD skill is 100%  }

@@ -6,6 +6,6 @@
 {300}{}{Har du öl?}
 {350}{}{[Han ser sig omkring och letar efter hund och ignorerar din fråga]}
 {400}{}{Berätta om den här byn.}
-{450}{}{We live in peace far from civilization. Elders say that technic bring only pain and devastation so we must believe only in traditional shamans magic. But one day come to us trader Vic with his amazing stuff. Holy ghosts abandon us and many peoples get sick. }
+{450}{}{Vi lever i fred långt från civilisationen. De äldste säger att tekniken bara ger smärta och förödelse, så vi måste tro på traditionell magi från shamaner. Men en dag kommer handelsmannen Vic till oss med sina fantastiska saker. Heliga spöken överger oss och många människor blir sjuka.}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}

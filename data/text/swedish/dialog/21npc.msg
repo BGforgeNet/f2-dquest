@@ -5,8 +5,8 @@
 {250}{}{Please! Please! please! Bring me some cosmetics am old dont you see that?! Please dady! I will tell you where momy hide all money!}
 {300}{}{Here is cosmetics.. but first tell me about money.}
 {350}{}{Oh thank you! [She quickly run to other room and after minute returned with some old dirty stockings which contain lot of money.]}
-{400}{}{Am beauty like pornstar!}
-{401}{}{[she look at mirror]}
+{400}{}{Är vacker som porrstjärna!}
+{401}{}{[hon titta på spegel]}
 {402}{}{Yeah! Am superstar!}
 {403}{}{[she use cosmetics]}
 {404}{}{Hi Hi Hi}

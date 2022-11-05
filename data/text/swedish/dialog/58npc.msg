@@ -1,4 +1,4 @@
-{10}{}{Punk. }
+{10}{}{Punk.}
 {20}{}{Pretty woman in black leather and green short hairs..}
 {100}{}{[She say quickly] I have "Hero Jets" only 20$}
 {200}{}{How it works?}

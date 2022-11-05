@@ -20,7 +20,7 @@
 {117}{}{What?! You cant talk with horse! }
 {118}{}{Skill to create immortal potion? He must be alchemic level30 }
 {119}{}{Haha.. you died! Because there was trap!! }
-{120}{}{Robot? In medieval castle? }
+{120}{}{Robot? I medeltida slott?}
 {121}{}{Ok you have one implant made from silver.. }
 {122}{}{Sorry but poeples without head cant be resurrect!}
 {123}{}{Because you was shot by cannon! 6k6 damage! }

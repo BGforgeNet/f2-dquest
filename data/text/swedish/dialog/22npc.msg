@@ -8,7 +8,7 @@
 {400}{}{Am smoking heheh!}
 {401}{}{What you want?!}
 {402}{}{Leave me alone!}
-{403}{}{Yeah i have lighter!}
+{403}{}{Ja jag har tändare!}
 {404}{}{This trashcan is full ot treasures!}
 {910}{}{SLUT}
 {920}{}{TILLBAKA}
