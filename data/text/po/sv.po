@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-04 13:02+0000\n"
+"PO-Revision-Date: 2022-11-05 10:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -284,6 +284,10 @@ msgid ""
 "But one day come to us trader Vic with his amazing stuff. Holy ghosts "
 "abandon us and many peoples get sick. "
 msgstr ""
+"Vi lever i fred långt från civilisationen. De äldste säger att tekniken bara "
+"ger smärta och förödelse, så vi måste tro på traditionell magi från "
+"shamaner. Men en dag kommer handelsmannen Vic till oss med sina fantastiska "
+"saker. Heliga spöken överger oss och många människor blir sjuka."
 
 #: dialog/06npc.msg:100
 msgid ""
@@ -291,12 +295,17 @@ msgid ""
 "our champion!. Go and talk with elder, she have something very important to "
 "tell you."
 msgstr ""
+"Jag kan inte tro det! Du passerar genom templet, ingen har gjort det förut! "
+"Du är nu vår kämpe! Gå och prata med den äldste, hon har något mycket "
+"viktigt att berätta för dig."
 
 #: dialog/06npc.msg:200
 msgid ""
 "Uh.. you are this guard which i seen near temple entrance? Sorry your "
 "everyone tribals look the same to me."
 msgstr ""
+"Uh... är du den här vakten som jag såg nära tempelingången? Jag är ledsen "
+"att alla stamfolk ser likadana ut för mig."
 
 #: dialog/06npc.msg:250
 msgid ""
@@ -304,20 +313,25 @@ msgid ""
 "call his dog my fame name. Hopefully i fixed that problem yesterday and i "
 "feel better now. "
 msgstr ""
+"Ja, jag är vakt och stor krigare \"Klint\" Förresten hatar jag den här "
+"jäveln som kallar sin hund för mitt namn. Förhoppningsvis löste jag det "
+"problemet i går och jag känner mig bättre nu."
 
 #: dialog/06npc.msg:300
 msgid "And whats happend with that guy who fear to enter?"
-msgstr ""
+msgstr "Och vad hände med killen som är rädd för att gå in?"
 
 #: dialog/06npc.msg:350
 msgid ""
 "He escaped trough forest outside village, the same way which you come here. "
 "I hope he will never return because i dont like losers!"
 msgstr ""
+"Han flydde genom skogen utanför byn, på samma sätt som du kom hit. Jag "
+"hoppas att han aldrig kommer tillbaka, för jag gillar inte förlorare!"
 
 #: dialog/06npc.msg:400
 msgid "Yes am hero! Now give me beer!"
-msgstr ""
+msgstr "Ja är hjälte! Ge mig öl nu!"
 
 #: dialog/06npc.msg:450
 msgid ""
@@ -325,6 +339,9 @@ msgid ""
 "about holy artefacts. And she deal with trader Vis which bring us many "
 "strange stuff from outside world."
 msgstr ""
+"Jag är ledsen, men jag vet inte vad det är... Prata med den äldre, hon vet "
+"mycket om heliga artefakter. Och hon har att göra med handelsmannen Vis som "
+"tar med sig många märkliga saker från omvärlden."
 
 #: dialog/07npc.msg:100
 msgid "Am so tired.. Hey dirty man! Can you help me?!"
@@ -932,7 +949,7 @@ msgstr ""
 
 #: dialog/20npc.msg:200
 msgid "Are we meet before?"
-msgstr ""
+msgstr "Har vi träffats tidigare?"
 
 #: dialog/20npc.msg:250
 msgid ""
@@ -1000,11 +1017,11 @@ msgstr ""
 
 #: dialog/21npc.msg:400
 msgid "Am beauty like pornstar!"
-msgstr ""
+msgstr "Är vacker som porrstjärna!"
 
 #: dialog/21npc.msg:401
 msgid "[she look at mirror]"
-msgstr ""
+msgstr "[hon titta på spegel]"
 
 #: dialog/21npc.msg:402
 msgid "Yeah! Am superstar!"
@@ -1064,7 +1081,7 @@ msgstr ""
 
 #: dialog/22npc.msg:403
 msgid "Yeah i have lighter!"
-msgstr ""
+msgstr "Ja jag har tändare!"
 
 #: dialog/22npc.msg:404
 msgid "This trashcan is full ot treasures!"
@@ -1156,7 +1173,7 @@ msgstr ""
 
 #: dialog/23npc.msg:120
 msgid "Robot? In medieval castle? "
-msgstr ""
+msgstr "Robot? I medeltida slott?"
 
 #: dialog/23npc.msg:121
 msgid "Ok you have one implant made from silver.. "
@@ -1308,11 +1325,11 @@ msgstr ""
 
 #: dialog/24npc.msg:116
 msgid "No.. am not cheating.. "
-msgstr ""
+msgstr "Nej... fuskar inte..."
 
 #: dialog/24npc.msg:117
 msgid "So what she say? "
-msgstr ""
+msgstr "Så vad säg hon?"
 
 #: dialog/24npc.msg:118
 msgid "I dont care because i wear metal armor.."
@@ -1324,7 +1341,7 @@ msgstr ""
 
 #: dialog/24npc.msg:120
 msgid "Hah! THIS was funny! "
-msgstr ""
+msgstr "Hah! DET här var roligt!"
 
 #: dialog/24npc.msg:121
 msgid "So what i could do?? I tryed everything!! "
@@ -1368,7 +1385,7 @@ msgstr ""
 
 #: dialog/24npc.msg:131
 msgid "No! YOU are sick! "
-msgstr ""
+msgstr "Nej! DU är sjuk!"
 
 #: dialog/24npc.msg:132
 msgid "So i open chest but i quickly hide my eyes! "
@@ -1376,7 +1393,7 @@ msgstr ""
 
 #: dialog/24npc.msg:133
 msgid "Blind?! So what now?! "
-msgstr ""
+msgstr "Blind?! Vad händer nu?!"
 
 #: dialog/24npc.msg:134
 msgid "And what about skill translater? "
@@ -1525,7 +1542,7 @@ msgstr ""
 
 #: dialog/25npc.msg:118
 msgid "My favourite is RED! "
-msgstr ""
+msgstr "Min favorit är RÖD!"
 
 #: dialog/25npc.msg:119
 msgid "I vote on hundread levels, percents! "
@@ -1705,7 +1722,7 @@ msgstr "Någon förlorare."
 
 #: dialog/27npc.msg:20
 msgid "He is total zero.."
-msgstr ""
+msgstr "Han är total nolla..."
 
 #: dialog/27npc.msg:100
 msgid "Urgh.. yeah.. its that or.. nothing.."
@@ -1725,7 +1742,7 @@ msgstr ""
 
 #: dialog/27npc.msg:400
 msgid "What is your name?"
-msgstr ""
+msgstr "Vad heter du?"
 
 #: dialog/27npc.msg:450
 msgid ""
@@ -1766,7 +1783,7 @@ msgstr ""
 
 #: dialog/28npc.msg:400
 msgid "[HOT STUFF FOR YOU!] "
-msgstr ""
+msgstr "[HETA GREJER TILL DIG!]"
 
 #: dialog/28npc.msg:450
 msgid ""
@@ -1885,11 +1902,11 @@ msgstr ""
 
 #: dialog/31npc.msg:400
 msgid "Yeah.. you are WILD!"
-msgstr ""
+msgstr "Ja... du är VILD!"
 
 #: dialog/31npc.msg:401
 msgid "I feel better now!"
-msgstr ""
+msgstr "Jag mår bättre nu!"
 
 #: dialog/31npc.msg:402
 msgid "We must try again later, please dont leave town darling.."
@@ -2693,7 +2710,7 @@ msgstr ""
 
 #: dialog/48npc.msg:200
 msgid "[you look into dirty boxes filled with junk] I dont see GECK.."
-msgstr ""
+msgstr "[du tittar i smutsiga lådor fyllda med skräp] Jag ser inte GECK..."
 
 #: dialog/48npc.msg:250
 msgid ""
@@ -4109,7 +4126,7 @@ msgstr ""
 
 #: dialog/58npc.msg:10
 msgid "Punk. "
-msgstr ""
+msgstr "Punk."
 
 #: dialog/58npc.msg:20
 msgid "Pretty woman in black leather and green short hairs.."
