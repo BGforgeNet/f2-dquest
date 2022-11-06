@@ -1,5 +1,5 @@
-{10}{}{New bartender. }
-{20}{}{Crazy folk..}
+{10}{}{Ny bartender.}
+{20}{}{Galet folk..}
 {100}{}{Yes! hahah! I have record! YEAH!}
 {200}{}{What you do?}
 {250}{}{Am playing Giana Sister.. JUMP YOU BITCH! ..damn! ..YEAH! [he point on some pixels on monitor and say] Look i olways get problems to get these diamonds, i think it must be unvisible platform to jump for this bonus..}

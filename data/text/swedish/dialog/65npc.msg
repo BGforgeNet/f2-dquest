@@ -7,7 +7,7 @@
 {203}{}{Where is your parents?}
 {204}{}{Damn! Whats wrong with you!?}
 {250}{}{[He quickly remove one coin from your inventory and he do it so fast that you seen only blur shape trough one second and say] LOSER!}
-{300}{}{i found}
+{300}{}{jag hittade}
 {350}{}{[He make big eyes and scream] I EAT MUTATED FRUIT!}
 {400}{}{r1}
 {401}{}{r2}

@@ -1,6 +1,6 @@
 {10}{}{Read 100 pages survival guide. }
 {20}{}{See big map of almost whole country.}
-{30}{}{Close book. }
+{30}{}{Stäng boken.}
 {40}{}{[This book contain knowledge about survival and big map] }
 {50}{}{Read next page... }
 {60}{}{There is nothing more interesting to read, instead of last page where you see boring autobiography of some traper. Seem like he get this whole knowledge trough years of living in australian bushes. }

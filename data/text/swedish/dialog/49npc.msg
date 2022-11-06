@@ -8,7 +8,7 @@
 {400}{}{Thats it! Delicious water!}
 {401}{}{I will be rich again! YES!}
 {402}{}{::DRICK::}
-{403}{}{Wonderfull tasty!}
+{403}{}{Underbarrt gott!}
 {404}{}{I must find some clean flasks.. }
 {910}{}{SLUT}
 {920}{}{TILLBAKA}

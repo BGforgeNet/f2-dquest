@@ -1,4 +1,4 @@
-{10}{}{Gecko Engineer. }
+{10}{}{Gecko-ingenjör}
 {20}{}{He look mutated.. like everyone who work in Gecko Plant..}
 {100}{}{[He sleep on chair] Zzzzzzz...}
 {200}{}{Damn! I remember that face! You sell me radioactive beer, which make big hole in my brain! I lost my memories ashole!}
