@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-05 10:02+0000\n"
+"PO-Revision-Date: 2022-11-06 13:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -345,11 +345,11 @@ msgstr ""
 
 #: dialog/07npc.msg:100
 msgid "Am so tired.. Hey dirty man! Can you help me?!"
-msgstr ""
+msgstr "Är så trött. Hej smutsig man! Kan du hjälpa mig?!"
 
 #: dialog/07npc.msg:200
 msgid "Uh am not sure.. what you need?"
-msgstr ""
+msgstr "Eh är inte säker.. vad du behöver?"
 
 #: dialog/07npc.msg:250
 msgid ""
@@ -2436,11 +2436,11 @@ msgstr ""
 
 #: dialog/42npc.msg:10
 msgid "New bartender. "
-msgstr ""
+msgstr "Ny bartender."
 
 #: dialog/42npc.msg:20
 msgid "Crazy folk.."
-msgstr ""
+msgstr "Galet folk.."
 
 #: dialog/42npc.msg:100
 msgid "Yes! hahah! I have record! YEAH!"
@@ -2593,7 +2593,7 @@ msgstr ""
 
 #: dialog/44npc.msg:104
 msgid "Aaaaamm... RICH!"
-msgstr ""
+msgstr "Ääääärr... RIK!"
 
 #: dialog/45npc.msg:100
 msgid "[He sit near table and writing something in silence]"
@@ -2628,7 +2628,7 @@ msgstr ""
 
 #: dialog/46npc.msg:10
 msgid "Drunken Farmer. "
-msgstr ""
+msgstr "Full Bonde. "
 
 #: dialog/46npc.msg:20
 msgid "He walk around bushes and kick them from time to time.."
@@ -2636,7 +2636,7 @@ msgstr ""
 
 #: dialog/46npc.msg:100
 msgid "Grown faster! "
-msgstr ""
+msgstr "Växt snabbare!"
 
 #: dialog/46npc.msg:101
 msgid "What you say?! "
@@ -2652,7 +2652,7 @@ msgstr "SNABBARE!"
 
 #: dialog/46npc.msg:104
 msgid "::kick bushes:: "
-msgstr ""
+msgstr "::sparka buskar:: "
 
 #: dialog/47npc.msg:10
 msgid "Owner of \"Golden Gecko\""
@@ -2798,7 +2798,7 @@ msgstr "::DRICK::"
 
 #: dialog/49npc.msg:403
 msgid "Wonderfull tasty!"
-msgstr ""
+msgstr "Underbarrt gott!"
 
 #: dialog/49npc.msg:404
 msgid "I must find some clean flasks.. "
@@ -2806,7 +2806,7 @@ msgstr ""
 
 #: dialog/50npc.msg:10
 msgid "Gecko Engineer. "
-msgstr ""
+msgstr "Gecko-ingenjör"
 
 #: dialog/50npc.msg:20
 msgid "He look mutated.. like everyone who work in Gecko Plant.."
@@ -2918,7 +2918,7 @@ msgstr ""
 
 #: dialog/52npc.msg:30
 msgid "Close book. "
-msgstr ""
+msgstr "Stäng boken."
 
 #: dialog/52npc.msg:40
 msgid "[This book contain knowledge about survival and big map] "
@@ -3941,7 +3941,7 @@ msgstr ""
 
 #: dialog/54npc.msg:10
 msgid "Dirty kid. "
-msgstr ""
+msgstr "Smutsig unge."
 
 #: dialog/54npc.msg:20
 msgid "He wear rags and have dirty face.."
@@ -3958,7 +3958,7 @@ msgstr ""
 
 #: dialog/55npc.msg:100
 msgid "Come on! "
-msgstr ""
+msgstr "Kom igen!"
 
 #: dialog/55npc.msg:101
 msgid "Faster!"
@@ -4157,15 +4157,15 @@ msgstr ""
 
 #: dialog/58npc.msg:400
 msgid "Next please!"
-msgstr ""
+msgstr "Nästa, tack!"
 
 #: dialog/58npc.msg:401
 msgid "Hero Jets!"
-msgstr ""
+msgstr "Hjälte Jet!"
 
 #: dialog/58npc.msg:402
 msgid "Only 20$"
-msgstr ""
+msgstr "Endast 20$"
 
 #: dialog/58npc.msg:403
 msgid "Fuck off with these rocks!"
@@ -4271,7 +4271,7 @@ msgstr ""
 
 #: dialog/61npc.msg:10
 msgid "sir Marcus. "
-msgstr ""
+msgstr "sir Marcus."
 
 #: dialog/61npc.msg:20
 msgid "Leader of Bloor Reaven squad."
@@ -4297,7 +4297,7 @@ msgstr ""
 
 #: dialog/61npc.msg:300 dialog/65npc.msg:300 dialog/quest.msg:300
 msgid "i found"
-msgstr ""
+msgstr "jag hittade"
 
 #: dialog/61npc.msg:350 dialog/quest.msg:350
 msgid "thanx"
@@ -4356,7 +4356,7 @@ msgstr ""
 
 #: dialog/63npc.msg:100
 msgid "Metal door."
-msgstr ""
+msgstr "Metalldörr."
 
 #: dialog/64npc.msg:10
 msgid "Fanatic. "
@@ -4372,7 +4372,7 @@ msgstr "STOPP!"
 
 #: dialog/64npc.msg:101
 msgid "Please stop! "
-msgstr ""
+msgstr "Snälla stanna! "
 
 #: dialog/64npc.msg:102
 msgid "I suggest you to stop! "
@@ -4384,7 +4384,7 @@ msgstr ""
 
 #: dialog/64npc.msg:104
 msgid "STOP HERE! "
-msgstr ""
+msgstr "STANNA HÄR!"
 
 #: dialog/65npc.msg:10
 msgid "Tricky kid! "
