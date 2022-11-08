@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-06 13:02+0000\n"
+"PO-Revision-Date: 2022-11-08 21:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -360,7 +360,7 @@ msgstr ""
 
 #: dialog/07npc.msg:300
 msgid "I found clean shovel!"
-msgstr ""
+msgstr "Jag hittade ren spade!"
 
 #: dialog/07npc.msg:350
 msgid ""
@@ -368,26 +368,29 @@ msgid ""
 "shining items which Vic gived me for one kiss. I heard that many things can "
 "be buy for such thing called.. \"money\"."
 msgstr ""
+"Tack... jag kommer att avsluta mitt arbete senare, eftersom är för trött. Ta "
+"denna skinande saker som Vic gedde mig för en kyss. Jag har hört att man kan "
+"köpa många saker för sådan sak som kallas.. \"pengar\"."
 
 #: dialog/07npc.msg:400
 msgid "Am so tired.."
-msgstr ""
+msgstr "Är så trött.."
 
 #: dialog/07npc.msg:401
 msgid "I smell like brahmin.."
-msgstr ""
+msgstr "Jag luktar som brahmin.."
 
 #: dialog/07npc.msg:402
 msgid "Damn i have heavy shoes.."
-msgstr ""
+msgstr "Förbannat jag har tunga skor.."
 
 #: dialog/07npc.msg:403
 msgid "Another wonderfull day.."
-msgstr ""
+msgstr "Ännu en underbarr dag.."
 
 #: dialog/07npc.msg:404
 msgid "Leave me alone, am busy.."
-msgstr ""
+msgstr "Lämna mig ifred, är upptagen.."
 
 #: dialog/08npc.msg:10
 msgid "Shaman. "
@@ -395,15 +398,15 @@ msgstr "Shaman."
 
 #: dialog/08npc.msg:20
 msgid "He look really crazy.."
-msgstr ""
+msgstr "Han se verkligen galen ut.."
 
 #: dialog/08npc.msg:100
 msgid "Hahahah.. look at these shapes and colours!!"
-msgstr ""
+msgstr "Hahahah... titta på dessa former och färger!!"
 
 #: dialog/08npc.msg:200
 msgid "Uh.. what you talking about?"
-msgstr ""
+msgstr "Eh.. Vad du pratar om?"
 
 #: dialog/08npc.msg:250
 msgid ""
@@ -1595,15 +1598,15 @@ msgstr ""
 
 #: dialog/25npc.msg:131
 msgid "Hey guys! Ho many days we play here?! I lost time feeling! "
-msgstr ""
+msgstr "Hej killar! Hu många dagar vi spelar här?! Jag förlorade tidskänsla!"
 
 #: dialog/25npc.msg:132
 msgid "Ok so i thrown dagger.. and what now?"
-msgstr ""
+msgstr "Okej, jag kastat dolk.. och vad nu?"
 
 #: dialog/25npc.msg:133
 msgid "Everybody should count own throwns.."
-msgstr ""
+msgstr "Alla borde räkna egna kastningar..."
 
 #: dialog/25npc.msg:134
 msgid "But cheating its also skill! So i get bonus to EVERYTHING!"
@@ -1611,11 +1614,11 @@ msgstr ""
 
 #: dialog/25npc.msg:135
 msgid "Luck and cheating are similar, so you gat many bonus.. "
-msgstr ""
+msgstr "Tur och fusk är liknande, så du hor många bonus.. "
 
 #: dialog/25npc.msg:136
 msgid "I use my two handed sword which i made from crystal. "
-msgstr ""
+msgstr "Jag använder mitt tvåhandssvärd som jag gjorde av kristall."
 
 #: dialog/25npc.msg:137
 msgid "Everything should be possible otherwise we will pluke from boring! "
@@ -1623,17 +1626,18 @@ msgstr ""
 
 #: dialog/25npc.msg:138
 msgid "So you get more experience, its bonus. "
-msgstr ""
+msgstr "Så du får mer erfarenhet, detär bonus. "
 
 #: dialog/25npc.msg:139
 msgid ""
 "Every living creatures should have WILD element: wild frog, wild horse. "
-msgstr ""
+msgstr "Alla levande varelser borde ha VILD-element: vild groda, vild häst. "
 
 #: dialog/25npc.msg:140
 msgid ""
 "WILD is skill used by animals and villagers, they live far from towns. "
 msgstr ""
+"VILD är färdighet som används av djur och bybor som bor långt från städer. "
 
 #: dialog/25npc.msg:141
 msgid "NOTHING! Do i need to made actions in each second of my life?! "
