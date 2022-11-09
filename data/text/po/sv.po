@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-09 13:02+0000\n"
+"PO-Revision-Date: 2022-11-09 18:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -2557,19 +2557,19 @@ msgstr "Tack! Ta denna tändare jag hittade dem många på slagfält.."
 
 #: dialog/43npc.msg:400
 msgid "Sierra Army, now that was massacre!"
-msgstr ""
+msgstr "Sierraarmé, det var massaker!"
 
 #: dialog/43npc.msg:401
 msgid "And do you remember Hangar18 in Navarro?"
-msgstr ""
+msgstr "Och minns du Hangar18 i Navarro?"
 
 #: dialog/43npc.msg:402
 msgid "Yeah such a great battle!"
-msgstr ""
+msgstr "Ja en sådan fantastisk strid!"
 
 #: dialog/43npc.msg:403
 msgid "Old times.. lets drink for that!"
-msgstr ""
+msgstr "Gamla tider.. låt oss dricka för det!"
 
 #: dialog/43npc.msg:404
 msgid "Am not sure they was aliens.. but who known!"
