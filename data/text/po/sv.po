@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-08 21:02+0000\n"
+"PO-Revision-Date: 2022-11-09 13:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -2553,7 +2553,7 @@ msgstr ""
 
 #: dialog/43npc.msg:350
 msgid "Thanx! Take this lighter i found them many on battlefield.."
-msgstr ""
+msgstr "Tack! Ta denna tändare jag hittade dem många på slagfält.."
 
 #: dialog/43npc.msg:400
 msgid "Sierra Army, now that was massacre!"
