@@ -4396,7 +4396,7 @@ msgstr "STANNA HÄR!"
 
 #: dialog/65npc.msg:10
 msgid "Tricky kid! "
-msgstr ""
+msgstr "Lurig unge! "
 
 #: dialog/65npc.msg:20
 msgid "Everyone knowns this kid is VERY quick!"
