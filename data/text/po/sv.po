@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-09 18:02+0000\n"
+"PO-Revision-Date: 2022-11-14 14:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -102,7 +102,7 @@ msgstr "SLUT"
 #: dialog/61npc.msg:920 dialog/62npc.msg:920 dialog/65npc.msg:920
 #: dialog/quest.msg:920 dialog/talk.msg:920
 msgid "BACK "
-msgstr "TILLBAKA"
+msgstr "TILLBAKA "
 
 #: dialog/02npc.msg:10 dialog/30npc.msg:10
 msgid "Chosen One. "
@@ -161,7 +161,7 @@ msgstr "Han ser inte aggressiv ut.."
 
 #: dialog/03npc.msg:100
 msgid "HEP! "
-msgstr "HJÄP!"
+msgstr "HJÄP! "
 
 #: dialog/03npc.msg:101
 msgid "Uh.. no humans anymore! ..HEEP! "
@@ -177,14 +177,14 @@ msgstr "Åh nej, ännu en människa! Försvinn ur min åsyn, din smakliga skurk!
 
 #: dialog/03npc.msg:104
 msgid "Heeegoodbyeeeep!"
-msgstr "Häääadjöäääp!"
+msgstr "Häääadjöäääp! "
 
 #: dialog/04npc.msg:10 dialog/05npc.msg:10 dialog/06npc.msg:10
 #: dialog/07npc.msg:10 dialog/10npc.msg:10 dialog/11npc.msg:10
 #: dialog/13npc.msg:10 dialog/15npc.msg:10 dialog/17npc.msg:10
 #: dialog/float.msg:10 dialog/quest.msg:10 dialog/talk.msg:10
 msgid "Villager. "
-msgstr "Bybo."
+msgstr "Bybo. "
 
 #: dialog/04npc.msg:20 dialog/05npc.msg:20 dialog/06npc.msg:20
 #: dialog/07npc.msg:20 dialog/10npc.msg:20 dialog/11npc.msg:20
@@ -394,7 +394,7 @@ msgstr "Lämna mig ifred, är upptagen.."
 
 #: dialog/08npc.msg:10
 msgid "Shaman. "
-msgstr "Shaman."
+msgstr "Shaman. "
 
 #: dialog/08npc.msg:20
 msgid "He look really crazy.."
@@ -856,7 +856,7 @@ msgstr ""
 
 #: dialog/18npc.msg:100
 msgid "Grrrr! "
-msgstr "Grrrr!"
+msgstr "Grrrr! "
 
 #: dialog/18npc.msg:101 dialog/33npc.msg:250
 msgid "Woof! "
@@ -1773,7 +1773,7 @@ msgstr "[Någon bild]"
 
 #: dialog/28npc.msg:250
 msgid "Its someone photo and writings: This man eat my cat!"
-msgstr ""
+msgstr "Det är någon foto och skrifter: Den här mannen ät min katt!"
 
 #: dialog/28npc.msg:300
 msgid "[Wanted!] "
@@ -1796,6 +1796,10 @@ msgid ""
 "other: \"Damn! i lost all my money there, but it was worth! And now i will "
 "try something better.. powerfull drugs!\" "
 msgstr ""
+"Det är få foton av halvnakna kvinnar med stora bildtexter: \"Badhus\" Det "
+"finns också snuskig anteckning gjord i bråttom som troligen sattes in här av "
+"någon annan: \"Fan! jag förlorade alla mina pengar där, men det var värt! "
+"Och nu jag ska prova något bättre.. kraftfula droger!\""
 
 #: dialog/29npc.msg:10 dialog/31npc.msg:10 dialog/45npc.msg:10
 #: dialog/53npc.msg:10 dialog/55npc.msg:10 dialog/59npc.msg:10
@@ -2416,7 +2420,7 @@ msgstr ""
 
 #: dialog/41npc.msg:10
 msgid "Daltons house. "
-msgstr ""
+msgstr "Daltons hus."
 
 #: dialog/41npc.msg:20 dialog/41npc.msg:30 dialog/41npc.msg:40
 msgid "What treasures could contain Daltons house? "
@@ -2428,7 +2432,7 @@ msgstr ""
 
 #: dialog/41npc.msg:60
 msgid "Uh.. locked! "
-msgstr ""
+msgstr "Eh.. låst! "
 
 #: dialog/41npc.msg:70
 msgid "You unlock doors! "
@@ -4392,7 +4396,7 @@ msgstr "STANNA HÄR!"
 
 #: dialog/65npc.msg:10
 msgid "Tricky kid! "
-msgstr ""
+msgstr "Lurig unge! "
 
 #: dialog/65npc.msg:20
 msgid "Everyone knowns this kid is VERY quick!"
