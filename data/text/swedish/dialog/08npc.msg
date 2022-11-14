@@ -1,4 +1,4 @@
-{10}{}{Shaman.}
+{10}{}{Shaman. }
 {20}{}{Han se verkligen galen ut..}
 {100}{}{Hahahah... titta på dessa former och färger!!}
 {200}{}{Eh.. Vad du pratar om?}
@@ -11,4 +11,4 @@
 {403}{}{What is that?! I cant catch it!!}
 {404}{}{Fire! My house is under fire!!}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

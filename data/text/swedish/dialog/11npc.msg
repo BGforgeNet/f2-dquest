@@ -1,4 +1,4 @@
-{10}{}{Bybo.}
+{10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
 {100}{}{Finally! After many years i finished this.. monument!}
 {200}{}{How you made it?}
@@ -8,4 +8,4 @@
 {400}{}{Why you made it?}
 {450}{}{Why?! Such a stupid question! Because i could be most popular in whole village. Just imagine my big stone face in middle of village! Sadly only our shaman understand my monumental idea.}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

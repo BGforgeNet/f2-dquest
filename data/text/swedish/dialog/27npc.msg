@@ -8,4 +8,4 @@
 {400}{}{Vad heter du?}
 {450}{}{My name is Bond.. James Bond.. remember that.. Yeah! am tell him! Am best.. Am best in the universe.. Man! I could crush you by my one finger! And am so smart.. yeah! Am BEST!  }
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

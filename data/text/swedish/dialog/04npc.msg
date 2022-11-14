@@ -1,4 +1,4 @@
-{10}{}{Bybo.}
+{10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
 {100}{}{Halå främling.. hör du den där konstiga rösten från brunn??}
 {200}{}{Ja, det låter som hundskrik.}
@@ -11,4 +11,4 @@
 {403}{}{Eh.. Vad är det som luktar?}
 {404}{}{Tack, min vän!}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

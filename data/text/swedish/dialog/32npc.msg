@@ -8,4 +8,4 @@
 {400}{}{Har du öl?}
 {450}{}{I have something better.. WATCH! [He shown you his dirty body. You lost concentration, and almost fall on ground.] }
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

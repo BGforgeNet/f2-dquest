@@ -11,4 +11,4 @@
 {403}{}{Ja jag har tändare!}
 {404}{}{This trashcan is full ot treasures!}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

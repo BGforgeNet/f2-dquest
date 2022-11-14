@@ -1,4 +1,4 @@
-{10}{}{Bybo.}
+{10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
 {100}{}{Oh no no.. why i drink that!}
 {101}{}{My head.. its so BIG!}

@@ -2,10 +2,10 @@
 {20}{}{News? They all are old stuff..}
 {100}{}{=== K L A M A T H === N E W S === }
 {200}{}{[Någon bild]}
-{250}{}{Its someone photo and writings: This man eat my cat!}
+{250}{}{Det är någon foto och skrifter: Den här mannen ät min katt!}
 {300}{}{[Efterlyst!]}
 {350}{}{Its some note: "I want Beer! Am so thirsty that i will crazy! Please give me someone just one drink!" uh.. i think i seen it before.. its MY note? }
 {400}{}{[HETA GREJER TILL DIG!]}
-{450}{}{Its few photos of half-naked womans with big captions: "Bathhouse" There is also dirty note made in hurry which was put here probably by someone other: "Damn! i lost all my money there, but it was worth! And now i will try something better.. powerfull drugs!" }
+{450}{}{Det är få foton av halvnakna kvinnar med stora bildtexter: "Badhus" Det finns också snuskig anteckning gjord i bråttom som troligen sattes in här av någon annan: "Fan! jag förlorade alla mina pengar där, men det var värt! Och nu jag ska prova något bättre.. kraftfula droger!"}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

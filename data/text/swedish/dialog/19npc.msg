@@ -11,4 +11,4 @@
 {403}{}{Please find how work this holy artefact!}
 {404}{}{This item will bring life and happines to the wasteland!}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

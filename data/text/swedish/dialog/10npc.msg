@@ -1,4 +1,4 @@
-{10}{}{Bybo.}
+{10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
 {100}{}{Uh i feel sick! }
 {101}{}{I drink too much shaman mixtures.. }

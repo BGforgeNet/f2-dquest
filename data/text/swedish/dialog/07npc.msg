@@ -1,4 +1,4 @@
-{10}{}{Bybo.}
+{10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
 {100}{}{Är så trött. Hej smutsig man! Kan du hjälpa mig?!}
 {200}{}{Eh är inte säker.. vad du behöver?}
@@ -11,4 +11,4 @@
 {403}{}{Ännu en underbarr dag..}
 {404}{}{Lämna mig ifred, är upptagen..}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

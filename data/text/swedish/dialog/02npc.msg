@@ -8,4 +8,4 @@
 {400}{}{Är så törstig! Kanske hittar jag lite öl i det här... tamplet?}
 {450}{}{Åh ja, templet innehåller många skatter från den antika världen. Lämna mig nu ifred! Jag måste ta det första lilla steget in i mörkret.. men jag är rädd för att röra på mitt ben.}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

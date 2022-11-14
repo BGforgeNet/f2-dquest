@@ -11,4 +11,4 @@
 {403}{}{Sorry am BUSY right now!}
 {404}{}{My shop is TEMPORARY closed!}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

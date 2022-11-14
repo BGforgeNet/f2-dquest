@@ -8,4 +8,4 @@
 {400}{}{Har du öl?}
 {450}{}{[He seem to be too busy for such question]}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

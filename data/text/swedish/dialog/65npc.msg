@@ -1,4 +1,4 @@
-{10}{}{Tricky kid! }
+{10}{}{Lurig unge! }
 {20}{}{Everyone knowns this kid is VERY quick!}
 {100}{}{[He read something in silence]}
 {200}{}{Helo kid what you read?}
@@ -15,4 +15,4 @@
 {403}{}{r4}
 {404}{}{r5}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }
