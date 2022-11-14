@@ -12,7 +12,7 @@
 {109}{}{Yeah but alchemic using immortal potion can decrease other skill: AGE!}
 {110}{}{I think its best: one skill will affect many other skills!}
 {111}{}{So SITUATION mean action where few skills affect one to other!}
-{112}{}{Yes thats true!}
+{112}{}{Ja det är sant!}
 {113}{}{Am walking trough corridor and i have torch.}
 {114}{}{Thief have his skill to steal but i have skill to watch my money!}
 {115}{}{Uh yes.. it could be complicated, but somehow i believe its best way.}

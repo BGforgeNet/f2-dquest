@@ -7,8 +7,8 @@
 {350}{}{Oh thank you! [She quickly run to other room and after minute returned with some old dirty stockings which contain lot of money.]}
 {400}{}{Är vacker som porrstjärna!}
 {401}{}{[hon titta på spegel]}
-{402}{}{Yeah! Am superstar!}
-{403}{}{[she use cosmetics]}
-{404}{}{Hi Hi Hi}
+{402}{}{Ja! Är superstjärna!}
+{403}{}{[hon använder kosmetika]}
+{404}{}{Hej Hej Hej}
 {910}{}{SLUT}
 {920}{}{TILLBAKA }

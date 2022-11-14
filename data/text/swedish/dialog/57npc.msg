@@ -3,20 +3,20 @@
 {102}{}{Am Superman strongh like horse!  }
 {103}{}{Argggh! Am SUPER mutant! }
 {104}{}{Am Bond.. JAMES Bond! }
-{105}{}{Hahahah! Am Spiderman! }
+{105}{}{Hahahah! Är Spindelmannen! }
 {106}{}{Am Turtle Ninja! Master of karate! }
 {107}{}{Am Chuck Norris! I will kick your face! }
-{108}{}{Arrgghh Am HULK! }
+{108}{}{Arrgghh Är HULKEN! }
 {109}{}{Am Richard Wintage from TV! }
 {110}{}{Am Harrison! Master of modifications! }
-{111}{}{Am magapornstar yeah!  }
+{111}{}{Är magaporrstjärna yeah!  }
 {112}{}{Who are me!? Am Unvisible!  }
 {113}{}{Am Pipboy3000 and i have HEROIC charisma! }
 {114}{}{Am MISTER FLY! Hahahah! }
-{115}{}{Am forum administrator! }
+{115}{}{Är forumadministratör!}
 {116}{}{Am Gorgeous Nurse yeesss..}
 {117}{}{Am Hobbit! And i have RING! }
-{118}{}{Hahahhh! am RICH!  }
+{118}{}{Hahahhh! är RIK!  }
 {119}{}{GOLD! I can turn rocks to gold! }
 {120}{}{Am VIC supertrader!  }
 {121}{}{Hahah! I dont known who am i ..but not ME!  }

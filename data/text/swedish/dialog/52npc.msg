@@ -2,7 +2,7 @@
 {20}{}{See big map of almost whole country.}
 {30}{}{Stäng boken.}
 {40}{}{[This book contain knowledge about survival and big map] }
-{50}{}{Read next page... }
+{50}{}{Läs nästa sida...}
 {60}{}{There is nothing more interesting to read, instead of last page where you see boring autobiography of some traper. Seem like he get this whole knowledge trough years of living in australian bushes. }
 {100}{}{The most abundant life-form on earth, insects are easily caught. Insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source.}
 {101}{}{Survivors have related feelings of apathy and helplessness because they could not treat themselves in this environment. The ability to treat themselves increased their morale and cohesion and aided in their survival and eventual return to friendly forces.}

@@ -4,5 +4,5 @@
 {40}{}{What treasures could contain Daltons house? }
 {50}{}{No chances to open them.. }
 {60}{}{Eh.. låst! }
-{70}{}{You unlock doors! }
-{80}{}{You lock doors. }
+{70}{}{Du låser upp dörrar! }
+{80}{}{Du låser dörrar.}
