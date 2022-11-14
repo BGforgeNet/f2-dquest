@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-14 14:02+0000\n"
+"PO-Revision-Date: 2022-11-14 15:02+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -628,7 +628,7 @@ msgstr ""
 
 #: dialog/12npc.msg:10
 msgid "Some old man. "
-msgstr ""
+msgstr "Någon gammal man. "
 
 #: dialog/12npc.msg:20
 msgid "He look very wise.."
@@ -653,7 +653,7 @@ msgstr ""
 
 #: dialog/12npc.msg:300
 msgid "Are you elder?"
-msgstr ""
+msgstr "Är du Äldre?"
 
 #: dialog/12npc.msg:350
 msgid ""
@@ -681,7 +681,7 @@ msgstr ""
 
 #: dialog/13npc.msg:101
 msgid "I feel weird.."
-msgstr ""
+msgstr "Jag känner mig konstig.."
 
 #: dialog/13npc.msg:102
 msgid "I feel bad.. its probably because shaman mixture.."
@@ -785,7 +785,7 @@ msgstr ""
 
 #: dialog/16npc.msg:200
 msgid "Sure, why not.."
-msgstr ""
+msgstr "Visst, varför inte.."
 
 #: dialog/16npc.msg:250
 msgid ""
@@ -824,7 +824,7 @@ msgstr ""
 
 #: dialog/16npc.msg:404
 msgid "Thank you again!"
-msgstr ""
+msgstr "Tack igen!"
 
 #: dialog/17npc.msg:100
 msgid "Only the truly wiser can follow the path of darkness."
@@ -1028,15 +1028,15 @@ msgstr "[hon titta på spegel]"
 
 #: dialog/21npc.msg:402
 msgid "Yeah! Am superstar!"
-msgstr ""
+msgstr "Ja! Är superstjärna!"
 
 #: dialog/21npc.msg:403
 msgid "[she use cosmetics]"
-msgstr ""
+msgstr "[hon använder kosmetika]"
 
 #: dialog/21npc.msg:404
 msgid "Hi Hi Hi"
-msgstr ""
+msgstr "Hej Hej Hej"
 
 #: dialog/22npc.msg:10
 msgid "Frank. "
@@ -1072,15 +1072,15 @@ msgstr ""
 
 #: dialog/22npc.msg:400
 msgid "Am smoking heheh!"
-msgstr ""
+msgstr "Röker heheh!"
 
 #: dialog/22npc.msg:401
 msgid "What you want?!"
-msgstr ""
+msgstr "Vad du vill?!"
 
 #: dialog/22npc.msg:402
 msgid "Leave me alone!"
-msgstr ""
+msgstr "Lämna mig ifred!"
 
 #: dialog/22npc.msg:403
 msgid "Yeah i have lighter!"
@@ -1272,7 +1272,7 @@ msgstr ""
 
 #: dialog/24npc.msg:102
 msgid "Run! I escape! "
-msgstr ""
+msgstr "Spring! Jag flyr!"
 
 #: dialog/24npc.msg:103
 msgid "Ok i enter house and what now? "
@@ -1372,7 +1372,7 @@ msgstr ""
 
 #: dialog/24npc.msg:127
 msgid "No am not! "
-msgstr ""
+msgstr "Nej är inte!"
 
 #: dialog/24npc.msg:128
 msgid "Am enter tavern and scream BEER! "
@@ -1408,7 +1408,7 @@ msgstr ""
 
 #: dialog/24npc.msg:136
 msgid "HA HA HA! "
-msgstr ""
+msgstr "HA HA HA!"
 
 #: dialog/24npc.msg:137
 msgid "I do nothing! Am just sit on ground.. "
@@ -1428,7 +1428,7 @@ msgstr ""
 
 #: dialog/24npc.msg:141
 msgid "Hah i WIN! "
-msgstr ""
+msgstr "Hah jag VINNER!"
 
 #: dialog/24npc.msg:142
 msgid "How much i get experience? "
@@ -1520,7 +1520,7 @@ msgstr ""
 
 #: dialog/25npc.msg:112
 msgid "Yes thats true!"
-msgstr ""
+msgstr "Ja det är sant!"
 
 #: dialog/25npc.msg:113
 msgid "Am walking trough corridor and i have torch."
@@ -1899,7 +1899,7 @@ msgstr ""
 
 #: dialog/31npc.msg:300
 msgid "Ok am ready.."
-msgstr ""
+msgstr "Ok är redo.."
 
 #: dialog/31npc.msg:350
 msgid ""
@@ -1934,7 +1934,7 @@ msgstr "Konstigt Folk. "
 
 #: dialog/32npc.msg:20
 msgid "He look crazy.."
-msgstr ""
+msgstr "Han se galen ut.."
 
 #: dialog/32npc.msg:100
 msgid ""
@@ -2106,7 +2106,7 @@ msgstr "[T:25]"
 
 #: dialog/34npc.msg:506 dialog/37npc.msg:506 dialog/38npc.msg:506
 msgid "[T:30] TIME END! "
-msgstr ""
+msgstr "[T:30] TID SLUT! "
 
 #: dialog/34npc.msg:600 dialog/37npc.msg:600 dialog/38npc.msg:600
 msgid "You try to fix spring which jump out from bed.. "
@@ -2400,7 +2400,7 @@ msgstr ""
 
 #: dialog/40npc.msg:100
 msgid "You are ashole!"
-msgstr ""
+msgstr "Du är röhål!"
 
 #: dialog/40npc.msg:101
 msgid "No it was not me!"
@@ -2436,11 +2436,11 @@ msgstr "Eh.. låst! "
 
 #: dialog/41npc.msg:70
 msgid "You unlock doors! "
-msgstr ""
+msgstr "Du låser upp dörrar! "
 
 #: dialog/41npc.msg:80
 msgid "You lock doors. "
-msgstr ""
+msgstr "Du låser dörrar."
 
 #: dialog/42npc.msg:10
 msgid "New bartender. "
@@ -2456,7 +2456,7 @@ msgstr ""
 
 #: dialog/42npc.msg:200 dialog/45npc.msg:300
 msgid "What you do?"
-msgstr ""
+msgstr "Vad du gör?"
 
 #: dialog/42npc.msg:250
 msgid ""
@@ -2648,7 +2648,7 @@ msgstr "Växt snabbare!"
 
 #: dialog/46npc.msg:101
 msgid "What you say?! "
-msgstr ""
+msgstr "Vad du säger?! "
 
 #: dialog/46npc.msg:102
 msgid "I will give you motivation!"
@@ -2868,7 +2868,7 @@ msgstr ""
 
 #: dialog/50npc.msg:910
 msgid "[Let him sleep] "
-msgstr ""
+msgstr "[Låt honom sova] "
 
 #: dialog/51npc.msg:10
 msgid "Smith. "
@@ -2934,7 +2934,7 @@ msgstr ""
 
 #: dialog/52npc.msg:50
 msgid "Read next page... "
-msgstr ""
+msgstr "Läs nästa sida..."
 
 #: dialog/52npc.msg:60
 msgid ""
@@ -3929,7 +3929,7 @@ msgstr ""
 
 #: dialog/53npc.msg:100
 msgid "Ouh.. yes yes.. "
-msgstr ""
+msgstr "Ouh.. ja ja.. "
 
 #: dialog/53npc.msg:101
 msgid "You have nice dress.. "
@@ -3941,7 +3941,7 @@ msgstr ""
 
 #: dialog/53npc.msg:103
 msgid "I need it!"
-msgstr ""
+msgstr "Jag behöver det!"
 
 #: dialog/53npc.msg:104
 msgid "We must made big orgy again.."
@@ -4030,7 +4030,7 @@ msgstr ""
 
 #: dialog/57npc.msg:105
 msgid "Hahahah! Am Spiderman! "
-msgstr ""
+msgstr "Hahahah! Är Spindelmannen! "
 
 #: dialog/57npc.msg:106
 msgid "Am Turtle Ninja! Master of karate! "
@@ -4042,7 +4042,7 @@ msgstr ""
 
 #: dialog/57npc.msg:108
 msgid "Arrgghh Am HULK! "
-msgstr ""
+msgstr "Arrgghh Är HULKEN! "
 
 #: dialog/57npc.msg:109
 msgid "Am Richard Wintage from TV! "
@@ -4054,7 +4054,7 @@ msgstr ""
 
 #: dialog/57npc.msg:111
 msgid "Am magapornstar yeah!  "
-msgstr ""
+msgstr "Är magaporrstjärna yeah!  "
 
 #: dialog/57npc.msg:112
 msgid "Who are me!? Am Unvisible!  "
@@ -4070,7 +4070,7 @@ msgstr ""
 
 #: dialog/57npc.msg:115
 msgid "Am forum administrator! "
-msgstr ""
+msgstr "Är forumadministratör!"
 
 #: dialog/57npc.msg:116
 msgid "Am Gorgeous Nurse yeesss.."
@@ -4082,7 +4082,7 @@ msgstr ""
 
 #: dialog/57npc.msg:118
 msgid "Hahahhh! am RICH!  "
-msgstr ""
+msgstr "Hahahhh! är RIK!  "
 
 #: dialog/57npc.msg:119
 msgid "GOLD! I can turn rocks to gold! "
@@ -4462,7 +4462,7 @@ msgstr "svar"
 
 #: dialog/quest.msg:250
 msgid "bring me"
-msgstr ""
+msgstr "ta med mig"
 
 #: dialog/talk.msg:100
 msgid " intro "
