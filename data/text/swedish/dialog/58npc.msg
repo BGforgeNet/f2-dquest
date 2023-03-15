@@ -1,7 +1,7 @@
 {10}{}{Punk.}
 {20}{}{Pretty woman in black leather and green short hairs..}
 {100}{}{[She say quickly] I have "Hero Jets" only 20$}
-{200}{}{How it works?}
+{200}{}{Hur det fungerar?}
 {250}{}{This mixture will help you to feel like hero. So what? Are you interested to buy it or not!? Make your decision faster i have many customers! Am inventioner and producer. Just 20$ come on!}
 {300}{}{Uh.. ok let me try your Jet, here is money.}
 {350}{}{Thanx. Take only one breath each day, its very strong!}

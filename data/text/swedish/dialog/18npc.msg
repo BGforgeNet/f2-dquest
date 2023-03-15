@@ -1,7 +1,7 @@
 {10}{}{Konstig Råtta.}
-{20}{}{He must be mutated..}
+{20}{}{Han måste vara muterad..}
 {100}{}{Grrrr! }
 {101}{}{Voff! }
-{102}{}{[He look at you] }
+{102}{}{[Han titta på dig]}
 {103}{}{Grrrrr.. VOFF!}
 {104}{}{Snifff!}

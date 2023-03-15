@@ -18,7 +18,7 @@
 {117}{}{Am Hobbit! And i have RING! }
 {118}{}{Hahahhh! är RIK!  }
 {119}{}{GOLD! I can turn rocks to gold! }
-{120}{}{Am VIC supertrader!  }
+{120}{}{Är VIC superhandlare!  }
 {121}{}{Hahah! I dont known who am i ..but not ME!  }
 {122}{}{Am Veeery BIG tree!  }
 {123}{}{Am dog shit! SOMETHING WRONG!  }

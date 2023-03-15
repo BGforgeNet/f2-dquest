@@ -5,7 +5,7 @@
 {250}{}{Uh.. ok! I fear to go outside town. Monica say she seen very BIG rat and she run again somewhere. I feel so alone and SAD!}
 {300}{}{Sorry kid but i dont remember you..}
 {350}{}{Momy say that you got problems with brain! And she search doctor which will make you sometihing bad! Better escape from here, am warning you!}
-{400}{}{What is RPG?}
+{400}{}{Vad är Rollspel?}
 {450}{}{Its strange game, they play it many days. I wish i could understand what they talking about and what are these.. rules!}
 {910}{}{SLUT}
 {920}{}{TILLBAKA }

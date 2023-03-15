@@ -3,5 +3,5 @@
 {100}{}{STOPP!}
 {101}{}{Snälla stanna! }
 {102}{}{I suggest you to stop! }
-{103}{}{WE MUST STOP! }
+{103}{}{VI MÅSTE STANNA!}
 {104}{}{STANNA HÄR!}

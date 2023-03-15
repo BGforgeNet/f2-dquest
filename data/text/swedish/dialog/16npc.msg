@@ -6,7 +6,7 @@
 {300}{}{Look i have this root!}
 {350}{}{[She start to make soup from xander] Thank you, take this cosmetics i dont need them any more, because they not work..}
 {400}{}{Am trying to make soup! Leave me alone!}
-{401}{}{Why i feel ugly..}
+{401}{}{Varför jag känner mig ful..}
 {402}{}{Do you want tasty soup from xander?}
 {403}{}{Am not sure this will work but i must try..}
 {404}{}{Tack igen!}
