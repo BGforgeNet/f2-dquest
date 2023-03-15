@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2022-11-14 15:02+0000\n"
+"PO-Revision-Date: 2023-03-15 08:05+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -357,6 +357,9 @@ msgid ""
 "new, clean one. It shold lay somewhere near tents over there! [She point "
 "finger in random direction and sit on ground trying to clean shoes]"
 msgstr ""
+"Shaman vill ge honom mer skit, men min spade är så tung. Ge mig ny, ren "
+"spade. Den bord ligga någonstans nära tält där borta! [Hon pekar fingret i "
+"en slumpmässig riktning och sitt på marken och försöker rengöra skor]."
 
 #: dialog/07npc.msg:300
 msgid "I found clean shovel!"
@@ -468,7 +471,7 @@ msgstr ""
 
 #: dialog/09npc.msg:105
 msgid "Look at this rainbow!! "
-msgstr ""
+msgstr "Titta på den här regnbågen!!"
 
 #: dialog/09npc.msg:106
 msgid "I cant move my leg! Argh!! Help me! "
@@ -556,7 +559,7 @@ msgstr ""
 
 #: dialog/09npc.msg:127
 msgid "What this dog say?! "
-msgstr ""
+msgstr "Vad denna hund säger?!"
 
 #: dialog/09npc.msg:128
 msgid "WoW! My hand is so long!! "
@@ -572,7 +575,7 @@ msgstr ""
 
 #: dialog/10npc.msg:100
 msgid "Uh i feel sick! "
-msgstr ""
+msgstr "Eh jag mår illa!"
 
 #: dialog/10npc.msg:101
 msgid "I drink too much shaman mixtures.. "
@@ -596,7 +599,7 @@ msgstr ""
 
 #: dialog/11npc.msg:200
 msgid "How you made it?"
-msgstr ""
+msgstr "Hur du gjorde det?"
 
 #: dialog/11npc.msg:250
 msgid ""
@@ -607,7 +610,7 @@ msgstr ""
 
 #: dialog/11npc.msg:300
 msgid "What is that face?"
-msgstr ""
+msgstr "Vad är detta ansikte?"
 
 #: dialog/11npc.msg:350
 msgid ""
@@ -617,7 +620,7 @@ msgstr ""
 
 #: dialog/11npc.msg:400
 msgid "Why you made it?"
-msgstr ""
+msgstr "Varför du gjorde det?"
 
 #: dialog/11npc.msg:450
 msgid ""
@@ -632,7 +635,7 @@ msgstr "Någon gammal man. "
 
 #: dialog/12npc.msg:20
 msgid "He look very wise.."
-msgstr ""
+msgstr "Han se väldigt klok.."
 
 #: dialog/12npc.msg:100
 msgid "Hello outsider.. are you Vic friend?"
@@ -664,7 +667,7 @@ msgstr ""
 
 #: dialog/12npc.msg:400
 msgid "Whats going around lately?"
-msgstr ""
+msgstr "Vad händer runtom sistone?"
 
 #: dialog/12npc.msg:450
 msgid ""
@@ -701,7 +704,7 @@ msgstr "Ovanlig bybo."
 
 #: dialog/14npc.msg:20
 msgid "This one look different.."
-msgstr ""
+msgstr "Den här se annorlunda.."
 
 #: dialog/14npc.msg:100
 msgid ""
@@ -812,7 +815,7 @@ msgstr ""
 
 #: dialog/16npc.msg:401
 msgid "Why i feel ugly.."
-msgstr ""
+msgstr "Varför jag känner mig ful.."
 
 #: dialog/16npc.msg:402
 msgid "Do you want tasty soup from xander?"
@@ -852,7 +855,7 @@ msgstr "Konstig Råtta."
 
 #: dialog/18npc.msg:20
 msgid "He must be mutated.."
-msgstr ""
+msgstr "Han måste vara muterad.."
 
 #: dialog/18npc.msg:100
 msgid "Grrrr! "
@@ -864,7 +867,7 @@ msgstr "Voff! "
 
 #: dialog/18npc.msg:102
 msgid "[He look at you] "
-msgstr ""
+msgstr "[Han titta på dig]"
 
 #: dialog/18npc.msg:103
 msgid "Grrrrr.. WOOF! "
@@ -893,7 +896,7 @@ msgstr ""
 
 #: dialog/19npc.msg:200
 msgid "Uh.. but why me?"
-msgstr ""
+msgstr "Åh.. men varför jag?"
 
 #: dialog/19npc.msg:250
 msgid ""
@@ -1712,7 +1715,7 @@ msgstr ""
 
 #: dialog/26npc.msg:400
 msgid "What is RPG?"
-msgstr ""
+msgstr "Vad är Rollspel?"
 
 #: dialog/26npc.msg:450
 msgid ""
@@ -4090,7 +4093,7 @@ msgstr ""
 
 #: dialog/57npc.msg:120
 msgid "Am VIC supertrader!  "
-msgstr ""
+msgstr "Är VIC superhandlare!  "
 
 #: dialog/57npc.msg:121
 msgid "Hahah! I dont known who am i ..but not ME!  "
@@ -4146,7 +4149,7 @@ msgstr ""
 
 #: dialog/58npc.msg:200
 msgid "How it works?"
-msgstr ""
+msgstr "Hur det fungerar?"
 
 #: dialog/58npc.msg:250
 msgid ""
@@ -4356,7 +4359,7 @@ msgstr ""
 
 #: dialog/62npc.msg:300
 msgid "2. Four beers!"
-msgstr ""
+msgstr "2. Fyra öl!"
 
 #: dialog/62npc.msg:400
 msgid "3. I eat it and search more! "
@@ -4388,7 +4391,7 @@ msgstr ""
 
 #: dialog/64npc.msg:103
 msgid "WE MUST STOP! "
-msgstr ""
+msgstr "VI MÅSTE STANNA!"
 
 #: dialog/64npc.msg:104
 msgid "STOP HERE! "
