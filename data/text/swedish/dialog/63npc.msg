@@ -1,1 +1,1 @@
-{100}{}{Metal door.}
+{100}{}{Metalldörr.}

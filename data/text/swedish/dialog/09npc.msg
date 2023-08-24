@@ -3,10 +3,10 @@
 {102}{}{Where is my shoes? Police! Someone steal my shoes!!  }
 {103}{}{Wow.. my head is so BIG!  }
 {104}{}{I found gold! hahah! ..no its stone. }
-{105}{}{Look at this rainbow!! }
+{105}{}{Titta på den här regnbågen!!}
 {106}{}{I cant move my leg! Argh!! Help me! }
 {107}{}{Whats wrong with my fingers? I have them too much.. }
-{108}{}{Am unvisible! }
+{108}{}{Är onsynlig! }
 {109}{}{Am faster than bullet! Wow i move so fast! }
 {110}{}{Where is my schlager?! Uh.. i got it in hand.. }
 {111}{}{What is that on sky? ..its UFO!?  }
@@ -25,7 +25,7 @@
 {124}{}{Yeah i like that music!!!  }
 {125}{}{What you want from me?! Fuck off damn rat! }
 {126}{}{What these flies want from me?! }
-{127}{}{What this dog say?! }
+{127}{}{Vad denna hund säger?!}
 {128}{}{WoW! My hand is so long!! }
 {129}{}{Why am so green?! Oh no am supermutant!!  }
 {130}{}{Police! Rabbit steal my fingers!! }

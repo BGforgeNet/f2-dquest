@@ -12,13 +12,13 @@
 {109}{}{Yeah but alchemic using immortal potion can decrease other skill: AGE!}
 {110}{}{I think its best: one skill will affect many other skills!}
 {111}{}{So SITUATION mean action where few skills affect one to other!}
-{112}{}{Yes thats true!}
+{112}{}{Ja det är sant!}
 {113}{}{Am walking trough corridor and i have torch.}
 {114}{}{Thief have his skill to steal but i have skill to watch my money!}
 {115}{}{Uh yes.. it could be complicated, but somehow i believe its best way.}
 {116}{}{How many times i could try made some action and on how skill its based?}
 {117}{}{Let me see.. no it dont make any sense..}
-{118}{}{My favourite is RED! }
+{118}{}{Min favorit är RÖD!}
 {119}{}{I vote on hundread levels, percents! }
 {120}{}{When you born, your AGE skill is zero! }
 {121}{}{Ok so i hold my sword hundread days, so my HOLD skill is 100%  }
@@ -31,16 +31,16 @@
 {128}{}{Because i got smith skill so i made metal hat! And nobody seen that! }
 {129}{}{Because its secret item which even game master dont see! }
 {130}{}{Quest master and Game master, whats the difference!? }
-{131}{}{Hey guys! Ho many days we play here?! I lost time feeling! }
-{132}{}{Ok so i thrown dagger.. and what now?}
-{133}{}{Everybody should count own throwns..}
+{131}{}{Hej killar! Hu många dagar vi spelar här?! Jag förlorade tidskänsla!}
+{132}{}{Okej, jag kastat dolk.. och vad nu?}
+{133}{}{Alla borde räkna egna kastningar...}
 {134}{}{But cheating its also skill! So i get bonus to EVERYTHING!}
-{135}{}{Luck and cheating are similar, so you gat many bonus.. }
-{136}{}{I use my two handed sword which i made from crystal. }
+{135}{}{Tur och fusk är liknande, så du hor många bonus.. }
+{136}{}{Jag använder mitt tvåhandssvärd som jag gjorde av kristall.}
 {137}{}{Everything should be possible otherwise we will pluke from boring! }
-{138}{}{So you get more experience, its bonus. }
-{139}{}{Every living creatures should have WILD element: wild frog, wild horse. }
-{140}{}{WILD is skill used by animals and villagers, they live far from towns. }
+{138}{}{Så du får mer erfarenhet, detär bonus. }
+{139}{}{Alla levande varelser borde ha VILD-element: vild groda, vild häst. }
+{140}{}{VILD är färdighet som används av djur och bybor som bor långt från städer. }
 {141}{}{NOTHING! Do i need to made actions in each second of my life?! }
 {142}{}{Well who cares about that, i could try again hundread times! }
 {143}{}{Ok so BORING skill will determine how many times you can made action.. }

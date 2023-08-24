@@ -1,7 +1,7 @@
 {10}{}{Fanatiker.}
 {20}{}{He must eat too much drugs..}
 {100}{}{STOPP!}
-{101}{}{Please stop! }
+{101}{}{Snälla stanna! }
 {102}{}{I suggest you to stop! }
-{103}{}{WE MUST STOP! }
-{104}{}{STOP HERE! }
+{103}{}{VI MÅSTE STANNA!}
+{104}{}{STANNA HÄR!}

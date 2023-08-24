@@ -4,4 +4,4 @@
 {101}{}{Yesh letys drinke for tshat.. again!}
 {102}{}{Häääp!}
 {103}{}{LOT! loot of thress ..therss.. treassuRES!}
-{104}{}{Aaaaamm... RICH!}
+{104}{}{Ääääärr... RIK!}

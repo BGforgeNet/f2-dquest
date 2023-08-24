@@ -1,4 +1,4 @@
-{10}{}{Sylvia Moon. }
+{10}{}{Sylvia Moon.}
 {20}{}{She is owner and guard of fame Bathhouse.}
 {50}{}{ aaa}
 {51}{}{ bbb}
@@ -21,4 +21,4 @@
 {650}{}{We dont make movies here, you must visit New Reno "Porn Club". Ofcourse they will dont hire you as "actor" if your "experience" is lower than 10. Already your SEX-EXP is: }
 {700}{}{ pyt6}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

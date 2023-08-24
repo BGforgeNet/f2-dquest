@@ -1,4 +1,4 @@
-{10}{}{Paulina Hot. }
+{10}{}{Paulina Hot.}
 {20}{}{One from pornstars working for Bathhouse.}
 {50}{}{ aaa}
 {51}{}{ bbb}
@@ -18,7 +18,7 @@
 {503}{}{[T:15]}
 {504}{}{[T:20]}
 {505}{}{[T:25]}
-{506}{}{[T:30] TIME END! }
+{506}{}{[T:30] TID SLUT! }
 {600}{}{You try to fix spring which jump out from bed.. }
 {601}{}{You try to catch rat which run under bed..}
 {602}{}{You drink water from glass..}
@@ -45,4 +45,4 @@
 {623}{}{ }
 {700}{}{ pyt3}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }

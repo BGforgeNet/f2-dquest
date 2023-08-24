@@ -1,4 +1,4 @@
-{10}{}{Bybo.}
+{10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
 {100}{}{Only the truly wiser can follow the path of darkness.}
 {101}{}{You are Klamath citizen right? Yes i known everything! }

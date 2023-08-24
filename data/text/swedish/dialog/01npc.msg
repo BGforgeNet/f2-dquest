@@ -8,4 +8,4 @@
 {400}{}{Jag söker efter något att dricka.. Och vad du gör?}
 {450}{}{Vår häxa har satt en annan bybo i stigarnas tempel och jag måste hålla ett öga på honom. Än har ingen återvänt därifrån. Vi behöver modiga mästare som kan göra ett farligt uppdrag som kommer att rädda oss i dessa mörka tider.}
 {910}{}{SLUT}
-{920}{}{TILLBAKA}
+{920}{}{TILLBAKA }
