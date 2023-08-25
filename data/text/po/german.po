@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2021-02-25 14:12+0000\n"
-"Last-Translator: Martin Herzberg <fasciana84@gmail.com>\n"
-"Language-Team: German <https://tra.bgforge.net/projects/fallout/dangerous-quest/de/>\n"
-"Language: de\n"
+"PO-Revision-Date: 2023-08-25 18:27+0000\n"
+"Last-Translator: Charles Dexter Ward <graffias@quantentunnel.de>\n"
+"Language-Team: German <https://tra.bgforge.net/projects/fallout/"
+"dangerous-quest/de/>\n"
+"Language: german\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: dialog/01npc.msg:10
 msgid "Guard."
@@ -1762,7 +1763,7 @@ msgstr ""
 
 #: dialog/27npc.msg:400
 msgid "What is your name?"
-msgstr "Wie heißt du?"
+msgstr "Wie ist dein Name?"
 
 #: dialog/27npc.msg:450
 msgid ""
@@ -2468,7 +2469,7 @@ msgstr ""
 
 #: dialog/42npc.msg:200 dialog/45npc.msg:300
 msgid "What you do?"
-msgstr "Was du machen?"
+msgstr "Was du tun?"
 
 #: dialog/42npc.msg:250
 msgid ""
