@@ -1,7 +1,7 @@
 {10}{}{New bartender. }
 {20}{}{Crazy folk..}
 {100}{}{Yes! hahah! I have record! YEAH!}
-{200}{}{Was du machen?}
+{200}{}{Was du tun?}
 {250}{}{Am playing Giana Sister.. JUMP YOU BITCH! ..damn! ..YEAH! [he point on some pixels on monitor and say] Look i olways get problems to get these diamonds, i think it must be unvisible platform to jump for this bonus..}
 {300}{}{What is that.. machine?}
 {350}{}{C64, old comp but so many cool games! Yes i should use it to count stock and payments but i found its entertainment possibilities and now i cant stop!}
