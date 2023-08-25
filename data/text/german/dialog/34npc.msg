@@ -39,10 +39,10 @@
 {617}{}{You try to strip own socks but they stuck..}
 {618}{}{You try to strip own shirt but it stuck..}
 {619}{}{You touch her legs and she say "ouuh yees.."}
-{620}{}{.}
-{621}{}{.}
-{622}{}{.}
-{623}{}{.}
+{620}{}{ }
+{621}{}{ }
+{622}{}{ }
+{623}{}{ }
 {700}{}{ pyt3 }
 {910}{}{Ende}
 {920}{}{Zurück}
