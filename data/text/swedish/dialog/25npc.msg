@@ -9,7 +9,7 @@
 {106}{}{To avoid chest trap i could use intuition i konwn whats could happend!}
 {107}{}{Age is ALSO skill hehe! And it coud be test by percents. Age 100=100%}
 {108}{}{So when you got 100% or 0% it mean that you SURELY get some effects!}
-{109}{}{Yeah but alchemic using immortal potion can decrease other skill: AGE!}
+{109}{}{Ja men alkemi med odödlig dryck kan minska annan färdighet: ÅLDER!}
 {110}{}{I think its best: one skill will affect many other skills!}
 {111}{}{So SITUATION mean action where few skills affect one to other!}
 {112}{}{Ja det är sant!}
