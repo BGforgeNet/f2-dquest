@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2023-03-15 08:05+0000\n"
+"PO-Revision-Date: 2024-07-24 05:53+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -1511,7 +1511,7 @@ msgstr ""
 
 #: dialog/25npc.msg:109
 msgid "Yeah but alchemic using immortal potion can decrease other skill: AGE!"
-msgstr ""
+msgstr "Ja men alkemi med odödlig dryck kan minska annan färdighet: ÅLDER!"
 
 #: dialog/25npc.msg:110
 msgid "I think its best: one skill will affect many other skills!"
