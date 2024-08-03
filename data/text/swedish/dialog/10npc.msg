@@ -1,7 +1,7 @@
 {10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
 {100}{}{Eh jag mår illa!}
-{101}{}{I drink too much shaman mixtures.. }
-{102}{}{My head.. its that big as i feel it?! }
-{103}{}{What these flies want from me?}
-{104}{}{Uh the pain.. I need rest!}
+{101}{}{Jag dricker för mycket shamanblandningar...}
+{102}{}{Mitt huvud... det är så där stort som jag känner det?!}
+{103}{}{Vad de här flugorna vill ha av mig?}
+{104}{}{Öh smärtan... Jag behöver vila!}

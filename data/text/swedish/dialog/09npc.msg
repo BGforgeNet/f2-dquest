@@ -28,4 +28,4 @@
 {127}{}{Vad denna hund säger?!}
 {128}{}{WoW! My hand is so long!! }
 {129}{}{Why am so green?! Oh no am supermutant!!  }
-{130}{}{Police! Rabbit steal my fingers!! }
+{130}{}{Polis! Kanin stjäl mina fingrar!! }
