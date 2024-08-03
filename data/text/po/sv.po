@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2024-07-24 05:53+0000\n"
+"PO-Revision-Date: 2024-08-03 15:53+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -571,7 +571,7 @@ msgstr ""
 
 #: dialog/09npc.msg:130
 msgid "Police! Rabbit steal my fingers!! "
-msgstr ""
+msgstr "Polis! Kanin stjäl mina fingrar!! "
 
 #: dialog/10npc.msg:100
 msgid "Uh i feel sick! "
@@ -579,19 +579,19 @@ msgstr "Eh jag mår illa!"
 
 #: dialog/10npc.msg:101
 msgid "I drink too much shaman mixtures.. "
-msgstr ""
+msgstr "Jag dricker för mycket shamanblandningar..."
 
 #: dialog/10npc.msg:102
 msgid "My head.. its that big as i feel it?! "
-msgstr ""
+msgstr "Mitt huvud... det är så där stort som jag känner det?!"
 
 #: dialog/10npc.msg:103
 msgid "What these flies want from me?"
-msgstr ""
+msgstr "Vad de här flugorna vill ha av mig?"
 
 #: dialog/10npc.msg:104
 msgid "Uh the pain.. I need rest!"
-msgstr ""
+msgstr "Öh smärtan... Jag behöver vila!"
 
 #: dialog/11npc.msg:100
 msgid "Finally! After many years i finished this.. monument!"
