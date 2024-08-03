@@ -1,4 +1,4 @@
-{100}{}{You have wonderfull vision but you feel sick. }
+{100}{}{Du har en fantastiskk syn men känner dig sjuk. }
 {101}{}{Am BATMAN! And i have very cool car!  }
 {102}{}{Am Superman strongh like horse!  }
 {103}{}{Argggh! Am SUPER mutant! }

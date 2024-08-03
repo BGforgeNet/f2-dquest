@@ -1,5 +1,5 @@
-{100}{}{You have wonderfull vision but you feel sick. }
-{101}{}{Am mister fly! And am quick like wind!  }
+{100}{}{Du har en fantastiskk syn men känner dig sjuk. }
+{101}{}{Är herr fluga! Och är snabb som vind!  }
 {102}{}{Where is my shoes? Police! Someone steal my shoes!!  }
 {103}{}{Wow.. my head is so BIG!  }
 {104}{}{I found gold! hahah! ..no its stone. }

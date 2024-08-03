@@ -6,9 +6,9 @@
 {300}{}{I got flower, can you made this mixture for me?}
 {350}{}{Oh yeah! [He take flower from you and piece of shit from barrel. After half hour he gived you wonderfull mixture.]}
 {400}{}{Help me! Snake bird attack my shoe!}
-{401}{}{Why these rocks escaping from me?!}
-{402}{}{Wow i have third hand!!}
-{403}{}{What is that?! I cant catch it!!}
-{404}{}{Fire! My house is under fire!!}
+{401}{}{Varför dessa stenar flyr från mig?!}
+{402}{}{Wow jag har tredje hand!!}
+{403}{}{Vad är det där?! Jag kante fånga det!!}
+{404}{}{Eld! Mitt hus är under eld!!}
 {910}{}{SLUT}
 {920}{}{TILLBAKA }
