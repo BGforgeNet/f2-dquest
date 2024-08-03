@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2024-08-03 15:53+0000\n"
+"PO-Revision-Date: 2024-08-03 17:53+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -435,27 +435,27 @@ msgstr ""
 
 #: dialog/08npc.msg:401
 msgid "Why these rocks escaping from me?!"
-msgstr ""
+msgstr "Varför dessa stenar flyr från mig?!"
 
 #: dialog/08npc.msg:402
 msgid "Wow i have third hand!!"
-msgstr ""
+msgstr "Wow jag har tredje hand!!"
 
 #: dialog/08npc.msg:403
 msgid "What is that?! I cant catch it!!"
-msgstr ""
+msgstr "Vad är det där?! Jag kante fånga det!!"
 
 #: dialog/08npc.msg:404
 msgid "Fire! My house is under fire!!"
-msgstr ""
+msgstr "Eld! Mitt hus är under eld!!"
 
 #: dialog/09npc.msg:100 dialog/57npc.msg:100
 msgid "You have wonderfull vision but you feel sick. "
-msgstr ""
+msgstr "Du har en fantastiskk syn men känner dig sjuk. "
 
 #: dialog/09npc.msg:101
 msgid "Am mister fly! And am quick like wind!  "
-msgstr ""
+msgstr "Är herr fluga! Och är snabb som vind!  "
 
 #: dialog/09npc.msg:102
 msgid "Where is my shoes? Police! Someone steal my shoes!!  "
