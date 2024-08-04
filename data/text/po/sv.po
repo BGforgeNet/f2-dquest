@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2024-08-03 17:53+0000\n"
+"PO-Revision-Date: 2024-08-04 12:53+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -459,15 +459,15 @@ msgstr "Är herr fluga! Och är snabb som vind!  "
 
 #: dialog/09npc.msg:102
 msgid "Where is my shoes? Police! Someone steal my shoes!!  "
-msgstr ""
+msgstr "Var är min skor? Polisen! Någon stjäla mina skor!!  "
 
 #: dialog/09npc.msg:103
 msgid "Wow.. my head is so BIG!  "
-msgstr ""
+msgstr "Wow... mitt huvud är så STORT!  "
 
 #: dialog/09npc.msg:104
 msgid "I found gold! hahah! ..no its stone. "
-msgstr ""
+msgstr "Jag hittade guld! hahah! ...nej detär sten. "
 
 #: dialog/09npc.msg:105
 msgid "Look at this rainbow!! "
@@ -475,11 +475,11 @@ msgstr "Titta på den här regnbågen!!"
 
 #: dialog/09npc.msg:106
 msgid "I cant move my leg! Argh!! Help me! "
-msgstr ""
+msgstr "Jag kante röra mitt ben! Argh!!! Hjälp mig! "
 
 #: dialog/09npc.msg:107
 msgid "Whats wrong with my fingers? I have them too much.. "
-msgstr ""
+msgstr "Vadär fel med mina fingrar? Jag har dem för mycket... "
 
 #: dialog/09npc.msg:108
 msgid "Am unvisible! "
@@ -487,23 +487,23 @@ msgstr "Är onsynlig! "
 
 #: dialog/09npc.msg:109
 msgid "Am faster than bullet! Wow i move so fast! "
-msgstr ""
+msgstr "Är snabbare än kula! Wow jag rör mig så snabbt! "
 
 #: dialog/09npc.msg:110
 msgid "Where is my schlager?! Uh.. i got it in hand.. "
-msgstr ""
+msgstr "Var är min schlager?! Eh.. jag har den i hand.."
 
 #: dialog/09npc.msg:111
 msgid "What is that on sky? ..its UFO!?  "
-msgstr ""
+msgstr "Vad är det där på himlen? detär UFO?  "
 
 #: dialog/09npc.msg:112
 msgid "Arrgh! Snake rat eat my shoes!  "
-msgstr ""
+msgstr "Arrgh! Ormråtta äta mina skor!  "
 
 #: dialog/09npc.msg:113
 msgid "Am so big! I could crush you by my finger! "
-msgstr ""
+msgstr "Är så stor! Jag skulle kunna krossa dig av mitt finger!"
 
 #: dialog/09npc.msg:114
 msgid "Why my pants are suddenly so wet?! "
