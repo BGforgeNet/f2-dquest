@@ -12,17 +12,17 @@
 {111}{}{Vad är det där på himlen? detär UFO?  }
 {112}{}{Arrgh! Ormråtta äta mina skor!  }
 {113}{}{Är så stor! Jag skulle kunna krossa dig av mitt finger!}
-{114}{}{Why my pants are suddenly so wet?! }
-{115}{}{Hey! You! Birdhead! Come on! }
-{116}{}{I think i could jump over house.. }
-{117}{}{Am rabbit.. I want to climb on tree! }
-{118}{}{Mouse?! I have mouse in pocket!  }
-{119}{}{Why these rocks watch at me?! }
-{120}{}{I lost my hat!! Uh.. do i have hat before?  }
-{121}{}{Where is my hairs?! Uh.. i got them in pocket!  }
-{122}{}{Damn! My Schlager is empty!  }
-{123}{}{Everything so slowly.. Hey you! Come on!  }
-{124}{}{Yeah i like that music!!!  }
+{114}{}{Varför mina byxor är plötsligt så blöta?! }
+{115}{}{Hallå! Du! Fågelhuvud! Kom igen! }
+{116}{}{Jag tror att jag kan hoppa över hus.. }
+{117}{}{Är kanin.. Jag vill klättra på träd! }
+{118}{}{Mus?! Jag har mus i fickan!  }
+{119}{}{Varför dessa stenar kolla mot mig?!}
+{120}{}{Jag tappade min hatt!! Eh.. har jag hatt förut?  }
+{121}{}{Var är mina hår?! Eh.. jag har dem i ficka!  }
+{122}{}{Jävlar! Min schlager är tom!  }
+{123}{}{Allting så sakta... Hallå där! Kom igen!  }
+{124}{}{Ja jag gillar den musiken!!  }
 {125}{}{What you want from me?! Fuck off damn rat! }
 {126}{}{What these flies want from me?! }
 {127}{}{Vad denna hund säger?!}
