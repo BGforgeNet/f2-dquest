@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2024-08-04 12:53+0000\n"
+"PO-Revision-Date: 2024-08-04 14:53+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -507,47 +507,47 @@ msgstr "Är så stor! Jag skulle kunna krossa dig av mitt finger!"
 
 #: dialog/09npc.msg:114
 msgid "Why my pants are suddenly so wet?! "
-msgstr ""
+msgstr "Varför mina byxor är plötsligt så blöta?! "
 
 #: dialog/09npc.msg:115
 msgid "Hey! You! Birdhead! Come on! "
-msgstr ""
+msgstr "Hallå! Du! Fågelhuvud! Kom igen! "
 
 #: dialog/09npc.msg:116
 msgid "I think i could jump over house.. "
-msgstr ""
+msgstr "Jag tror att jag kan hoppa över hus.. "
 
 #: dialog/09npc.msg:117
 msgid "Am rabbit.. I want to climb on tree! "
-msgstr ""
+msgstr "Är kanin.. Jag vill klättra på träd! "
 
 #: dialog/09npc.msg:118
 msgid "Mouse?! I have mouse in pocket!  "
-msgstr ""
+msgstr "Mus?! Jag har mus i fickan!  "
 
 #: dialog/09npc.msg:119
 msgid "Why these rocks watch at me?! "
-msgstr ""
+msgstr "Varför dessa stenar kolla mot mig?!"
 
 #: dialog/09npc.msg:120
 msgid "I lost my hat!! Uh.. do i have hat before?  "
-msgstr ""
+msgstr "Jag tappade min hatt!! Eh.. har jag hatt förut?  "
 
 #: dialog/09npc.msg:121
 msgid "Where is my hairs?! Uh.. i got them in pocket!  "
-msgstr ""
+msgstr "Var är mina hår?! Eh.. jag har dem i ficka!  "
 
 #: dialog/09npc.msg:122
 msgid "Damn! My Schlager is empty!  "
-msgstr ""
+msgstr "Jävlar! Min schlager är tom!  "
 
 #: dialog/09npc.msg:123
 msgid "Everything so slowly.. Hey you! Come on!  "
-msgstr ""
+msgstr "Allting så sakta... Hallå där! Kom igen!  "
 
 #: dialog/09npc.msg:124
 msgid "Yeah i like that music!!!  "
-msgstr ""
+msgstr "Ja jag gillar den musiken!!  "
 
 #: dialog/09npc.msg:125
 msgid "What you want from me?! Fuck off damn rat! "
