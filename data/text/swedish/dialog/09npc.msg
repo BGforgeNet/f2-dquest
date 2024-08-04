@@ -1,17 +1,17 @@
 {100}{}{Du har en fantastiskk syn men känner dig sjuk. }
 {101}{}{Är herr fluga! Och är snabb som vind!  }
-{102}{}{Where is my shoes? Police! Someone steal my shoes!!  }
-{103}{}{Wow.. my head is so BIG!  }
-{104}{}{I found gold! hahah! ..no its stone. }
+{102}{}{Var är min skor? Polisen! Någon stjäla mina skor!!  }
+{103}{}{Wow... mitt huvud är så STORT!  }
+{104}{}{Jag hittade guld! hahah! ...nej detär sten. }
 {105}{}{Titta på den här regnbågen!!}
-{106}{}{I cant move my leg! Argh!! Help me! }
-{107}{}{Whats wrong with my fingers? I have them too much.. }
+{106}{}{Jag kante röra mitt ben! Argh!!! Hjälp mig! }
+{107}{}{Vadär fel med mina fingrar? Jag har dem för mycket... }
 {108}{}{Är onsynlig! }
-{109}{}{Am faster than bullet! Wow i move so fast! }
-{110}{}{Where is my schlager?! Uh.. i got it in hand.. }
-{111}{}{What is that on sky? ..its UFO!?  }
-{112}{}{Arrgh! Snake rat eat my shoes!  }
-{113}{}{Am so big! I could crush you by my finger! }
+{109}{}{Är snabbare än kula! Wow jag rör mig så snabbt! }
+{110}{}{Var är min schlager?! Eh.. jag har den i hand..}
+{111}{}{Vad är det där på himlen? detär UFO?  }
+{112}{}{Arrgh! Ormråtta äta mina skor!  }
+{113}{}{Är så stor! Jag skulle kunna krossa dig av mitt finger!}
 {114}{}{Why my pants are suddenly so wet?! }
 {115}{}{Hey! You! Birdhead! Come on! }
 {116}{}{I think i could jump over house.. }
