@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2024-08-04 14:53+0000\n"
+"PO-Revision-Date: 2024-08-04 15:53+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -551,11 +551,11 @@ msgstr "Ja jag gillar den musiken!!  "
 
 #: dialog/09npc.msg:125
 msgid "What you want from me?! Fuck off damn rat! "
-msgstr ""
+msgstr "Vad du vill ha av mig?! Dra åt helvete jävla råtta! "
 
 #: dialog/09npc.msg:126
 msgid "What these flies want from me?! "
-msgstr ""
+msgstr "Vad de här flugorna vill ha av mig?! "
 
 #: dialog/09npc.msg:127
 msgid "What this dog say?! "
@@ -563,11 +563,11 @@ msgstr "Vad denna hund säger?!"
 
 #: dialog/09npc.msg:128
 msgid "WoW! My hand is so long!! "
-msgstr ""
+msgstr "WoW! Min hand är så lång!!"
 
 #: dialog/09npc.msg:129
 msgid "Why am so green?! Oh no am supermutant!!  "
-msgstr ""
+msgstr "Varför är så grön?! Åh nej är supermutant!  "
 
 #: dialog/09npc.msg:130
 msgid "Police! Rabbit steal my fingers!! "
@@ -595,7 +595,7 @@ msgstr "Öh smärtan... Jag behöver vila!"
 
 #: dialog/11npc.msg:100
 msgid "Finally! After many years i finished this.. monument!"
-msgstr ""
+msgstr "Äntligen! Efter många år blev jag klar med detta.. monument!"
 
 #: dialog/11npc.msg:200
 msgid "How you made it?"
