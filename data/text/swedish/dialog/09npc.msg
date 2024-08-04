@@ -23,9 +23,9 @@
 {122}{}{Jävlar! Min schlager är tom!  }
 {123}{}{Allting så sakta... Hallå där! Kom igen!  }
 {124}{}{Ja jag gillar den musiken!!  }
-{125}{}{What you want from me?! Fuck off damn rat! }
-{126}{}{What these flies want from me?! }
+{125}{}{Vad du vill ha av mig?! Dra åt helvete jävla råtta! }
+{126}{}{Vad de här flugorna vill ha av mig?! }
 {127}{}{Vad denna hund säger?!}
-{128}{}{WoW! My hand is so long!! }
-{129}{}{Why am so green?! Oh no am supermutant!!  }
+{128}{}{WoW! Min hand är så lång!!}
+{129}{}{Varför är så grön?! Åh nej är supermutant!  }
 {130}{}{Polis! Kanin stjäl mina fingrar!! }

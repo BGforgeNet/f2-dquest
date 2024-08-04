@@ -1,6 +1,6 @@
 {10}{}{Bybo. }
 {20}{}{De alla ser likadana ut..}
-{100}{}{Finally! After many years i finished this.. monument!}
+{100}{}{Äntligen! Efter många år blev jag klar med detta.. monument!}
 {200}{}{Hur du gjorde det?}
 {250}{}{Our elders dont allow us to use any technical stuff. With Vic drill i could made it in few days but i used traditional tool: wooden fork. I spend half of my life to made it, but as you see result was worth it.}
 {300}{}{Vad är detta ansikte?}
