@@ -1,5 +1,5 @@
 {10}{}{Klamath Nyheter.}
-{20}{}{News? They all are old stuff..}
+{20}{}{Nyheter? De alla är gamla grejer..}
 {100}{}{=== K L A M A T H === N E W S === }
 {200}{}{[Någon bild]}
 {250}{}{Det är någon foto och skrifter: Den här mannen ät min katt!}
