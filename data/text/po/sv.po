@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2024-08-04 15:53+0000\n"
+"PO-Revision-Date: 2024-10-06 09:09+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -418,20 +418,26 @@ msgid ""
 " much flowers. Bring me one and i will help you to see hidden side of "
 "amazing world!"
 msgstr ""
+"Hahahah.. förlåt jag glömde att du inte ser vad jag ser! Jag uppfann "
+"underbarr blandning. Den är gjord av brahminskit och brocblomma. Så länge "
+"jag inte har för många blommor. Ge mig en så kan hjälpa dig att se den gömda "
+"sidan av fantastisk värld!"
 
 #: dialog/08npc.msg:300
 msgid "I got flower, can you made this mixture for me?"
-msgstr ""
+msgstr "Jag har blomma, kan du göra denna blandning åt mig?"
 
 #: dialog/08npc.msg:350
 msgid ""
 "Oh yeah! [He take flower from you and piece of shit from barrel. After half "
 "hour he gived you wonderfull mixture.]"
 msgstr ""
+"Åh ja! [Han ta blomma från dig och bit skit från tunna. Efter halvtimme "
+"gedde han dig underbarr blandning.]"
 
 #: dialog/08npc.msg:400
 msgid "Help me! Snake bird attack my shoe!"
-msgstr ""
+msgstr "Hjälp mig! Orm fågel attackera min sko!"
 
 #: dialog/08npc.msg:401
 msgid "Why these rocks escaping from me?!"
@@ -1764,7 +1770,7 @@ msgstr "Klamath Nyheter."
 
 #: dialog/28npc.msg:20
 msgid "News? They all are old stuff.."
-msgstr ""
+msgstr "Nyheter? De alla är gamla grejer.."
 
 #: dialog/28npc.msg:100
 msgid "=== K L A M A T H === N E W S === "
