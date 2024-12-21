@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2024-12-21 21:40+0000\n"
+"PO-Revision-Date: 2024-12-21 22:40+0000\n"
 "Last-Translator: DocteurKain <jeanpeuplus@free.fr>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/fr/>\n"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: dialog/02npc.msg:200
 msgid "Hi man! Whats up?"
-msgstr ""
+msgstr "Bonjour ! Quoi de neuf ?"
 
 #: dialog/02npc.msg:250
 msgid ""
@@ -125,13 +125,17 @@ msgid ""
 "can you hear this scream from darkness? Everyone died there. She must be "
 "really stupid to kill our brothers and sisters in this dumb test!"
 msgstr ""
+"Une sorcière m'a choisi pour un test dans le temple. J'ai peur d'entrer car "
+"personne n'en revient... peux-tu entendre ce cri venant des ténèbres ? Tout "
+"le monde est mort là-bas. Elle doit être vraiment stupide pour tuer nos "
+"frères et soeurs dans ce test stupide !"
 
 #: dialog/02npc.msg:300 dialog/05npc.msg:300 dialog/27npc.msg:300
 #: dialog/30npc.msg:400 dialog/32npc.msg:400 dialog/34npc.msg:400
 #: dialog/37npc.msg:400 dialog/39npc.msg:300 dialog/45npc.msg:200
 #: dialog/49npc.msg:200 dialog/51npc.msg:400 dialog/65npc.msg:201
 msgid "Do you have beer?"
-msgstr ""
+msgstr "As-tu de la bière ?"
 
 #: dialog/02npc.msg:350
 msgid "[He look into temple darkness and ignore your question]"
@@ -147,6 +151,9 @@ msgid ""
 "alone! I must made first little step into darkness.. but i fear to move my "
 "leg."
 msgstr ""
+"Oh oui... le temple contient de nombreux trésors du monde antique. "
+"Maintenant, laissez-moi tranquille ! Je dois faire le premier pas dans "
+"l'obscurité... mais j'ai peur de bouger ma jambe."
 
 #: dialog/03npc.msg:10
 msgid "Some beast. "
@@ -2153,7 +2160,7 @@ msgstr ""
 #: dialog/37npc.msg:622 dialog/37npc.msg:623 dialog/38npc.msg:620
 #: dialog/38npc.msg:621 dialog/38npc.msg:622 dialog/38npc.msg:623
 msgid " "
-msgstr ""
+msgstr " "
 
 #: dialog/34npc.msg:700 dialog/37npc.msg:700 dialog/38npc.msg:700
 #: dialog/talk.msg:400
