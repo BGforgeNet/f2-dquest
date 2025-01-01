@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2025-01-01 13:40+0000\n"
+"PO-Revision-Date: 2025-01-01 14:40+0000\n"
 "Last-Translator: None <pseudohalogen@proton.me>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/de/>\n"
@@ -2206,7 +2206,7 @@ msgstr ""
 #: dialog/37npc.msg:622 dialog/37npc.msg:623 dialog/38npc.msg:620
 #: dialog/38npc.msg:621 dialog/38npc.msg:622 dialog/38npc.msg:623
 msgid " "
-msgstr ""
+msgstr " "
 
 #: dialog/34npc.msg:700 dialog/37npc.msg:700 dialog/38npc.msg:700
 #: dialog/talk.msg:400
