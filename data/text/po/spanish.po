@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2021-11-05 12:40+0000\n"
-"Last-Translator: Marionn Gonzalez <marionn-15@outlook.com>\n"
-"Language-Team: Spanish (Mexico) <https://tra.bgforge.net/projects/fallout/dangerous-quest/es_MX/>\n"
-"Language: es_MX\n"
+"PO-Revision-Date: 2025-02-24 12:28+0000\n"
+"Last-Translator: Diego Antonio Tintos Vilchis <tonytintos134@gmail.com>\n"
+"Language-Team: Spanish (Mexico) <https://tra.bgforge.net/projects/fallout/"
+"dangerous-quest/es_MX/>\n"
+"Language: spanish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: dialog/01npc.msg:10
 msgid "Guard."
@@ -2208,7 +2209,7 @@ msgstr ""
 #: dialog/37npc.msg:622 dialog/37npc.msg:623 dialog/38npc.msg:620
 #: dialog/38npc.msg:621 dialog/38npc.msg:622 dialog/38npc.msg:623
 msgid " "
-msgstr ""
+msgstr " "
 
 #: dialog/34npc.msg:700 dialog/37npc.msg:700 dialog/38npc.msg:700
 #: dialog/talk.msg:400
