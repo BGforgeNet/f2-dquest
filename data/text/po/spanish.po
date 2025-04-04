@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2025-04-04 14:29+0000\n"
+"PO-Revision-Date: 2025-04-04 15:29+0000\n"
 "Last-Translator: Aguara Guasu (Aguara G) <lightfox.tekoreimante@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/es_MX/>\n"
@@ -4478,7 +4478,7 @@ msgstr ""
 
 #: dialog/quest.msg:250
 msgid "bring me"
-msgstr ""
+msgstr "traemelo"
 
 #: dialog/talk.msg:100
 msgid " intro "
