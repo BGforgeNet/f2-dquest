@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06-16:24+0000\n"
-"PO-Revision-Date: 2025-02-24 12:28+0000\n"
-"Last-Translator: Diego Antonio Tintos Vilchis <tonytintos134@gmail.com>\n"
+"PO-Revision-Date: 2025-04-04 14:29+0000\n"
+"Last-Translator: Aguara Guasu (Aguara G) <lightfox.tekoreimante@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://tra.bgforge.net/projects/fallout/"
 "dangerous-quest/es_MX/>\n"
 "Language: spanish\n"
@@ -501,11 +501,11 @@ msgstr ""
 
 #: dialog/09npc.msg:108
 msgid "Am unvisible! "
-msgstr ""
+msgstr "Soy invisible! "
 
 #: dialog/09npc.msg:109
 msgid "Am faster than bullet! Wow i move so fast! "
-msgstr ""
+msgstr "¡Soy más rapido que una bala! ¡Wow, me muevo muy rápido! "
 
 #: dialog/09npc.msg:110
 msgid "Where is my schlager?! Uh.. i got it in hand.. "
@@ -513,7 +513,7 @@ msgstr ""
 
 #: dialog/09npc.msg:111
 msgid "What is that on sky? ..its UFO!?  "
-msgstr ""
+msgstr "¿Qué es eso en el cielo? ..es un OVNI!?  "
 
 #: dialog/09npc.msg:112
 msgid "Arrgh! Snake rat eat my shoes!  "
@@ -565,7 +565,7 @@ msgstr ""
 
 #: dialog/09npc.msg:124
 msgid "Yeah i like that music!!!  "
-msgstr ""
+msgstr "¡¡¡Si, Me gusta esa música!!!  "
 
 #: dialog/09npc.msg:125
 msgid "What you want from me?! Fuck off damn rat! "
@@ -609,7 +609,7 @@ msgstr ""
 
 #: dialog/10npc.msg:104
 msgid "Uh the pain.. I need rest!"
-msgstr ""
+msgstr "Oh el dolor... ¡Necesito descansar!"
 
 #: dialog/11npc.msg:100
 msgid "Finally! After many years i finished this.. monument!"
